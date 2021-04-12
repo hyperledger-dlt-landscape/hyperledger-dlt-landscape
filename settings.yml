@@ -111,18 +111,18 @@ big_picture:
       - type: VerticalCategory
         category: Platforms Management/Operations
         cols: 4
-        width: 200
-        height: 1365
+        width: 175
+        height: 1360
         top: 0
         left: 0
         color: rgb(0,181,226)
       - type: HorizontalCategory
         category: Applications
-        cols: 10
+        rows: 4
         width: 900
         height: 180
         top: 0
-        left: 310
+        left: 200
         color: rgb(0,181,226)
       - type: HorizontalCategory
         category: Business Tooling/Integrations
@@ -130,61 +130,61 @@ big_picture:
         width: 900
         height: 180
         top: 200
-        left: 245
+        left: 200
         color: rgb(0,181,226)
-        fit_width: true
+        fit_width: false
       - type: HorizontalCategory
         category: Smart Contracts/Tokenization
         rows: 4
         width: 900
         height: 180
         top: 400
-        left: 245
+        left: 200
         color: rgb(0,181,226)
-        fit_width: true
+        fit_width: false
       - type: HorizontalCategory
         category: Interoperability
         rows: 4
         width: 900
         height: 180
         top: 600
-        left: 245
+        left: 200
         color: rgb(0,181,226)
-        fit_width: true
+        fit_width: false
       - type: HorizontalCategory
         category: Technology Intersections
         rows: 4
         width: 900
         height: 180
         top: 800
-        left: 245
+        left: 200
         color: rgb(0,134,191)
-        fit_width: true
+        fit_width: false
       - type: HorizontalCategory
         category: Distributed Ledgers
         rows: 4
         width: 900
         height: 180
         top: 1000
-        left: 245
+        left: 200
         color: rgb(0,181,226)
-        fit_width: true
+        fit_width: false
       - type: HorizontalCategory
         category: Infrastructure
         rows: 4
         width: 900
         height: 180
         top: 1200
-        left: 245
+        left: 200
         color: rgb(0,181,226)
-        fit_width: true
+        fit_width: false
       - type: VerticalCategory
         category: Consulting/Professional Services
         cols: 4
-        width: 200
-        height: 1365
+        width: 175
+        height: 1360
         top: 0
-        left: 1175
+        left: 1125
         color: rgb(0,181,226)
       - type: LandscapeInfo
         width: 430
