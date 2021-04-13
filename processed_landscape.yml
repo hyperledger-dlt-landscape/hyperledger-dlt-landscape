@@ -51,7 +51,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1699204562944
+              market_cap: 1712120922112
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services.svg
@@ -626,7 +626,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1514024861696
+              market_cap: 1524904624128
               effective_ticker: GOOG
             image_data:
               fileName: google.svg
@@ -1063,7 +1063,6 @@ landscape:
                   acquiree: Taos Mountain
               parents: []
               ticker: IBM
-              funding: 99999999
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -1073,7 +1072,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119982866432
+              market_cap: 117185912832
               effective_ticker: IBM
             image_data:
               fileName: ibm.svg
@@ -1646,6 +1645,9 @@ landscape:
                   acquiree: Smash.gg
                 - date: '2021-03-16'
                   acquiree: The Marsden Group
+                - date: '2021-04-12'
+                  acquiree: Nuance Communications
+                  price: 19700000000
               parents: []
               ticker: MSFT
               funding: 1000000
@@ -1658,7 +1660,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1937747214336
+              market_cap: 1949588258816
               effective_ticker: MSFT
             image_data:
               fileName: microsoft.svg
@@ -2009,7 +2011,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 218038861824
+              market_cap: 221052190720
               effective_ticker: ORCL
             image_data:
               fileName: oracle.svg
@@ -2157,7 +2159,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 65224269824
+              market_cap: 64708616192
               effective_ticker: VMW
             image_data:
               fileName: v-mware.svg
@@ -2733,7 +2735,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1699204562944
+              market_cap: 1712120922112
               effective_ticker: AMZN
             image_data:
               fileName: amazon-qldb.svg
@@ -4675,6 +4677,9 @@ landscape:
                   acquiree: Smash.gg
                 - date: '2021-03-16'
                   acquiree: The Marsden Group
+                - date: '2021-04-12'
+                  acquiree: Nuance Communications
+                  price: 19700000000
               parents: []
               ticker: MSFT
               funding: 1000000
@@ -4687,7 +4692,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1937747214336
+              market_cap: 1949588258816
               effective_ticker: MSFT
             image_data:
               fileName: azure-blockchain-workbench.svg
@@ -5015,7 +5020,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 210425479168
+              market_cap: 213533851648
               effective_ticker: CRM
             image_data:
               fileName: salesforce-blockchain.svg
@@ -5162,7 +5167,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 156409937920
+              market_cap: 158628675584
               effective_ticker: SAP
             image_data:
               fileName: sap-ich-for-life-sciences.svg
@@ -5739,7 +5744,6 @@ landscape:
                   acquiree: Taos Mountain
               parents: []
               ticker: IBM
-              funding: 99999999
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -5749,7 +5753,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119982866432
+              market_cap: 117185912832
               effective_ticker: IBM
             image_data:
               fileName: ibm-food-trust.svg
@@ -5946,7 +5950,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1699204562944
+              market_cap: 1712120922112
               effective_ticker: AMZN
             image_data:
               fileName: amazon-managed-blockchain.svg
@@ -6483,6 +6487,9 @@ landscape:
                   acquiree: Smash.gg
                 - date: '2021-03-16'
                   acquiree: The Marsden Group
+                - date: '2021-04-12'
+                  acquiree: Nuance Communications
+                  price: 19700000000
               parents: []
               ticker: MSFT
               funding: 1000000
@@ -6495,7 +6502,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1937747214336
+              market_cap: 1949588258816
               effective_ticker: MSFT
             image_data:
               fileName: azure-blockchain-service.svg
@@ -7139,7 +7146,6 @@ landscape:
                   acquiree: Taos Mountain
               parents: []
               ticker: IBM
-              funding: 99999999
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -7149,7 +7155,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119982866432
+              market_cap: 117185912832
               effective_ticker: IBM
             image_data:
               fileName: ibm-blockchain-platform.svg
@@ -7573,7 +7579,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 218038861824
+              market_cap: 221052190720
               effective_ticker: ORCL
             image_data:
               fileName: oracle-blockchain-platform.svg
@@ -7760,7 +7766,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 65224269824
+              market_cap: 64708616192
               effective_ticker: VMW
             image_data:
               fileName: v-mware-blockchain.svg
@@ -8207,7 +8213,7 @@ landscape:
                 - Outsourcing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 182668261350
+              market_cap: 181294623665
               effective_ticker: CSA.F
             image_data:
               fileName: accenture.svg
@@ -8310,7 +8316,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7827103232
+              market_cap: 7746077184
               effective_ticker: AEXAF
             image_data:
               fileName: atos.svg
@@ -8436,7 +8442,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 30430969886
+              market_cap: 30905275774
               effective_ticker: CAP.PA
             image_data:
               fileName: capgemini.svg
@@ -8684,7 +8690,7 @@ landscape:
                 - Information and Communications Technology (ICT)
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 30079596792
+              market_cap: 29880565148
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu.svg
@@ -8812,7 +8818,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 80012517376
+              market_cap: 77969850368
               effective_ticker: INFY
             image_data:
               fileName: infosys.svg
@@ -8966,7 +8972,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 22122138711
+              market_cap: 22660171578
               effective_ticker: 9613.T
             image_data:
               fileName: ntt-data.svg
