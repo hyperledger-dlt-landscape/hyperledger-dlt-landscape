@@ -1,7 +1,7 @@
 global:
   name: DLT Landscape
   short_name: DLTLandscape
-  repo: dltlanscape/dlt-landscape
+  repo: dltlandscape/dlt-landscape
   website: https://dltlandscape.org
   short_domain: https://dltlandscape.org
   company_url: https://dltlandscape.org
