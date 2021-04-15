@@ -1085,6 +1085,7 @@ landscape:
             homepage_url: https://twitter.com/kubernetesio
             logo: kubernetes.svg
             crunchbase: https://www.crunchbase.com/organization/kubernetes
+            repo_url: https://github.com/kubernetes/kubernetes
             project: company
             crunchbase_data:
               name: Kubernetes
@@ -1110,12 +1111,14 @@ landscape:
                 - Cloud Computing
                 - Cloud Data Services
               kind: funding
+            repos:
+              - url: https://github.com/kubernetes/kubernetes
             image_data:
               fileName: kubernetes.svg
               hash: CXKNM0YlCliHScHOTJpzmRKQXDZI87unmBFN8Ixzn0g=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 569
+              percentage: 100
           - item:
             name: Microsoft
             homepage_url: https://twitter.com/Microsoft
@@ -2178,6 +2181,7 @@ landscape:
             homepage_url: https://consensys.net/quorum/
             logo: consensys-quorum.svg
             crunchbase: https://www.crunchbase.com/organization/quorum-abb7
+            repo_url: https://github.com/ConsenSys/quorum
             project: project
             crunchbase_data:
               name: Quorum
@@ -2198,6 +2202,8 @@ landscape:
                 - Blockchain
                 - Internet
                 - Open Source
+            repos:
+              - url: https://github.com/ConsenSys/quorum
             image_data:
               fileName: consen-sys-quorum.svg
               hash: dJW7u/uDMZydJ6Iio8DDajf+6m7az8Q0T5tJQO0jefQ=
@@ -2206,9 +2212,10 @@ landscape:
               percentage: null
           - item:
             name: Hyperledger Fabric
-            homepage_url: https://twitter.com/Hyperledger
+            homepage_url: https://www.hyperledger.org/use/fabric
             logo: hyperledger-fabric.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/fabric
             project: project
             crunchbase_data:
               name: Hyperledger
@@ -2230,17 +2237,20 @@ landscape:
                 - Blockchain
                 - Linux
                 - Open Source
+            repos:
+              - url: https://github.com/hyperledger/fabric
             image_data:
               fileName: hyperledger-fabric.svg
               hash: fulesOwOt10BfeD4lVXmyHqhSzAKmtQu0lHpAGsvM2s=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 955
+              percentage: 100
           - item:
             name: Hyperledger Indy
-            homepage_url: https://twitter.com/Hyperledger
+            homepage_url: https://www.hyperledger.org/use/hyperledger-indy
             logo: hyperledger-indy.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/indy-sdk
             project: project
             crunchbase_data:
               name: Hyperledger
@@ -2262,6 +2272,8 @@ landscape:
                 - Blockchain
                 - Linux
                 - Open Source
+            repos:
+              - url: https://github.com/hyperledger/indy-sdk
             image_data:
               fileName: hyperledger-indy.svg
               hash: di//fBnBPn/uk5a1ulNqp6EQCiVFU5w+b9otAWbJCmU=
@@ -2270,9 +2282,10 @@ landscape:
               percentage: null
           - item:
             name: MultiChain
-            homepage_url: https://twitter.com/CoinSciences
+            homepage_url: https://www.multichain.com
             logo: no-logo.svg
             crunchbase: https://www.crunchbase.com/organization/multichain
+            repo_url: https://github.com/MultiChain/multichain
             project: project
             crunchbase_data:
               name: MultiChain
@@ -2293,6 +2306,8 @@ landscape:
                 - Bitcoin
                 - Blockchain
                 - Virtual Currency
+            repos:
+              - url: https://github.com/MultiChain/multichain
             image_data:
               fileName: multi-chain.svg
               hash: pkbx/oWvnVDvFKM+dkMlDmYWmiScLb+8c+cUYfOtu1M=
@@ -2301,9 +2316,10 @@ landscape:
               percentage: null
           - item:
             name: R3 Corda
-            homepage_url: https://twitter.com/inside_r3
+            homepage_url: https://www.r3.com
             logo: corda.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
+            repo_url: https://github.com/corda/corda
             project: project
             crunchbase_data:
               name: R3
@@ -2327,6 +2343,8 @@ landscape:
                 - Finance
                 - Financial Services
               kind: funding
+            repos:
+              - url: https://github.com/corda/corda
             image_data:
               fileName: r3-corda.svg
               hash: rABXoG/VIRwIIoxz2WYF/eYZzlCeNjok9T+vUrXGJ3I=
@@ -2370,8 +2388,39 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Bitcoin
+            homepage_url: https://bitcoin.org/en/
+            logo: bitcoin.svg
+            crunchbase: https://www.crunchbase.com/organization/bitcoin
+            project: project
+            crunchbase_data:
+              name: Bitcoin.org
+              description: Bitcoin.org is an informational site dedicated to help educate and facilitate the understanding of bitcoin and how to buy it.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://bitcoin.org/en/
+              city: San Jose
+              region: California
+              country: United States
+              twitter: https://twitter.com/bitcoindotorg
+              linkedin: https://www.linkedin.com/company/bitcoin-org/
+              acquisitions: []
+              parents: []
+              funding: 1000300
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Bitcoin
+              kind: funding
+            image_data:
+              fileName: bitcoin.svg
+              hash: TbyzQTFoGaABCSjLjo8IvXiRidB003hAg+TsxLWHi5M=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: EOSIO
-            homepage_url: https://twitter.com/block_one_
+            homepage_url: https://eos.io
             logo: eosio.svg
             crunchbase: https://www.crunchbase.com/organization/block-one
             project: company
@@ -2407,7 +2456,7 @@ landscape:
               percentage: null
           - item:
             name: Ethereum
-            homepage_url: https://twitter.com/ethereum
+            homepage_url: https://ethereum.org/en
             logo: ethereum.svg
             crunchbase: https://www.crunchbase.com/organization/ethereum
             project: company
@@ -2443,7 +2492,7 @@ landscape:
               percentage: null
           - item:
             name: Hedera Hashgraph
-            homepage_url: https://twitter.com/hedera
+            homepage_url: https://hedera.com
             logo: hedera-hashgraph.svg
             crunchbase: https://www.crunchbase.com/organization/hashgraph
             project: company
@@ -2476,7 +2525,7 @@ landscape:
               percentage: null
           - item:
             name: IOTA
-            homepage_url: https://twitter.com/iota
+            homepage_url: https://www.iota.org
             logo: no-logo.svg
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
             project: company
@@ -2510,7 +2559,7 @@ landscape:
               percentage: null
           - item:
             name: Stellar
-            homepage_url: https://twitter.com/StellarOrg
+            homepage_url: https://www.stellar.org/
             logo: stellar.svg
             crunchbase: https://www.crunchbase.com/organization/stellar
             project: company
@@ -2551,7 +2600,7 @@ landscape:
         items:
           - item:
             name: Hyperledger Besu
-            homepage_url: https://twitter.com/Hyperledger
+            homepage_url: https://www.hyperledger.org/use/besu
             logo: hyperledger-besu-color.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             repo_url: https://github.com/hyperledger/besu
@@ -2621,7 +2670,7 @@ landscape:
               percentage: 100
           - item:
             name: Hyperledger Sawtooth
-            homepage_url: https://twitter.com/Hyperledger
+            homepage_url: https://www.hyperledger.org/use/sawtooth
             logo: hyperledger-sawtooth.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             project: project
@@ -2653,7 +2702,7 @@ landscape:
               percentage: null
           - item:
             name: Kadena
-            homepage_url: https://twitter.com/kadena_io
+            homepage_url: https://www.kadena.io
             logo: kadena.svg
             crunchbase: https://www.crunchbase.com/organization/kadena-llc
             project: company
@@ -3728,39 +3777,32 @@ landscape:
           - item:
             name: Accord Project
             homepage_url: https://accordproject.org/
-            logo: chronicled.svg
-            crunchbase: https://www.crunchbase.com/organization/chronicled
-            project: company
+            logo: no-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/accord-project
+            project: project
             crunchbase_data:
-              name: Chronicled
-              description: Chronicled builds trust and automation in the life science industry, powered by blockchain
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://chronicled.com
-              city: San Francisco
-              region: California
+              name: Accord Project
+              description: Accord Project is an open source smart legal contract stack.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.accordproject.org/
+              city: New York
+              region: New York
               country: United States
-              twitter: https://twitter.com/chronicledinc
-              linkedin: https://ph.linkedin.com/company/chronicled
+              twitter: https://twitter.com/AccordHQ
+              linkedin: https://www.linkedin.com/company/accordproject/
               acquisitions: []
               parents: []
-              funding: 28000000
               stockExchange: null
               company_type: For Profit
               industries:
-                - Biotechnology
-                - Blockchain
-                - Enterprise Software
-                - Health Care
-                - Internet
-                - Life Science
-                - Pharmaceutical
+                - Document Management
+                - Legal
+                - Legal Tech
                 - Software
-                - Supply Chain Management
-              kind: funding
             image_data:
               fileName: accord-project.svg
-              hash: fV2sSbLjNotXfBrDcKBXeKAX+iXVMQu823traaZD3CI=
+              hash: pkbx/oWvnVDvFKM+dkMlDmYWmiScLb+8c+cUYfOtu1M=
             best_practice_data:
               badge: false
               percentage: null
@@ -4764,12 +4806,51 @@ landscape:
               badge: false
               percentage: null
       - subcategory:
+        name: Analytics/Monitoring
+        items:
+          - item:
+            name: Quant Network/seeQ
+            homepage_url: https://www.quant.network
+            logo: no-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/quant-network
+            project: company
+            crunchbase_data:
+              name: Quant Network
+              description: To interconnect the world’s networks to blockchain and make this technology accessible to all.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.quant.network
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://www.twitter.com/quant_network
+              linkedin: https://www.linkedin.com/company/quantnetwork/
+              acquisitions: []
+              parents: []
+              funding: 11000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Enterprise Software
+                - FinTech
+                - Information Technology
+                - Internet
+                - Operating Systems
+              kind: funding
+            image_data:
+              fileName: quant-network-see-q.svg
+              hash: pkbx/oWvnVDvFKM+dkMlDmYWmiScLb+8c+cUYfOtu1M=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
         name: Business application integrations
         items:
           - item:
             name: Finboot Track & Trace/Blockstamp
             homepage_url: https://www.finboot.com/
-            logo: ping-identity.svg
+            logo: no-logo.svg
             crunchbase: https://www.crunchbase.com/organization/finboot
             project: company
             crunchbase_data:
@@ -4800,7 +4881,7 @@ landscape:
               kind: funding
             image_data:
               fileName: finboot-track-trace-blockstamp.svg
-              hash: ntPhLVLUdF87vsxbKrSSKj0Cdvwb0RIbOF2nJFYmny0=
+              hash: pkbx/oWvnVDvFKM+dkMlDmYWmiScLb+8c+cUYfOtu1M=
             best_practice_data:
               badge: false
               percentage: null

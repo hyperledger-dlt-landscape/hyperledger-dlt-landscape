@@ -124,7 +124,7 @@ big_picture:
         height: 1360
         top: 0
         left: 0
-        color: rgb(0,181,226)
+        color: rgb(153,153,0)
       - type: HorizontalCategory
         category: Applications
         rows: 4
@@ -140,7 +140,7 @@ big_picture:
         height: 180
         top: 200
         left: 200
-        color: rgb(0,181,226)
+        color: rgb(0,128,255)
         fit_width: false
       - type: HorizontalCategory
         category: Smart Contracts/Tokenization
@@ -149,7 +149,7 @@ big_picture:
         height: 180
         top: 400
         left: 200
-        color: rgb(0,181,226)
+        color: rgb(0,128,255)
         fit_width: false
       - type: HorizontalCategory
         category: Interoperability
@@ -158,7 +158,7 @@ big_picture:
         height: 180
         top: 600
         left: 200
-        color: rgb(0,181,226)
+        color: rgb(0,128,255)
         fit_width: false
       - type: HorizontalCategory
         category: Technology Intersections
@@ -167,7 +167,7 @@ big_picture:
         height: 180
         top: 800
         left: 200
-        color: rgb(0,134,191)
+        color: rgb(0,128,255)
         fit_width: false
       - type: HorizontalCategory
         category: Distributed Ledgers
@@ -176,7 +176,7 @@ big_picture:
         height: 180
         top: 1000
         left: 200
-        color: rgb(0,181,226)
+        color: rgb(0,128,255)
         fit_width: false
       - type: HorizontalCategory
         category: Infrastructure
@@ -185,7 +185,7 @@ big_picture:
         height: 180
         top: 1200
         left: 200
-        color: rgb(0,181,226)
+        color: rgb(160,160,160)
         fit_width: false
       - type: VerticalCategory
         category: Consulting/Professional Services
@@ -194,10 +194,10 @@ big_picture:
         height: 1360
         top: 0
         left: 1125
-        color: rgb(0,181,226)
+        color: rgb(204,0,102)
       - type: LandscapeInfo
         width: 430
-        height: 300
+        height: 280
         top: 1400
         left: 0
         children:
@@ -207,7 +207,7 @@ big_picture:
               business stack with a technology foundation. BTP has created the DLT Landscape 
               for the whole blockchain/DLT community to benefit from and contribute to. The 
               DLT Landscape is open source, curated and hosted by BTP, but independent of the company. 
-            top: 65
+            top: 80
             left: 130
             right: 20
             font_size: 11
@@ -220,21 +220,15 @@ big_picture:
             title: QR Code
           - type: title
             title: dltlandscape.org
-            top: 185
+            top: 195
             left: 24
             font_size: 16
           - type: image
             image: left-logo.svg
             width: 120
-            left: 100
+            left: 20
             top: 20
             title: Landscape Logo
-          - type: image
-            image: right-logo.svg
-            width: 100
-            right: 20
-            top: 20
-            title: DLT Landscape Logo
 test:
   header: DLT Landscape
   section: Project

@@ -28,6 +28,7 @@ landscape:
             homepage_url: https://twitter.com/kubernetesio
             logo: kubernetes.svg
             crunchbase: https://www.crunchbase.com/organization/kubernetes
+            repo_url: https://github.com/kubernetes/kubernetes
             project: company
           - item:
             name: Microsoft
@@ -58,30 +59,35 @@ landscape:
             homepage_url: https://consensys.net/quorum/
             logo: consensys-quorum.svg
             crunchbase: https://www.crunchbase.com/organization/quorum-abb7
+            repo_url: https://github.com/ConsenSys/quorum
             project: project
           - item:
             name: Hyperledger Fabric
-            homepage_url: https://twitter.com/Hyperledger
+            homepage_url: https://www.hyperledger.org/use/fabric
             logo: hyperledger-fabric.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/fabric
             project: project
           - item:
             name: Hyperledger Indy
-            homepage_url: https://twitter.com/Hyperledger
+            homepage_url: https://www.hyperledger.org/use/hyperledger-indy
             logo: hyperledger-indy.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/indy-sdk
             project: project
           - item:
             name: MultiChain
-            homepage_url: https://twitter.com/CoinSciences
+            homepage_url: https://www.multichain.com
             logo: no-logo.svg
             crunchbase: https://www.crunchbase.com/organization/multichain
+            repo_url: https://github.com/MultiChain/multichain
             project: project
           - item:
             name: R3 Corda
-            homepage_url: https://twitter.com/inside_r3
+            homepage_url: https://www.r3.com
             logo: corda.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
+            repo_url: https://github.com/corda/corda
             project: project
       - subcategory:
         name: Permissionless
@@ -93,32 +99,38 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/algorand
             project: company
           - item:
+            name: Bitcoin
+            homepage_url: https://bitcoin.org/en/
+            logo: bitcoin.svg
+            crunchbase: https://www.crunchbase.com/organization/bitcoin
+            project: project
+          - item:
             name: EOSIO
-            homepage_url: https://twitter.com/block_one_
+            homepage_url: https://eos.io
             logo: eosio.svg
             crunchbase: https://www.crunchbase.com/organization/block-one
             project: company
           - item:
             name: Ethereum
-            homepage_url: https://twitter.com/ethereum
+            homepage_url: https://ethereum.org/en
             logo: ethereum.svg
             crunchbase: https://www.crunchbase.com/organization/ethereum
             project: company
           - item:
             name: Hedera Hashgraph
-            homepage_url: https://twitter.com/hedera
+            homepage_url: https://hedera.com
             logo: hedera-hashgraph.svg
             crunchbase: https://www.crunchbase.com/organization/hashgraph
             project: company
           - item:
             name: IOTA
-            homepage_url: https://twitter.com/iota
+            homepage_url: https://www.iota.org
             logo: no-logo.svg
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
             project: company
           - item:
             name: Stellar
-            homepage_url: https://twitter.com/StellarOrg
+            homepage_url: https://www.stellar.org/
             logo: stellar.svg
             crunchbase: https://www.crunchbase.com/organization/stellar
             project: company
@@ -127,20 +139,20 @@ landscape:
         items:
           - item:
             name: Hyperledger Besu
-            homepage_url: https://twitter.com/Hyperledger
+            homepage_url: https://www.hyperledger.org/use/besu
             logo: hyperledger-besu-color.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             repo_url: https://github.com/hyperledger/besu
             project: company
           - item:
             name: Hyperledger Sawtooth
-            homepage_url: https://twitter.com/Hyperledger
+            homepage_url: https://www.hyperledger.org/use/sawtooth
             logo: hyperledger-sawtooth.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             project: project
           - item:
             name: Kadena
-            homepage_url: https://twitter.com/kadena_io
+            homepage_url: https://www.kadena.io
             logo: kadena.svg
             crunchbase: https://www.crunchbase.com/organization/kadena-llc
             project: company
@@ -360,9 +372,9 @@ landscape:
           - item:
             name: Accord Project
             homepage_url: https://accordproject.org/
-            logo: chronicled.svg
-            crunchbase: https://www.crunchbase.com/organization/chronicled
-            project: company
+            logo: no-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/accord-project
+            project: project
           - item:
             name: Chronicled
             homepage_url: https://twitter.com/Chronicledcorp
@@ -460,12 +472,21 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/web3-labs
             project: company
       - subcategory:
+        name: Analytics/Monitoring
+        items:
+          - item:
+            name: Quant Network/seeQ
+            homepage_url: https://www.quant.network
+            logo: no-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/quant-network
+            project: company
+      - subcategory:
         name: Business application integrations
         items:
           - item:
             name: Finboot Track & Trace/Blockstamp
             homepage_url: https://www.finboot.com/
-            logo: ping-identity.svg
+            logo: no-logo.svg
             crunchbase: https://www.crunchbase.com/organization/finboot
             project: company
           - item:
