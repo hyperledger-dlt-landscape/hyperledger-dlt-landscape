@@ -29,7 +29,7 @@ landscape:
             logo: kubernetes.svg
             crunchbase: https://www.crunchbase.com/organization/kubernetes
             repo_url: https://github.com/kubernetes/kubernetes
-            project: company
+            project: project
           - item:
             name: Microsoft
             homepage_url: https://twitter.com/Microsoft
