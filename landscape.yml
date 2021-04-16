@@ -608,6 +608,7 @@ landscape:
             project: company
   - category:
     name: Platforms
+    subcategories:
       - subcategory:
         name: Management/Operations
         items:
