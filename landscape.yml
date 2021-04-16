@@ -568,10 +568,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/we-trade
             project: company
   - category:
-    name: Platforms Management/Operations
-    subcategories:
+    name: Platforms
       - subcategory:
-        name: Platforms Management/Operations
+        name: Management/Operations
         items:
           - item:
             name: Amazon Managed Blockchain
@@ -658,7 +657,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/vmware
             project: company
   - category:
-    name: Consulting/Professional Services
+    name: Services
     subcategories:
       - subcategory:
         name: Consulting/Professional Services
