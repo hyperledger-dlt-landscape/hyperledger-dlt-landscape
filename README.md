@@ -1,8 +1,8 @@
 # DLT Landscape
 
-[![Netlify Status](https://api.netlify.com/)](https://app.netlify.com/sites/dlt-landscape/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78ae7ad4-157c-421d-97ea-f3fca9136a05/deploy-status)](https://app.netlify.com/sites/dltlandscape/deploys)
 
-![DLT Landscape Logo]()
+![DLT Landscape Logo](https://github.com/dltlandscape/dlt-landscape/raw/main/images/left-logo.svg?sanitize=true)
 
 - [DLT Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
@@ -24,7 +24,7 @@ Welcome to a living segmentation of the evolving DLT market! DLT Landscape is a 
 
 ## Current Version
 
-[![DLT Landscape]()]()
+[![DLT Landscape](https://dltlandscape.org/images/landscape.png)](https://dltlandscape.org/images/landscape.png)
 
 ## Interactive Version
 
