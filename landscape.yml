@@ -768,6 +768,12 @@ landscape:
             logo: ntt-data-2.svg
             crunchbase: https://www.crunchbase.com/organization/ntt-data
             project: company
+           - item:
+            name: Rethink Ledgers
+            homepage_url: https://www.rtledgers.com
+            logo: rethinkledgers.svg
+            crunchbase: https://www.crunchbase.com/organization/rethinkledgers
+            project: company
           - item:
             name: Web3 Labs
             homepage_url: https://twitter.com/web3labs
