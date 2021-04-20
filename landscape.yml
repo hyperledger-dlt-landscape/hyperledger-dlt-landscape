@@ -385,7 +385,7 @@ landscape:
           - item:
             name: Smart Filter
             homepage_url: https://twitter.com/CoinSciences
-            logo: dlt-logo.svg
+            logo: multichain-logo-vector-2.svg
             crunchbase: https://www.crunchbase.com/organization/multichain
             repo_url: https://github.com/MultiChain/smart-filter-examples
             project: company
