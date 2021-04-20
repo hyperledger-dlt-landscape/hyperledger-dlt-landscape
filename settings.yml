@@ -5,15 +5,15 @@ global:
   website: https://dltlandscape.org
   short_domain: https://dltlandscape.org
   company_url: https://dltlandscape.org
-  email: info@dltlandscape.org
+  email: dltlandscape@blockchaintp.com
   # self: https://www.crunchbase.com/organization/
   # slack_channel:
   membership: Members
   meta:
-    title: https://dltlandscape.org
-    description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
+    title: DLT Landscape
+    description: A living market landscape with a technology foundation, created by and for the DLT community
     # fb_admin: username
-    twitter: 'dltlandscape'
+    twitter: '@dltlandscape'
     # google_site_verification: 
     # ms_validate: 
   flags:
