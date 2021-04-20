@@ -8,6 +8,7 @@
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
+  * [Commit Sign-off](#commit-sign-off)
   * [Logos](#logos)
   * [Proper SVGs](#proper-svgs)
   * [Corrections](#corrections)
@@ -38,6 +39,23 @@ Please see [dltlandscape.org](https://dltlandscape.org).
 If you think your project should be included, please open a pull request to add it to [landscape.yml](landscape.yml). For the logo, you can either upload an SVG to the `hosted_logos` directory or put a URL as the value, and it will be fetched.
 
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
+
+## Commit Sign-off
+All commits should be signed off confirming the [Developer Certificate of Origin](https://developercertificate.org)
+
+You can do this by adding a line to your commit message: 
+```
+This is my commit message
+
+Signed-off-by: Random Developer <random@developer.example.org>
+```
+Or via cli:
+
+```
+$ git commit -s -m 'This is my commit message'
+```
+
+We use the [Github DCO app](https://github.com/apps/dco) to check all commits in a pull request are signed off.
 
 ## Logos
 
