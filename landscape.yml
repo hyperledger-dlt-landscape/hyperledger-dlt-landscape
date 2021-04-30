@@ -191,8 +191,8 @@ landscape:
             project: project
           - item:
             name: Fluree
-            homepage_url: https://twitter.com/FlureePBC
-            logo: dlt-logo.svg
+            homepage_url: https://flur.ee
+            logo: fluree.svg
             crunchbase: https://www.crunchbase.com/organization/fluree-pbc
             repo_url: https://github.com/fluree/db
             project: company
