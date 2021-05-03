@@ -655,8 +655,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/finboot
             project: company
           - item:
-            name: First Genesis Xenesis
-            homepage_url: https://www.example.com
+            name: First Genesis Xenese
+            homepage_url: https://www.firstgenesis.com/
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/first-genesis
             project: company
