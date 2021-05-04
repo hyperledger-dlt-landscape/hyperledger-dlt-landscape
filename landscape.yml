@@ -739,12 +739,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/deloitte
             project: company
           - item:
-            name: EY
-            homepage_url: https://www.ey.com/en_in
-            logo: dlt-logo.svg
-            crunchbase: https://www.crunchbase.com/organization/ey-057c
-            project: company
-          - item:
             name: Fujitsu
             homepage_url: https://www.fujitsu.com/global
             logo: fujitsu.svg
