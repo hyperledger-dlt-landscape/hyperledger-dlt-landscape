@@ -367,7 +367,7 @@ landscape:
             logo: daml.svg
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
             repo_url: https://github.com/digital-asset/daml
-            project: company
+            project: project
           - item:
             name: Pact
             homepage_url: https://www.kadena.io
