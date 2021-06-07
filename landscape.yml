@@ -76,6 +76,13 @@ landscape:
             repo_url: https://github.com/hyperledger/indy-sdk
             project: project
           - item:
+            name: Hyperledger Iroha
+            homepage_url: https://www.hyperledger.org/use/iroha
+            logo: hyperledger-iroha.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/iroha
+            project: project
+          - item:
             name: MultiChain
             homepage_url: https://www.multichain.com
             logo: multichain-logo-vector-2.svg
@@ -156,6 +163,13 @@ landscape:
             logo: hyperledger-besu-color.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             repo_url: https://github.com/hyperledger/besu
+            project: project
+          - item:
+            name: Hyperledger Burrow
+            homepage_url: https://www.hyperledger.org/use/burrow
+            logo: hyperledger-burrow.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/burrow
             project: project
           - item:
             name: Hyperledger Sawtooth
@@ -276,6 +290,20 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             repo_url: https://github.com/hyperledger/aries
             project: project
+          - item:
+            name: Hyperledger Avalon
+            homepage_url: https://www.hyperledger.org/use/avalon
+            logo: hyperledger-avalon.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/avalon
+            project: project
+          - item:
+            name: Hyperledger Ursa
+            homepage_url: https://www.hyperledger.org/use/ursa
+            logo: hyperledger-ursa.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/ursa
+            project: project
   - category:
     name: Interoperability
     subcategories:
@@ -304,8 +332,14 @@ landscape:
             repo_url: https://github.com/paritytech/polkadot
             project: project
       - subcategory:
-        name: Point-to-point approaches
+        name: Point-to-point and overlayer approaches
         items:
+          - item:
+            name: Canton
+            homepage_url: https://www.canton.io/
+            logo: digital-asset.svg
+            crunchbase: https://www.crunchbase.com/organization/digital-asset-2
+            project: company
           - item:
             name: Chainlink
             homepage_url: https://chain.link/
@@ -327,15 +361,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             repo_url: https://github.com/hyperledger/quilt
             project: project
-      - subcategory:
-        name: Overlayer/general-purpose approaches
-        items:
-          - item:
-            name: Canton
-            homepage_url: https://www.canton.io/
-            logo: digital-asset.svg
-            crunchbase: https://www.crunchbase.com/organization/digital-asset-2
-            project: company
           - item:
             name: Quant Network/Overledger
             homepage_url: https://www.quant.network
@@ -519,6 +544,13 @@ landscape:
       - subcategory:
         name: Analytics/Monitoring
         items:
+          - item:
+            name: Hyperledger Caliper
+            homepage_url: https://www.hyperledger.org/use/caliper
+            logo: hyperledger-caliper.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/caliper
+            project: project
           - item:
             name: Quant Network/seeQ
             homepage_url: https://www.quant.network
