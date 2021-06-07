@@ -520,7 +520,7 @@ landscape:
     name: Business Tooling/Integrations
     subcategories:
       - subcategory:
-        name: App development tools
+        name: Application development tools
         items:
           - item:
             name: Azure Blockchain Workbench
@@ -528,6 +528,20 @@ landscape:
             logo: microsoft.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
             project: company
+          - item:
+            name: Hyperledger Cello
+            homepage_url: https://www.hyperledger.org/use/cello
+            logo: hyperledger-cello.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/cello
+            project: project
+          - item:
+            name: Hyperledger Grid
+            homepage_url: https://www.hyperledger.org/use/grid
+            logo: hyperledger-grid.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/grid
+            project: project
           - item:
             name: Truffle Suite
             homepage_url: https://www.trufflesuite.com
@@ -542,7 +556,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/web3-labs
             project: company
       - subcategory:
-        name: Analytics/Monitoring
+        name: Analytics/Monitoring tools
         items:
           - item:
             name: Hyperledger Caliper
@@ -550,6 +564,13 @@ landscape:
             logo: hyperledger-caliper.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             repo_url: https://github.com/hyperledger/caliper
+            project: project
+          - item:
+            name: Hyperledger Explorer
+            homepage_url: https://www.hyperledger.org/use/explorer
+            logo: hyperledger-explorer.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/blockchain-explorer
             project: project
           - item:
             name: Quant Network/seeQ
