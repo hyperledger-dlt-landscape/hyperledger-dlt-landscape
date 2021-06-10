@@ -624,6 +624,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/agriledger
             project: company
           - item:
+            name: BondEvalue
+            homepage_url: https://www.bondevalue.com
+            logo: bondevalue.svg
+            crunchbase: https://www.crunchbase.com/organization/bondevalue
+            project: company
+          - item:
             name: Databroker
             homepage_url: https://www.databroker.global
             logo: dlt-logo.svg
