@@ -624,9 +624,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/agriledger
             project: company
           - item:
-            name: BondEvalue
-            homepage_url: https://www.bondevalue.com
-            logo: bondevalue.svg
+            name: BondbloX
+            homepage_url: https://www.bondblox.com/
+            logo: bondblox.svg
             crunchbase: https://www.crunchbase.com/organization/bondevalue
             project: company
           - item:
