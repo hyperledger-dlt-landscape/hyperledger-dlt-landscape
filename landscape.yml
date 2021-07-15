@@ -656,7 +656,7 @@ landscape:
           - item:
             name: Public Mint
             homepage_url: https://publicmint.com/
-            logo: publicmint.svg
+            logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/public-mint
             project: company
           - item:
@@ -764,7 +764,7 @@ landscape:
           - item:
             name: SIMBA Chain
             homepage_url: https://simbachain.com/
-            logo: simbachain.svg
+            logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/simba-chain
             project: company
           - item:
