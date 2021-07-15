@@ -654,6 +654,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/mediledger
             project: network
           - item:
+            name: Public Mint
+            homepage_url: https://publicmint.com/
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/public-mint
+            project: company
+          - item:
             name: TradeLens
             homepage_url: https://www.tradelens.com
             logo: tradelens.svg
@@ -754,6 +760,12 @@ landscape:
             homepage_url: https://www.settlemint.com
             logo: settlemint.svg
             crunchbase: https://www.crunchbase.com/organization/settlemint-nv
+            project: company
+          - item:
+            name: SIMBA Chain
+            homepage_url: https://simbachain.com/
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/simba-chain
             project: company
           - item:
             name: VMware Blockchain
