@@ -93,9 +93,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: https://events.linuxfoundation.org/hyperledger-global-forum/
-    image: /images/HGF2021.jpeg
-    title: Hyperledger Global Forum 2021
+  - url: https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+    image: /images/KubeCon_NA_2021_Graphics_CNCF.jpeg
+    title: KubeCon | CloudNativeCon - North America 2021
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
