@@ -14,7 +14,7 @@ landscape:
           - item:
             name: Equinix
             homepage_url: https://www.equinix.com/
-            logo: equinix-logo.svg
+            logo: equinix-logo-vertical.svg
             crunchbase: https://www.crunchbase.com/organization/equinix
             project: company
           - item:
