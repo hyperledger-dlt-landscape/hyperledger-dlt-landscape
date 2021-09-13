@@ -229,8 +229,21 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/provendb
             project: company
       - subcategory:
-        name: Distributed file systems
+        name: Distributed storage/file systems
         items:
+          - item:
+            name: Filebase
+            homepage_url: https://filebase.com/
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/filebase
+            project: company
+          - item:
+            name: Iagon
+            homepage_url: https://www.iagon.com/index.html
+            logo: iagon-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/iagon
+            repo_url: https://github.com/Iagonorg/IagonCloudApp
+            project: project
           - item:
             name: IPFS
             homepage_url: https://ipfs.io/
@@ -238,6 +251,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ipfs
             repo_url: https://github.com/ipfs/ipfs
             project: project
+          - item:
+            name: Storj
+            homepage_url: https://www.storj.io/
+            logo: storj-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/storj
+            repo_url: https://github.com/storj/storj
+            project: project            
           - item:
             name: Taekion
             homepage_url: https://taekion.com
