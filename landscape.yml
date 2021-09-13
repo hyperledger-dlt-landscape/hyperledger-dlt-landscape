@@ -103,57 +103,6 @@ landscape:
             repo_url: https://github.com/corda/corda
             project: project
       - subcategory:
-        name: Permissionless
-        items:
-          - item:
-            name: Algorand
-            homepage_url: https://www.algorand.com/
-            logo: algorand.svg
-            crunchbase: https://www.crunchbase.com/organization/algorand
-            repo_url: https://github.com/algorand/go-algorand
-            project: project
-          - item:
-            name: Bitcoin
-            homepage_url: https://bitcoin.org/en/
-            logo: bitcoin.svg
-            crunchbase: https://www.crunchbase.com/organization/bitcoin
-            repo_url: https://github.com/bitcoin/bitcoin
-            project: project
-          - item:
-            name: EOSIO
-            homepage_url: https://eos.io
-            logo: eosio.svg
-            crunchbase: https://www.crunchbase.com/organization/block-one
-            repo_url: https://github.com/EOSIO/eos
-            project: project
-          - item:
-            name: Ethereum
-            homepage_url: https://ethereum.org/en
-            logo: ethereum.svg
-            crunchbase: https://www.crunchbase.com/organization/ethereum
-            repo_url: https://github.com/ethereum/go-ethereum
-            project: project
-          - item:
-            name: Hedera Hashgraph
-            homepage_url: https://hedera.com
-            logo: hedera-hashgraph.svg
-            crunchbase: https://www.crunchbase.com/organization/hashgraph
-            project: company
-          - item:
-            name: IOTA
-            homepage_url: https://www.iota.org
-            logo: Iota.svg
-            crunchbase: https://www.crunchbase.com/organization/iota-foundation
-            repo_url: https://github.com/iotaledger/protocol-rfcs
-            project: project
-          - item:
-            name: Stellar
-            homepage_url: https://www.stellar.org/
-            logo: stellar.svg
-            crunchbase: https://www.crunchbase.com/organization/stellar
-            repo_url: https://github.com/stellar/stellar-protocol
-            project: project
-      - subcategory:
         name: Hybrid
         items:
           - item:
@@ -190,6 +139,64 @@ landscape:
             logo: kadena.svg
             crunchbase: https://www.crunchbase.com/organization/kadena-llc
             project: company
+      - subcategory:
+        name: Permissionless
+        items:
+          - item:
+            name: Algorand
+            homepage_url: https://www.algorand.com/
+            logo: algorand.svg
+            crunchbase: https://www.crunchbase.com/organization/algorand
+            repo_url: https://github.com/algorand/go-algorand
+            project: project
+          - item:
+            name: Bitcoin
+            homepage_url: https://bitcoin.org/en/
+            logo: bitcoin.svg
+            crunchbase: https://www.crunchbase.com/organization/bitcoin
+            repo_url: https://github.com/bitcoin/bitcoin
+            project: project
+          - item:
+            name: Cardano
+            homepage_url: https://cardano.org/
+            logo: cardano-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/cardano-foundation
+            repo_url: https://github.com/cardano-foundation/developer-portal
+            project: project
+          - item:
+            name: EOSIO
+            homepage_url: https://eos.io
+            logo: eosio.svg
+            crunchbase: https://www.crunchbase.com/organization/block-one
+            repo_url: https://github.com/EOSIO/eos
+            project: project
+          - item:
+            name: Ethereum
+            homepage_url: https://ethereum.org/en
+            logo: ethereum.svg
+            crunchbase: https://www.crunchbase.com/organization/ethereum
+            repo_url: https://github.com/ethereum/go-ethereum
+            project: project
+          - item:
+            name: Hedera Hashgraph
+            homepage_url: https://hedera.com
+            logo: hedera-hashgraph.svg
+            crunchbase: https://www.crunchbase.com/organization/hashgraph
+            project: company
+          - item:
+            name: IOTA
+            homepage_url: https://www.iota.org
+            logo: Iota.svg
+            crunchbase: https://www.crunchbase.com/organization/iota-foundation
+            repo_url: https://github.com/iotaledger/protocol-rfcs
+            project: project
+          - item:
+            name: Stellar
+            homepage_url: https://www.stellar.org/
+            logo: stellar.svg
+            crunchbase: https://www.crunchbase.com/organization/stellar
+            repo_url: https://github.com/stellar/stellar-protocol
+            project: project
   - category:
     name: Technology Intersections
     subcategories:
