@@ -241,8 +241,8 @@ landscape:
           - item:
             name: Filebase
             homepage_url: https://filebase.com/
-            logo: dlt-logo.svg
-            crunchbase: https://www.crunchbase.com/organization/filebase
+            logo: filebase-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/filebase-484f
             project: company
           - item:
             name: Iagon
