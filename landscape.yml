@@ -259,6 +259,12 @@ landscape:
             repo_url: https://github.com/ipfs/ipfs
             project: project
           - item:
+            name: Sia
+            homepage_url: https://sia.tech/
+            logo: sia-storage-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/sia-c6f4
+            project: company
+          - item:
             name: Storj
             homepage_url: https://www.storj.io/
             logo: storj-logo.svg
@@ -498,7 +504,7 @@ landscape:
             repo_url: https://github.com/openlawteam/openlaw-core
             project: project
       - subcategory:
-        name: Digital token frameworks/standards
+        name: Digital token frameworks
         items:
           - item:
             name: BSI PAS 19668
@@ -553,7 +559,7 @@ landscape:
     name: Business Tooling/Integrations
     subcategories:
       - subcategory:
-        name: Application development tools
+        name: Application development
         items:
           - item:
             name: Azure Blockchain Workbench
@@ -589,7 +595,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/web3-labs
             project: company
       - subcategory:
-        name: Analytics/Monitoring tools
+        name: Analytics/Monitoring
         items:
           - item:
             name: Hyperledger Caliper
@@ -645,7 +651,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/vottun
             project: company
   - category:
-    name: Applications
+    name: Multiparty Applications
     subcategories:
       - subcategory:
         name: Industry-specific applications and decentralized marketplaces
