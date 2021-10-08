@@ -807,6 +807,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/vmware
             project: company
   - category:
+    name: Standards
+    subcategories:
+      - subcategory:
+        name: Standards
+        items:
+          - item:
+            name: DAML
+            homepage_url: https://daml.com/
+            logo: digital-asset.svg
+            crunchbase: https://www.crunchbase.com/organization/digital-asset-2
+            project: company
+  - category:
     name: Services
     subcategories:
       - subcategory:

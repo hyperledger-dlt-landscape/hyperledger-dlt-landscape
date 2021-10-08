@@ -188,12 +188,20 @@ big_picture:
         color: rgb(160,160,160)
         fit_width: false
       - type: VerticalCategory
-        category: Services
+        category: Standards
         cols: 4
         width: 175
         height: 1360
         top: 0
         left: 1125
+        color: rgb(218,165,32)
+      - type: VerticalCategory
+        category: Services
+        cols: 4
+        width: 175
+        height: 1360
+        top: 0
+        left: 1320
         color: rgb(204,0,102)
       - type: LandscapeInfo
         width: 430
