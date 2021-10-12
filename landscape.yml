@@ -498,14 +498,8 @@ landscape:
             repo_url: https://github.com/openlawteam/openlaw-core
             project: project
       - subcategory:
-        name: Digital token frameworks/standards
+        name: Digital token frameworks
         items:
-          - item:
-            name: BSI PAS 19668
-            homepage_url: https://www.bsigroup.com/
-            logo: dlt-logo.svg
-            crunchbase: https://www.crunchbase.com/organization/bsi
-            project: organization
           - item:
             name: ERC
             homepage_url: https://ethereum.org/en
@@ -513,12 +507,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ethereum
             repo_url: https://github.com/ethereum/EIPs
             project: project
-          - item:
-            name: TTF
-            homepage_url: https://interwork.org
-            logo: iwa.svg
-            crunchbase: https://www.crunchbase.com/organization/interwork-alliance-e317
-            project: organization
       - subcategory:
         name: Digital wallets
         items:
@@ -553,7 +541,7 @@ landscape:
     name: Business Tooling/Integrations
     subcategories:
       - subcategory:
-        name: Application development tools
+        name: Application development tools/platforms
         items:
           - item:
             name: Azure Blockchain Workbench
@@ -806,6 +794,42 @@ landscape:
             logo: vmware.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
             project: company
+  - category:
+    name: Standards
+    subcategories:
+      - subcategory:
+        name: Standards
+        items:
+          - item:
+            name: BSI PAS 19668
+            homepage_url: https://www.bsigroup.com/
+            logo: bsi-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/bsi
+            project: organization
+          - item:
+            name: EEA
+            homepage_url: https://entethalliance.org/
+            logo: eea-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/enterprise-ethereum-alliance
+            project: organization
+          - item:
+            name: GS1
+            homepage_url: https://www.gs1.org/
+            logo: GS1-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/gs1
+            project: organization            
+          - item:
+            name: TTF
+            homepage_url: https://interwork.org
+            logo: iwa.svg
+            crunchbase: https://www.crunchbase.com/organization/interwork-alliance-e317
+            project: organization
+          - item:
+            name: W3C
+            homepage_url: https://www.w3.org/
+            logo: W3C-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/w3c-e64a
+            project: organization
   - category:
     name: Services
     subcategories:
