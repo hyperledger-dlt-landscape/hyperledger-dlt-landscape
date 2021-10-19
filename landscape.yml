@@ -813,6 +813,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/enterprise-ethereum-alliance
             project: organization
           - item:
+            name: GBBC
+            homepage_url: https://gbbcouncil.org/
+            logo: gbbc-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/global-blockchain-business-council
+            project: organization
+          - item:
             name: GS1
             homepage_url: https://www.gs1.org/
             logo: GS1-logo.svg
