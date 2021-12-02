@@ -731,7 +731,7 @@ landscape:
           - item:
             name: Chainstack
             homepage_url: https://chainstack.com
-            logo: dlt-logo.svg
+            logo: chainstack.svg
             crunchbase: https://www.crunchbase.com/organization/chainstack
             project: company
           - item:
