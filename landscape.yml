@@ -301,7 +301,7 @@ landscape:
           - item:
             name: ALTR
             homepage_url: https://www.altr.com/
-            logo: dlt-logo.svg
+            logo: altr.svg
             crunchbase: https://www.crunchbase.com/organization/altr-6b82
             project: company
           - item:
@@ -397,13 +397,13 @@ landscape:
           - item:
             name: Quant Network/Overledger
             homepage_url: https://www.quant.network
-            logo: dlt-logo.svg
+            logo: quant-network.svg
             crunchbase: https://www.crunchbase.com/organization/quant-network
             project: company
           - item:
             name: Vottun protocol
             homepage_url: https://vottun.com
-            logo: dlt-logo.svg
+            logo: votton.svg
             crunchbase: https://www.crunchbase.com/organization/vottun
             project: company
   - category:
@@ -460,7 +460,7 @@ landscape:
           - item:
             name: Accord Project
             homepage_url: https://accordproject.org/
-            logo: dlt-logo.svg
+            logo: accord.svg
             crunchbase: https://www.crunchbase.com/organization/accord-project
             repo_url: https://github.com/accordproject/cicero
             project: project
@@ -473,7 +473,7 @@ landscape:
           - item:
             name: Clause
             homepage_url: https://clause.io
-            logo: dlt-logo.svg
+            logo: clauseio.svg
             crunchbase: https://www.crunchbase.com/organization/clause
             repo_url: https://github.com/clauseHQ/clause-model-library
             project: company
@@ -513,7 +513,7 @@ landscape:
           - item:
             name: Block.io
             homepage_url: https://block.io/
-            logo: dlt-logo.svg
+            logo: blockio.svg
             crunchbase: https://www.crunchbase.com/organization/block-io-inc-
             repo_url: https://github.com/BlockIo/block_io-php
             project: company
@@ -534,7 +534,7 @@ landscape:
           - item:
             name: Xkey
             homepage_url: https://www.xkey.io
-            logo: dlt-logo.svg
+            logo: dfns.svg
             crunchbase: https://www.crunchbase.com/organization/xkey
             project: company
   - category:
@@ -596,7 +596,7 @@ landscape:
           - item:
             name: Quant Network/seeQ
             homepage_url: https://www.quant.network
-            logo: dlt-logo.svg
+            logo: quant-network.svg
             crunchbase: https://www.crunchbase.com/organization/quant-network
             project: company
       - subcategory:
@@ -605,7 +605,7 @@ landscape:
           - item:
             name: Finboot Track&Trace/Blockstamp
             homepage_url: https://www.finboot.com/
-            logo: dlt-logo.svg
+            logo: finboot.svg
             crunchbase: https://www.crunchbase.com/organization/finboot
             project: company
           - item:
@@ -629,7 +629,7 @@ landscape:
           - item:
             name: Vottun Credentials
             homepage_url: https://vottun.com
-            logo: dlt-logo.svg
+            logo: votton.svg
             crunchbase: https://www.crunchbase.com/organization/vottun
             project: company
   - category:
@@ -653,7 +653,7 @@ landscape:
           - item:
             name: Databroker
             homepage_url: https://www.databroker.global
-            logo: dlt-logo.svg
+            logo: databroker.svg
             crunchbase: https://www.crunchbase.com/organization/databroker-dao
             project: company
           - item:
@@ -677,7 +677,7 @@ landscape:
           - item:
             name: Public Mint
             homepage_url: https://publicmint.com/
-            logo: dlt-logo.svg
+            logo: publicmint.svg
             crunchbase: https://www.crunchbase.com/organization/public-mint
             project: company
           - item:
@@ -731,7 +731,7 @@ landscape:
           - item:
             name: Chainstack
             homepage_url: https://chainstack.com
-            logo: dlt-logo.svg
+            logo: chainstack.svg
             crunchbase: https://www.crunchbase.com/organization/chainstack
             project: company
           - item:
@@ -743,7 +743,7 @@ landscape:
           - item:
             name: Finboot MARCO
             homepage_url: https://www.finboot.com
-            logo: dlt-logo.svg
+            logo: finboot.svg
             crunchbase: https://www.crunchbase.com/organization/finboot
             project: company
           - item:
@@ -785,7 +785,7 @@ landscape:
           - item:
             name: SIMBA Chain
             homepage_url: https://simbachain.com/
-            logo: dlt-logo.svg
+            logo: simbachain.svg
             crunchbase: https://www.crunchbase.com/organization/simba-chain
             project: company
           - item:
@@ -881,7 +881,7 @@ landscape:
           - item:
             name: Infosys
             homepage_url: https://www.infosys.com
-            logo: dlt-logo.svg
+            logo: infosys-limited.svg
             crunchbase: https://www.crunchbase.com/organization/infosys
             project: company
           - item:
@@ -911,7 +911,7 @@ landscape:
           - item:
             name: UST 
             homepage_url: https://www.ust.com
-            logo: dlt-logo.svg
+            logo: ust.svg
             crunchbase: https://www.crunchbase.com/organization/ust
             project: company
           - item:
