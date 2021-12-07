@@ -307,7 +307,7 @@ landscape:
           - item:
             name: Chainkit
             homepage_url: https://chainkit.com
-            logo: dlt-logo.svg
+            logo: chainkit.svg
             crunchbase: https://www.crunchbase.com/organization/pencildata-inc
             project: company
           - item:
