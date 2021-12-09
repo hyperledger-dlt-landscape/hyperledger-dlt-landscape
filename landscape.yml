@@ -532,8 +532,8 @@ landscape:
             repo_url: https://github.com/MetaMask/metamask-docs
             project: project
           - item:
-            name: Xkey
-            homepage_url: https://www.xkey.io
+            name: DFNS
+            homepage_url: https://www.dfns.co/
             logo: dfns.svg
             crunchbase: https://www.crunchbase.com/organization/xkey
             project: company
