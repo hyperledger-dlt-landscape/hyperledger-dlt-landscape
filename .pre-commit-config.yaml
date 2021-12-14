@@ -1,0 +1,42 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+default_language_version:
+    # force all unspecified python hooks to run python3
+    python: python3
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v4.0.1
+  hooks:
+    - id: trailing-whitespace
+    - id: end-of-file-fixer
+    - id: check-yaml
+      exclude: "charts/.*"
+      args:
+        - --allow-multiple-documents
+    - id: check-added-large-files
+    - id: check-json
+    - id: check-merge-conflict
+    - id: detect-aws-credentials
+    - id: detect-private-key
+    - id: mixed-line-ending
+- repo: https://github.com/jumanjihouse/pre-commit-hooks
+  rev: 2.1.5
+  hooks:
+    - id: markdownlint
+    - id: shellcheck
+    - id: script-must-have-extension
+    - id: script-must-not-have-extension
+    - id: shfmt
+      args:
+        - -i
+        - "2"
+- repo: https://github.com/Lucas-C/pre-commit-hooks
+  rev: v1.1.10
+  hooks:
+    - id: forbid-tabs
+      exclude: (Makefile.*|.*.mk)
+- repo: https://github.com/doublify/pre-commit-clang-format
+  rev: 62302476d0da01515660132d76902359bed0f782
+  hooks:
+    - id: clang-format
+      files: \.(c|cc|cxx|cpp|frag|glsl|h|hpp|hxx|ih|ispc|ipp|m|proto|vert)$

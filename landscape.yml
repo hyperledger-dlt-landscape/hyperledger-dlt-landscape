@@ -264,7 +264,7 @@ landscape:
             logo: storj-logo.svg
             crunchbase: https://www.crunchbase.com/organization/storj
             repo_url: https://github.com/storj/storj
-            project: project            
+            project: project
           - item:
             name: Taekion
             homepage_url: https://taekion.com
@@ -753,6 +753,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/first-genesis
             project: company
           - item:
+            name: Hyperledger Bevel
+            homepage_url: https://www.hyperledger.org/use/bevel
+            logo: hyperledger-bevel.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/bevel
+            project: project
+          - item:
             name: IBM Blockchain Platform
             homepage_url: https://www.ibm.com/blockchain/platform
             logo: ibm.svg
@@ -817,7 +824,7 @@ landscape:
             homepage_url: https://www.gs1.org/
             logo: GS1-logo.svg
             crunchbase: https://www.crunchbase.com/organization/gs1
-            project: organization            
+            project: organization
           - item:
             name: TTF
             homepage_url: https://interwork.org
@@ -909,7 +916,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/rethink-ledgers
             project: company
           - item:
-            name: UST 
+            name: UST
             homepage_url: https://www.ust.com
             logo: ust.svg
             crunchbase: https://www.crunchbase.com/organization/ust
