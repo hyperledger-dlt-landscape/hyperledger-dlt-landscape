@@ -93,9 +93,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: https://eblockchainconvention.com/
-    image: /images/EBC_Dec_2021.jpg
-    title: European Blockchain Convention | Virtual - 13-16 Dec 2021
+  - url: https://blockchainrevolutionglobal.com/
+    image: /images/BRG2022.png
+    title: Blockchain Revolution Global | 21-22 Apr 2022
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
