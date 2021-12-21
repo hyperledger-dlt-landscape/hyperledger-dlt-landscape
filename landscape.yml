@@ -454,6 +454,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ethereum
             repo_url: https://github.com/ethereum/solidity
             project: project
+          - item:
+            name: WebAssembly
+            homepage_url: https://webassembly.org/
+            logo: wasm-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/webassembly
+            repo_url: https://github.com/WebAssembly/binaryen
+            project: project
       - subcategory:
         name: Legal contracts
         items:
@@ -674,6 +681,12 @@ landscape:
             logo: mediledger.svg
             crunchbase: https://www.crunchbase.com/organization/mediledger
             project: network
+          - item:
+            name: PharmaLedger
+            homepage_url: https://pharmaledger.eu/
+            logo: pharmaledger-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/pharmaledger
+            project: network            
           - item:
             name: Public Mint
             homepage_url: https://publicmint.com/
