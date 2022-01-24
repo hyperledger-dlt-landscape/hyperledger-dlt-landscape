@@ -49,6 +49,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/oracle
             project: company
           - item:
+            name: RackN
+            homepage_url: https://www.rackn.com
+            logo: rackn-vertical-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/rackn-inc
+            project: company
+          - item:
             name: VMware
             homepage_url: https://www.vmware.com
             logo: vmware.svg
