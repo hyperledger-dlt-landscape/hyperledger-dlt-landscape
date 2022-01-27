@@ -460,6 +460,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ethereum
             repo_url: https://github.com/ethereum/solidity
             project: project
+          - item:
+            name: WebAssembly
+            homepage_url: https://webassembly.org/
+            logo: wasm-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/webassembly
+            repo_url: https://github.com/WebAssembly/binaryen
+            project: project            
       - subcategory:
         name: Legal contracts
         items:
