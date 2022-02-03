@@ -629,7 +629,7 @@ landscape:
           - item:
             name: Metrika
             homepage_url: https://www.metrika.co/
-            logo: dlt-logo.svg
+            logo: metrika-logo.svg
             crunchbase: https://www.crunchbase.com/organization/metrika-3908
             project: company
           - item:
