@@ -204,6 +204,13 @@ landscape:
             repo_url: https://github.com/iotaledger/protocol-rfcs
             project: project
           - item:
+            name: Solana
+            homepage_url: https://solana.com/
+            logo: solana-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/solana-io
+            repo_url: https://github.com/solana-labs/solana
+            project: project
+          - item:
             name: Stellar
             homepage_url: https://www.stellar.org/
             logo: stellar.svg
@@ -600,6 +607,12 @@ landscape:
         name: Analytics/Monitoring tools
         items:
           - item:
+            name: Elliptic
+            homepage_url: https://www.elliptic.co/
+            logo: elliptic-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/elliptic
+            project: company
+          - item:
             name: Hyperledger Caliper
             homepage_url: https://www.hyperledger.org/use/caliper
             logo: hyperledger-caliper.svg
@@ -613,6 +626,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             repo_url: https://github.com/hyperledger/blockchain-explorer
             project: project
+          - item:
+            name: Metrika
+            homepage_url: https://www.metrika.co/
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/metrika-3908
+            project: company
           - item:
             name: Quant Network/seeQ
             homepage_url: https://www.quant.network
