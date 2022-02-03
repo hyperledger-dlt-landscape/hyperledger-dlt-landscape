@@ -170,6 +170,13 @@ landscape:
             repo_url: https://github.com/cardano-foundation/developer-portal
             project: project
           - item:
+            name: dfinity
+            homepage_url: https://dfinity.org/
+            logo: dfinity-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/dfinity
+            repo_url: https://github.com/dfinity/ic
+            project: project            
+          - item:
             name: EOSIO
             homepage_url: https://eos.io
             logo: eosio.svg
