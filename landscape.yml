@@ -696,6 +696,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/databroker-dao
             project: company
           - item:
+            name: Epidaurus Health
+            homepage_url: https://www.epidaurus.health/
+            logo: epidaurus-RGB.svg
+            crunchbase: https://www.crunchbase.com/organization/epidaurus-health
+            project: company
+          - item:
             name: GrainChain
             homepage_url: https://www.grainchain.io
             logo: dlt-logo.svg
