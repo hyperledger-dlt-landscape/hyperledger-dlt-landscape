@@ -708,6 +708,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ibm
             project: company
           - item:
+            name: LiquidShare
+            homepage_url: https://liquidshare.io/
+            logo: liquidshare-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/liquidshare
+            project: company            
+          - item:
             name: MediLedger
             homepage_url: https://www.mediledger.com
             logo: mediledger.svg
