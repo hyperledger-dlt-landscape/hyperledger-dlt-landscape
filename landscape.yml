@@ -315,6 +315,12 @@ landscape:
             logo: helium.svg
             crunchbase: https://www.crunchbase.com/organization/helium-systems-inc
             project: company
+          - item:
+            name: IoTex
+            homepage_url: https://iotex.io/
+            logo: iotex-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/iotex
+            project: company            
       - subcategory:
         name: Cybersecurity
         items:
