@@ -427,16 +427,17 @@ landscape:
             repo_url: https://github.com/hyperledger/quilt
             project: project
           - item:
+            name: Interledger
+            homepage_url: https://interledger.org/
+            logo: interledger-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/interledger
+            repo_url: https://github.com/interledger/rfcs
+            project: project            
+          - item:
             name: Quant Network/Overledger
             homepage_url: https://www.quant.network
             logo: quant-network.svg
             crunchbase: https://www.crunchbase.com/organization/quant-network
-            project: company
-          - item:
-            name: Vottun protocol
-            homepage_url: https://vottun.com
-            logo: votton.svg
-            crunchbase: https://www.crunchbase.com/organization/vottun
             project: company
   - category:
     name: Smart Contracts/Tokenization
