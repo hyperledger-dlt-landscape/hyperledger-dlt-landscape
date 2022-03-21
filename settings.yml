@@ -126,7 +126,7 @@ big_picture:
         left: 0
         color: rgb(153,153,0)
       - type: HorizontalCategory
-        category: Applications
+        category: Multiparty Applications
         rows: 4
         width: 900
         height: 180
@@ -134,7 +134,7 @@ big_picture:
         left: 200
         color: rgb(0,181,226)
       - type: HorizontalCategory
-        category: Business Tooling/Integrations
+        category: Application Tooling/Integrations
         rows: 4
         width: 900
         height: 180
@@ -179,7 +179,7 @@ big_picture:
         color: rgb(0,128,255)
         fit_width: false
       - type: HorizontalCategory
-        category: Infrastructure
+        category: Computing Infrastructure
         rows: 4
         width: 900
         height: 180

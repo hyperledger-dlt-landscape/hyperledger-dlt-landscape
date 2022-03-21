@@ -1,6 +1,6 @@
 landscape:
   - category:
-    name: Infrastructure
+    name: Computing Infrastructure
     subcategories:
       - subcategory:
         name: Cloud, On-premises, Orchestration
@@ -578,10 +578,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/xkey
             project: company
   - category:
-    name: Business Tooling/Integrations
+    name: Application Tooling/Integrations
     subcategories:
       - subcategory:
-        name: Application development tools/platforms
+        name: Development tools/platforms
         items:
           - item:
             name: Azure Blockchain Workbench
@@ -652,7 +652,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/quant-network
             project: company
       - subcategory:
-        name: Business application integrations
+        name: Application integrations
         items:
           - item:
             name: Finboot Track&Trace/Blockstamp
@@ -685,7 +685,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/vottun
             project: company
   - category:
-    name: Applications
+    name: Multiparty Applications
     subcategories:
       - subcategory:
         name: Industry-specific applications and decentralized marketplaces
