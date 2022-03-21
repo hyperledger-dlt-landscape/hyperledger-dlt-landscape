@@ -51,7 +51,7 @@ landscape:
           - item:
             name: RackN
             homepage_url: https://www.rackn.com
-            logo: rackn-vertical-logo.svg
+            logo: rackn-v3.svg
             crunchbase: https://www.crunchbase.com/organization/rackn-inc
             project: company
           - item:
