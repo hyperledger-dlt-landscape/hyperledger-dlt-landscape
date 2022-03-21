@@ -6774,7 +6774,7 @@ landscape:
             project: company
             crunchbase_data:
               name: BTP
-              description: 'Blockchain Technology Partners is an Edinburgh based technology startup. '
+              description: Blockchain Technology Partners is an enterprise blockchain company that enables multiparty innovation
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://blockchaintp.com
