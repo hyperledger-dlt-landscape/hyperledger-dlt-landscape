@@ -61,6 +61,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tectonic-c189
             project: company
           - item:
+            name: SUSE Rancher
+            homepage_url: https://www.suse.com/
+            logo: rancher-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+            repo_url: https://github.com/rancher/rancher
+            project: project
+          - item:
             name: VMware
             homepage_url: https://www.vmware.com
             logo: vmware.svg
