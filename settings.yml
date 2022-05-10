@@ -14,8 +14,8 @@ global:
     description: A living market landscape with a technology foundation, created by and for the DLT community
     # fb_admin: username
     twitter: '@dltlandscape'
-    # google_site_verification: 
-    # ms_validate: 
+    # google_site_verification:
+    # ms_validate:
   flags:
     companies: false
     hide_license_for_categories:
@@ -93,9 +93,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: https://blockchainrevolutionglobal.com/
-    image: /images/BRG-2022.png
-    title: Blockchain Revolution Global | 21-22 Apr 2022
+  - url: https://eblockchainconvention.com/
+    image: /images/EBC_June_2022.jpeg
+    title: European Blockchain Convention | 26-28 June 2022
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -211,10 +211,10 @@ big_picture:
         children:
           - type: text
             text: |
-              Welcome to a living segmentation of the evolving DLT market! DLT Landscape is a 
-              business stack with a technology foundation. BTP has created the DLT Landscape 
-              for the whole blockchain/DLT community to benefit from and contribute to. The 
-              DLT Landscape is open source, curated and hosted by BTP, but independent of the company. 
+              Welcome to a living segmentation of the evolving DLT market! DLT Landscape is a
+              business stack with a technology foundation. BTP has created the DLT Landscape
+              for the whole blockchain/DLT community to benefit from and contribute to. The
+              DLT Landscape is open source, curated and hosted by BTP, but independent of the company.
             top: 80
             left: 130
             right: 20
