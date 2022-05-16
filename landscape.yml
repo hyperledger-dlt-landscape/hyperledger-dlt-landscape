@@ -230,6 +230,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/stellar
             repo_url: https://github.com/stellar/stellar-protocol
             project: project
+          - item:
+            name: Zilliqa
+            homepage_url: https://www.zilliqa.com/
+            logo: zilliqa.svg
+            crunchbase: https://www.crunchbase.com/organization/zilliqa
+            repo_url: https://github.com/Zilliqa/Zilliqa
+            project: project
   - category:
     name: Technology Intersections
     subcategories:
