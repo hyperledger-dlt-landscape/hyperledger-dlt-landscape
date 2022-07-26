@@ -121,7 +121,7 @@ big_picture:
         category: Platforms
         cols: 4
         width: 175
-        height: 1360
+        height: 1460
         top: 0
         left: 0
         color: rgb(153,153,0)
@@ -171,9 +171,9 @@ big_picture:
         fit_width: false
       - type: HorizontalCategory
         category: Distributed Ledgers
-        rows: 4
+        rows: 6
         width: 900
-        height: 180
+        height: 260
         top: 1000
         left: 200
         color: rgb(0,128,255)
@@ -183,7 +183,7 @@ big_picture:
         rows: 4
         width: 900
         height: 180
-        top: 1200
+        top: 1280
         left: 200
         color: rgb(160,160,160)
         fit_width: false
@@ -191,7 +191,7 @@ big_picture:
         category: Standards
         cols: 4
         width: 175
-        height: 1360
+        height: 1460
         top: 0
         left: 1125
         color: rgb(218,165,32)
@@ -199,14 +199,14 @@ big_picture:
         category: Services
         cols: 4
         width: 175
-        height: 1360
+        height: 1460
         top: 0
         left: 1320
         color: rgb(204,0,102)
       - type: LandscapeInfo
         width: 430
         height: 280
-        top: 1400
+        top: 1480
         left: 0
         children:
           - type: text

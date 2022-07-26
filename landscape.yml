@@ -188,7 +188,7 @@ landscape:
             logo: dfinity-logo.svg
             crunchbase: https://www.crunchbase.com/organization/dfinity
             repo_url: https://github.com/dfinity/ic
-            project: project            
+            project: project
           - item:
             name: EOSIO
             homepage_url: https://eos.io
@@ -340,7 +340,7 @@ landscape:
             homepage_url: https://iotex.io/
             logo: iotex-logo.svg
             crunchbase: https://www.crunchbase.com/organization/iotex
-            project: company            
+            project: company
       - subcategory:
         name: Cybersecurity
         items:
@@ -446,7 +446,7 @@ landscape:
             logo: interledger-logo.svg
             crunchbase: https://www.crunchbase.com/organization/interledger
             repo_url: https://github.com/interledger/rfcs
-            project: project            
+            project: project
           - item:
             name: Quant Network/Overledger
             homepage_url: https://www.quant.network
@@ -507,7 +507,7 @@ landscape:
             logo: wasm-logo.svg
             crunchbase: https://www.crunchbase.com/organization/webassembly
             repo_url: https://github.com/WebAssembly/binaryen
-            project: project            
+            project: project
       - subcategory:
         name: Legal contracts
         items:
@@ -751,7 +751,7 @@ landscape:
             homepage_url: https://liquidshare.io/
             logo: liquidshare-logo.svg
             crunchbase: https://www.crunchbase.com/organization/liquidshare
-            project: company            
+            project: company
           - item:
             name: MediLedger
             homepage_url: https://www.mediledger.com
