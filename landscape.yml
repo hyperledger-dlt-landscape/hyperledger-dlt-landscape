@@ -410,6 +410,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/polkadot
             repo_url: https://github.com/paritytech/polkadot
             project: project
+          - item:
+            name: Polygon
+            homepage_url: https://polygon.technology/
+            logo: polygon.svg
+            crunchbase: https://www.crunchbase.com/organization/polygontechnology
+            repo_url: https://github.com/0xPolygon/polygon-edge
+            project: project
       - subcategory:
         name: Point-to-point and overlayer approaches
         items:
