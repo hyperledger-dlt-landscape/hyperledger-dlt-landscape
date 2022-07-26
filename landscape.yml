@@ -230,6 +230,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/stellar
             repo_url: https://github.com/stellar/stellar-protocol
             project: project
+          - item:
+            name: Zilliqa
+            homepage_url: https://www.zilliqa.com/
+            logo: zilliqa.svg
+            crunchbase: https://www.crunchbase.com/organization/zilliqa
+            repo_url: https://github.com/Zilliqa/Zilliqa
+            project: project
   - category:
     name: Technology Intersections
     subcategories:
@@ -661,6 +668,12 @@ landscape:
       - subcategory:
         name: Application integrations
         items:
+          - item:
+            name: BTP Chronicle
+            homepage_url: https://blockchaintp.com
+            logo: chronicle-dark.svg
+            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
+            project: company
           - item:
             name: Finboot Track&Trace/Blockstamp
             homepage_url: https://www.finboot.com/
