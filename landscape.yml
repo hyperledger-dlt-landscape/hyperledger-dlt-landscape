@@ -488,6 +488,13 @@ landscape:
             repo_url: https://github.com/kadena-io/pact
             project: company
           - item:
+            name: Scilla
+            homepage_url: https://scilla-lang.org/
+            logo: zilliqa.svg
+            crunchbase: https://www.crunchbase.com/organization/zilliqa
+            repo_url: https://github.com/Zilliqa/scilla
+            project: project
+          - item:
             name: Script
             homepage_url: https://bitcoin.org/en
             logo: bitcoin.svg
@@ -808,6 +815,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/blockapps
             project: company
           - item:
+            name: Blockdaemon
+            homepage_url: https://blockdaemon.com/
+            logo: blockdaemon.svg
+            crunchbase: https://www.crunchbase.com/organization/blockdaemon
+            project: company
+          - item:
             name: BTP Sextant
             homepage_url: https://blockchaintp.com
             logo: btp-colour.svg
@@ -957,6 +970,12 @@ landscape:
             homepage_url: https://www2.deloitte.com
             logo: deloitte.svg
             crunchbase: https://www.crunchbase.com/organization/deloitte
+            project: company
+          - item:
+            name: Ernst & Young
+            homepage_url: https://www.ey.com/en_gl
+            logo: ey.svg
+            crunchbase: https://www.crunchbase.com/organization/ernst-young
             project: company
           - item:
             name: Fujitsu
