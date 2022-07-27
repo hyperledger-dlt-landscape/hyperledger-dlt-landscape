@@ -625,6 +625,13 @@ landscape:
             repo_url: https://github.com/hyperledger/cello
             project: project
           - item:
+            name: Hyperledger Firefly
+            homepage_url: https://www.hyperledger.org/use/firefly
+            logo: hyperledger-firefly.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            repo_url: https://github.com/hyperledger/firefly
+            project: project            
+          - item:
             name: Hyperledger Grid
             homepage_url: https://www.hyperledger.org/use/grid
             logo: hyperledger-grid.svg
@@ -659,13 +666,6 @@ landscape:
             logo: hyperledger-caliper.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             repo_url: https://github.com/hyperledger/caliper
-            project: project
-          - item:
-            name: Hyperledger Explorer
-            homepage_url: https://www.hyperledger.org/use/explorer
-            logo: hyperledger-explorer.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            repo_url: https://github.com/hyperledger/blockchain-explorer
             project: project
           - item:
             name: Metrika
