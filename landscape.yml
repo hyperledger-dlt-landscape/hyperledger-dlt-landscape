@@ -139,13 +139,6 @@ landscape:
             repo_url: https://github.com/hyperledger/besu
             project: project
           - item:
-            name: Hyperledger Burrow
-            homepage_url: https://www.hyperledger.org/use/burrow
-            logo: hyperledger-burrow.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            repo_url: https://github.com/hyperledger/burrow
-            project: project
-          - item:
             name: Hyperledger Sawtooth
             homepage_url: https://www.hyperledger.org/use/sawtooth
             logo: hyperledger-sawtooth.svg
