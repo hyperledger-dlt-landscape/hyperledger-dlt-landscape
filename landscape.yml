@@ -766,6 +766,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/mediledger
             project: network
           - item:
+            name: PharmaLedger
+            homepage_url: https://pharmaledger.eu/
+            logo: pharmaledger.svg
+            crunchbase: https://www.crunchbase.com/organization/pharmaledger
+            project: network
+          - item:
             name: Public Mint
             homepage_url: https://publicmint.com/
             logo: publicmint.svg
