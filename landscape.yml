@@ -363,13 +363,6 @@ landscape:
             logo: hyperledger-aries.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
           - item:
-            name: Hyperledger Avalon
-            homepage_url: https://www.hyperledger.org/use/avalon
-            project: project
-            repo_url: https://github.com/hyperledger/avalon
-            logo: hyperledger-avalon.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
             name: Hyperledger Ursa
             homepage_url: https://www.hyperledger.org/use/ursa
             project: project
@@ -432,13 +425,6 @@ landscape:
             project: project
             repo_url: https://github.com/hyperledger/cactus
             logo: hyperledgercactus-color.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Quilt
-            homepage_url: https://www.hyperledger.org/use/quilt
-            project: project
-            repo_url: https://github.com/hyperledger/quilt
-            logo: hyperledger-quilt.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
           - item:
             name: Interledger
