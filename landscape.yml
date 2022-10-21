@@ -909,6 +909,12 @@ landscape:
             logo: GS1-logo.svg
             crunchbase: https://www.crunchbase.com/organization/gs1
           - item:
+            name: INATBA
+            homepage_url: https://inatba.org/
+            project: organization
+            logo: INATBA-main.svg
+            crunchbase: https://www.crunchbase.com/organization/inatba
+          - item:
             name: TTF
             homepage_url: https://interwork.org
             project: organization
