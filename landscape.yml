@@ -489,10 +489,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/multichain
           - item:
             name: Solidity
-            homepage_url: https://ethereum.org/en
+            homepage_url: https://ethereum.org/en/developers/docs/smart-contracts/languages/
             project: project
             repo_url: https://github.com/ethereum/solidity
             logo: solidity.svg
+            crunchbase: https://www.crunchbase.com/organization/ethereum
+          - item:
+            name: Vyper
+            homepage_url: https://ethereum.org/en/developers/docs/smart-contracts/languages/
+            project: project
+            repo_url: https://github.com/vyperlang/vyper
+            logo: vyper-logo.svg
             crunchbase: https://www.crunchbase.com/organization/ethereum
           - item:
             name: WebAssembly
