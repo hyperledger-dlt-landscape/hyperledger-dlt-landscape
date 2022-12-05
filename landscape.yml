@@ -670,7 +670,7 @@ landscape:
         items:
           - item:
             name: BTP Chronicle
-            homepage_url: https://blockchaintp.com
+            homepage_url: https://btp.works/
             project: company
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
@@ -771,23 +771,11 @@ landscape:
             logo: publicmint.svg
             crunchbase: https://www.crunchbase.com/organization/public-mint
           - item:
-            name: TradeLens
-            homepage_url: https://www.tradelens.com
-            project: network
-            logo: tradelens.svg
-            crunchbase: https://www.crunchbase.com/organization/tradelens
-          - item:
             name: WAX Marketplace
             homepage_url: https://marketplace.wax.io
             project: company
             logo: wax.svg
             crunchbase: https://www.crunchbase.com/organization/wax-f984
-          - item:
-            name: we.trade
-            homepage_url: https://we-trade.com
-            project: company
-            logo: wetrade.svg
-            crunchbase: https://www.crunchbase.com/organization/we-trade
   - category:
     name: Platforms
     subcategories:
@@ -813,10 +801,10 @@ landscape:
             logo: blockdaemon.svg
             crunchbase: https://www.crunchbase.com/organization/blockdaemon
           - item:
-            name: BTP Sextant
-            homepage_url: https://blockchaintp.com
+            name: BTP
+            homepage_url: https://btp.works/
             project: company
-            logo: btp-colour.svg
+            logo: BTP-new.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
           - item:
             name: Chainstack
