@@ -804,7 +804,7 @@ landscape:
             name: BTP
             homepage_url: https://btp.works/
             project: company
-            logo: BTP-new.svg
+            logo: btp-works.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
           - item:
             name: Chainstack
