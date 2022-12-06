@@ -670,7 +670,7 @@ landscape:
         items:
           - item:
             name: BTP Chronicle
-            homepage_url: https://btp.works/
+            homepage_url: https://btp.works
             project: company
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
@@ -802,7 +802,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/blockdaemon
           - item:
             name: BTP
-            homepage_url: https://btp.works/
+            homepage_url: https://btp.works
             project: company
             logo: btp-works.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
