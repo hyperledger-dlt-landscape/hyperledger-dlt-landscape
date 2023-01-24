@@ -5151,96 +5151,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-08-23T16:45:27.000Z
           - item:
-            name: Hyperledger Avalon
-            homepage_url: https://www.hyperledger.org/use/avalon
-            project: project
-            repo_url: https://github.com/hyperledger/avalon
-            logo: hyperledger-avalon.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            crunchbase_data:
-              name: Hyperledger
-              description: Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://www.hyperledger.org/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/Hyperledger
-              linkedin: https://www.linkedin.com/company/hyperledger-project/
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Linux
-                - Open Source
-            github_data:
-              languages:
-                - name: Python
-                  value: 1015732
-                  color: '#3572A5'
-                - name: C++
-                  value: 893240
-                  color: '#f34b7d'
-                - name: CMake
-                  value: 61893
-                - name: Go
-                  value: 58979
-                  color: '#00ADD8'
-                - name: Shell
-                  value: 57840
-                  color: '#89e051'
-                - name: Dockerfile
-                  value: 43995
-                  color: '#384d54'
-                - name: C
-                  value: 34428
-                  color: '#555555'
-                - name: Makefile
-                  value: 25526
-                  color: '#427819'
-                - name: SWIG
-                  value: 25276
-                - name: Solidity
-                  value: 23991
-                  color: '#AA6746'
-                - name: Groovy
-                  value: 9882
-                  color: '#e69f56'
-                - name: JavaScript
-                  value: 5388
-                  color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-08-29Z
-              stars: 137
-              license: Apache License 2.0
-              description: >-
-                Hyperledger Avalon enables privacy in blockchain transactions, moving intensive processing from a main blockchain to improve scalability and
-                latency, and to support attested Oracles
-              latest_commit_date: '2022-01-26T23:03:33Z'
-              latest_commit_link: /hyperledger/avalon/commit/5ef6038df458686a7624aa7b4f8890ed6ed1c61e
-              release_date: '2020-07-14T15:31:43Z'
-              release_link: https://github.com/hyperledger/avalon/releases
-              contributors_count: 31
-              contributors_link: https://github.com/hyperledger/avalon/graphs/contributors
-            repos:
-              - url: https://github.com/hyperledger/avalon
-                stars: 137
-            github_start_commit_data:
-              start_commit_link: /hyperledger/avalon/commit/5828d4e37702058608207a7a05ee4114e00c241d
-              start_date: '2019-06-26T12:32:10Z'
-            image_data:
-              fileName: hyperledger-avalon.svg
-              hash: xe9cIIDzr060iAN3e/2Yk9hqSjEq4UP3OYsH0ziEeH8=
-            best_practice_data:
-              badge: 3323
-              percentage: 100
-            twitter_data:
-              latest_tweet_date: 2022-08-23T16:45:27.000Z
-          - item:
             name: Hyperledger Ursa
             homepage_url: https://www.hyperledger.org/use/ursa
             project: project
@@ -5858,63 +5768,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-08-23T16:45:27.000Z
           - item:
-            name: Hyperledger Quilt
-            homepage_url: https://www.hyperledger.org/use/quilt
-            project: project
-            repo_url: https://github.com/hyperledger/quilt
-            logo: hyperledger-quilt.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            crunchbase_data:
-              name: Hyperledger
-              description: Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://www.hyperledger.org/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/Hyperledger
-              linkedin: https://www.linkedin.com/company/hyperledger-project/
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/linux-foundation
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Linux
-                - Open Source
-            github_data:
-              languages:
-                - name: Java
-                  value: 2764104
-                  color: '#b07219'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2021-08-29Z
-              stars: 218
-              license: Apache License 2.0
-              description: Hyperledger Quilt - An implementation of the Interledger Protocol
-              latest_commit_date: '2022-05-31T18:14:30Z'
-              latest_commit_link: /hyperledger/quilt/commit/31334388bded8a25848c334f85a2a01966a427fe
-              release_date: '2020-08-17T17:12:02Z'
-              release_link: https://github.com/hyperledger/quilt/releases
-              contributors_count: 20
-              contributors_link: https://github.com/hyperledger/quilt/graphs/contributors
-            repos:
-              - url: https://github.com/hyperledger/quilt
-                stars: 218
-            github_start_commit_data:
-              start_commit_link: /hyperledger/quilt/commit/77c41f55f0e2452027c34f296d557940db17df4e
-              start_date: '2017-10-19T14:04:41Z'
-            image_data:
-              fileName: hyperledger-quilt.svg
-              hash: TSjJ5OKIN+F5oDldwDQ0Y4LDzxBHQF/2jjX2EN/e/a8=
-            best_practice_data:
-              badge: 3333
-              percentage: 100
-            twitter_data:
-              latest_tweet_date: 2022-08-23T16:45:27.000Z
-          - item:
             name: Interledger
             homepage_url: https://interledger.org/
             project: project
@@ -6496,7 +6349,7 @@ landscape:
               latest_tweet_date: 2022-07-28T14:23:14.000Z
           - item:
             name: Solidity
-            homepage_url: https://ethereum.org/en
+            homepage_url: https://ethereum.org/en/developers/docs/smart-contracts/languages/
             project: project
             repo_url: https://github.com/ethereum/solidity
             logo: solidity.svg
@@ -6580,6 +6433,83 @@ landscape:
             image_data:
               fileName: solidity.svg
               hash: tkOq1n8YwC3RWcyW7aGwkXIbgGOo7RoGFTFRuicd66c=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-08-23T16:56:08.000Z
+          - item:
+            name: Vyper
+            homepage_url: https://ethereum.org/en/developers/docs/smart-contracts/languages/
+            project: project
+            repo_url: https://github.com/vyperlang/vyper
+            logo: vyper-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/ethereum
+            crunchbase_data:
+              name: Ethereum Foundation
+              description: Ethereum is a platform and a programming language that helps developers to build and publish next-generation distributed applications.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.ethereum.org/
+              city: Bern
+              region: Bern
+              country: Switzerland
+              twitter: https://twitter.com/ethereum
+              linkedin: https://www.linkedin.com/company/5091692
+              acquisitions: []
+              parents: []
+              funding: 18400000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Application Performance Management
+                - Blockchain
+                - Consumer Applications
+                - Cryptocurrency
+                - Developer APIs
+                - Ethereum
+                - Internet
+                - Open Source
+                - Transaction Processing
+                - Virtual Currency
+              kind: funding
+            github_data:
+              languages:
+                - name: Python
+                  value: 1788281
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 1853
+                  color: '#427819'
+                - name: Batchfile
+                  value: 1614
+                  color: '#C1F12E'
+                - name: Dockerfile
+                  value: 1146
+                  color: '#384d54'
+                - name: Shell
+                  value: 504
+                  color: '#89e051'
+              contributions: 2;2;11;9;4;5;2;6;14;15;6;16;8;8;7;3;4;8;4;8;16;7;5;4;8;10;19;12;4;1;4;2;4;3;3;1;1;1;3;2;1;4;2;4;1;11;6;0;3;7;4;6
+              firstWeek: 2022-01-30Z
+              stars: 4416
+              license: Other
+              description: Pythonic Smart Contract Language for the EVM
+              latest_commit_date: '2023-01-20T16:06:25Z'
+              latest_commit_link: /vyperlang/vyper/commit/02339dfda0f3caabad142060d511d10bfe93c520
+              release_date: '2022-09-27T01:21:40Z'
+              release_link: https://github.com/vyperlang/vyper/releases
+              contributors_count: 208
+              contributors_link: https://github.com/vyperlang/vyper/graphs/contributors
+            repos:
+              - url: https://github.com/vyperlang/vyper
+                stars: 4416
+            github_start_commit_data:
+              start_commit_link: /vyperlang/vyper/commit/114b177938317326b0d71bc9ee1d81799817472a
+              start_date: '2016-11-11T08:56:58Z'
+            image_data:
+              fileName: vyper.svg
+              hash: yfpwhaQ0Ngh64udU3ycAKFbKamDuGr0lpTCWKVdRELg=
             best_practice_data:
               badge: false
               percentage: null
@@ -8445,7 +8375,7 @@ landscape:
         items:
           - item:
             name: BTP Chronicle
-            homepage_url: https://blockchaintp.com
+            homepage_url: https://btp.works
             project: company
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
@@ -9746,37 +9676,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: TradeLens
-            homepage_url: https://www.tradelens.com
-            project: network
-            logo: tradelens.svg
-            crunchbase: https://www.crunchbase.com/organization/tradelens
-            crunchbase_data:
-              name: TradeLens
-              description: TradeLens is a digital platform that empowers businesses and authorities along the supply chain with a single,secure source of shipping data
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.tradelens.com/
-              city: Jersey City
-              region: New Jersey
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/tradelens/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Information Services
-                - Information Technology
-            image_data:
-              fileName: trade-lens.svg
-              hash: OEnhRT+IQOBTtVDs2baH9zYFjjNgrRskgg1hSWs7EeI=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: WAX Marketplace
             homepage_url: https://marketplace.wax.io
             project: company
@@ -9813,42 +9712,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-08-23T19:16:36.000Z
-          - item:
-            name: we.trade
-            homepage_url: https://we-trade.com
-            project: company
-            logo: wetrade.svg
-            crunchbase: https://www.crunchbase.com/organization/we-trade
-            crunchbase_data:
-              name: we.trade
-              description: 'Develops and licenses the first blockchain trade platform for commercial clients and their banks available in the market. '
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://we-trade.com/
-              city: Dublin
-              region: Dublin
-              country: Ireland
-              twitter: https://twitter.com/we_dot_trade
-              linkedin: https://www.linkedin.com/company/we-trade/
-              acquisitions: []
-              parents: []
-              funding: 6637342
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - FinTech
-                - Financial Services
-                - Information Technology
-              kind: funding
-            image_data:
-              fileName: we-trade.svg
-              hash: /+SQUSpOyw/iHjPiop9I0gKn9Orio7Z4A5bjtZMT9x8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-22T12:51:19.000Z
   - category:
     name: Platforms
     subcategories:
@@ -9996,10 +9859,10 @@ landscape:
             twitter_data:
               latest_tweet_date: null
           - item:
-            name: BTP Sextant
-            homepage_url: https://blockchaintp.com
+            name: BTP
+            homepage_url: https://btp.works
             project: company
-            logo: btp-colour.svg
+            logo: btp-works.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
             crunchbase_data:
               name: BTP
@@ -10023,8 +9886,8 @@ landscape:
                 - Information Technology
               kind: funding
             image_data:
-              fileName: btp-sextant.svg
-              hash: YyNdInq+R+9QKxxqt74jTRcHSFuN7o1zc4nKYZImGa0=
+              fileName: btp.svg
+              hash: cHPgstdBXY+eM1G946e97XSm56J69MCWPUdGpn1DJKI=
             best_practice_data:
               badge: false
               percentage: null
@@ -11520,6 +11383,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-08-23T16:18:44.000Z
+          - item:
+            name: INATBA
+            homepage_url: https://inatba.org/
+            project: organization
+            logo: INATBA-main.svg
+            crunchbase: https://www.crunchbase.com/organization/inatba
+            crunchbase_data:
+              name: INATBA
+              description: INATBA is a nonprofit blockchain association that helps organizations with blockchain applications and blockchain ecosystem.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://inatba.org
+              city: Brussels
+              region: Brussels Hoofdstedelijk Gewest
+              country: Belgium
+              twitter: https://twitter.com/inatba_org
+              linkedin: https://www.linkedin.com/company/inatba/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Non Profit
+            image_data:
+              fileName: inatba.svg
+              hash: lwPI+U/aWVy0WS2L2e014a82rShpg1lJOVA8gc4ZjR4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-24T10:14:09.000Z
           - item:
             name: TTF
             homepage_url: https://interwork.org
