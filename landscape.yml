@@ -1030,6 +1030,176 @@ landscape:
         name: Silver
         items: []
   - category:
+    name: Hyperledger Certified Service Providers
+    subcategories:
+      - subcategory:
+        name: Hyperledger Fabric CSPs
+        items:
+          - item:
+            name: Accenture (HCSP)
+            description: Accenture, a technology independent HF-CSP and trusted advisor, can help on your path to digital transformation.
+            homepage_url: https://www.accenture.com/us-en/insights/blockchain-index
+            logo: accenture-horizontal-color.svg
+            twitter: https://twitter.com/Accenture
+            crunchbase: https://www.crunchbase.com/organization/accenture
+          - item:
+            name: Avanza Innovations IT Solutions LLC (HCSP)
+            description: >-
+              Avanza is a thought leader, best expert, and the go-to company for national and city-scale blockchain implementations. We help governments take
+              the next leap in automation and prepare them for the 4th Industrial Revolution through the use of nascent technologies. Avanza has enabled
+              numerous tier 1  government entities, regulators, and large enterprises to take on pioneering automation within their eco-systems in areas of
+              Digital Government Transformation, Financial Regulation & Supervision, Health Care, Supply Chain, Ports & Logistics, Manufacturing, Trade Finance,
+              Oil & Gas, E-Commerce and many more. Avanza’s tremendous success and by far the biggest market share in enterprise blockchain implementations is
+              made possible through an all-star and ace technology team - and on the back of our un-paralleled blockchain Orchestration and governance platform
+              – Cipher.
+            homepage_url: https://avanzainnovations.com/
+            logo: avanza_innovations_it_solutions_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/avanza-innovations
+          - item:
+            name: BONbLOC Inc (HCSP)
+            description: >-
+              BONbLOC builds SaaS solutions that address many Private, Commercial and Public Sector supply chain or operations management challenges using
+              Blockchain, Data Science and IOT technologies.  We love what we do and are grateful to our customers, who trust us to lead them on a path to
+              collaborative situations that touch daily lives using modern technologies.
+            homepage_url: https://bonbloc.com/
+            logo: bonbloc_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/bonbloc
+          - item:
+            name: Chainyard (HCSP)
+            description: >-
+              Chainyard, a leader in blockchain consulting, is a dynamic team of blockchain enthusiasts with the expertise, process, and technology required to
+              develop world-class business and software solutions. With a focus on enterprise use cases, Chainyard is helping companies navigate blockchain by
+              working with them to identify value, prioritize opportunities, develop solutions, and operate production blockchain networks.
+            homepage_url: https://chainyard.com/
+            logo: chainyard-horizontal-color.svg
+            crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
+          - item:
+            name: CPQD (HCSP)
+            description: >-
+              Consulting services for innovation in business networks -- design thinking and design sprint techniques to co-create an application. Application
+              and DLTs implementation for (1) traceability of things (IoT), (2) digital identity and (3) contract automation.
+            homepage_url: https://www.cpqd.com.br/blockchain/
+            logo: cpqd-horizontal-color.svg
+            crunchbase: https://www.crunchbase.com/organization/cpqd
+          - item:
+            name: Espeo Software (HCSP)
+            description: >-
+              Espeo Software is a digital consultancy that specializes in the development of enterprise blockchain projects. We’re focused on building
+              Hyperledger Fabric solutions. We’re your full-service partner for transforming your blockchain concept into a complete decentralized product. As
+              blockchain consultants, we’ll walk you through the process of complex blockchain development. With over a decade of experience, our expert team
+              will turn your concept into a leading product.
+            homepage_url: https://espeo.eu/
+            logo: espeo_software.svg
+            crunchbase: https://www.crunchbase.com/organization/espeo-software
+          - item:
+            name: Hitachi (HCSP)
+            description: >-
+              Utilizing the blockchain technology provided by Hitachi, the speed of transactions between companies can be dramatically increased, and it becomes
+              possible to create business that overcome the barriers between different industries. Hitachi has a wealth of understanding and know-how covering a
+              wide variety of different industries. By using blockchains and other technologies and know-how that we have developed up till now, Hitachi will
+              contribute to the building of new customer businesses.
+            homepage_url: https://www.hitachi.co.jp/products/it/blockchain/service/hyperledger/index.html
+            logo: hitachi-stacked-color.svg
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+          - item:
+            name: IBM (HCSP)
+            description: >-
+              IBM has several blockchain products and services that will help accelerate a client’s blockchain success. The IBM Blockchain Platform adds
+              enterprise grade production requirements to Hyperledger Fabric helping clients to build, govern, operate and grow their enterprise blockchain
+              solutions throughout their solutions lifecycle.  This platform is available as SaaS on the IBM Cloud or as Software for multicloud (3 party public
+              clouds) or on-premise infrastructures of your choice.
+            homepage_url: https://www.ibm.com/blockchain
+            logo: ibm-horizontal-color.svg
+            twitter: https://twitter.com/ibmblockchain
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: Information Data Systems (HCSP)
+            description: >-
+              We at IDS, build fit for purpose enterprise blockchain applications with various degrees of decentralization. We have a proprietary Blockchain
+              Transformation Framework to design, develop and deliver blockchain solutions with outcome driven tactical short term and strategic long term value
+              proposition. We have one of our flagship application "Trustflow - coherent supply chain management" and couple of blockchain solutions are powered
+              by Hyperledger Fabric.
+            homepage_url: https://idssoft.com/
+            logo: information_data_systems.svg
+            twitter: https://twitter.com/IDSSOFT
+            crunchbase: https://www.crunchbase.com/organization/information-data-systems-de20
+          - item:
+            name: IntellectEU (HCSP)
+            description: >-
+              IntellectEU is a founding member of the Hyperledger Foundation and has built several production-grade solutions built on Hyperledger Fabric
+              centered around areas such as tokenization and KYC.  Building on our experience with Hyperledger Fabric, we have created the Catalyst Blockchain
+              Platform to simplify the deployment, maintenance, and management of Fabric networks for enterprises.
+            homepage_url: https://intellecteu.com/
+            logo: intellecteu.svg
+            crunchbase: https://www.crunchbase.com/organization/intellecteu
+          - item:
+            name: Kaleido (HCSP)
+            description: >-
+              Kaleido is an enterprise-grade, web3 platform making blockchain and digital assets radically simple for organizations to adopt. Kaleido makes it
+              easy to launch multi-region, multi-cloud blockchain networks on protocols including Hyperledger Fabric, Hyperledger Besu, Ethereum, Polygon Edge,
+              Quorum, and Corda, all backed by Hyperledger FireFly. Kaleido has been powering enterprise blockchain since its inception and is the driving force
+              behind Hyperledger FireFly. We serve on the Governing Board and Technical Oversight Committee for Hyperledger Foundation, and our team contains
+              founding members of Hyperledger Fabric, plus long time committers and maintainers.
+            homepage_url: https://kaleido.io/
+            logo: kaleido.svg
+            crunchbase: https://www.crunchbase.com/organization/kaleido
+          - item:
+            name: KrypC Corp (HCSP)
+            description: >-
+              KrypC is a Blockchain technology venture, backed by seasoned professionals, focused on accelerating adoption of blockchain technology We research,
+              develop and go to market with blockchain-based products; for large enterprises and blockchain start-up ventures to adopt and realize business
+              value. KrypC is a Hyperledger Certified Service Provider (HCSP) with over 150 person years of experience. Since 2016 KrypC has been deploying and
+              managing many HLF programs in production across multiple domains.
+            homepage_url: https://krypc.com/
+            logo: KrypC-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/krypc
+          - item:
+            name: Mindtree (HCSP)
+            description: >-
+              Mindtree has been developing capabilities around Hyperledger for the last four years, started contributing to the Hyperledger community since
+              2017. Mindtree has a product for ‘Loyalty Exchange Platform’, named ‘$wap’, using Hyperledger Fabric. 'Merchant On-Boarding' on blockchain using
+              Hyperledger Fabric, is another product which is also in MVP state. Both the products can be customized easily as per the requirement of the
+              customers.
+            homepage_url: https://www.mindtree.com
+            logo: mindtree-horizontal-color.svg
+            crunchbase: https://www.crunchbase.com/organization/mindtree
+          - item:
+            name: NEC Corporation (HCSP)
+            description: >-
+              NEC Corporation is a leader in the integration of IT and network technologies that benefit businesses and people around the world. NEC brings more
+              than 120 years of expertise in technological innovation to empower people, businesses and society. Recently we are making efforts to resolve the
+              difficulties of traditional blockchain and developing new technology for enterprise use.
+            homepage_url: https://www.nec.com/
+            logo: nec-400x245.svg
+            crunchbase: https://www.crunchbase.com/organization/nec
+          - item:
+            name: Snapper Future Tech (HCSP)
+            description: >-
+              Snapper Future Tech is a global services & technology products company, leading digital transformation for enterprises using blockchain. It offers
+              services in Blockchain application development, training & consulting, along with an innovative suite of specialized products for e-Governance,
+              Financial Services, Insurance, Sustainable Supply Chain & Healthcare. A Hyperledger Certified Service Provider (HCSP) & Training partner (HTP),
+              the company participates in open-source initiatives across the globe & has robust technological alliances & partnerships with Hyperledger, Oracle,
+              Amazon Web Services, IBM, Trust over IP & Sovrin.
+            homepage_url: https://snapperfuturetech.com/
+            logo: snapper_logo_horizontal.svg
+            crunchbase: https://www.crunchbase.com/organization/snapper-future-tech
+          - item:
+            name: Tech Mahindra (HCSP)
+            description: >-
+              Tech Mahindra is one of the leading Blockchain Service Providers in the world with demonstrated product development capabilities using Hyperledger
+              projects by developing 25+ Blockchain platforms and also implemented one of the world’s largest Blockchain networks covering 500 million+
+              subscribers in India to fight spam calls and text. With 250+ global engagements and 100+ core Blockchain team members trained on Hyperledger, we
+              have extensive experience in developing and deploying several transformative implementations for governments, large and mid-sized enterprises
+              across diverse industry verticals that have helped our clients solve complex business problems.
+            homepage_url: https://www.techmahindra.com/en-in/techmnxt/techbets/blockchain/
+            logo: techmahindra-stacked-color.svg
+            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
+          - item:
+            name: Wipro Limited (HCSP)
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/wipro
+  - category:
     name: Hyperledger Training Partners
     subcategories:
       - subcategory:
