@@ -231,6 +231,23 @@ big_picture:
             left: 20
             top: 20
             title: Landscape Logo
+  sixth:
+    tab_index: 4
+    url: training
+    name: Training Partners
+    title: Hyperledger Training Partners
+    fullscreen_header: Hyperledger Training Partners
+    elements:
+      - type: HorizontalCategory
+        category: Hyperledger Training Partners
+        rows: 4
+        width: 240
+        height: 160
+        top: 0
+        left: 0
+        color: rgb(126,115,14)
+        fit_width: true
+    category: Hyperledger Training Partners
 test:
   header: DLT Landscape
   section: Project
