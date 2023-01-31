@@ -21,42 +21,45 @@ twitter:
   url: https://dltlandscape.org
   text: DLT Landscape
 relation:
-  label: Group
-  url: groups
+  label: Hyperledger Relation
+  url: hyperledger
   values:
-    - id: groups
-      label: Groups
+    - id: hosted
+      label: Hyperledger Projects
       children:
-        - id: company
-          tag: Company
-          label: Company
-          color: '#00cbff'
-          big_picture_label: Company
+        - id: graduated
+          label: Graduated Hyperledger Projects
+          prefix: Hyperledger
+          tag: Graduated
+          color: '#3570af'
           big_picture_order: 1
+          big_picture_label: Graduated
           big_picture_color: rgb(24,54,114)
-        - id: project
-          tag: Project
-          label: Project
+        - id: incubating
+          label: Incubating Hyperledger Projects
+          prefix: Hyperledger
+          tag: Incubating
           color: '#00cbff'
-          big_picture_label: Project
-          big_picture_order: 1
-          big_picture_color: rgb(24,54,114)
-        - id: network
-          tag: Network
-          label: Network
-          color: '#00cbff'
-          big_picture_label: Network
-          big_picture_order: 1
-          big_picture_color: rgb(24,54,114)
-        - id: organization
-          tag: Organization
-          label: Organization
-          color: '#00cbff'
-          big_picture_label: Organization
-          big_picture_order: 1
-          big_picture_color: rgb(24,54,114)
+          big_picture_order: 2
+          big_picture_label: Incubating
+          big_picture_color: rgb(83, 113, 189)
+        - id: dormant
+          label: Dormant Hyperledger Projects
+          prefix: Hyperledger
+          tag: Dormant
+          color: '#8f4210'
+          big_picture_order: 3
+          big_picture_label: Dormant
+          big_picture_color: rgb(143,66,16)
+    - id: company
+      label: Hyperledger Members
+      tag: Company
+      big_picture_order: 3
+    - id: member
+      label: Hyperledger Project Member Products/Projects
+      tag: Hyperledger Member
     - id: false
-      label: NA
+      label: Non-Hyperledger Project Member Products/Projects
       url: 'no'
 membership:
   Platinum:
@@ -119,6 +122,7 @@ big_picture:
         top: 0
         left: 0
         color: rgb(153,153,0)
+        is_large: true
       - type: HorizontalCategory
         category: Multiparty Applications
         rows: 4
@@ -127,6 +131,7 @@ big_picture:
         top: 0
         left: 200
         color: rgb(0,181,226)
+        is_large: true
       - type: HorizontalCategory
         category: Application Tooling/Integrations
         rows: 4
@@ -136,6 +141,7 @@ big_picture:
         left: 200
         color: rgb(0,128,255)
         fit_width: false
+        is_large: true
       - type: HorizontalCategory
         category: Smart Contracts/Tokenization
         rows: 4
@@ -145,6 +151,7 @@ big_picture:
         left: 200
         color: rgb(0,128,255)
         fit_width: false
+        is_large: true
       - type: HorizontalCategory
         category: Interoperability
         rows: 4
@@ -154,6 +161,7 @@ big_picture:
         left: 200
         color: rgb(0,128,255)
         fit_width: false
+        is_large: true
       - type: HorizontalCategory
         category: Technology Intersections
         rows: 4
@@ -163,6 +171,7 @@ big_picture:
         left: 200
         color: rgb(0,128,255)
         fit_width: false
+        is_large: true
       - type: HorizontalCategory
         category: Distributed Ledgers
         rows: 6
@@ -172,6 +181,7 @@ big_picture:
         left: 200
         color: rgb(0,128,255)
         fit_width: false
+        is_large: true
       - type: HorizontalCategory
         category: Computing Infrastructure
         rows: 4
@@ -181,6 +191,7 @@ big_picture:
         left: 200
         color: rgb(160,160,160)
         fit_width: false
+        is_large: true
       - type: VerticalCategory
         category: Standards
         cols: 4
@@ -189,6 +200,7 @@ big_picture:
         top: 0
         left: 1125
         color: rgb(218,165,32)
+        is_large: true
       - type: VerticalCategory
         category: Services
         cols: 4
@@ -197,6 +209,7 @@ big_picture:
         top: 0
         left: 1320
         color: rgb(204,0,102)
+        is_large: true
       - type: LandscapeInfo
         width: 430
         height: 280
@@ -231,6 +244,86 @@ big_picture:
             left: 20
             top: 20
             title: Landscape Logo
+  third:
+    tab_index: 1
+    url: projects
+    name: Projects
+    title: Hyperledger Projects
+    fullscreen_header: See the interactive landscape at l.hyperledger.org
+    elements:
+      - type: HorizontalCategory
+        category: Distributed Ledgers
+        rows: 4
+        width: 470
+        height: 160
+        top: 0
+        left: 0
+        color: rgb(4,81,49)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Libraries
+        rows: 4
+        width: 470
+        height: 160
+        top: 170
+        left: 0
+        color: rgb(7,136,62)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Tools
+        rows: 4
+        width: 470
+        height: 160
+        top: 340
+        left: 0
+        color: rgb(126,115,14)
+        fit_width: true
+      - type: HorizontalCategory
+        category: Domain Specific
+        rows: 4
+        width: 240
+        height: 160
+        top: 510
+        left: 0
+        color: rgb(87,43,10)
+        fit_width: true
+    category: Hyperledger Projects
+  fourth:
+    tab_index: 2
+    url: members
+    name: Members
+    title: Hyperledger Members
+    fullscreen_header: Become an Hyperledger member at https://www.hyperledger.org/about/join
+    elements:
+      - type: HorizontalCategory
+        category: Premier
+        width: 900
+        height: 180
+        top: 0
+        left: 0
+        color: '#e5e4e2'
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: General
+        width: 900
+        height: 600
+        top: 175
+        left: 0
+        color: '#d4af37'
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Associate
+        cols: 30
+        width: 1200
+        height: 370
+        top: 775
+        left: 0
+        color: '#C0C0C0'
+        fit_width: true
+        is_large: true
+    category: Hyperledger Members
   fifth:
     tab_index: 3
     url: providers
