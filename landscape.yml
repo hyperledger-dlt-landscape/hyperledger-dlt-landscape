@@ -8,58 +8,69 @@ landscape:
           - item:
             name: Amazon Web Services
             homepage_url: https://aws.amazon.com
+            project: company
             logo: amazon-web-services.svg
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: Equinix
             homepage_url: https://www.equinix.com/
+            project: company
             logo: equinix-logo-vertical.svg
             crunchbase: https://www.crunchbase.com/organization/equinix
           - item:
             name: Google
             homepage_url: https://www.google.com
+            project: company
             logo: google.svg
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: IBM
             homepage_url: https://www.ibm.com
+            project: company
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io
+            project: project
             repo_url: https://github.com/kubernetes/kubernetes
             logo: kubernetes.svg
             crunchbase: https://www.crunchbase.com/organization/kubernetes
           - item:
             name: Microsoft
             homepage_url: https://www.microsoft.com
+            project: company
             logo: microsoft.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Oracle
             homepage_url: https://www.oracle.com
+            project: company
             logo: oracle.svg
             crunchbase: https://www.crunchbase.com/organization/oracle
           - item:
             name: RackN
             homepage_url: https://www.rackn.com
+            project: company
             logo: rackn-v3.svg
             crunchbase: https://www.crunchbase.com/organization/rackn-inc
           - item:
             name: Ridge
             homepage_url: https://www.ridge.co/
+            project: company
             logo: ridge-logo.svg
             crunchbase: https://www.crunchbase.com/organization/tectonic-c189
           - item:
             name: SUSE Rancher
             homepage_url: https://www.suse.com/
+            project: project
             repo_url: https://github.com/rancher/rancher
             logo: rancher-logo.svg
             crunchbase: https://www.crunchbase.com/organization/suse
           - item:
             name: VMware
             homepage_url: https://www.vmware.com
+            project: company
             logo: vmware.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
   - category:
@@ -71,18 +82,21 @@ landscape:
           - item:
             name: ConsenSys Quorum
             homepage_url: https://consensys.net/quorum/
+            project: project
             repo_url: https://github.com/ConsenSys/quorum
             logo: consensys-quorum.svg
             crunchbase: https://www.crunchbase.com/organization/quorum-abb7
           - item:
             name: MultiChain
             homepage_url: https://www.multichain.com
+            project: project
             repo_url: https://github.com/MultiChain/multichain
             logo: multichain-logo-vector-2.svg
             crunchbase: https://www.crunchbase.com/organization/multichain
           - item:
             name: R3 Corda
             homepage_url: https://www.r3.com
+            project: project
             repo_url: https://github.com/corda/corda
             logo: corda.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
@@ -92,12 +106,14 @@ landscape:
           - item:
             name: Dragonchain protocol
             homepage_url: https://dragonchain.com
+            project: project
             repo_url: https://github.com/dragonchain/dragonchain
             logo: dragonchain.svg
             crunchbase: https://www.crunchbase.com/organization/dragonchain-87e5
           - item:
             name: Kadena
             homepage_url: https://www.kadena.io
+            project: company
             logo: kadena.svg
             crunchbase: https://www.crunchbase.com/organization/kadena-llc
       - subcategory:
@@ -106,65 +122,76 @@ landscape:
           - item:
             name: Algorand
             homepage_url: https://www.algorand.com/
+            project: project
             repo_url: https://github.com/algorand/go-algorand
             logo: algorand.svg
             crunchbase: https://www.crunchbase.com/organization/algorand
           - item:
             name: Bitcoin
             homepage_url: https://bitcoin.org/en/
+            project: project
             repo_url: https://github.com/bitcoin/bitcoin
             logo: bitcoin.svg
             crunchbase: https://www.crunchbase.com/organization/bitcoin
           - item:
             name: Cardano
             homepage_url: https://cardano.org/
+            project: project
             repo_url: https://github.com/cardano-foundation/developer-portal
             logo: cardano-logo.svg
             crunchbase: https://www.crunchbase.com/organization/cardano-foundation
           - item:
             name: dfinity
             homepage_url: https://dfinity.org/
+            project: project
             repo_url: https://github.com/dfinity/ic
             logo: dfinity-logo.svg
             crunchbase: https://www.crunchbase.com/organization/dfinity
           - item:
             name: EOSIO
             homepage_url: https://eos.io
+            project: project
             repo_url: https://github.com/EOSIO/eos
             logo: eosio.svg
             crunchbase: https://www.crunchbase.com/organization/block-one
           - item:
             name: Ethereum
             homepage_url: https://ethereum.org/en
+            project: project
             repo_url: https://github.com/ethereum/go-ethereum
             logo: ethereum.svg
             crunchbase: https://www.crunchbase.com/organization/ethereum
           - item:
             name: Hedera Hashgraph
             homepage_url: https://hedera.com
+            project: company
             logo: hedera-hashgraph.svg
             crunchbase: https://www.crunchbase.com/organization/hashgraph
           - item:
             name: IOTA
             homepage_url: https://www.iota.org
+            project: project
             repo_url: https://github.com/iotaledger/protocol-rfcs
             logo: Iota.svg
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
           - item:
             name: Solana
             homepage_url: https://solana.com/
+            project: project
             repo_url: https://github.com/solana-labs/solana
             logo: solana-logo.svg
             crunchbase: https://www.crunchbase.com/organization/solana-io
           - item:
             name: Stellar
             homepage_url: https://www.stellar.org/
+            project: project
             repo_url: https://github.com/stellar/stellar-protocol
             logo: stellar.svg
             crunchbase: https://www.crunchbase.com/organization/stellar
           - item:
             name: Zilliqa
             homepage_url: https://www.zilliqa.com/
+            project: project
             repo_url: https://github.com/Zilliqa/Zilliqa
             logo: zilliqa.svg
             crunchbase: https://www.crunchbase.com/organization/zilliqa
@@ -177,28 +204,33 @@ landscape:
           - item:
             name: Amazon QLDB
             homepage_url: https://aws.amazon.com/qldb/
+            project: company
             logo: amazon-web-services.svg
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: BigchainDB
             homepage_url: https://www.bigchaindb.com
+            project: project
             repo_url: https://github.com/bigchaindb/bigchaindb
             logo: bigchaindb.svg
             crunchbase: https://www.crunchbase.com/organization/bigchaindb
           - item:
             name: Fluree
             homepage_url: https://flur.ee
+            project: company
             repo_url: https://github.com/fluree/db
             logo: fluree.svg
             crunchbase: https://www.crunchbase.com/organization/fluree-pbc
           - item:
             name: Modex
             homepage_url: https://modex.tech
+            project: company
             logo: modex-purple.svg
             crunchbase: https://www.crunchbase.com/organization/modex-2
           - item:
             name: ProvenDB
             homepage_url: https://www.provendb.com
+            project: company
             logo: provendb.svg
             crunchbase: https://www.crunchbase.com/organization/provendb
       - subcategory:
@@ -207,29 +239,34 @@ landscape:
           - item:
             name: Filebase
             homepage_url: https://filebase.com/
+            project: company
             logo: filebase-logo.svg
             crunchbase: https://www.crunchbase.com/organization/filebase-484f
           - item:
             name: Iagon
             homepage_url: https://www.iagon.com/index.html
+            project: project
             repo_url: https://github.com/Iagonorg/IagonCloudApp
             logo: iagon-logo.svg
             crunchbase: https://www.crunchbase.com/organization/iagon
           - item:
             name: IPFS
             homepage_url: https://ipfs.io/
+            project: project
             repo_url: https://github.com/ipfs/ipfs
             logo: ipfs.svg
             crunchbase: https://www.crunchbase.com/organization/ipfs
           - item:
             name: Storj
             homepage_url: https://www.storj.io/
+            project: project
             repo_url: https://github.com/storj/storj
             logo: storj-logo.svg
             crunchbase: https://www.crunchbase.com/organization/storj
           - item:
             name: Taekion
             homepage_url: https://taekion.com
+            project: company
             logo: taekion-silver-outline.svg
             crunchbase: https://www.crunchbase.com/organization/taekion
       - subcategory:
@@ -238,11 +275,13 @@ landscape:
           - item:
             name: Attestiv
             homepage_url: https://attestiv.com/
+            project: company
             logo: attestiv.svg
             crunchbase: https://www.crunchbase.com/organization/attestiv
           - item:
             name: Fetch.AI
             homepage_url: https://fetch.ai
+            project: company
             logo: fetchai.svg
             crunchbase: https://www.crunchbase.com/organization/fetch-ai
       - subcategory:
@@ -251,11 +290,13 @@ landscape:
           - item:
             name: Helium
             homepage_url: https://www.helium.com/
+            project: company
             logo: helium.svg
             crunchbase: https://www.crunchbase.com/organization/helium-systems-inc
           - item:
             name: IoTex
             homepage_url: https://iotex.io/
+            project: company
             logo: iotex-logo.svg
             crunchbase: https://www.crunchbase.com/organization/iotex
       - subcategory:
@@ -264,16 +305,19 @@ landscape:
           - item:
             name: ALTR
             homepage_url: https://www.altr.com/
+            project: company
             logo: altr.svg
             crunchbase: https://www.crunchbase.com/organization/altr-6b82
           - item:
             name: Chainkit
             homepage_url: https://chainkit.com
+            project: company
             logo: chainkit.svg
             crunchbase: https://www.crunchbase.com/organization/pencildata-inc
           - item:
             name: Cryptowerk
             homepage_url: https://cryptowerk.com
+            project: company
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/cryptowerk
   - category:
@@ -285,24 +329,28 @@ landscape:
           - item:
             name: Aion
             homepage_url: https://aion.theoan.com/
+            project: project
             repo_url: https://github.com/aionnetwork/aion
             logo: aion.svg
             crunchbase: https://www.crunchbase.com/organization/the-aion-network
           - item:
             name: Cosmos
             homepage_url: https://cosmos.network
+            project: project
             repo_url: https://github.com/cosmos/cosmos
             logo: cosmos.svg
             crunchbase: https://www.crunchbase.com/organization/cosmos-network
           - item:
             name: Polkadot
             homepage_url: https://polkadot.network
+            project: project
             repo_url: https://github.com/paritytech/polkadot
             logo: polkadot.svg
             crunchbase: https://www.crunchbase.com/organization/polkadot
           - item:
             name: Polygon
             homepage_url: https://polygon.technology/
+            project: project
             repo_url: https://github.com/0xPolygon/polygon-edge
             logo: polygon.svg
             crunchbase: https://www.crunchbase.com/organization/polygontechnology
@@ -312,23 +360,27 @@ landscape:
           - item:
             name: Canton
             homepage_url: https://www.canton.io/
+            project: company
             logo: digital-asset.svg
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
           - item:
             name: Chainlink
             homepage_url: https://chain.link/
+            project: company
             repo_url: https://github.com/smartcontractkit/chainlink
             logo: chainlink.svg
             crunchbase: https://www.crunchbase.com/organization/chainlink
           - item:
             name: Interledger
             homepage_url: https://interledger.org/
+            project: project
             repo_url: https://github.com/interledger/rfcs
             logo: interledger-logo.svg
             crunchbase: https://www.crunchbase.com/organization/interledger
           - item:
             name: Quant Network/Overledger
             homepage_url: https://www.quant.network
+            project: company
             logo: quant-network.svg
             crunchbase: https://www.crunchbase.com/organization/quant-network
   - category:
@@ -340,54 +392,63 @@ landscape:
           - item:
             name: Chaincode
             homepage_url: https://www.hyperledger.org/use/fabric
+            project: project
             repo_url: https://github.com/hyperledger/fabric-chaincode-go
             logo: hyperledger-fabric.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
           - item:
             name: Daml
             homepage_url: https://daml.com
+            project: project
             repo_url: https://github.com/digital-asset/daml
             logo: daml.svg
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
           - item:
             name: Pact
             homepage_url: https://www.kadena.io
+            project: company
             repo_url: https://github.com/kadena-io/pact
             logo: kadena.svg
             crunchbase: https://www.crunchbase.com/organization/kadena-llc
           - item:
             name: Scilla
             homepage_url: https://scilla-lang.org/
+            project: project
             repo_url: https://github.com/Zilliqa/scilla
             logo: zilliqa.svg
             crunchbase: https://www.crunchbase.com/organization/zilliqa
           - item:
             name: Script
             homepage_url: https://bitcoin.org/en
+            project: project
             repo_url: https://github.com/bitcoin-core/btcdeb
             logo: bitcoin.svg
             crunchbase: https://www.crunchbase.com/organization/bitcoin
           - item:
             name: Smart Filter
             homepage_url: https://www.multichain.com
+            project: company
             repo_url: https://github.com/MultiChain/smart-filter-examples
             logo: multichain-logo-vector-2.svg
             crunchbase: https://www.crunchbase.com/organization/multichain
           - item:
             name: Solidity
             homepage_url: https://ethereum.org/en/developers/docs/smart-contracts/languages/
+            project: project
             repo_url: https://github.com/ethereum/solidity
             logo: solidity.svg
             crunchbase: https://www.crunchbase.com/organization/ethereum
           - item:
             name: Vyper
             homepage_url: https://ethereum.org/en/developers/docs/smart-contracts/languages/
+            project: project
             repo_url: https://github.com/vyperlang/vyper
             logo: vyper-logo.svg
             crunchbase: https://www.crunchbase.com/organization/ethereum
           - item:
             name: WebAssembly
             homepage_url: https://webassembly.org/
+            project: project
             repo_url: https://github.com/WebAssembly/binaryen
             logo: wasm-logo.svg
             crunchbase: https://www.crunchbase.com/organization/webassembly
@@ -397,28 +458,33 @@ landscape:
           - item:
             name: Accord Project
             homepage_url: https://accordproject.org/
+            project: project
             repo_url: https://github.com/accordproject/cicero
             logo: accord.svg
             crunchbase: https://www.crunchbase.com/organization/accord-project
           - item:
             name: Chronicled
             homepage_url: https://www.chronicled.com
+            project: company
             logo: chronicled.svg
             crunchbase: https://www.crunchbase.com/organization/chronicled
           - item:
             name: Clause
             homepage_url: https://clause.io
+            project: company
             repo_url: https://github.com/clauseHQ/clause-model-library
             logo: clauseio.svg
             crunchbase: https://www.crunchbase.com/organization/clause
           - item:
             name: Monax
             homepage_url: https://monax.io
+            project: company
             logo: monax.svg
             crunchbase: https://www.crunchbase.com/organization/eris-industries
           - item:
             name: OpenLaw
             homepage_url: https://www.openlaw.io
+            project: project
             repo_url: https://github.com/openlawteam/openlaw-core
             logo: openlaw.svg
             crunchbase: https://www.crunchbase.com/organization/openlaw
@@ -428,6 +494,7 @@ landscape:
           - item:
             name: ERC
             homepage_url: https://ethereum.org/en
+            project: project
             repo_url: https://github.com/ethereum/EIPs
             logo: ethereum.svg
             crunchbase: https://www.crunchbase.com/organization/ethereum
@@ -437,23 +504,27 @@ landscape:
           - item:
             name: Block.io
             homepage_url: https://block.io/
+            project: company
             repo_url: https://github.com/BlockIo/block_io-php
             logo: blockio.svg
             crunchbase: https://www.crunchbase.com/organization/block-io-inc-
           - item:
             name: Chainweaver
             homepage_url: https://www.kadena.io
+            project: company
             repo_url: https://github.com/kadena-io/chainweaver
             logo: kadena.svg
             crunchbase: https://www.crunchbase.com/organization/kadena-llc
           - item:
             name: DFNS
             homepage_url: https://www.dfns.co/
+            project: company
             logo: dfns.svg
             crunchbase: https://www.crunchbase.com/organization/xkey
           - item:
             name: MetaMask
             homepage_url: https://metamask.io
+            project: project
             repo_url: https://github.com/MetaMask/metamask-docs
             logo: metamask.svg
             crunchbase: https://www.crunchbase.com/organization/metamask
@@ -466,17 +537,20 @@ landscape:
           - item:
             name: Azure Blockchain Workbench
             homepage_url: https://azure.microsoft.com/en-us/features/blockchain-workbench/
+            project: company
             logo: microsoft.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Truffle Suite
             homepage_url: https://www.trufflesuite.com
+            project: company
             repo_url: https://github.com/trufflesuite/truffle
             logo: truffle-suite.svg
             crunchbase: https://www.crunchbase.com/organization/truffle-suite
           - item:
             name: Web3 Labs/Epirus
             homepage_url: https://www.web3labs.com
+            project: company
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
       - subcategory:
@@ -485,16 +559,19 @@ landscape:
           - item:
             name: Elliptic
             homepage_url: https://www.elliptic.co/
+            project: company
             logo: elliptic-logo.svg
             crunchbase: https://www.crunchbase.com/organization/elliptic
           - item:
             name: Metrika
             homepage_url: https://www.metrika.co/
+            project: company
             logo: metrika-logo.svg
             crunchbase: https://www.crunchbase.com/organization/metrika-3908
           - item:
             name: Quant Network/seeQ
             homepage_url: https://www.quant.network
+            project: company
             logo: quant-network.svg
             crunchbase: https://www.crunchbase.com/organization/quant-network
       - subcategory:
@@ -503,31 +580,37 @@ landscape:
           - item:
             name: BTP Chronicle
             homepage_url: https://btp.works
+            project: company
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
           - item:
             name: Finboot Track&Trace/Blockstamp
             homepage_url: https://www.finboot.com/
+            project: company
             logo: finboot.svg
             crunchbase: https://www.crunchbase.com/organization/finboot
           - item:
             name: Ping Identity/Shocard
             homepage_url: https://www.shocard.com
+            project: company
             logo: ping-identity.svg
             crunchbase: https://www.crunchbase.com/organization/shocard-inc
           - item:
             name: Salesforce Blockchain
             homepage_url: https://www.salesforce.com
+            project: company
             logo: salesforce.svg
             crunchbase: https://www.crunchbase.com/organization/salesforce
           - item:
             name: SAP ICH for Life Sciences
             homepage_url: https://www.sap.com/index.html
+            project: company
             logo: sap.svg
             crunchbase: https://www.crunchbase.com/organization/sap
           - item:
             name: Vottun Credentials
             homepage_url: https://vottun.com
+            project: company
             logo: votton.svg
             crunchbase: https://www.crunchbase.com/organization/vottun
   - category:
@@ -539,56 +622,67 @@ landscape:
           - item:
             name: AgriLedger
             homepage_url: http://www.agriledger.io/
+            project: company
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/agriledger
           - item:
             name: BondbloX
             homepage_url: https://www.bondblox.com/
+            project: company
             logo: bondblox.svg
             crunchbase: https://www.crunchbase.com/organization/bondevalue
           - item:
             name: Databroker
             homepage_url: https://www.databroker.global
+            project: company
             logo: databroker.svg
             crunchbase: https://www.crunchbase.com/organization/databroker-dao
           - item:
             name: Epidaurus Health
             homepage_url: https://www.epidaurus.health/
+            project: company
             logo: epidaurus-RGB.svg
             crunchbase: https://www.crunchbase.com/organization/epidaurus-health
           - item:
             name: GrainChain
             homepage_url: https://www.grainchain.io
+            project: company
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/grainchain
           - item:
             name: IBM Food Trust
             homepage_url: https://www.ibm.com/blockchain/solutions/food-trust
+            project: company
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: LiquidShare
             homepage_url: https://liquidshare.io/
+            project: company
             logo: liquidshare-logo.svg
             crunchbase: https://www.crunchbase.com/organization/liquidshare
           - item:
             name: MediLedger
             homepage_url: https://www.mediledger.com
+            project: network
             logo: mediledger.svg
             crunchbase: https://www.crunchbase.com/organization/mediledger
           - item:
             name: PharmaLedger
             homepage_url: https://pharmaledger.eu/
+            project: network
             logo: pharmaledger.svg
             crunchbase: https://www.crunchbase.com/organization/pharmaledger
           - item:
             name: Public Mint
             homepage_url: https://publicmint.com/
+            project: company
             logo: publicmint.svg
             crunchbase: https://www.crunchbase.com/organization/public-mint
           - item:
             name: WAX Marketplace
             homepage_url: https://marketplace.wax.io
+            project: company
             logo: wax.svg
             crunchbase: https://www.crunchbase.com/organization/wax-f984
   - category:
@@ -600,66 +694,79 @@ landscape:
           - item:
             name: Amazon Managed Blockchain
             homepage_url: https://aws.amazon.com/managed-blockchain/
+            project: company
             logo: amazon-web-services.svg
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: BlockApps STRATO
             homepage_url: https://blockapps.net
+            project: company
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/blockapps
           - item:
             name: Blockdaemon
             homepage_url: https://blockdaemon.com/
+            project: company
             logo: blockdaemon.svg
             crunchbase: https://www.crunchbase.com/organization/blockdaemon
           - item:
             name: BTP
             homepage_url: https://btp.works
+            project: company
             logo: btp-works.svg
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
           - item:
             name: Chainstack
             homepage_url: https://chainstack.com
+            project: company
             logo: chainstack.svg
             crunchbase: https://www.crunchbase.com/organization/chainstack
           - item:
             name: Dragonchain
             homepage_url: https://dragonchain.com
+            project: company
             logo: dragonchain.svg
             crunchbase: https://www.crunchbase.com/organization/dragonchain-87e5
           - item:
             name: Finboot MARCO
             homepage_url: https://www.finboot.com
+            project: company
             logo: finboot.svg
             crunchbase: https://www.crunchbase.com/organization/finboot
           - item:
             name: First Genesis Xenese
             homepage_url: https://firstgenesis.com
+            project: company
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/first-genesis
           - item:
             name: IBM Blockchain Platform
             homepage_url: https://www.ibm.com/blockchain/platform
+            project: company
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: IntellectEU Catalyst Blockchain Platform
             homepage_url: https://catalyst.intellecteu.com
+            project: company
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
             name: Oracle Blockchain Platform
             homepage_url: https://www.oracle.com/blockchain
+            project: company
             logo: oracle.svg
             crunchbase: https://www.crunchbase.com/organization/oracle
           - item:
             name: SettleMint
             homepage_url: https://www.settlemint.com
+            project: company
             logo: settlemint.svg
             crunchbase: https://www.crunchbase.com/organization/settlemint-nv
           - item:
             name: VMware Blockchain
             homepage_url: https://www.vmware.com/products/blockchain.html
+            project: company
             logo: vmware.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
   - category:
@@ -671,26 +778,31 @@ landscape:
           - item:
             name: BSI PAS 19668
             homepage_url: https://www.bsigroup.com/
+            project: organization
             logo: bsi-logo.svg
             crunchbase: https://www.crunchbase.com/organization/bsi
           - item:
             name: EEA
             homepage_url: https://entethalliance.org/
+            project: organization
             logo: eea-logo.svg
             crunchbase: https://www.crunchbase.com/organization/enterprise-ethereum-alliance
           - item:
             name: GS1
             homepage_url: https://www.gs1.org/
+            project: organization
             logo: GS1-logo.svg
             crunchbase: https://www.crunchbase.com/organization/gs1
           - item:
             name: TTF
             homepage_url: https://interwork.org
+            project: organization
             logo: iwa.svg
             crunchbase: https://www.crunchbase.com/organization/interwork-alliance-e317
           - item:
             name: W3C
             homepage_url: https://www.w3.org/
+            project: organization
             logo: W3C-logo.svg
             crunchbase: https://www.crunchbase.com/organization/w3c-e64a
   - category:
@@ -702,61 +814,73 @@ landscape:
           - item:
             name: Accenture
             homepage_url: https://www.accenture.com/
+            project: company
             logo: accenture.svg
             crunchbase: https://www.crunchbase.com/organization/accenture
           - item:
             name: Atos
             homepage_url: https://atos.net/en
+            project: company
             logo: atos.svg
             crunchbase: https://www.crunchbase.com/organization/atos
           - item:
             name: Capgemini
             homepage_url: https://www.capgemini.com
+            project: company
             logo: capgemini.svg
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
           - item:
             name: Deloitte
             homepage_url: https://www2.deloitte.com
+            project: company
             logo: deloitte.svg
             crunchbase: https://www.crunchbase.com/organization/deloitte
           - item:
             name: Ernst & Young
             homepage_url: https://www.ey.com/en_gl
+            project: company
             logo: ey.svg
             crunchbase: https://www.crunchbase.com/organization/ernst-young
           - item:
             name: Fujitsu
             homepage_url: https://www.fujitsu.com/global
+            project: company
             logo: fujitsu.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
             name: GFT
             homepage_url: https://www.gft.com
+            project: company
             logo: gft.svg
             crunchbase: https://www.crunchbase.com/organization/gft-com
           - item:
             name: Infosys
             homepage_url: https://www.infosys.com
+            project: company
             logo: infosys-limited.svg
             crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
             name: Innominds
             homepage_url: https://www.innominds.com
+            project: company
             logo: Innomindsnew.svg
             crunchbase: https://www.crunchbase.com/organization/innominds-software-pvt-ltd
           - item:
             name: Rethink Ledgers
             homepage_url: https://www.rtledgers.com
+            project: company
             logo: rethinkledgers.svg
             crunchbase: https://www.crunchbase.com/organization/rethink-ledgers
           - item:
             name: UST
             homepage_url: https://www.ust.com
+            project: company
             logo: ust.svg
             crunchbase: https://www.crunchbase.com/organization/ust
           - item:
             name: Web3 Labs
             homepage_url: https://www.web3labs.com
+            project: company
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
   - category:
@@ -1243,6 +1367,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/casperlabs
           - item:
             name: Chainyard
+            project: company
             second_path: Services / Consulting/Professional Services
             homepage_url: https://chainyard.com/
             logo: chainyard.svg
@@ -1390,6 +1515,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/integra-ledger
           - item:
             name: IntellectEU
+            project: company
             second_path: Services / Consulting/Professional Services
             homepage_url: https://intellecteu.com/
             logo: intellecteu.svg
@@ -1423,6 +1549,7 @@ landscape:
           - item:
             name: Kaleido
             second_path: Platforms / Management/Operations
+            project: company
             homepage_url: https://kaleido.io/
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
@@ -1470,6 +1597,7 @@ landscape:
             logo: nextgen_tek_consulting.svg
             crunchbase: https://www.crunchbase.com/organization/nextgen-tek-consulting
           - item:
+            project: company
             name: NTT DATA
             second_path: Services / Consulting/Professional Services
             homepage_url: https://nttdata.com/
@@ -1528,6 +1656,7 @@ landscape:
           - item:
             name: SIMBA Chain
             second_path: Platforms / Management/Operations
+            project: company
             homepage_url: https://simbachain.com/
             logo: simba_chain.svg
             twitter: https://twitter.com/SIMBAchain
@@ -1768,6 +1897,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hogeschool-west-vlaanderen
           - item:
             name: INATBA
+            project: company
             second_path: Standards / Standards
             homepage_url: https://inatba.org/
             logo: inatba.svg

@@ -25,8 +25,36 @@ relation:
   url: hyperledger
   values:
     - id: hosted
-      label: Hyperledger Projects
+      label: Projects
       children:
+        - id: company
+          tag: Company
+          label: Company
+          color: '#00cbff'
+          big_picture_label: Company
+          big_picture_order: 1
+          big_picture_color: rgb(24,54,114)
+        - id: project
+          tag: Project
+          label: Project
+          color: '#00cbff'
+          big_picture_label: Project
+          big_picture_order: 1
+          big_picture_color: rgb(24,54,114)
+        - id: network
+          tag: Network
+          label: Network
+          color: '#00cbff'
+          big_picture_label: Network
+          big_picture_order: 1
+          big_picture_color: rgb(24,54,114)
+        - id: organization
+          tag: Organization
+          label: Organization
+          color: '#00cbff'
+          big_picture_label: Organization
+          big_picture_order: 1
+          big_picture_color: rgb(24,54,114)
         - id: graduated
           label: Graduated Hyperledger Projects
           prefix: Hyperledger
@@ -51,10 +79,6 @@ relation:
           big_picture_order: 3
           big_picture_label: Dormant
           big_picture_color: rgb(143,66,16)
-    - id: company
-      label: Hyperledger Members
-      tag: Company
-      big_picture_order: 3
     - id: member
       label: Hyperledger Project Member Products/Projects
       tag: Hyperledger Member
