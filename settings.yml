@@ -6,15 +6,16 @@ global:
   short_domain: https://dltlandscape.org
   company_url: https://dltlandscape.org
   email: dltlandscape@blockchaintp.com
-  membership: Members
+  membership: Hyperledger Members
   meta:
     title: DLT Landscape
     description: A living market landscape with a technology foundation, created by and for the DLT community
     twitter: '@dltlandscape'
   flags:
+    gray_large_items: true
     companies: false
     hide_license_for_categories:
-      - Members
+      - Hyperledger Members
   hide_best_practices: true
 twitter:
   search: dltlandscape.org
@@ -71,14 +72,6 @@ relation:
           big_picture_order: 2
           big_picture_label: Incubating
           big_picture_color: rgb(83, 113, 189)
-        - id: dormant
-          label: Dormant Hyperledger Projects
-          prefix: Hyperledger
-          tag: Dormant
-          color: '#8f4210'
-          big_picture_order: 3
-          big_picture_label: Dormant
-          big_picture_color: rgb(143,66,16)
     - id: member
       label: Hyperledger Project Member Products/Projects
       tag: Hyperledger Member
@@ -86,20 +79,19 @@ relation:
       label: Non-Hyperledger Project Member Products/Projects
       url: 'no'
 membership:
-  Platinum:
-    name: Platinum
-    label: Platinum Member
-    funding: Platinum
+  Premier:
+    name: Hyperledger
+    label: Member
+    funding: Premier
     is_large: true
-  Gold:
-    name: Gold
-    label: Gold Member
-    funding: Gold
-    is_large: true
-  Silver:
-    name: Silver
-    label: Silver Member
-    funding: Silver
+  General:
+    name: Hyperledger
+    label: Member
+    funding: General
+  Associate:
+    name: Hyperledger
+    label: Member
+    funding: Associate
   linux_foundation:
     name: LF
     label: Project
