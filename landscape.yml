@@ -884,18 +884,6 @@ landscape:
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
   - category:
-    name: Members
-    subcategories:
-      - subcategory:
-        name: Platinum
-        items: []
-      - subcategory:
-        name: Gold
-        items: []
-      - subcategory:
-        name: Silver
-        items: []
-  - category:
     name: Hyperledger Projects
     subcategories:
       - subcategory:
