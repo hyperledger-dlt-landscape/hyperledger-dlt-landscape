@@ -582,7 +582,7 @@ landscape:
             homepage_url: https://btp.works
             project: company
             logo: chronicle-dark.svg
-            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
+            crunchbase: https://www.crunchbase.com/organization/btpworks
           - item:
             name: Finboot Track&Trace/Blockstamp
             homepage_url: https://www.finboot.com/
@@ -714,7 +714,7 @@ landscape:
             homepage_url: https://btp.works
             project: company
             logo: btp-works.svg
-            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
+            crunchbase: https://www.crunchbase.com/organization/btpworks
           - item:
             name: Chainstack
             homepage_url: https://chainstack.com
