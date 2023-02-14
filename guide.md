@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 This is a living segmentation of the evolving blockchain, and distributed ledger technology (DLT) space, more broadly.
 Its creation was inspired by the growing complexity of this emerging market, and in particular, all the innovation
 happening outside the core DLT development area.
@@ -11,7 +11,7 @@ The computing infrastructure layer at the bottom of the landscape includes servi
 and cloud worlds, and vendors of container and virtualization technologies, as well as serverless computing.
 </section>
 
-<section data-subcategory="Distributed Ledgers">
+<section data-category="Distributed Ledgers">
 The distributed ledger layer includes blockchains and other types of distributed ledgers that are available today.
 We differentiate between permissioned, permissionless, and hybrid distributed ledgers. Since the launch of the
 Bitcoin blockchain over a decade ago, a number of protocols have emerged catering to enterprise-focused use cases
@@ -19,20 +19,20 @@ and a variety of application areas. Organizations continue to use a variety of d
 decisions based on use-case requirements, existing technical skills, and vendor relationships.
 </section>
 
-<section data-subcategory="Technology Intersections">
+<section data-category="Technology Intersections">
 With distributed ledgers hardly living in isolation, and the myriad of application areas where technology combos can
 provide powerful value propositions, we believe that technology intersections, whether AI, IoT or other, are critical
 for DLT adoption, and that is what the technology intersections layer represents in the landscape.
 </section>
 
-<section data-subcategory="Interoperability">
+<section data-category="Interoperability">
 As we are currently living in a multi-ledger world, and not forgetting about the variety of IT systems that
 organizations use, interoperability in the DLT space is critical to allow people, organizations,
 and machines to transact smoothly and seamlessly. This layer includes projects and offerings focused on
 interoperability among different ledgers as well as with other systems.
 </section>
 
-<section data-subcategory="Smart Contracts/Tokenization">
+<section data-category="Smart Contracts/Tokenization">
 Smart contracts, digital tokens, and wallets – included in this layer – also play an important role in the
 DLT landscape. Smart contracts have become known to the world as transaction protocols running on a distributed ledger,
 embodying the self-enforcing business logic of a multiparty application. Smart contracts formalize and automate the
@@ -43,24 +43,27 @@ assets – e.g. money, identity data, academic and professional credentials, med
  and organizations to easily and instantly transact.
 </section>
 
-<section data-subcategory="Application Tooling/Integrations">
+<section data-category="Application Tooling/Integrations">
 This is a layer dedicated to application development tools and platforms, analytics and monitoring tools, as well as
 business application integrations. It includes projects and offerings that are meant to make developers’ lives easier,
 and improve the usability of distributed ledgers and associated technologies.
 </section>
 
-<section data-subcategory="Multiparty Applications">
+<section data-category="Multiparty Applications">
 This layer at the top of the landscape mirrors the availability of a wide range of industry-specific implementations,
 ranging from business networks that enable the traceability of specific assets, as well as decentralized marketplaces
 for trading data, and other assets like in-game collectibles.
 </section>
 
-<section data-subcategory="Platforms/Services">
+<section data-category="Services">
 Overcoming shortages in IT skills and resources is a key challenge associated with DLT, and platform vendors and
 professional services providers seek to address that, by freeing organizations from the pains involved with building
 and running blockchain networks and applications.
 </section>
 
+<section data-category="Standards">
+About standards
+</section>
 <section data-subcategory="Standards">
 Standards organizations work to create uniformity across technology vendors, service providers, end-user organizations,
 consumers, government agencies, and other parties regarding terminology, specifications, protocols, best practices,
