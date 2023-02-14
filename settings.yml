@@ -134,7 +134,7 @@ big_picture:
         category: Platforms
         cols: 4
         width: 175
-        height: 1460
+        height: 1520
         top: 0
         left: 0
         color: rgb(153,153,0)
@@ -160,9 +160,9 @@ big_picture:
         is_large: true
       - type: HorizontalCategory
         category: Smart Contracts/Tokenization
-        rows: 4
+        rows: 6
         width: 900
-        height: 180
+        height: 240
         top: 400
         left: 200
         color: rgb(0,128,255)
@@ -173,7 +173,7 @@ big_picture:
         rows: 4
         width: 900
         height: 180
-        top: 600
+        top: 680
         left: 200
         color: rgb(0,128,255)
         fit_width: false
@@ -183,7 +183,7 @@ big_picture:
         rows: 4
         width: 900
         height: 180
-        top: 800
+        top: 900
         left: 200
         color: rgb(0,128,255)
         fit_width: false
@@ -192,8 +192,8 @@ big_picture:
         category: Distributed Ledgers
         rows: 6
         width: 900
-        height: 260
-        top: 1000
+        height: 220
+        top: 1100
         left: 200
         color: rgb(0,128,255)
         fit_width: false
@@ -203,7 +203,7 @@ big_picture:
         rows: 4
         width: 900
         height: 180
-        top: 1280
+        top: 1340
         left: 200
         color: rgb(160,160,160)
         fit_width: false
@@ -212,7 +212,7 @@ big_picture:
         category: Standards
         cols: 4
         width: 175
-        height: 1460
+        height: 1520
         top: 0
         left: 1125
         color: rgb(218,165,32)
@@ -221,7 +221,7 @@ big_picture:
         category: Services
         cols: 4
         width: 175
-        height: 1460
+        height: 1520
         top: 0
         left: 1320
         color: rgb(204,0,102)
@@ -229,7 +229,7 @@ big_picture:
       - type: LandscapeInfo
         width: 430
         height: 280
-        top: 1480
+        top: 1540
         left: 0
         children:
           - type: text
