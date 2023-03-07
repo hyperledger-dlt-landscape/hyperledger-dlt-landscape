@@ -4,7 +4,7 @@ Its creation was inspired by the growing complexity of this emerging market, and
 happening outside the core DLT development area.
 
 This landscape both reflects and deciphers the complexity of today's vendor landscape. It includes all the
-Hyperledger Foundation projects – graduated and incubating – and places them in the broader market context.
+Hyperledger Foundation projects - graduated and incubating - and places them in the broader market context.
 
 <section data-category="Computing Infrastructure">
 The computing infrastructure layer at the bottom of the landscape includes service providers from the datacenter
@@ -33,19 +33,19 @@ interoperability among different ledgers as well as with other systems.
 </section>
 
 <section data-category="Smart Contracts/Tokenization">
-Smart contracts, digital tokens, and wallets – included in this layer – also play an important role in the
+Smart contracts, digital tokens, and wallets - included in this layer - also play an important role in the
 DLT landscape. Smart contracts have become known to the world as transaction protocols running on a distributed ledger,
 embodying the self-enforcing business logic of a multiparty application. Smart contracts formalize and automate the
 relationships between individuals, organizations, and machines that participate in a network. Digital tokens can
-improve the accessibility, efficiency, liquidity and transparency of existing asset markets, whether that’s money,
+improve the accessibility, efficiency, liquidity and transparency of existing asset markets, whether that's money,
 commodities, diamonds, or a piece of art. Digital wallets are software applications that store and manage
-assets – e.g. money, identity data, academic and professional credentials, medical records – and allow people
+assets - e.g. money, identity data, academic and professional credentials, medical records - and allow people
  and organizations to easily and instantly transact.
 </section>
 
 <section data-category="Application Tooling/Integrations">
 This is a layer dedicated to application development tools and platforms, analytics and monitoring tools, as well as
-business application integrations. It includes projects and offerings that are meant to make developers’ lives easier,
+business application integrations. It includes projects and offerings that are meant to make developers' lives easier,
 and improve the usability of distributed ledgers and associated technologies.
 </section>
 
