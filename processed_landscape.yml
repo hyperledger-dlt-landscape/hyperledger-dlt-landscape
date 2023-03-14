@@ -7370,18 +7370,18 @@ landscape:
             homepage_url: https://btp.works
             project: company
             logo: chronicle-dark.svg
-            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
+            crunchbase: https://www.crunchbase.com/organization/btpworks
             crunchbase_data:
               name: BTP
-              description: Blockchain Technology Partners is an enterprise blockchain company that enables multiparty innovation
+              description: BTP is a digital provenance company with a mission to make assets trustworthy
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://blockchaintp.com
+              homepage: https://btp.works
               city: Edinburgh
               region: Edinburgh, City of
               country: United Kingdom
               twitter: https://twitter.com/blockchaintp
-              linkedin: https://www.linkedin.com/company/blockchaintp
+              linkedin: https://www.linkedin.com/company/btpworks
               acquisitions: []
               parents: []
               funding: 2765674
@@ -7389,6 +7389,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Blockchain
+                - Enterprise Software
                 - Information Services
                 - Information Technology
               kind: funding
@@ -7921,7 +7922,7 @@ landscape:
           - item:
             name: BondbloX
             homepage_url: https://www.bondblox.com/
-            project: company
+            project: non-hyperledger-member-services
             logo: bondblox.svg
             crunchbase: https://www.crunchbase.com/organization/bondevalue
             crunchbase_data:
@@ -8855,18 +8856,18 @@ landscape:
             homepage_url: https://btp.works
             project: company
             logo: btp-works.svg
-            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
+            crunchbase: https://www.crunchbase.com/organization/btpworks
             crunchbase_data:
               name: BTP
-              description: Blockchain Technology Partners is an enterprise blockchain company that enables multiparty innovation
+              description: BTP is a digital provenance company with a mission to make assets trustworthy
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://blockchaintp.com
+              homepage: https://btp.works
               city: Edinburgh
               region: Edinburgh, City of
               country: United Kingdom
               twitter: https://twitter.com/blockchaintp
-              linkedin: https://www.linkedin.com/company/blockchaintp
+              linkedin: https://www.linkedin.com/company/btpworks
               acquisitions: []
               parents: []
               funding: 2765674
@@ -8874,6 +8875,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Blockchain
+                - Enterprise Software
                 - Information Services
                 - Information Technology
               kind: funding

@@ -628,7 +628,7 @@ landscape:
           - item:
             name: BondbloX
             homepage_url: https://www.bondblox.com/
-            project: company
+            project: non-hyperledger-member-services
             logo: bondblox.svg
             crunchbase: https://www.crunchbase.com/organization/bondevalue
           - item:
