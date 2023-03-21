@@ -13,7 +13,6 @@ global:
     twitter: '@dltlandscape'
   flags:
     gray_large_items: true
-    only_large_items: true
     companies: false
     hide_license_for_categories:
       - Hyperledger Members
@@ -80,11 +79,11 @@ relation:
       big_picture_order: 1
       big_picture_color: rgb(24,54,114)
     - id: company
-      tag: Company(remove)
-      label: Company(remove)
+      tag: Company
+      label: Company
       big_picture_label: Company
-      big_picture_color: rgb(0,0,0)
-      color: '#000000'
+      big_picture_color: rgb(24,54,114)
+      color: rgb(24,54,114)
     - id: project
       tag: Project(remove)
       label: Project(remove)
@@ -92,11 +91,10 @@ relation:
       big_picture_color: rgb(0,0,0)
       color: '#000000'
     - id: member
-      tag: Member(remove)
-      label: Member(remove)
+      tag: Member
+      label: Member
       big_picture_label: Member
-      big_picture_color: rgb(0,0,0)
-      color: '#000000'
+      big_picture_color: rgb(24,54,114)
     - id: false
       tag: Other(remove)
       label: Other(remove)
@@ -108,7 +106,6 @@ membership:
     name: Hyperledger
     label: Member
     funding: Premier
-    is_large: true
   General:
     name: Hyperledger
     label: Member
