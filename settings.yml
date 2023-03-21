@@ -106,6 +106,7 @@ membership:
     name: Hyperledger
     label: Member
     funding: Premier
+    is_large: true
   General:
     name: Hyperledger
     label: Member
