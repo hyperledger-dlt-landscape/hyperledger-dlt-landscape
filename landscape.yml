@@ -578,9 +578,10 @@ landscape:
         name: Application integrations
         items:
           - item:
-            name: BTP Chronicle
-            homepage_url: https://btp.works
-            project: company
+            name: Chronicle
+            homepage_url: https://btp.works/chronicle
+            project: project
+            repo_url: https://github.com/btpworks/chronicle
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/btpworks
           - item:
@@ -628,7 +629,7 @@ landscape:
           - item:
             name: BondbloX
             homepage_url: https://www.bondblox.com/
-            project: company
+            project: non-hyperledger-member-services
             logo: bondblox.svg
             crunchbase: https://www.crunchbase.com/organization/bondevalue
           - item:

@@ -28,34 +28,6 @@ relation:
     - id: hosted
       label: Projects
       children:
-        - id: company
-          tag: Company
-          label: Company
-          color: '#00cbff'
-          big_picture_label: Company
-          big_picture_order: 1
-          big_picture_color: rgb(24,54,114)
-        - id: project
-          tag: Project
-          label: Project
-          color: '#00cbff'
-          big_picture_label: Project
-          big_picture_order: 1
-          big_picture_color: rgb(24,54,114)
-        - id: network
-          tag: Network
-          label: Network
-          color: '#00cbff'
-          big_picture_label: Network
-          big_picture_order: 1
-          big_picture_color: rgb(24,54,114)
-        - id: organization
-          tag: Organization
-          label: Organization
-          color: '#00cbff'
-          big_picture_label: Organization
-          big_picture_order: 1
-          big_picture_color: rgb(24,54,114)
         - id: graduated
           label: Graduated Hyperledger Projects
           prefix: Hyperledger
@@ -72,12 +44,63 @@ relation:
           big_picture_order: 2
           big_picture_label: Incubating
           big_picture_color: rgb(83, 113, 189)
-    - id: member
+    - id: hyperledger-member-services
+      label: Hyperledger Member Services
+      big_picture_label: Hyperledger Services
+      big_picture_color: rgb(24,54,114)
+      tag: Hyperledger Member Services
+    - id: hyperledger-member-products
       label: Hyperledger Project Member Products/Projects
+      big_picture_label: Hyperledger Products
+      big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member
+    - id: non-hyperledger-member-services
+      label: Non Hyperledger Project Member Services
+      big_picture_label: Other Services
+      big_picture_color: rgb(24,54,114)
+      tag: Hyperledger Member
+    - id: non-hyperledger-member-products
+      label: Non Hyperledger Project Member Products/Projects
+      big_picture_label: Other Products
+      big_picture_color: rgb(24,54,114)
+      tag: Hyperledger Member
+    - id: organization
+      tag: Organization
+      label: Standards Organization
+      color: '#00cbff'
+      big_picture_label: Organization
+      big_picture_order: 1
+      big_picture_color: rgb(24,54,114)
+    - id: network
+      tag: Network
+      label: Network
+      color: '#00cbff'
+      big_picture_label: Network
+      big_picture_order: 1
+      big_picture_color: rgb(24,54,114)
+    - id: company
+      tag: Company
+      label: Company
+      big_picture_label: Company
+      big_picture_color: rgb(24,54,114)
+      color: rgb(24,54,114)
+    - id: project
+      tag: Project(remove)
+      label: Project(remove)
+      big_picture_label: Project
+      big_picture_color: rgb(0,0,0)
+      color: '#000000'
+    - id: member
+      tag: Member
+      label: Member
+      big_picture_label: Member
+      big_picture_color: rgb(24,54,114)
     - id: false
-      label: Non-Hyperledger Project Member Products/Projects
-      url: 'no'
+      tag: Other(remove)
+      label: Other(remove)
+      big_picture_label: Other
+      big_picture_color: rgb(0,0,0)
+      color: '#000000'
 membership:
   Premier:
     name: Hyperledger
@@ -350,8 +373,8 @@ big_picture:
       - type: HorizontalCategory
         category: Hyperledger Fabric CSPs
         rows: 3
-        width: 525
-        height: 160
+        width: 725
+        height: 460
         top: 0
         left: 0
         color: rgb(19,105,73)
@@ -367,8 +390,8 @@ big_picture:
       - type: HorizontalCategory
         category: Hyperledger Training Partners
         rows: 4
-        width: 240
-        height: 160
+        width: 740
+        height: 460
         top: 0
         left: 0
         color: rgb(126,115,14)
