@@ -1532,7 +1532,7 @@ landscape:
           - item:
             name: Kaleido
             second_path: Platforms / Management/Operations
-            project: companymember products
+            project: member products
             homepage_url: https://kaleido.io/
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
