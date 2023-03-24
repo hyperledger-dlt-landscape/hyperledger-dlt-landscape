@@ -623,37 +623,37 @@ landscape:
           - item:
             name: AgriLedger
             homepage_url: http://www.agriledger.io/
-            project: non-hyperledger-member-services
+            project: non-hyperledger-member-products
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/agriledger
           - item:
             name: BondbloX
             homepage_url: https://www.bondblox.com/
-            project: hyperledger-member-services
+            project: hyperledger-member-products
             logo: bondblox.svg
             crunchbase: https://www.crunchbase.com/organization/bondevalue
           - item:
             name: Databroker
             homepage_url: https://www.databroker.global
-            project: non-hyperledger-member-services
+            project: non-hyperledger-member-products
             logo: databroker.svg
             crunchbase: https://www.crunchbase.com/organization/databroker-dao
           - item:
             name: Epidaurus Health
             homepage_url: https://www.epidaurus.health/
-            project: non-hyperledger-member-services
+            project: non-hyperledger-member-products
             logo: epidaurus-RGB.svg
             crunchbase: https://www.crunchbase.com/organization/epidaurus-health
           - item:
             name: GrainChain
             homepage_url: https://www.grainchain.io
-            project: non-hyperledger-member-services
+            project: non-hyperledger-member-products
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/grainchain
           - item:
             name: IBM Food Trust
             homepage_url: https://www.ibm.com/blockchain/solutions/food-trust
-            project: non-hyperledger-member-services
+            project: hyperledger-member-products
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
@@ -671,13 +671,13 @@ landscape:
           - item:
             name: Public Mint
             homepage_url: https://publicmint.com/
-            project: non-hyperledger-member-services
+            project: non-hyperledger-member-products
             logo: publicmint.svg
             crunchbase: https://www.crunchbase.com/organization/public-mint
           - item:
             name: WAX Marketplace
             homepage_url: https://marketplace.wax.io
-            project: non-hyperledger-member-services
+            project: non-hyperledger-member-products
             logo: wax.svg
             crunchbase: https://www.crunchbase.com/organization/wax-f984
   - category:
