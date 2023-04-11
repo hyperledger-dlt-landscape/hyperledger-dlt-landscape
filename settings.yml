@@ -1,16 +1,17 @@
 global:
-  name: DLT Landscape
-  short_name: DLTLandscape
+  name: Hyperledger DLT Landscape
+  short_name: HyperledgerDLTLandscape
   repo: dltlandscape/dlt-landscape
-  website: https://dltlandscape.org
-  short_domain: https://dltlandscape.org
-  company_url: https://dltlandscape.org
-  email: dltlandscape@blockchaintp.com
+  website: https://landscape.hyperledger.org
+  short_domain: l.hyperledger.org
+  company_url: https://hyperledger.org
+  email: info@hyperledger.org
+  self: https://www.crunchbase.com/organization/hyperledger-2
   membership: Hyperledger Members
   meta:
-    title: DLT Landscape
+    title: Hyperledger DLT Landscape
     description:
-    twitter: '@dltlandscape'
+    twitter: '@hyperledger'
     extra: >
       <meta property="og:image" content="https://landscape.cncf.io/images/social.jpg" />
       <meta property="og:image:width" content="1800" />
@@ -281,10 +282,9 @@ big_picture:
         children:
           - type: text
             text: |
-              Welcome to a living segmentation of the evolving DLT market! DLT Landscape is a
-              business stack with a technology foundation. BTP has created the DLT Landscape
-              for the whole blockchain/DLT community to benefit from and contribute to. The
-              DLT Landscape is open source, curated and hosted by BTP, but independent of the company.
+               This is a living segmentation of the evolving blockchain, and distributed ledger technology (DLT) space, more broadly. Its creation was inspired by the growing complexity of this emerging market, and in particular, all the innovation happening outside the core DLT development area.
+
+               This landscape both reflects and deciphers the complexity of today's vendor landscape. It includes all the Hyperledger Foundation projects - graduated and incubating - and places them in the broader market context.
             top: 80
             left: 130
             right: 20
@@ -302,7 +302,7 @@ big_picture:
             left: 24
             font_size: 16
           - type: image
-            image: left-logo.svg
+            image: logo.svg
             width: 120
             left: 20
             top: 20
