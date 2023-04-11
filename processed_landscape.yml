@@ -7366,9 +7366,10 @@ landscape:
         name: Application integrations
         items:
           - item:
-            name: BTP Chronicle
-            homepage_url: https://btp.works
-            project: company
+            name: Chronicle
+            homepage_url: https://btp.works/chronicle
+            project: project
+            repo_url: https://github.com/btpworks/chronicle
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/btpworks
             crunchbase_data:
@@ -7393,8 +7394,10 @@ landscape:
                 - Information Services
                 - Information Technology
               kind: funding
+            repos:
+              - url: https://github.com/btpworks/chronicle
             image_data:
-              fileName: btp-chronicle.svg
+              fileName: chronicle.svg
               hash: 0QhTCzTTc7O6F6KbPDhPwRWG7kX/AqjoKzYgyj2kCZA=
             best_practice_data:
               badge: false
