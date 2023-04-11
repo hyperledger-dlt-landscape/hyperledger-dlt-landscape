@@ -50,17 +50,17 @@ relation:
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member Services
     - id: hyperledger-member-products
-      label: Hyperledger Project Member Products/Projects
+      label: Hyperledger Member Products/Projects
       big_picture_label: Hyperledger Products
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member
     - id: non-hyperledger-member-services
-      label: Non Hyperledger Project Member Services
+      label: Non Hyperledger Member Services
       big_picture_label: Other Services
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member
     - id: non-hyperledger-member-products
-      label: Non Hyperledger Project Member Products/Projects
+      label: Non Hyperledger Member Products/Projects
       big_picture_label: Other Products
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member
