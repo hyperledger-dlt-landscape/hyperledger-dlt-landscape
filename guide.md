@@ -55,15 +55,18 @@ ranging from business networks that enable the traceability of specific assets, 
 for trading data, and other assets like in-game collectibles.
 </section>
 
-<section data-category="Services">
-Overcoming shortages in IT skills and resources is a key challenge associated with DLT, and platform vendors and
+<section data-subcategory="Platforms">
+Overcoming shortages in IT skills and resources is a key challenge associated with DLT, and platform vendors seek to
+address that, by freeing organizations from the pains involved with building
+and running blockchain networks and applications.
+</section>
+
+<section data-subcategory="Services">
+Overcoming shortages in IT skills and resources is a key challenge associated with DLT, and
 professional services providers seek to address that, by freeing organizations from the pains involved with building
 and running blockchain networks and applications.
 </section>
 
-<section data-category="Standards">
-About standards
-</section>
 <section data-subcategory="Standards">
 Standards organizations work to create uniformity across technology vendors, service providers, end-user organizations,
 consumers, government agencies, and other parties regarding terminology, specifications, protocols, best practices,
