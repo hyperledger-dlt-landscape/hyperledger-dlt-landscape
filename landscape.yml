@@ -684,7 +684,7 @@ landscape:
     name: Platforms
     subcategories:
       - subcategory:
-        name: Platforms
+        name: Management/Operations
         items:
           - item:
             name: Amazon Managed Blockchain
@@ -804,7 +804,7 @@ landscape:
     name: Services
     subcategories:
       - subcategory:
-        name: Services
+        name: Consulting/Professional Services
         items:
           - item:
             name: Accenture
