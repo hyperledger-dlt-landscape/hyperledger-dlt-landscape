@@ -56,15 +56,11 @@ for trading data, and other assets like in-game collectibles.
 </section>
 
 <section data-category="Platforms">
-Overcoming shortages in IT skills and resources is a key challenge associated with DLT, and platform vendors seek to
-address that, by freeing organizations from the pains involved with building
-and running blockchain networks and applications.
+Overcoming shortages in IT skills and resources continues to be a key challenge associated with DLT, and platform vendors seek to address that, by freeing organizations from the pains involved with building and running blockchain networks and applications.
 </section>
 
 <section data-category="Services">
-Overcoming shortages in IT skills and resources is a key challenge associated with DLT, and
-professional services providers seek to address that, by freeing organizations from the pains involved with building
-and running blockchain networks and applications.
+This vertical layer includes IT consulting firms and system integrators that provide enterprise blockchain/DLT services.  
 </section>
 
 <section data-category="Standards">
