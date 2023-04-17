@@ -1,16 +1,41 @@
 global:
-  name: DLT Landscape
-  short_name: DLTLandscape
+  name: Hyperledger DLT Landscape
+  short_name: HyperledgerDLTLandscape
   repo: dltlandscape/dlt-landscape
-  website: https://dltlandscape.org
-  short_domain: https://dltlandscape.org
-  company_url: https://dltlandscape.org
-  email: dltlandscape@blockchaintp.com
+  website: https://landscape.hyperledger.org
+  short_domain: l.hyperledger.org
+  company_url: https://hyperledger.org
+  email: info@hyperledger.org
+  self: https://www.crunchbase.com/organization/hyperledger-2
   membership: Hyperledger Members
   meta:
-    title: DLT Landscape
-    description: A living market landscape with a technology foundation, created by and for the DLT community
-    twitter: '@dltlandscape'
+    title: Hyperledger DLT Landscape
+    description:
+    twitter: '@hyperledger'
+    extra: >
+      <meta property="og:image" content="https://landscape.cncf.io/images/social.jpg" />
+      <meta property="og:image:width" content="1800" />
+      <meta property="og:image:height" content="945" />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="DLT Landscape" />
+      <meta property="og:description" content="A living market landscape with a technology foundation, created by and for the DLT community" />
+
+      <meta property="og:url" content="https://dltlandscape.org/" />
+      <meta property="og:site_name" content="Landscape" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content="Landscape" />
+      <meta name="twitter:description" content="The Landscape organizes all cloud native open source projects and proprietary products into categories,
+      providing an overview of the current ecosystem" />
+      <meta name="twitter:image" content="https://landscape.cncf.io/images/social.jpg" />
+      <meta name="twitter:image:width" content="1800" />
+      <meta name="twitter:image:height" content="945" />
+      <script>document.addEventListener('DOMContentLoaded', function() {
+        const options = JSON.parse(document.querySelector('[data-name=project]').getAttribute('data-options'));
+        const newOptions = options.filter( (x) => ["company", "project", "member", false].indexOf(x.id) === -1);
+        document.querySelector('[data-name=project]').setAttribute('data-options', JSON.stringify(newOptions));
+      });</script>
+
   flags:
     gray_large_items: true
     companies: false
@@ -46,21 +71,21 @@ relation:
           big_picture_color: rgb(83, 113, 189)
     - id: hyperledger-member-services
       label: Hyperledger Member Services
-      big_picture_label: Member Services
+      big_picture_label: Hyperledger Services
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member Services
     - id: hyperledger-member-products
-      label: Hyperledger Project Member Products/Projects
-      big_picture_label: Member Products
+      label: Hyperledger Member Products/Projects
+      big_picture_label: Hyperledger Products
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member
     - id: non-hyperledger-member-services
-      label: Non Hyperledger Project Member Services
+      label: Non-Hyperledger Member Services
       big_picture_label: Other Services
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member
     - id: non-hyperledger-member-products
-      label: Non Hyperledger Project Member Products/Projects
+      label: Non-Hyperledger Member Products/Projects
       big_picture_label: Other Products
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member
@@ -85,8 +110,8 @@ relation:
       big_picture_color: rgb(24,54,114)
       color: rgb(24,54,114)
     - id: project
-      tag: Project(remove)
-      label: Project(remove)
+      tag: Project
+      label: Project
       big_picture_label: Project
       big_picture_color: rgb(0,0,0)
       color: '#000000'
@@ -96,8 +121,8 @@ relation:
       big_picture_label: Member
       big_picture_color: rgb(24,54,114)
     - id: false
-      tag: Other(remove)
-      label: Other(remove)
+      tag: Other
+      label: Other
       big_picture_label: Other
       big_picture_color: rgb(0,0,0)
       color: '#000000'
@@ -257,10 +282,9 @@ big_picture:
         children:
           - type: text
             text: |
-              Welcome to a living segmentation of the evolving DLT market! DLT Landscape is a
-              business stack with a technology foundation. BTP has created the DLT Landscape
-              for the whole blockchain/DLT community to benefit from and contribute to. The
-              DLT Landscape is open source, curated and hosted by BTP, but independent of the company.
+               This is a living segmentation of the evolving blockchain, and distributed ledger technology (DLT) space, more broadly. Its creation was inspired by the growing complexity of this emerging market, and in particular, all the innovation happening outside the core DLT development area.
+
+               This landscape both reflects and deciphers the complexity of today's vendor landscape. It includes all the Hyperledger Foundation projects - graduated and incubating - and places them in the broader market context.
             top: 80
             left: 130
             right: 20
@@ -278,7 +302,7 @@ big_picture:
             left: 24
             font_size: 16
           - type: image
-            image: left-logo.svg
+            image: logo.svg
             width: 120
             left: 20
             top: 20
