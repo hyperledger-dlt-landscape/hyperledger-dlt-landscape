@@ -60,6 +60,7 @@ relation:
           big_picture_order: 1
           big_picture_label: Graduated
           big_picture_color: rgb(24,54,114)
+          x4: true
         - id: incubating
           label: Incubating Hyperledger Projects
           prefix: Hyperledger
@@ -68,6 +69,7 @@ relation:
           big_picture_order: 2
           big_picture_label: Incubating
           big_picture_color: rgb(83, 113, 189)
+          x4: true
     - id: hyperledger-member-services
       label: Hyperledger Member Services
       big_picture_label: Hyperledger Services
@@ -197,9 +199,9 @@ big_picture:
         is_large: true
       - type: HorizontalCategory
         category: Application Tooling/Integrations
-        rows: 4
+        rows: 6
         width: 900
-        height: 180
+        height: 280
         top: 200
         left: 200
         color: rgb(0,128,255)
@@ -210,7 +212,7 @@ big_picture:
         rows: 6
         width: 900
         height: 240
-        top: 400
+        top: 500
         left: 200
         color: rgb(0,128,255)
         fit_width: false
@@ -220,27 +222,27 @@ big_picture:
         rows: 4
         width: 900
         height: 180
-        top: 680
+        top: 780
         left: 200
         color: rgb(0,128,255)
         fit_width: false
         is_large: true
       - type: HorizontalCategory
         category: Technology Intersections
-        rows: 4
+        rows: 6
         width: 900
-        height: 180
-        top: 900
+        height: 280
+        top: 1000
         left: 200
         color: rgb(0,128,255)
         fit_width: false
         is_large: true
       - type: HorizontalCategory
         category: Distributed Ledgers
-        rows: 6
+        rows: 8
         width: 900
-        height: 220
-        top: 1100
+        height: 320
+        top: 1300
         left: 200
         color: rgb(0,128,255)
         fit_width: false
@@ -250,7 +252,7 @@ big_picture:
         rows: 4
         width: 900
         height: 180
-        top: 1340
+        top: 1640
         left: 200
         color: rgb(160,160,160)
         fit_width: false
@@ -277,7 +279,7 @@ big_picture:
         width: 430
         height: 280
         top: 1540
-        left: 0
+        left: 1125
         children:
           - type: text
             text: |
@@ -316,37 +318,37 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Distributed Ledgers
-        rows: 4
-        width: 470
-        height: 160
+        rows: 6
+        width: 970
+        height: 200
         top: 0
         left: 0
         color: rgb(4,81,49)
         fit_width: true
       - type: HorizontalCategory
         category: Libraries
-        rows: 4
-        width: 470
-        height: 160
-        top: 170
+        rows: 6
+        width: 970
+        height: 200
+        top: 210
         left: 0
         color: rgb(7,136,62)
         fit_width: true
       - type: HorizontalCategory
         category: Tools
-        rows: 4
-        width: 470
-        height: 160
-        top: 340
+        rows: 8
+        width: 970
+        height: 300
+        top: 420
         left: 0
         color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
         category: Domain Specific
-        rows: 4
-        width: 240
-        height: 160
-        top: 510
+        rows: 6
+        width: 640
+        height: 200
+        top: 720
         left: 0
         color: rgb(87,43,10)
         fit_width: true
