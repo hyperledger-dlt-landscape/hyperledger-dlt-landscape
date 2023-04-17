@@ -11,6 +11,7 @@ The computing infrastructure layer at the bottom of the landscape includes servi
 and cloud worlds, and vendors of container and virtualization technologies, as well as serverless computing.
 </section>
 
+
 <section data-category="Distributed Ledgers">
 The distributed ledger layer includes blockchains and other types of distributed ledgers that are available today.
 We differentiate between permissioned, permissionless, and hybrid distributed ledgers. Since the launch of the
@@ -53,6 +54,10 @@ and improve the usability of distributed ledgers and associated technologies.
 This layer at the top of the landscape mirrors the availability of a wide range of industry-specific implementations,
 ranging from business networks that enable the traceability of specific assets, as well as decentralized marketplaces
 for trading data, and other assets like in-game collectibles.
+</section>
+
+<section data-subcategory="Industry-specific applications and decentralized marketplaces">
+  Industry specific applications
 </section>
 
 <section data-category="Platforms">
