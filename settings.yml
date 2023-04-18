@@ -18,7 +18,7 @@ global:
       <meta property="og:image:height" content="945" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="DLT Landscape" />
+      <meta property="og:title" content="Hyperledger DLT Landscape" />
       <meta property="og:description" content="A living market landscape with a technology foundation, created by and for the DLT community" />
 
       <meta property="og:url" content="https://dltlandscape.org/" />
@@ -149,7 +149,7 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>DLT Landscape</h1> The DLT landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) is
+    <h1>Hyperledger DLT Landscape</h1> The Hyperledger DLT landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) is
     dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
@@ -175,7 +175,7 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: DLT Landscape
+    title: Hyperledger DLT Landscape
     fullscreen_header: See the interactive landscape at dltlandscape.org
     elements:
       - type: VerticalCategory
@@ -422,6 +422,6 @@ big_picture:
         fit_width: true
     category: Hyperledger Training Partners
 test:
-  header: DLT Landscape
+  header: Hyperledger DLT Landscape
   section: Project
   logo: google.svg
