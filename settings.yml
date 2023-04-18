@@ -73,12 +73,12 @@ relation:
           x4: true
     - id: hyperledger-member-services
       label: Hyperledger Member Services
-      big_picture_label: Hyperledger Services
+      big_picture_label: Member Services
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member Services
     - id: hyperledger-member-products
       label: Hyperledger Member Products/Projects
-      big_picture_label: Hyperledger Products
+      big_picture_label: Member Products
       big_picture_color: rgb(24,54,114)
       tag: Hyperledger Member
     - id: non-hyperledger-member-services
@@ -105,29 +105,11 @@ relation:
       big_picture_label: Network
       big_picture_order: 1
       big_picture_color: rgb(24,54,114)
-    - id: company
-      tag: Company
-      label: Company
-      big_picture_label: Company
-      big_picture_color: rgb(24,54,114)
-      color: rgb(24,54,114)
-    - id: project
-      tag: Project
-      label: Project
-      big_picture_label: Project
-      big_picture_color: rgb(0,0,0)
-      color: '#000000'
     - id: member
       tag: Member
       label: Member
       big_picture_label: Member
       big_picture_color: rgb(24,54,114)
-    - id: false
-      tag: Other
-      label: Other
-      big_picture_label: Other
-      big_picture_color: rgb(0,0,0)
-      color: '#000000'
 membership:
   Premier:
     name: Hyperledger
