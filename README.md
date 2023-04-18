@@ -1,10 +1,10 @@
-# DLT Landscape
+# Hyperledger DLT Landscape
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/78ae7ad4-157c-421d-97ea-f3fca9136a05/deploy-status)](https://app.netlify.com/sites/dltlandscape/deploys)
 
 ![DLT Landscape Logo](https://github.com/dltlandscape/dlt-landscape/raw/main/images/left-logo.svg?sanitize=true)
 
-- [DLT Landscape](#cloud-native-landscape)
+- [Hyperledger DLT Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -21,7 +21,7 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-Welcome to a living segmentation of the evolving DLT market! DLT Landscape is a business stack with a technology foundation. BTP has created the DLT Landscape for the whole blockchain/DLT community to benefit from and contribute to. The DLT Landscape is open source, curated and hosted by BTP, but independent of the company. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
+Welcome to a living segmentation of the evolving DLT market! Hyperledger DLT Landscape is a business stack with a technology foundation. BTP has created the DLT Landscape for the whole blockchain/DLT community to benefit from and contribute to. The DLT Landscape is open source, curated and hosted by BTP, but independent of the company. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
 ## Current Version
 
@@ -105,7 +105,7 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The DLT Landscape is available in these formats:
+The Hyperledger DLT Landscape is available in these formats:
 
 * [PNG](landscape.png)
 * [PDF](landscape.pdf)
