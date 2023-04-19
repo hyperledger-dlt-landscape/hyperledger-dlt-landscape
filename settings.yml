@@ -1,9 +1,9 @@
 global:
   name: Hyperledger DLT Landscape
   short_name: HyperledgerDLTLandscape
-  repo: dltlandscape/dlt-landscape
-  website: https://landscape.hyperledger.org
-  short_domain: l.hyperledger.org
+  repo: hyperledger-dlt-landscape/hyperledger-dlt-landscape
+  website: https://l2.hyperledger.org
+  short_domain: l2.hyperledger.org
   company_url: https://hyperledger.org
   email: info@hyperledger.org
   self: https://www.crunchbase.com/organization/hyperledger-2
