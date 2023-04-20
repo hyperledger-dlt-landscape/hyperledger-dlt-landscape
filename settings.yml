@@ -148,9 +148,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: https://www.hyperledger.org/event/hyperledger-global-forum-2022-dublin-ireland
-    image: /images/HGF2022.jpg
-    title: Hyperledger Global Forum | 12-14 Sep 2022
+  - url: https://www.hyperledger.org/events/
+    image: /images/hyperledger-events.png
+    title: Hyperledger Upcoming Events
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
