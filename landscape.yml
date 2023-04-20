@@ -1325,6 +1325,7 @@ landscape:
             name: Blockchain Technology Partners, Inc.
             homepage_url: https://btp.works/
             logo: blockchain_technology_partners_inc.svg
+            twitter: https://twitter.com/btpworx
             crunchbase: https://www.crunchbase.com/organization/btpworks
           - item:
             name: BONbLOC Inc
@@ -1350,18 +1351,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/casperlabs
           - item:
             name: Chainyard
-            project: hyperledger-member-services
-            second_path: Services / Consulting/Professional Services
             homepage_url: https://chainyard.com/
+            project: hyperledger-member-services
             logo: chainyard.svg
             crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
           - item:
             name: Change Healthcare
             homepage_url: https://changehealthcare.com/
+            stock_ticker: null
             logo: change_healthcare.svg
             twitter: https://twitter.com/Change_HC
             crunchbase: https://www.crunchbase.com/organization/change-healthcare
-            stock_ticker: null
           - item:
             name: China Systems Holdings Limited
             homepage_url: https://chinasystems.com/
@@ -1385,6 +1385,12 @@ landscape:
             logo: corsha.svg
             twitter: https://twitter.com/Corsha_APIs
             crunchbase: https://www.crunchbase.com/organization/corsha
+          - item:
+            name: CSEngineering
+            homepage_url: https://cse-corp.com/
+            logo: csengineering.svg
+            twitter: https://twitter.com/CSECorp
+            crunchbase: https://www.crunchbase.com/organization/constellation-software-engineering
           - item:
             name: CVS Health
             homepage_url: https://cvshealth.com/
@@ -1411,12 +1417,8 @@ landscape:
             name: Digital Asset Holdings, LLC
             homepage_url: https://digitalasset.com/
             logo: digital_asset_holdings_llc.svg
+            twitter: https://twitter.com/Damldriven
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
-          - item:
-            name: Distributed Ledger Technologies (DLT) Pte Ltd.
-            homepage_url: https://dlt.sg/
-            logo: distributed_ledger_technologies_dlt_pte_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/dltledgers
           - item:
             name: DLT Global Inc.
             homepage_url: https://dltlabs.io/
@@ -1433,24 +1435,11 @@ landscape:
             logo: espeo_software.svg
             crunchbase: https://www.crunchbase.com/organization/espeo-software
           - item:
-            name: Federal Express
-            homepage_url: https://fedex.com/
-            logo: federal_express.svg
-            twitter: https://twitter.com/FedEx
-            crunchbase: https://www.crunchbase.com/organization/fedex
-          - item:
             name: Filecoin Foundation
             homepage_url: https://fil.org/
             logo: filecoin_foundation.svg
             twitter: https://twitter.com/FilFoundation
             crunchbase: https://www.crunchbase.com/organization/filecoin-foundation
-          - item:
-            name: Gen Digital
-            homepage_url: https://avast.com/
-            logo: gen_digital.svg
-            twitter: https://twitter.com/Avast
-            crunchbase: https://www.crunchbase.com/organization/avast
-            stock_ticker: null
           - item:
             name: GSBN
             homepage_url: https://gsbn.trade/
@@ -1498,9 +1487,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/integra-ledger
           - item:
             name: IntellectEU
-            project: hyperledger-member-services
-            second_path: Services / Consulting/Professional Services
             homepage_url: https://intellecteu.com/
+            project: hyperledger-member-services
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
@@ -1531,9 +1519,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
           - item:
             name: Kaleido
-            second_path: Platforms / Management/Operations
-            project: hyperledger-member-products
             homepage_url: https://kaleido.io/
+            project: hyperledger-member-products
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
@@ -1545,12 +1532,8 @@ landscape:
             name: LTIMindtree Limited
             homepage_url: https://mindtree.com/
             logo: ltimindtree_limited.svg
+            twitter: https://twitter.com/LTIMindtreeOFCL
             crunchbase: https://www.crunchbase.com/organization/mindtree
-          - item:
-            name: Marketnode
-            homepage_url: https://marketnode.com/
-            logo: marketnode.svg
-            crunchbase: https://www.crunchbase.com/organization/marketnode
           - item:
             name: MediConCen Limited
             homepage_url: https://mediconcen.com/
@@ -1572,18 +1555,12 @@ landscape:
             name: New H3C Technologies Co., Ltd
             homepage_url: https://h3c.com/
             logo: new_h3c_technologies_co_ltd.svg
-            twitter: https://twitter.com/H3CGroup
+            twitter: https://twitter.com/H3CGlobal
             crunchbase: https://www.crunchbase.com/organization/h3c-technologies
           - item:
-            name: NextGen Tek Consulting
-            homepage_url: https://nextgentek.io/
-            logo: nextgen_tek_consulting.svg
-            crunchbase: https://www.crunchbase.com/organization/nextgen-tek-consulting
-          - item:
-            project: hyperledger-member-services
             name: NTT DATA
-            second_path: Services / Consulting/Professional Services
             homepage_url: https://nttdata.com/
+            project: hyperledger-member-services
             logo: ntt_data.svg
             twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
@@ -1622,6 +1599,12 @@ landscape:
             logo: red_date_hong_kong_technology_limited.svg
             crunchbase: https://www.crunchbase.com/organization/red-date-technology
           - item:
+            name: Ripple Labs Inc.
+            homepage_url: https://ripple.com/
+            logo: ripple_labs_inc.svg
+            twitter: https://twitter.com/Ripple
+            crunchbase: https://www.crunchbase.com/organization/ripple-labs
+          - item:
             name: Shanghai Vonechain Information Technology Co., Ltd
             homepage_url: https://vonechain.com/
             logo: shanghai_vonechain_information_technology_co_ltd.svg
@@ -1638,9 +1621,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
             name: SIMBA Chain
-            second_path: Platforms / Management/Operations
-            project: hyperledger-member-products
             homepage_url: https://simbachain.com/
+            project: hyperledger-member-products
             logo: simba_chain.svg
             twitter: https://twitter.com/SIMBAchain
             crunchbase: https://www.crunchbase.com/organization/simba-chain
@@ -1661,8 +1643,7 @@ landscape:
             homepage_url: https://spydra.app/
             logo: spydra_technologies_pvt_ltd.svg
             twitter: https://twitter.com/spydra_io
-            organization:
-              name: Spydra Technologies Pvt Ltd
+            crunchbase: https://www.crunchbase.com/organization/spydra
           - item:
             name: Tangem AG
             homepage_url: https://tangem.com/
@@ -1818,6 +1799,12 @@ landscape:
             logo: decentralized_identity_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/decentralized-identity-foundation
           - item:
+            name: Digital Euro Association (DEA)
+            homepage_url: https://digital-euro-association.de/
+            logo: digital_euro_association_dea.svg
+            twitter: https://twitter.com/DigiEuro
+            crunchbase: https://www.crunchbase.com/organization/digital-euro-association
+          - item:
             name: Digital Identity Laboratory of Canada
             homepage_url: https://idlab.org/
             logo: digital_identity_laboratory_of_canada.svg
@@ -1880,9 +1867,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hogeschool-west-vlaanderen
           - item:
             name: INATBA
-            project: organization
-            second_path: Standards / Standards
             homepage_url: https://inatba.org/
+            project: organization
             logo: inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba
@@ -1894,7 +1880,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/initiative-for-cryptocurrencies-and-contracts
           - item:
             name: Inter-American Development Bank (dba LACChain)
-            homepage_url: https://www.lacchain.net/home
+            homepage_url: https://lacchain.net/
             logo: inter-american_development_bank_dba_lacchain.svg
             twitter: https://twitter.com/LACChain
             crunchbase: https://www.crunchbase.com/organization/inter-american-development-bank
@@ -1909,12 +1895,6 @@ landscape:
             logo: kiva.svg
             twitter: https://twitter.com/Kiva
             crunchbase: https://www.crunchbase.com/organization/kiva
-          - item:
-            name: Ministry of Citizens Services
-            homepage_url: https://gov.bc.ca/
-            logo: ministry_of_citizens_services.svg
-            twitter: https://twitter.com/BCGovNews
-            crunchbase: https://www.crunchbase.com/organization/government-of-british-columbia
           - item:
             name: MIT Connection Science
             homepage_url: https://mit.edu/
@@ -1949,6 +1929,12 @@ landscape:
             twitter: https://twitter.com/Portland_State
             crunchbase: https://www.crunchbase.com/organization/portland-state-university
           - item:
+            name: Province of British Columbia - Ministry of Citizens Services
+            homepage_url: https://gov.bc.ca/
+            logo: province_of_british_columbia_-_ministry_of_citizens_services.svg
+            twitter: https://twitter.com/BCGovNews
+            crunchbase: https://www.crunchbase.com/organization/government-of-british-columbia
+          - item:
             name: Saintgits College of Engineering
             homepage_url: https://saintgits.org/
             logo: saintgits_college_of_engineering.svg
@@ -1975,6 +1961,7 @@ landscape:
             name: Sun Yat-sen University
             homepage_url: https://sysu.edu.cn/
             logo: sun_yat-sen_university.svg
+            twitter: https://twitter.com/SunYatsen_Uni
             crunchbase: https://www.crunchbase.com/organization/sun-yat-sen-university
           - item:
             name: Tecnalia Corporation
