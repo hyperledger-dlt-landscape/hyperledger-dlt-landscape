@@ -148,9 +148,9 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: https://www.hyperledger.org/events/
-    image: /images/hyperledger-events.png
-    title: Hyperledger Upcoming Events
+  - url: https://consensus.coindesk.com/
+    image: /images/consensus-2023.png
+    title: Consensus 2023
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
