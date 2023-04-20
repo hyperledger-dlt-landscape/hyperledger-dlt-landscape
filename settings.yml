@@ -57,29 +57,29 @@ relation:
           label: Graduated Hyperledger Projects
           prefix: Hyperledger
           tag: Graduated
-          color: '#B2F4B5'
+          color: '#7CC142'
           big_picture_order: 1
           big_picture_label: Graduated
-          big_picture_color: rgb(1, 58, 68)
+          big_picture_color: rgb(124,193,66)
           x4: true
         - id: incubating
           label: Incubating Hyperledger Projects
           prefix: Hyperledger
           tag: Incubating
-          color: '#B2F4B5'
+          color: '#7CC142'
           big_picture_order: 2
           big_picture_label: Incubating
-          big_picture_color: rgb(1, 58, 68)
+          big_picture_color: rgb(124,193,66)
           x4: true
     - id: hyperledger-member-services
       label: Hyperledger Member Services
       big_picture_label: Member Services
-      big_picture_color: rgb(24,54,114)
+      big_picture_color: rgb(43,137,201)
       tag: Hyperledger Member Services
     - id: hyperledger-member-products
       label: Hyperledger Member Products/Projects
       big_picture_label: Member Products
-      big_picture_color: rgb(24,54,114)
+      big_picture_color: rgb(43,137,201)
       tag: Hyperledger Member
     - id: non-hyperledger-member-services
       label: Non-Hyperledger Member Services
