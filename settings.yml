@@ -10,32 +10,23 @@ global:
   membership: Hyperledger Members
   meta:
     title: Hyperledger DLT Landscape
-    description:
+    description: null
     twitter: '@hyperledger'
     extra: >
-      <meta property="og:image" content="https://landscape.cncf.io/images/social.jpg" />
-      <meta property="og:image:width" content="1800" />
-      <meta property="og:image:height" content="945" />
-      <meta property="og:locale" content="en_US" />
-      <meta property="og:type" content="website" />
-      <meta property="og:title" content="Hyperledger DLT Landscape" />
-      <meta property="og:description" content="A living market landscape with a technology foundation, created by and for the DLT community" />
+      <meta property="og:image" content="https://landscape.cncf.io/images/social.jpg" /> <meta property="og:image:width" content="1800" /> <meta
+      property="og:image:height" content="945" /> <meta property="og:locale" content="en_US" /> <meta property="og:type" content="website" /> <meta
+      property="og:title" content="Hyperledger DLT Landscape" /> <meta property="og:description" content="A living market landscape with a technology
+      foundation, created by and for the DLT community" />
 
-      <meta property="og:url" content="https://dltlandscape.org/" />
-      <meta property="og:site_name" content="Landscape" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Landscape" />
-      <meta name="twitter:description" content="The Landscape organizes all cloud native open source projects and proprietary products into categories,
-      providing an overview of the current ecosystem" />
-      <meta name="twitter:image" content="https://landscape.cncf.io/images/social.jpg" />
-      <meta name="twitter:image:width" content="1800" />
-      <meta name="twitter:image:height" content="945" />
-      <script>document.addEventListener('DOMContentLoaded', function() {
+      <meta property="og:url" content="https://dltlandscape.org/" /> <meta property="og:site_name" content="Landscape" /> <meta name="twitter:card"
+      content="summary_large_image" /> <meta name="twitter:title" content="Landscape" /> <meta name="twitter:description" content="The Landscape organizes all
+      cloud native open source projects and proprietary products into categories, providing an overview of the current ecosystem" /> <meta name="twitter:image"
+      content="https://landscape.cncf.io/images/social.jpg" /> <meta name="twitter:image:width" content="1800" /> <meta name="twitter:image:height"
+      content="945" /> <script>document.addEventListener('DOMContentLoaded', function() {
         const options = JSON.parse(document.querySelector('[data-name=project]').getAttribute('data-options'));
         const newOptions = options.filter( (x) => ["company", "project", "member", false].indexOf(x.id) === -1);
         document.querySelector('[data-name=project]').setAttribute('data-options', JSON.stringify(newOptions));
       });</script>
-
   flags:
     gray_large_items: true
     companies: false
@@ -151,8 +142,9 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>Hyperledger DLT Landscape</h1> The Hyperledger DLT landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) is
-    dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based on the same open source code.
+    <h1>Hyperledger DLT Landscape</h1> The Hyperledger DLT landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
+    on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
@@ -283,10 +275,13 @@ big_picture:
         left: 1125
         children:
           - type: text
-            text: |
-               This is a living segmentation of the evolving blockchain, and distributed ledger technology (DLT) space, more broadly. Its creation was inspired by the growing complexity of this emerging market, and in particular, all the innovation happening outside the core DLT development area.
+            text: >
+              This is a living segmentation of the evolving blockchain, and distributed ledger technology (DLT) space, more broadly. Its creation was inspired
+              by the growing complexity of this emerging market, and in particular, all the innovation happening outside the core DLT development area.
 
-               This landscape both reflects and deciphers the complexity of today's vendor landscape. It includes all the Hyperledger Foundation projects - graduated and incubating - and places them in the broader market context.
+
+              This landscape both reflects and deciphers the complexity of today's vendor landscape. It includes all the Hyperledger Foundation projects -
+              graduated and incubating - and places them in the broader market context.
             top: 80
             left: 130
             right: 20
