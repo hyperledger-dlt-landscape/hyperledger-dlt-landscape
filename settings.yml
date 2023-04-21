@@ -1,6 +1,6 @@
 global:
-  name: Hyperledger Foundation DLT Landscape
-  short_name: Hyperledger Foundation DLT
+  name: Hyperledger DLT Landscape
+  short_name: Hyperledger DLT
   repo: hyperledger-dlt-landscape/hyperledger-dlt-landscape
   website: https://l2.hyperledger.org
   short_domain: l2.hyperledger.org
