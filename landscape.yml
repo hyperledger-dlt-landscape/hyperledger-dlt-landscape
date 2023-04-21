@@ -1386,7 +1386,7 @@ landscape:
             logo: casperlabs_llc.svg
             crunchbase: https://www.crunchbase.com/organization/casperlabs
           - item:
-            name: Chainyard
+            name: Chainyard Inc.
             homepage_url: https://chainyard.com/
             logo: chainyard.svg
             crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
@@ -1521,7 +1521,7 @@ landscape:
             logo: integra_ledger.svg
             crunchbase: https://www.crunchbase.com/organization/integra-ledger
           - item:
-            name: IntellectEU
+            name: IntellectEU Inc.
             homepage_url: https://intellecteu.com/
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
@@ -1552,7 +1552,7 @@ landscape:
             logo: jpmorgan_chase.svg
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
           - item:
-            name: Kaleido
+            name: Kaleido Inc.
             homepage_url: https://kaleido.io/
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
@@ -1591,7 +1591,7 @@ landscape:
             twitter: https://twitter.com/H3CGlobal
             crunchbase: https://www.crunchbase.com/organization/h3c-technologies
           - item:
-            name: NTT DATA
+            name: NTT DATA Corporation
             homepage_url: https://nttdata.com/
             logo: ntt_data.svg
             twitter: https://twitter.com/NTTDATA
@@ -1652,7 +1652,7 @@ landscape:
             logo: siemens_ag.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
-            name: SIMBA Chain
+            name: SIMBA Chain Inc.
             homepage_url: https://simbachain.com/
             logo: simba_chain.svg
             twitter: https://twitter.com/SIMBAchain
@@ -1897,7 +1897,7 @@ landscape:
             twitter: https://twitter.com/Howest_Intl
             crunchbase: https://www.crunchbase.com/organization/hogeschool-west-vlaanderen
           - item:
-            name: INATBA
+            name: International Association for Trusted Blockchain Applications
             homepage_url: https://inatba.org/
             logo: inatba.svg
             twitter: https://twitter.com/INATBA_org
