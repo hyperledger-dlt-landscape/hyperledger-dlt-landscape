@@ -26,8 +26,7 @@ global:
         const options = JSON.parse(document.querySelector('[data-name=project]').getAttribute('data-options'));
         const newOptions = options.filter( (x) => ["company", "project", "member", false].indexOf(x.id) === -1);
         document.querySelector('[data-name=project]').setAttribute('data-options', JSON.stringify(newOptions));
-      });</script>
-      <style>#guide-page h1 {font-size: 2em; }</style>
+      });</script> <style>#guide-page h1 {font-size: 2em; }</style>
   flags:
     gray_large_items: true
     companies: false
