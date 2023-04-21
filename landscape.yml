@@ -735,6 +735,12 @@ landscape:
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/first-genesis
           - item:
+            name: Kaleido
+            homepage_url: https://kaleido.io/
+            project: hyperledger-member-products
+            logo: kaleido.svg
+            crunchbase: https://www.crunchbase.com/organization/kaleido
+          - item:
             name: IBM Blockchain Platform
             homepage_url: https://www.ibm.com/blockchain/platform
             project: hyperledger-member-products
@@ -758,6 +764,12 @@ landscape:
             project: non-hyperledger-member-products
             logo: settlemint.svg
             crunchbase: https://www.crunchbase.com/organization/settlemint-nv
+          - item:
+            name: SIMBA Chain
+            homepage_url: https://simbachain.com/
+            project: hyperledger-member-products
+            logo: simba_chain.svg
+            crunchbase: https://www.crunchbase.com/organization/simba-chain
           - item:
             name: VMware Blockchain
             homepage_url: https://www.vmware.com/products/blockchain.html
@@ -788,6 +800,12 @@ landscape:
             project: organization
             logo: GS1-logo.svg
             crunchbase: https://www.crunchbase.com/organization/gs1
+          - item:
+            name: INATBA
+            homepage_url: https://inatba.org/
+            project: organization
+            logo: inatba.svg
+            crunchbase: https://www.crunchbase.com/organization/inatba
           - item:
             name: TTF
             homepage_url: https://interwork.org
@@ -825,6 +843,12 @@ landscape:
             logo: capgemini.svg
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
           - item:
+            name: Chainyard
+            homepage_url: https://chainyard.com/
+            project: hyperledger-member-services
+            logo: chainyard.svg
+            crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
+          - item:
             name: Deloitte
             homepage_url: https://www2.deloitte.com
             project: non-hyperledger-member-services
@@ -860,6 +884,18 @@ landscape:
             project: non-hyperledger-member-services
             logo: Innomindsnew.svg
             crunchbase: https://www.crunchbase.com/organization/innominds-software-pvt-ltd
+          - item:
+            name: IntellectEU
+            homepage_url: https://intellecteu.com/
+            project: hyperledger-member-services
+            logo: intellecteu.svg
+            crunchbase: https://www.crunchbase.com/organization/intellecteu
+          - item:
+            name: NTT DATA
+            homepage_url: https://nttdata.com/
+            project: hyperledger-member-services
+            logo: ntt_data.svg
+            crunchbase: https://www.crunchbase.com/organization/ntt-data
           - item:
             name: Rethink Ledgers
             homepage_url: https://www.rtledgers.com
@@ -1350,9 +1386,8 @@ landscape:
             logo: casperlabs_llc.svg
             crunchbase: https://www.crunchbase.com/organization/casperlabs
           - item:
-            name: Chainyard
+            name: Chainyard Inc.
             homepage_url: https://chainyard.com/
-            project: hyperledger-member-services
             logo: chainyard.svg
             crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
           - item:
@@ -1486,9 +1521,8 @@ landscape:
             logo: integra_ledger.svg
             crunchbase: https://www.crunchbase.com/organization/integra-ledger
           - item:
-            name: IntellectEU
+            name: IntellectEU Inc.
             homepage_url: https://intellecteu.com/
-            project: hyperledger-member-services
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
@@ -1518,9 +1552,8 @@ landscape:
             logo: jpmorgan_chase.svg
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
           - item:
-            name: Kaleido
+            name: Kaleido Inc.
             homepage_url: https://kaleido.io/
-            project: hyperledger-member-products
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
@@ -1558,9 +1591,8 @@ landscape:
             twitter: https://twitter.com/H3CGlobal
             crunchbase: https://www.crunchbase.com/organization/h3c-technologies
           - item:
-            name: NTT DATA
+            name: NTT DATA Corporation
             homepage_url: https://nttdata.com/
-            project: hyperledger-member-services
             logo: ntt_data.svg
             twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
@@ -1620,9 +1652,8 @@ landscape:
             logo: siemens_ag.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
-            name: SIMBA Chain
+            name: SIMBA Chain Inc.
             homepage_url: https://simbachain.com/
-            project: hyperledger-member-products
             logo: simba_chain.svg
             twitter: https://twitter.com/SIMBAchain
             crunchbase: https://www.crunchbase.com/organization/simba-chain
@@ -1866,9 +1897,8 @@ landscape:
             twitter: https://twitter.com/Howest_Intl
             crunchbase: https://www.crunchbase.com/organization/hogeschool-west-vlaanderen
           - item:
-            name: INATBA
+            name: International Association for Trusted Blockchain Applications
             homepage_url: https://inatba.org/
-            project: organization
             logo: inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba
