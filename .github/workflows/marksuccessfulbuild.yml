@@ -8,7 +8,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: Amwam/issue-comment-action@v1.3.1
+      - uses: Amwam/issue-comment-action@595b3b398ae2f5169c4e49eaf27da3679d30ab16
         if: ${{ github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'automated-build') }}
         with:
           keywords: '["Deploy preview for *hl-landscape* ready"]'
