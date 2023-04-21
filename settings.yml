@@ -1,6 +1,6 @@
 global:
-  name: Hyperledger DLT Landscape
-  short_name: HyperledgerDLTLandscape
+  name: Hyperledger Foundation DLT Landscape
+  short_name: Hyperledger Foundation DLT
   repo: hyperledger-dlt-landscape/hyperledger-dlt-landscape
   website: https://l2.hyperledger.org
   short_domain: l2.hyperledger.org
@@ -27,6 +27,7 @@ global:
         const newOptions = options.filter( (x) => ["company", "project", "member", false].indexOf(x.id) === -1);
         document.querySelector('[data-name=project]').setAttribute('data-options', JSON.stringify(newOptions));
       });</script>
+      <style>#guide-page h1 {font-size: 2em; }</style>
   flags:
     gray_large_items: true
     companies: false
