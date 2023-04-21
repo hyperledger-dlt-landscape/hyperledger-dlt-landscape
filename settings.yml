@@ -2,8 +2,8 @@ global:
   name: Hyperledger DLT Landscape
   short_name: Hyperledger DLT
   repo: hyperledger-dlt-landscape/hyperledger-dlt-landscape
-  website: https://l2.hyperledger.org
-  short_domain: l2.hyperledger.org
+  website: https://dltlandscape.org
+  short_domain: dltlandscape.org
   company_url: https://hyperledger.org
   email: info@hyperledger.org
   self: https://www.crunchbase.com/organization/hyperledger-2
@@ -11,9 +11,9 @@ global:
   meta:
     title: Hyperledger DLT Landscape
     description: null
-    twitter: '@hyperledger'
+    twitter: '@dltlandscape'
     extra: >
-      <meta property="og:image" content="https://landscape.cncf.io/images/social.jpg" /> <meta property="og:image:width" content="1800" /> <meta
+      <meta property="og:image" content="https://dltlandscape.org/images/logo.svg" /> <meta property="og:image:width" content="1800" /> <meta
       property="og:image:height" content="945" /> <meta property="og:locale" content="en_US" /> <meta property="og:type" content="website" /> <meta
       property="og:title" content="Hyperledger DLT Landscape" /> <meta property="og:description" content="A living market landscape with a technology
       foundation, created by and for the DLT community" />
@@ -21,7 +21,7 @@ global:
       <meta property="og:url" content="https://dltlandscape.org/" /> <meta property="og:site_name" content="Landscape" /> <meta name="twitter:card"
       content="summary_large_image" /> <meta name="twitter:title" content="Landscape" /> <meta name="twitter:description" content="The Landscape organizes all
       cloud native open source projects and proprietary products into categories, providing an overview of the current ecosystem" /> <meta name="twitter:image"
-      content="https://landscape.cncf.io/images/social.jpg" /> <meta name="twitter:image:width" content="1800" /> <meta name="twitter:image:height"
+      content="https://dltlandscape.org/images/logo.svg" /> <meta name="twitter:image:width" content="1800" /> <meta name="twitter:image:height"
       content="945" /> <script>document.addEventListener('DOMContentLoaded', function() {
         const options = JSON.parse(document.querySelector('[data-name=project]').getAttribute('data-options'));
         const newOptions = options.filter( (x) => ["company", "project", "member", false].indexOf(x.id) === -1);
@@ -36,7 +36,7 @@ global:
 twitter:
   search: dltlandscape.org
   url: https://dltlandscape.org
-  text: DLT Landscape
+  text: Hyperledger DLT Landscape
 relation:
   label: Hyperledger Relation
   url: hyperledger
