@@ -735,17 +735,17 @@ landscape:
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/first-genesis
           - item:
-            name: Kaleido
-            homepage_url: https://kaleido.io/
-            project: hyperledger-member-products
-            logo: kaleido.svg
-            crunchbase: https://www.crunchbase.com/organization/kaleido
-          - item:
             name: IBM Blockchain Platform
             homepage_url: https://www.ibm.com/blockchain/platform
             project: hyperledger-member-products
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: Kaleido
+            homepage_url: https://kaleido.io/
+            project: hyperledger-member-products
+            logo: kaleido.svg
+            crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
             name: IntellectEU Catalyst Blockchain Platform
             homepage_url: https://catalyst.intellecteu.com
