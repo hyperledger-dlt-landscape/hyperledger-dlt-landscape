@@ -1,14 +1,12 @@
+---
 name: Update members
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *'
-
+    - cron: 0 4 * * *
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout landscape
         uses: actions/checkout@v3
@@ -22,7 +20,7 @@ jobs:
       - name: Set up Python 3.x
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: 3.x
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -34,7 +32,7 @@ jobs:
       - name: Save missing.csv file
         uses: actions/upload-artifact@v3
         with:
-          name: missing-members 
+          name: missing-members
           path: ./landscape/missing.csv
       - name: Checkout landscapeapp
         uses: actions/checkout@v3
