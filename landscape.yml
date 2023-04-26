@@ -583,6 +583,7 @@ landscape:
             homepage_url: https://btp.works/chronicle
             project: hyperledger-member-products
             repo_url: https://github.com/btpworks/chronicle
+            twitter: https://twitter.com/btpworx
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/btpworks
           - item:
@@ -711,6 +712,7 @@ landscape:
             project: hyperledger-member-products
             logo: btp-works.svg
             crunchbase: https://www.crunchbase.com/organization/btpworks
+            twitter: https://twitter.com/btpworx
           - item:
             name: Chainstack
             homepage_url: https://chainstack.com
