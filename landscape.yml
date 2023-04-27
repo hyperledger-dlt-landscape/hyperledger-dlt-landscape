@@ -1148,26 +1148,6 @@ landscape:
             extra:
               wiki: https://wiki.hyperledger.org/display/transact
               chat: https://discord.com/channels/905194001349627914/941414396704477234
-          - item:
-            name: Hyperledger Ursa
-            second_path: Technology Intersections / Cybersecurity
-            description: >-
-              Hyperledger Ursa is a shared cryptographic library, it enables implementations to avoid duplicating other cryptographic work and hopefully
-              increase security in the process. The library is an opt-in repository (for Hyperledger and non Hyperledger projects) to place and use crypto. 
-              Hyperledger Ursa consists of sub-projects, which are cohesive implementations of cryptographic code or interfaces to cryptographic code.
-            homepage_url: https://www.hyperledger.org/use/ursa
-            project: incubating
-            repo_url: https://github.com/hyperledger/ursa
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/ursa-docs
-              - repo_url: https://github.com/hyperledger/ursa-python
-              - repo_url: https://github.com/hyperledger/ursa-rfcs
-              - repo_url: https://github.com/hyperledger/ursa-wrapper-go
-            logo: hyperledger-ursa.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            extra:
-              wiki: https://wiki.hyperledger.org/display/ursa
-              chat: https://discord.com/channels/905194001349627914/941474924516737126
       - subcategory:
         name: Tools
         items:
