@@ -336,15 +336,6 @@ big_picture:
         left: 0
         color: rgb(126,115,14)
         fit_width: true
-      - type: HorizontalCategory
-        category: Domain Specific
-        rows: 6
-        width: 640
-        height: 200
-        top: 720
-        left: 0
-        color: rgb(87,43,10)
-        fit_width: true
     category: Hyperledger Projects
   fourth:
     tab_index: 2
