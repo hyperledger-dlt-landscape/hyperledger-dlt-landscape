@@ -1,4 +1,3 @@
----
 landscape:
   - category:
     name: Computing Infrastructure
@@ -742,17 +741,17 @@ landscape:
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
-            name: Kaleido
-            homepage_url: https://kaleido.io/
-            project: hyperledger-member-products
-            logo: kaleido.svg
-            crunchbase: https://www.crunchbase.com/organization/kaleido
-          - item:
             name: IntellectEU Catalyst Blockchain Platform
             homepage_url: https://catalyst.intellecteu.com
             project: hyperledger-member-products
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
+          - item:
+            name: Kaleido
+            homepage_url: https://kaleido.io/
+            project: hyperledger-member-products
+            logo: kaleido.svg
+            crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
             name: Oracle Blockchain Platform
             homepage_url: https://www.oracle.com/blockchain
@@ -925,12 +924,9 @@ landscape:
             name: Hyperledger Besu
             second_path: Distributed Ledgers / Hybrid
             description: >-
-              Hyperledger Besu is an Ethereum client designed to be enterprise-friendly
-              for both public and private permissioned network use cases, with an
-              extractable EVM implementation. It can also be run on test networks
-              such as Sepolia and Görli. Hyperledger Besu includes several consensus
-              algorithms including Proof of Stake, Proof of Work, and Proof of Authority
-              (IBFT 2.0, QBFT, and Clique). Its comprehensive permissioning schemes
+              Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases, with an
+              extractable EVM implementation. It can also be run on test networks such as Sepolia and Görli. Hyperledger Besu includes several consensus
+              algorithms including Proof of Stake, Proof of Work, and Proof of Authority (IBFT 2.0, QBFT, and Clique). Its comprehensive permissioning schemes
               are designed specifically for use in a consortium environment.
             homepage_url: https://www.hyperledger.org/use/besu
             project: graduated
@@ -951,12 +947,9 @@ landscape:
             name: Hyperledger Fabric
             second_path: Distributed Ledgers / Permissioned
             description: >-
-              Hyperledger Fabric is intended as a foundation for developing applications
-              or solutions with a modular architecture. Hyperledger Fabric allows
-              components, such as consensus and membership services, to be plug-and-play.  Its
-              modular and versatile design satisfies a broad range of industry use
-              cases. It offers a unique approach to consensus that enables performance
-              at scale while preserving privacy.
+              Hyperledger Fabric is intended as a foundation for developing applications or solutions with a modular architecture. Hyperledger Fabric allows
+              components, such as consensus and membership services, to be plug-and-play.  Its modular and versatile design satisfies a broad range of industry
+              use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
             homepage_url: https://www.hyperledger.org/use/fabric
             project: graduated
             repo_url: https://github.com/hyperledger/fabric
@@ -993,11 +986,9 @@ landscape:
             name: Hyperledger Indy
             second_path: Distributed Ledgers / Permissioned
             description: >-
-              Hyperledger Indy provides tools, libraries, and reusable components
-              for providing digital identities rooted on blockchains or other distributed
-              ledgers so that they are interoperable across administrative domains,
-              applications, and any other silo. Indy is interoperable with other blockchains
-              or can be used standalone powering the decentralization of identity.
+              Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed
+              ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other
+              blockchains or can be used standalone powering the decentralization of identity.
             homepage_url: https://www.hyperledger.org/use/hyperledger-indy
             project: graduated
             repo_url: https://github.com/hyperledger/indy-node
@@ -1024,11 +1015,9 @@ landscape:
             name: Hyperledger Iroha
             second_path: Distributed Ledgers / Permissioned
             description: >-
-              Hyperledger Iroha is designed to be simple and easy to incorporate into
-              infrastructural or IoT projects requiring distributed ledger technology.  Hyperledger
-              Iroha features a simple construction, modular, domain-driven C++ design,
-              emphasis on client application development and a new, crash fault tolerant
-              consensus algorithm, called YAC.
+              Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural or IoT projects requiring distributed ledger technology. 
+              Hyperledger Iroha features a simple construction, modular, domain-driven C++ design, emphasis on client application development and a new, crash
+              fault tolerant consensus algorithm, called YAC.
             homepage_url: https://www.hyperledger.org/use/iroha
             project: graduated
             repo_url: https://github.com/hyperledger/iroha
@@ -1052,12 +1041,9 @@ landscape:
             name: Hyperledger Sawtooth
             second_path: Distributed Ledgers / Hybrid
             description: >-
-              Hyperledger Sawtooth offers a flexible and modular architecture separates
-              the core system from the application domain, so smart contracts can
-              specify the business rules for applications without needing to know
-              the underlying design of the core system. Hyperledger Sawtooth supports
-              a variety of consensus algorithms, including Practical Byzantine Fault
-              Tolerance (PBFT) and Proof of Elapsed Time (PoET).
+              Hyperledger Sawtooth offers a flexible and modular architecture separates the core system from the application domain, so smart contracts can
+              specify the business rules for applications without needing to know the underlying design of the core system. Hyperledger Sawtooth supports a
+              variety of consensus algorithms, including Practical Byzantine Fault Tolerance (PBFT) and Proof of Elapsed Time (PoET).
             homepage_url: https://www.hyperledger.org/use/sawtooth
             project: graduated
             repo_url: https://github.com/hyperledger/sawtooth-core
@@ -1090,8 +1076,7 @@ landscape:
           - item:
             name: Hyperledger AnonCreds
             description: >-
-              Hyperledger AnonCreds is a type of verifiable credential that supports
-              important privacy-protecting capabilities based on zero-knowledge proof
+              Hyperledger AnonCreds is a type of verifiable credential that supports important privacy-protecting capabilities based on zero-knowledge proof
               cryptography.
             homepage_url: https://www.hyperledger.org/use/anoncreds
             project: incubating
@@ -1107,12 +1092,9 @@ landscape:
             name: Hyperledger Aries
             second_path: Technology Intersections / Cybersecurity
             description: >-
-              Hyperledger Aries provides a shared, reusable, interoperable tool kit
-              designed for initiatives and solutions focused on creating, transmitting
-              and storing verifiable digital credentials. It is infrastructure for
-              blockchain-rooted, peer-to-peer interactions. This project consumes
-              the cryptographic support provided by Hyperledger Ursa, to provide secure
-              secret management and decentralized key management functionality.
+              Hyperledger Aries provides a shared, reusable, interoperable tool kit designed for initiatives and solutions focused on creating, transmitting and
+              storing verifiable digital credentials. It is infrastructure for blockchain-rooted, peer-to-peer interactions. This project consumes the
+              cryptographic support provided by Hyperledger Ursa, to provide secure secret management and decentralized key management functionality.
             homepage_url: https://www.hyperledger.org/use/aries
             project: graduated
             repo_url: https://github.com/hyperledger/aries
@@ -1148,12 +1130,9 @@ landscape:
             name: Hyperledger Transact
             second_path: Smart Contracts/Tokenization / Legal contracts
             description: >-
-              Hyperledger Transact aims to reduce the development effort in writing
-              distributed ledger software by providing a standard interface for executing
-              smart contracts that is separate from the distributed ledger implementation.  Hyperledger
-              Transact takes an extensible approach to implementing new smart contract
-              languages called “smart contract engines,” that implement a virtual
-              machine or interpreter that processes smart contracts.
+              Hyperledger Transact aims to reduce the development effort in writing distributed ledger software by providing a standard interface for executing
+              smart contracts that is separate from the distributed ledger implementation.  Hyperledger Transact takes an extensible approach to implementing
+              new smart contract languages called “smart contract engines,” that implement a virtual machine or interpreter that processes smart contracts.
             homepage_url: https://www.hyperledger.org/use/transact
             project: incubating
             repo_url: https://github.com/hyperledger/transact
@@ -1171,12 +1150,9 @@ landscape:
             name: Hyperledger Ursa
             second_path: Technology Intersections / Cybersecurity
             description: >-
-              Hyperledger Ursa is a shared cryptographic library, it enables implementations
-              to avoid duplicating other cryptographic work and hopefully increase
-              security in the process. The library is an opt-in repository (for Hyperledger
-              and non Hyperledger projects) to place and use crypto.  Hyperledger
-              Ursa consists of sub-projects, which are cohesive implementations of
-              cryptographic code or interfaces to cryptographic code.
+              Hyperledger Ursa is a shared cryptographic library, it enables implementations to avoid duplicating other cryptographic work and hopefully
+              increase security in the process. The library is an opt-in repository (for Hyperledger and non Hyperledger projects) to place and use crypto. 
+              Hyperledger Ursa consists of sub-projects, which are cohesive implementations of cryptographic code or interfaces to cryptographic code.
             homepage_url: https://www.hyperledger.org/use/ursa
             project: incubating
             repo_url: https://github.com/hyperledger/ursa
@@ -1197,8 +1173,7 @@ landscape:
             name: Hyperledger Bevel
             second_path: Platforms / Management/Operations
             description: >-
-              Hyperledger Bevel is an accelerator by which developers can consistently
-              deploy production-ready distributed networks across public and private
+              Hyperledger Bevel is an accelerator by which developers can consistently deploy production-ready distributed networks across public and private
               cloud providers.
             homepage_url: https://www.hyperledger.org/use/bevel
             project: incubating
@@ -1212,8 +1187,7 @@ landscape:
           - item:
             name: Hyperledger Cacti
             second_path: Interoperability / Point-to-point and overlayer approaches
-            description: Hyperledger Cacti is a blockchain integration tool designed
-              to allow users to securely integrate different blockchains.
+            description: Hyperledger Cacti is a blockchain integration tool designed to allow users to securely integrate different blockchains.
             homepage_url: https://www.hyperledger.org/use/cacti
             project: incubating
             repo_url: https://github.com/hyperledger/cactus
@@ -1226,12 +1200,9 @@ landscape:
             name: Hyperledger Caliper
             second_path: Application Tooling/Integrations / Analytics/Monitoring tools
             description: >-
-              Hyperledger Caliper is a blockchain benchmark tool, it allows users
-              to measure the performance of a blockchain implementation with a set
-              of predefined use cases. Hyperledger Caliper will produce reports containing
-              a number of performance indicators to serve as a reference when using
-              the following blockchain solutions: Hyperledger Besu, Ethereum, Hyperledger
-              Fabric, FISCO BCOS, Hyperledger Iroha, and Hyperledger Sawtooth.
+              Hyperledger Caliper is a blockchain benchmark tool, it allows users to measure the performance of a blockchain implementation with a set of
+              predefined use cases. Hyperledger Caliper will produce reports containing a number of performance indicators to serve as a reference when using
+              the following blockchain solutions: Hyperledger Besu, Ethereum, Hyperledger Fabric, FISCO BCOS, Hyperledger Iroha, and Hyperledger Sawtooth.
             homepage_url: https://www.hyperledger.org/use/caliper
             project: incubating
             repo_url: https://github.com/hyperledger/caliper
@@ -1246,12 +1217,9 @@ landscape:
             name: Hyperledger Cello
             second_path: Application Tooling/Integrations / Development tools/platforms
             description: >-
-              Hyperledger Cello aims to serve as the operational dashboard for Blockchain,
-              which reduces the effort required for creating, managing and using blockchains.
-              Besides, it can also be used to facilitate creating Blockchain as a
-              Service. Cello provides an operational console  for managing blockchain’s
-              efficiently and running on top of various infrastructures, e.g., baremetal,
-              virtual machine, and various container platforms.
+              Hyperledger Cello aims to serve as the operational dashboard for Blockchain, which reduces the effort required for creating, managing and using
+              blockchains. Besides, it can also be used to facilitate creating Blockchain as a Service. Cello provides an operational console  for managing
+              blockchain’s efficiently and running on top of various infrastructures, e.g., baremetal, virtual machine, and various container platforms.
             homepage_url: https://www.hyperledger.org/use/cello
             project: incubating
             repo_url: https://github.com/hyperledger/cello
@@ -1266,11 +1234,9 @@ landscape:
             name: Hyperledger Firefly
             second_path: Application Tooling/Integrations / Development tools/platforms
             description: >-
-              Hyperledger FireFly is the first open source Supernode, a complete stack
-              for enterprises to build and scale secure Web3 applications. The FireFly
-              API for digital assets, data flows, and blockchain transactions makes
-              it radically faster to build production-ready apps on popular chains
-              and protocols.
+              Hyperledger FireFly is the first open source Supernode, a complete stack for enterprises to build and scale secure Web3 applications. The FireFly
+              API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular chains and
+              protocols.
             homepage_url: https://www.hyperledger.org/use/firefly
             project: incubating
             repo_url: https://github.com/hyperledger/firefly
@@ -1298,9 +1264,8 @@ landscape:
           - item:
             name: Hyperledger Solang
             description: >-
-              Hyperledger Solang is a Solidity compiler written in rust which uses
-              llvm as the compiler backend. Solang can compile Solidity for Solana
-              and Substrate.
+              Hyperledger Solang is a Solidity compiler written in rust which uses llvm as the compiler backend. Solang can compile Solidity for Solana and
+              Substrate.
             homepage_url: https://www.hyperledger.org/use/solang
             project: incubating
             repo_url: https://github.com/hyperledger/solang
@@ -1316,11 +1281,9 @@ landscape:
             name: Hyperledger Grid
             second_path: Application Tooling/Integrations / Development tools/platforms
             description: >-
-              Hyperledger Grid intends to provide reference implementations of supply
-              chain-centric data types, data models, and smart contract based business
-              logic – all anchored on existing, open standards and industry best practices.  It
-              showcases in authentic and practical ways how to combine components
-              from the Hyperledger stack into a single, effective business solution.
+              Hyperledger Grid intends to provide reference implementations of supply chain-centric data types, data models, and smart contract based business
+              logic – all anchored on existing, open standards and industry best practices.  It showcases in authentic and practical ways how to combine
+              components from the Hyperledger stack into a single, effective business solution.
             homepage_url: https://www.hyperledger.org/use/grid
             project: incubating
             repo_url: https://github.com/hyperledger/grid
@@ -1423,14 +1386,15 @@ landscape:
             logo: casperlabs_llc.svg
             crunchbase: https://www.crunchbase.com/organization/casperlabs
           - item:
-            name: Chainyard Inc.
+            name: Chainyard
             homepage_url: https://chainyard.com/
+            project: hyperledger-member-services
             logo: chainyard.svg
             crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
           - item:
             name: Change Healthcare
             homepage_url: https://changehealthcare.com/
-            stock_ticker:
+            stock_ticker: null
             logo: change_healthcare.svg
             twitter: https://twitter.com/Change_HC
             crunchbase: https://www.crunchbase.com/organization/change-healthcare
@@ -1558,8 +1522,9 @@ landscape:
             logo: integra_ledger.svg
             crunchbase: https://www.crunchbase.com/organization/integra-ledger
           - item:
-            name: IntellectEU Inc.
+            name: IntellectEU
             homepage_url: https://intellecteu.com/
+            project: hyperledger-member-services
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
@@ -1589,8 +1554,9 @@ landscape:
             logo: jpmorgan_chase.svg
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
           - item:
-            name: Kaleido Inc.
+            name: Kaleido
             homepage_url: https://kaleido.io/
+            project: hyperledger-member-products
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
@@ -1628,8 +1594,9 @@ landscape:
             twitter: https://twitter.com/H3CGlobal
             crunchbase: https://www.crunchbase.com/organization/h3c-technologies
           - item:
-            name: NTT DATA Corporation
+            name: NTT DATA
             homepage_url: https://nttdata.com/
+            project: hyperledger-member-services
             logo: ntt_data.svg
             twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
@@ -1689,8 +1656,9 @@ landscape:
             logo: siemens_ag.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
-            name: SIMBA Chain Inc.
+            name: SIMBA Chain
             homepage_url: https://simbachain.com/
+            project: hyperledger-member-products
             logo: simba_chain.svg
             twitter: https://twitter.com/SIMBAchain
             crunchbase: https://www.crunchbase.com/organization/simba-chain
@@ -1934,8 +1902,9 @@ landscape:
             twitter: https://twitter.com/Howest_Intl
             crunchbase: https://www.crunchbase.com/organization/hogeschool-west-vlaanderen
           - item:
-            name: International Association for Trusted Blockchain Applications
+            name: INATBA
             homepage_url: https://inatba.org/
+            project: organization
             logo: inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba
@@ -2133,8 +2102,7 @@ landscape:
         items:
           - item:
             name: Accenture (HCSP)
-            description: Accenture, a technology independent HF-CSP and trusted advisor,
-              can help on your path to digital transformation.
+            description: Accenture, a technology independent HF-CSP and trusted advisor, can help on your path to digital transformation.
             homepage_url: https://www.accenture.com/us-en/insights/blockchain-index
             logo: accenture-horizontal-color.svg
             twitter: https://twitter.com/Accenture
@@ -2142,29 +2110,21 @@ landscape:
           - item:
             name: Avanza Innovations IT Solutions LLC (HCSP)
             description: >-
-              Avanza is a thought leader, best expert, and the go-to company for national
-              and city-scale blockchain implementations. We help governments take
-              the next leap in automation and prepare them for the 4th Industrial
-              Revolution through the use of nascent technologies. Avanza has enabled
-              numerous tier 1  government entities, regulators, and large enterprises
-              to take on pioneering automation within their eco-systems in areas of
-              Digital Government Transformation, Financial Regulation & Supervision,
-              Health Care, Supply Chain, Ports & Logistics, Manufacturing, Trade Finance,
-              Oil & Gas, E-Commerce and many more. Avanza’s tremendous success and
-              by far the biggest market share in enterprise blockchain implementations
-              is made possible through an all-star and ace technology team - and on
-              the back of our un-paralleled blockchain Orchestration and governance
-              platform – Cipher.
+              Avanza is a thought leader, best expert, and the go-to company for national and city-scale blockchain implementations. We help governments take
+              the next leap in automation and prepare them for the 4th Industrial Revolution through the use of nascent technologies. Avanza has enabled
+              numerous tier 1  government entities, regulators, and large enterprises to take on pioneering automation within their eco-systems in areas of
+              Digital Government Transformation, Financial Regulation & Supervision, Health Care, Supply Chain, Ports & Logistics, Manufacturing, Trade Finance,
+              Oil & Gas, E-Commerce and many more. Avanza’s tremendous success and by far the biggest market share in enterprise blockchain implementations is
+              made possible through an all-star and ace technology team - and on the back of our un-paralleled blockchain Orchestration and governance platform
+              – Cipher.
             homepage_url: https://avanzainnovations.com/
             logo: avanza_innovations_it_solutions_llc.svg
             crunchbase: https://www.crunchbase.com/organization/avanza-innovations
           - item:
             name: BONbLOC Inc (HCSP)
             description: >-
-              BONbLOC builds SaaS solutions that address many Private, Commercial
-              and Public Sector supply chain or operations management challenges using
-              Blockchain, Data Science and IOT technologies.  We love what we do and
-              are grateful to our customers, who trust us to lead them on a path to
+              BONbLOC builds SaaS solutions that address many Private, Commercial and Public Sector supply chain or operations management challenges using
+              Blockchain, Data Science and IOT technologies.  We love what we do and are grateful to our customers, who trust us to lead them on a path to
               collaborative situations that touch daily lives using modern technologies.
             homepage_url: https://bonbloc.com/
             logo: bonbloc_inc.svg
@@ -2172,60 +2132,46 @@ landscape:
           - item:
             name: Chainyard (HCSP)
             description: >-
-              Chainyard, a leader in blockchain consulting, is a dynamic team of blockchain
-              enthusiasts with the expertise, process, and technology required to
-              develop world-class business and software solutions. With a focus on
-              enterprise use cases, Chainyard is helping companies navigate blockchain
-              by working with them to identify value, prioritize opportunities, develop
-              solutions, and operate production blockchain networks.
+              Chainyard, a leader in blockchain consulting, is a dynamic team of blockchain enthusiasts with the expertise, process, and technology required to
+              develop world-class business and software solutions. With a focus on enterprise use cases, Chainyard is helping companies navigate blockchain by
+              working with them to identify value, prioritize opportunities, develop solutions, and operate production blockchain networks.
             homepage_url: https://chainyard.com/
             logo: chainyard-horizontal-color.svg
             crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
           - item:
             name: CPQD (HCSP)
             description: >-
-              Consulting services for innovation in business networks -- design thinking
-              and design sprint techniques to co-create an application. Application
-              and DLTs implementation for (1) traceability of things (IoT), (2) digital
-              identity and (3) contract automation.
+              Consulting services for innovation in business networks -- design thinking and design sprint techniques to co-create an application. Application
+              and DLTs implementation for (1) traceability of things (IoT), (2) digital identity and (3) contract automation.
             homepage_url: https://www.cpqd.com.br/blockchain/
             logo: cpqd-horizontal-color.svg
             crunchbase: https://www.crunchbase.com/organization/cpqd
           - item:
             name: Espeo Software (HCSP)
             description: >-
-              Espeo Software is a digital consultancy that specializes in the development
-              of enterprise blockchain projects. We’re focused on building Hyperledger
-              Fabric solutions. We’re your full-service partner for transforming your
-              blockchain concept into a complete decentralized product. As blockchain
-              consultants, we’ll walk you through the process of complex blockchain
-              development. With over a decade of experience, our expert team will
-              turn your concept into a leading product.
+              Espeo Software is a digital consultancy that specializes in the development of enterprise blockchain projects. We’re focused on building
+              Hyperledger Fabric solutions. We’re your full-service partner for transforming your blockchain concept into a complete decentralized product. As
+              blockchain consultants, we’ll walk you through the process of complex blockchain development. With over a decade of experience, our expert team
+              will turn your concept into a leading product.
             homepage_url: https://espeo.eu/
             logo: espeo_software.svg
             crunchbase: https://www.crunchbase.com/organization/espeo-software
           - item:
             name: Hitachi (HCSP)
             description: >-
-              Utilizing the blockchain technology provided by Hitachi, the speed of
-              transactions between companies can be dramatically increased, and it
-              becomes possible to create business that overcome the barriers between
-              different industries. Hitachi has a wealth of understanding and know-how
-              covering a wide variety of different industries. By using blockchains
-              and other technologies and know-how that we have developed up till now,
-              Hitachi will contribute to the building of new customer businesses.
+              Utilizing the blockchain technology provided by Hitachi, the speed of transactions between companies can be dramatically increased, and it becomes
+              possible to create business that overcome the barriers between different industries. Hitachi has a wealth of understanding and know-how covering a
+              wide variety of different industries. By using blockchains and other technologies and know-how that we have developed up till now, Hitachi will
+              contribute to the building of new customer businesses.
             homepage_url: https://www.hitachi.co.jp/products/it/blockchain/service/hyperledger/index.html
             logo: hitachi-stacked-color.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: IBM (HCSP)
             description: >-
-              IBM has several blockchain products and services that will help accelerate
-              a client’s blockchain success. The IBM Blockchain Platform adds enterprise
-              grade production requirements to Hyperledger Fabric helping clients
-              to build, govern, operate and grow their enterprise blockchain solutions
-              throughout their solutions lifecycle.  This platform is available as
-              SaaS on the IBM Cloud or as Software for multicloud (3 party public
+              IBM has several blockchain products and services that will help accelerate a client’s blockchain success. The IBM Blockchain Platform adds
+              enterprise grade production requirements to Hyperledger Fabric helping clients to build, govern, operate and grow their enterprise blockchain
+              solutions throughout their solutions lifecycle.  This platform is available as SaaS on the IBM Cloud or as Software for multicloud (3 party public
               clouds) or on-premise infrastructures of your choice.
             homepage_url: https://www.ibm.com/blockchain
             logo: ibm-horizontal-color.svg
@@ -2234,12 +2180,9 @@ landscape:
           - item:
             name: Information Data Systems (HCSP)
             description: >-
-              We at IDS, build fit for purpose enterprise blockchain applications
-              with various degrees of decentralization. We have a proprietary Blockchain
-              Transformation Framework to design, develop and deliver blockchain solutions
-              with outcome driven tactical short term and strategic long term value
-              proposition. We have one of our flagship application "Trustflow - coherent
-              supply chain management" and couple of blockchain solutions are powered
+              We at IDS, build fit for purpose enterprise blockchain applications with various degrees of decentralization. We have a proprietary Blockchain
+              Transformation Framework to design, develop and deliver blockchain solutions with outcome driven tactical short term and strategic long term value
+              proposition. We have one of our flagship application "Trustflow - coherent supply chain management" and couple of blockchain solutions are powered
               by Hyperledger Fabric.
             homepage_url: https://idssoft.com/
             logo: information_data_systems.svg
@@ -2248,40 +2191,29 @@ landscape:
           - item:
             name: IntellectEU (HCSP)
             description: >-
-              IntellectEU is a founding member of the Hyperledger Foundation and has
-              built several production-grade solutions built on Hyperledger Fabric
-              centered around areas such as tokenization and KYC.  Building on our
-              experience with Hyperledger Fabric, we have created the Catalyst Blockchain
-              Platform to simplify the deployment, maintenance, and management of
-              Fabric networks for enterprises.
+              IntellectEU is a founding member of the Hyperledger Foundation and has built several production-grade solutions built on Hyperledger Fabric
+              centered around areas such as tokenization and KYC.  Building on our experience with Hyperledger Fabric, we have created the Catalyst Blockchain
+              Platform to simplify the deployment, maintenance, and management of Fabric networks for enterprises.
             homepage_url: https://intellecteu.com/
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
             name: Kaleido (HCSP)
             description: >-
-              Kaleido is an enterprise-grade, web3 platform making blockchain and
-              digital assets radically simple for organizations to adopt. Kaleido
-              makes it easy to launch multi-region, multi-cloud blockchain networks
-              on protocols including Hyperledger Fabric, Hyperledger Besu, Ethereum,
-              Polygon Edge, Quorum, and Corda, all backed by Hyperledger FireFly.
-              Kaleido has been powering enterprise blockchain since its inception
-              and is the driving force behind Hyperledger FireFly. We serve on the
-              Governing Board and Technical Oversight Committee for Hyperledger Foundation,
-              and our team contains founding members of Hyperledger Fabric, plus long
-              time committers and maintainers.
+              Kaleido is an enterprise-grade, web3 platform making blockchain and digital assets radically simple for organizations to adopt. Kaleido makes it
+              easy to launch multi-region, multi-cloud blockchain networks on protocols including Hyperledger Fabric, Hyperledger Besu, Ethereum, Polygon Edge,
+              Quorum, and Corda, all backed by Hyperledger FireFly. Kaleido has been powering enterprise blockchain since its inception and is the driving force
+              behind Hyperledger FireFly. We serve on the Governing Board and Technical Oversight Committee for Hyperledger Foundation, and our team contains
+              founding members of Hyperledger Fabric, plus long time committers and maintainers.
             homepage_url: https://kaleido.io/
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
             name: KrypC Corp (HCSP)
             description: >-
-              KrypC is a Blockchain technology venture, backed by seasoned professionals,
-              focused on accelerating adoption of blockchain technology We research,
-              develop and go to market with blockchain-based products; for large enterprises
-              and blockchain start-up ventures to adopt and realize business value.
-              KrypC is a Hyperledger Certified Service Provider (HCSP) with over 150
-              person years of experience. Since 2016 KrypC has been deploying and
+              KrypC is a Blockchain technology venture, backed by seasoned professionals, focused on accelerating adoption of blockchain technology We research,
+              develop and go to market with blockchain-based products; for large enterprises and blockchain start-up ventures to adopt and realize business
+              value. KrypC is a Hyperledger Certified Service Provider (HCSP) with over 150 person years of experience. Since 2016 KrypC has been deploying and
               managing many HLF programs in production across multiple domains.
             homepage_url: https://krypc.com/
             logo: KrypC-logo.svg
@@ -2289,56 +2221,41 @@ landscape:
           - item:
             name: Mindtree (HCSP)
             description: >-
-              Mindtree has been developing capabilities around Hyperledger for the
-              last four years, started contributing to the Hyperledger community since
-              2017. Mindtree has a product for ‘Loyalty Exchange Platform’, named
-              ‘$wap’, using Hyperledger Fabric. 'Merchant On-Boarding' on blockchain
-              using Hyperledger Fabric, is another product which is also in MVP state.
-              Both the products can be customized easily as per the requirement of
-              the customers.
+              Mindtree has been developing capabilities around Hyperledger for the last four years, started contributing to the Hyperledger community since
+              2017. Mindtree has a product for ‘Loyalty Exchange Platform’, named ‘$wap’, using Hyperledger Fabric. 'Merchant On-Boarding' on blockchain using
+              Hyperledger Fabric, is another product which is also in MVP state. Both the products can be customized easily as per the requirement of the
+              customers.
             homepage_url: https://www.mindtree.com
             logo: mindtree-horizontal-color.svg
             crunchbase: https://www.crunchbase.com/organization/mindtree
           - item:
             name: NEC Corporation (HCSP)
             description: >-
-              NEC Corporation is a leader in the integration of IT and network technologies
-              that benefit businesses and people around the world. NEC brings more
-              than 120 years of expertise in technological innovation to empower people,
-              businesses and society. Recently we are making efforts to resolve the
-              difficulties of traditional blockchain and developing new technology
-              for enterprise use.
+              NEC Corporation is a leader in the integration of IT and network technologies that benefit businesses and people around the world. NEC brings more
+              than 120 years of expertise in technological innovation to empower people, businesses and society. Recently we are making efforts to resolve the
+              difficulties of traditional blockchain and developing new technology for enterprise use.
             homepage_url: https://www.nec.com/
             logo: nec-400x245.svg
             crunchbase: https://www.crunchbase.com/organization/nec
           - item:
             name: Snapper Future Tech (HCSP)
             description: >-
-              Snapper Future Tech is a global services & technology products company,
-              leading digital transformation for enterprises using blockchain. It
-              offers services in Blockchain application development, training & consulting,
-              along with an innovative suite of specialized products for e-Governance,
-              Financial Services, Insurance, Sustainable Supply Chain & Healthcare.  A
-              Hyperledger Certified Service Provider (HCSP) & Training partner (HTP),
-              the company participates in open-source initiatives across the globe
-              & has robust technological alliances & partnerships with Hyperledger,
-              Oracle, Amazon Web Services, IBM, Trust over IP & Sovrin.
+              Snapper Future Tech is a global services & technology products company, leading digital transformation for enterprises using blockchain. It offers
+              services in Blockchain application development, training & consulting, along with an innovative suite of specialized products for e-Governance,
+              Financial Services, Insurance, Sustainable Supply Chain & Healthcare.  A Hyperledger Certified Service Provider (HCSP) & Training partner (HTP),
+              the company participates in open-source initiatives across the globe & has robust technological alliances & partnerships with Hyperledger, Oracle,
+              Amazon Web Services, IBM, Trust over IP & Sovrin.
             homepage_url: https://snapperfuturetech.com/
             logo: snapper_logo_horizontal.svg
             crunchbase: https://www.crunchbase.com/organization/snapper-future-tech
           - item:
             name: Tech Mahindra (HCSP)
             description: >-
-              Tech Mahindra is one of the leading Blockchain Service Providers in
-              the world with demonstrated product development capabilities using Hyperledger
-              projects by developing 25+ Blockchain platforms and also implemented
-              one of the world’s largest Blockchain networks covering 500 million+
-              subscribers in India to fight spam calls and text. With 250+ global
-              engagements and 100+ core Blockchain team members trained on Hyperledger,
-              we have extensive experience in developing and deploying several transformative
-              implementations for governments, large and mid-sized enterprises across
-              diverse industry verticals that have helped our clients solve complex
-              business problems.
+              Tech Mahindra is one of the leading Blockchain Service Providers in the world with demonstrated product development capabilities using Hyperledger
+              projects by developing 25+ Blockchain platforms and also implemented one of the world’s largest Blockchain networks covering 500 million+
+              subscribers in India to fight spam calls and text. With 250+ global engagements and 100+ core Blockchain team members trained on Hyperledger, we
+              have extensive experience in developing and deploying several transformative implementations for governments, large and mid-sized enterprises
+              across diverse industry verticals that have helped our clients solve complex business problems.
             homepage_url: https://www.techmahindra.com/en-in/techmnxt/techbets/blockchain/
             logo: techmahindra-stacked-color.svg
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
