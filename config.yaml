@@ -11,3 +11,4 @@ project: a0941000002wByYAAU  # Hyperledger
 landscapeMemberCategory: Hyperledger Members
 landscapefile: landscape.yml
 missingcsvfile: missing.csv
+memberSuffix: ' (member)'
