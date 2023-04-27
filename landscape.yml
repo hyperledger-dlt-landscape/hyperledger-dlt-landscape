@@ -1256,29 +1256,6 @@ landscape:
             extra:
               wiki: https://wiki.hyperledger.org/display/SOL/Hyperledger+Solang
               chat: https://discord.com/channels/905194001349627914/905834552965103638
-      - subcategory:
-        name: Domain Specific
-        items:
-          - item:
-            name: Hyperledger Grid
-            second_path: Application Tooling/Integrations / Development tools/platforms
-            description: >-
-              Hyperledger Grid intends to provide reference implementations of supply chain-centric data types, data models, and smart contract based business
-              logic – all anchored on existing, open standards and industry best practices.  It showcases in authentic and practical ways how to combine
-              components from the Hyperledger stack into a single, effective business solution.
-            homepage_url: https://www.hyperledger.org/use/grid
-            project: incubating
-            repo_url: https://github.com/hyperledger/grid
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/grid-contrib
-              - repo_url: https://github.com/hyperledger/grid-docs
-              - repo_url: https://github.com/hyperledger/grid-rfcs
-            logo: hyperledger-grid.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            extra:
-              wiki: https://wiki.hyperledger.org/display/grid
-              chat: https://discord.com/channels/905194001349627914/941369415608451142
-              documentation: https://grid.hyperledger.org/docs
   - category:
     name: Hyperledger Members
     subcategories:
