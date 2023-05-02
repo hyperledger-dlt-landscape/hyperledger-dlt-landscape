@@ -1598,6 +1598,12 @@ landscape:
             twitter: https://twitter.com/Ripple
             crunchbase: https://www.crunchbase.com/organization/ripple-labs
           - item:
+            name: Senofi (member)
+            homepage_url: https://senofi.ca/
+            logo: senofi.svg
+            twitter: https://twitter.com/SenofiCA
+            crunchbase: https://www.crunchbase.com/organization/senofi
+          - item:
             name: Shanghai Vonechain Information Technology Co., Ltd (member)
             homepage_url: https://vonechain.com/
             logo: shanghai_vonechain_information_technology_co_ltd.svg
@@ -1802,6 +1808,12 @@ landscape:
             twitter: https://twitter.com/idlaborg
             organization:
               name: Digital Identity Laboratory of Canada
+          - item:
+            name: Digital Pound Foundation (member)
+            homepage_url: https://digitalpoundfoundation.com/
+            logo: digital_pound_foundation.svg
+            twitter: https://twitter.com/digitalpoundfdn
+            crunchbase: https://www.crunchbase.com/organization/digital-pound-foundation
           - item:
             name: Enterprise Ethereum Alliance (member)
             homepage_url: https://entethalliance.org/
