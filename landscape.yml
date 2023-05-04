@@ -1126,26 +1126,6 @@ landscape:
               chat: https://discord.com/channels/905194001349627914/905206466410057728
               introduction_course: https://www.edx.org/course/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa
               developer_course: https://www.edx.org/course/becoming-a-hyperledger-aries-developer
-          - item:
-            name: Hyperledger Transact
-            second_path: Smart Contracts/Tokenization / Legal contracts
-            description: >-
-              Hyperledger Transact aims to reduce the development effort in writing distributed ledger software by providing a standard interface for executing
-              smart contracts that is separate from the distributed ledger implementation.  Hyperledger Transact takes an extensible approach to implementing
-              new smart contract languages called “smart contract engines,” that implement a virtual machine or interpreter that processes smart contracts.
-            homepage_url: https://www.hyperledger.org/use/transact
-            project: incubating
-            repo_url: https://github.com/hyperledger/transact
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/transact-contrib
-              - repo_url: https://github.com/hyperledger/transact-rfcs
-              - repo_url: https://github.com/hyperledger/transact-sdk-go
-              - repo_url: https://github.com/hyperledger/transact-sdk-javascript
-            logo: hyperledger-transact.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            extra:
-              wiki: https://wiki.hyperledger.org/display/transact
-              chat: https://discord.com/channels/905194001349627914/941414396704477234
       - subcategory:
         name: Tools
         items:
