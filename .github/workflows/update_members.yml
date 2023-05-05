@@ -52,7 +52,10 @@ jobs:
           PROJECT_PATH=../landscape node tools/pruneExtraEntries
       - name: fix Accenture
         run: |
-          sed -i '' -e 's/https:\/\/www.crunchbase.com\/organization\/organization\//https:\/\/www.crunchbase.com\/organization\//' landscape.yml
+          cd landscape
+          pwd
+          ls -laR
+          sed -e 's/https:\/\/www.crunchbase.com\/organization\/organization\//https:\/\/www.crunchbase.com\/organization\//'  landscape.yml
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
