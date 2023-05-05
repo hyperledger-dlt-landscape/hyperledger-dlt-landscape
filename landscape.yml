@@ -1382,6 +1382,12 @@ landscape:
             twitter: https://twitter.com/datachain_en
             crunchbase: https://www.crunchbase.com/organization/datachain-japan
           - item:
+            name: Deloitte Consulting LLP (member)
+            homepage_url: https://deloitte.com/
+            logo: deloitte_consulting_llp.svg
+            twitter: https://twitter.com/DeloitteUS
+            crunchbase: https://www.crunchbase.com/organization/deloitte
+          - item:
             name: Deutsche Telekom AG (member)
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
