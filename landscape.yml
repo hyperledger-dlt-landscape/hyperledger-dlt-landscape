@@ -392,7 +392,6 @@ landscape:
           - item:
             name: Chaincode
             homepage_url: https://www.hyperledger.org/use/fabric
-            project: graduated
             repo_url: https://github.com/hyperledger/fabric-chaincode-go
             logo: hyperledger-fabric.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
