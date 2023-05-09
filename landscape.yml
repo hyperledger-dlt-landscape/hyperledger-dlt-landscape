@@ -1419,6 +1419,12 @@ landscape:
             twitter: https://twitter.com/FilFoundation
             crunchbase: https://www.crunchbase.com/organization/filecoin-foundation
           - item:
+            name: GoLedger (member)
+            homepage_url: https://goledger.com.br/
+            logo: goledger.svg
+            organization:
+              name: GoLedger
+          - item:
             name: GSBN (member)
             homepage_url: https://gsbn.trade/
             logo: gsbn.svg
