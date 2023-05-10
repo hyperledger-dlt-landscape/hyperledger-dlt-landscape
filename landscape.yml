@@ -1420,8 +1420,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/filecoin-foundation
           - item:
             name: GoLedger (member)
-            homepage_url: https://goledger.com.br/
+            homepage_url: https://goledger.io/
             logo: goledger.svg
+            twitter: https://twitter.com/go_ledger
             organization:
               name: GoLedger
           - item:
