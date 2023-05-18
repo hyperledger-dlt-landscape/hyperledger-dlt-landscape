@@ -29,7 +29,7 @@ Welcome to a living segmentation of the evolving DLT market! Hyperledger DLT Lan
 
 ## Interactive Version
 
-Please see [dltlandscape.org](https://dltlandscape.org).
+Please see [dltlandscape.hyperledger.org/]([https://dltlandscape.org](https://dltlandscape.hyperledger.org/)).
 
 ## New Entries
 
