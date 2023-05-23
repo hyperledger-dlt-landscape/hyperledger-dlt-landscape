@@ -171,7 +171,7 @@ landscape:
             name: IOTA
             homepage_url: https://www.iota.org
             project: non-hyperledger-member-products
-            repo_url: https://github.com/iotaledger/protocol-rfcs
+            repo_url: https://github.com/iotaledger/tips
             logo: Iota.svg
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
           - item:
@@ -251,7 +251,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/iagon
           - item:
             name: IPFS
-            homepage_url: https://ipfs.io/
+            homepage_url: https://ipfs.tech/
             project: non-hyperledger-member-products
             repo_url: https://github.com/ipfs/ipfs
             logo: ipfs.svg
@@ -359,7 +359,7 @@ landscape:
         items:
           - item:
             name: Canton
-            homepage_url: https://www.canton.io/
+            homepage_url: https://www.canton.network/
             project: hyperledger-member-products
             logo: digital-asset.svg
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
@@ -397,7 +397,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
           - item:
             name: Daml
-            homepage_url: https://daml.com
+            homepage_url: https://www.digitalasset.com/developers
             project: hyperledger-member-products
             repo_url: https://github.com/digital-asset/daml
             logo: daml.svg
@@ -591,7 +591,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/finboot
           - item:
             name: Ping Identity/Shocard
-            homepage_url: https://www.shocard.com
+            homepage_url: https://www.pingidentity.com/en/platform/capabilities/personal-identity.html
             project: non-hyperledger-member-products
             logo: ping-identity.svg
             crunchbase: https://www.crunchbase.com/organization/shocard-inc
@@ -621,7 +621,7 @@ landscape:
         items:
           - item:
             name: AgriLedger
-            homepage_url: http://www.agriledger.io/
+            homepage_url: https://www.agriledger.io/
             project: non-hyperledger-member-products
             logo: dlt-logo.svg
             crunchbase: https://www.crunchbase.com/organization/agriledger
@@ -651,7 +651,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/grainchain
           - item:
             name: IBM Food Trust
-            homepage_url: https://www.ibm.com/blockchain/solutions/food-trust
+            homepage_url: https://www.ibm.com/products/supply-chain-intelligence-suite/food-trust
             project: hyperledger-member-products
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
@@ -735,7 +735,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/first-genesis
           - item:
             name: IBM Blockchain Platform
-            homepage_url: https://www.ibm.com/blockchain/platform
+            homepage_url: https://www.ibm.com/products/blockchain-platform-hyperledger-fabric
             project: hyperledger-member-products
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
@@ -1149,7 +1149,7 @@ landscape:
             description: Hyperledger Cacti is a blockchain integration tool designed to allow users to securely integrate different blockchains.
             homepage_url: https://www.hyperledger.org/use/cacti
             project: incubating
-            repo_url: https://github.com/hyperledger/cactus
+            repo_url: https://github.com/hyperledger/cacti
             logo: hyperledger-cacti.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
@@ -1399,7 +1399,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
           - item:
             name: DLT Global Inc. (member)
-            homepage_url: https://dltlabs.io/
+            homepage_url: https://www.dltlabs.com/
             logo: dlt_global_inc.svg
             crunchbase: https://www.crunchbase.com/organization/dlt-labs
           - item:
@@ -1515,7 +1515,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/krypc
           - item:
             name: LTIMindtree Limited (member)
-            homepage_url: https://mindtree.com/
+            homepage_url: https://www.ltimindtree.com/
             logo: ltimindtree_limited.svg
             twitter: https://twitter.com/LTIMindtreeOFCL
             crunchbase: https://www.crunchbase.com/organization/mindtree
@@ -1906,7 +1906,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/monetary-authority-of-singapore
           - item:
             name: Open Earth Foundation (member)
-            homepage_url: https://openfoundation.earth/
+            homepage_url: https://openearth.org/
             logo: open_earth_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/open-earth-foundation
           - item:
@@ -1981,7 +1981,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/the-university-of-hong-kong
           - item:
             name: TNO, the Netherlands Organisation for Applied Scientific Research (member)
-            homepage_url: https://tno.nl/
+            homepage_url: https://www.tno.nl/nl/
             logo: tno_the_netherlands_organisation_for_applied_scientific_research.svg
             twitter: https://twitter.com/TNO_nieuws
             crunchbase: https://www.crunchbase.com/organization/tno
