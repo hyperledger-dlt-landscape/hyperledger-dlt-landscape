@@ -55,7 +55,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1181158866944
+              market_cap: 1180305195008
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services.svg
@@ -138,7 +138,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 65760907264
+              market_cap: 66444562432
               effective_ticker: EQIX
             image_data:
               fileName: equinix.svg
@@ -746,7 +746,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1586889097216
+              market_cap: 1571566780416
               effective_ticker: GOOG
             image_data:
               fileName: google.svg
@@ -1239,7 +1239,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 114295627776
+              market_cap: 115185508352
               effective_ticker: IBM
             image_data:
               fileName: ibm.svg
@@ -1283,7 +1283,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 66346823
+                  value: 66346774
                   color: '#00ADD8'
                 - name: Shell
                   value: 1874829
@@ -1313,20 +1313,20 @@ landscape:
                   value: 106
                   color: '#e34c26'
               contributions: >-
-                99;97;152;100;109;80;137;184;168;253;97;61;150;137;112;124;174;132;109;133;215;208;210;350;132;56;49;58;236;158;85;107;197;170;171;159;114;148;174;190;289;426;108;49;46;142;123;110;150;137;164;84
+                99;97;152;100;109;80;137;184;168;253;97;61;150;137;112;124;174;132;109;133;215;208;210;350;132;56;49;58;236;158;85;107;197;170;171;159;114;148;174;190;289;426;108;49;46;142;123;110;150;137;166;84
               firstWeek: 2022-05-29Z
-              stars: 98638
+              stars: 98641
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2023-05-25T15:45:03Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/ffc0346400a6075dc7ad8a39b77039818c260c73
+              latest_commit_date: '2023-05-25T18:34:54Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/3d27dee047a87527735bf74cfcc6b8ff8875f66c
               release_date: '2023-05-17T21:55:39Z'
               release_link: https://github.com/kubernetes/kubernetes/releases
               contributors_count: 4733
               contributors_link: https://github.com/kubernetes/kubernetes/graphs/contributors
             repos:
               - url: https://github.com/kubernetes/kubernetes
-                stars: 98638
+                stars: 98641
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
               start_date: '2014-06-06T23:40:48Z'
@@ -1920,7 +1920,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2417125228544
+              market_cap: 2423746723840
               effective_ticker: MSFT
             image_data:
               fileName: microsoft.svg
@@ -2281,7 +2281,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 276457914368
+              market_cap: 279969267712
               effective_ticker: ORCL
             image_data:
               fileName: oracle.svg
@@ -2452,7 +2452,7 @@ landscape:
               start_commit_link: /rancher/rancher/commit/89854cf6f29bf3ee857b8f3edf51305bdf2d13f9
               start_date: '2017-11-14T00:57:39Z'
             yahoo_finance_data:
-              market_cap: 2256773246
+              market_cap: 2258083457
               effective_ticker: SUSE.F
             image_data:
               fileName: suse-rancher.svg
@@ -2605,7 +2605,7 @@ landscape:
                 - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 54293082112
+              market_cap: 54790123520
               effective_ticker: VMW
             image_data:
               fileName: v-mware.svg
@@ -3180,7 +3180,7 @@ landscape:
               contributions: >-
                 72;64;83;93;94;81;73;100;78;65;67;74;71;48;63;69;93;36;88;47;65;51;39;29;35;41;56;70;62;62;18;66;64;99;62;76;57;49;69;55;45;47;52;65;55;29;50;26;35;60;48;40
               firstWeek: 2022-05-29Z
-              stars: 69671
+              stars: 69673
               license: MIT License
               description: Bitcoin Core integration/staging tree
               latest_commit_date: '2023-05-25T14:36:23Z'
@@ -3191,7 +3191,7 @@ landscape:
               contributors_link: https://github.com/bitcoin/bitcoin/graphs/contributors
             repos:
               - url: https://github.com/bitcoin/bitcoin
-                stars: 69671
+                stars: 69673
             github_start_commit_data:
               start_commit_link: /bitcoin/bitcoin/commit/4405b78d6059e536c36974088a8ed4d9f0f29898
               start_date: '2009-08-30T03:46:39Z'
@@ -3306,13 +3306,13 @@ landscape:
             github_data:
               languages:
                 - name: Rust
-                  value: 29437385
+                  value: 29451670
                   color: '#dea584'
                 - name: Python
                   value: 1278102
                   color: '#3572A5'
                 - name: Starlark
-                  value: 832532
+                  value: 832632
                 - name: Shell
                   value: 698330
                   color: '#89e051'
@@ -3373,8 +3373,8 @@ landscape:
               stars: 1300
               license: Other
               description: 'Internet Computer blockchain source: the client/replica software run by nodes'
-              latest_commit_date: '2023-05-25T14:43:09Z'
-              latest_commit_link: /dfinity/ic/commit/55c1f01488804a6bca8484fa6542030557e95e19
+              latest_commit_date: '2023-05-25T18:15:21Z'
+              latest_commit_link: /dfinity/ic/commit/b57f504092bb60392de00e15743ba1ea07d45bf9
               contributors_count: 171
               contributors_link: https://github.com/dfinity/ic/graphs/contributors
             repos:
@@ -3560,7 +3560,7 @@ landscape:
               contributions: >-
                 11;28;15;12;21;17;11;14;24;22;13;8;24;18;19;13;18;29;12;21;4;9;23;22;15;9;16;11;10;7;3;9;14;19;14;16;22;23;33;9;24;21;18;18;27;1;9;19;12;14;20;14
               firstWeek: 2022-05-29Z
-              stars: 42364
+              stars: 42361
               license: GNU Lesser General Public License v3.0
               description: Official Go implementation of the Ethereum protocol
               latest_commit_date: '2023-05-25T13:19:58Z'
@@ -3571,7 +3571,7 @@ landscape:
               contributors_link: https://github.com/ethereum/go-ethereum/graphs/contributors
             repos:
               - url: https://github.com/ethereum/go-ethereum
-                stars: 42364
+                stars: 42361
             github_start_commit_data:
               start_commit_link: /ethereum/go-ethereum/commit/5db3335dce766bd679c54ea44f6df08a7ff74762
               start_date: '2013-12-26T11:45:52Z'
@@ -3710,7 +3710,7 @@ landscape:
             github_data:
               languages:
                 - name: Rust
-                  value: 18075766
+                  value: 18101814
                   color: '#dea584'
                 - name: Shell
                   value: 501631
@@ -3739,8 +3739,8 @@ landscape:
               stars: 10321
               license: Other
               description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-              latest_commit_date: '2023-05-25T14:48:22Z'
-              latest_commit_link: /solana-labs/solana/commit/9281ab7d9778b23775d8de2415c48eb34cd92975
+              latest_commit_date: '2023-05-25T18:46:46Z'
+              latest_commit_link: /solana-labs/solana/commit/5572d23efaa38f5f5ad95903b32ddd88ebaba739
               release_date: '2023-05-16T02:09:58Z'
               release_link: https://github.com/solana-labs/solana/releases
               contributors_count: 475
@@ -3968,7 +3968,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1181158866944
+              market_cap: 1180305195008
               effective_ticker: AMZN
             image_data:
               fileName: amazon-qldb.svg
@@ -4427,7 +4427,7 @@ landscape:
                   value: 2554
                   color: '#384d54'
               contributions: >-
-                27;15;14;26;24;20;15;14;24;28;24;25;28;25;17;27;27;32;32;30;13;16;26;25;20;45;15;22;33;27;15;12;34;18;31;40;34;23;25;34;33;29;31;59;85;29;36;31;19;32;17;13
+                27;15;14;26;24;20;15;14;24;28;24;25;28;25;17;27;27;32;32;30;13;16;26;25;20;45;15;22;33;27;15;12;34;18;31;40;34;23;25;34;33;29;31;59;85;29;36;31;19;32;17;12
               firstWeek: 2022-05-29Z
               stars: 2683
               license: GNU Affero General Public License v3.0
@@ -4951,7 +4951,7 @@ landscape:
               contributions: >-
                 12;5;10;18;18;11;6;9;13;16;7;16;10;12;15;17;12;16;20;14;16;7;10;19;14;10;19;21;13;12;8;9;25;12;20;14;18;11;21;13;23;19;21;16;17;8;22;16;12;20;19;17
               firstWeek: 2022-05-29Z
-              stars: 6817
+              stars: 6819
               license: GNU General Public License v3.0
               description: Polkadot Node Implementation
               latest_commit_date: '2023-05-25T14:18:14Z'
@@ -4962,7 +4962,7 @@ landscape:
               contributors_link: https://github.com/paritytech/polkadot/graphs/contributors
             repos:
               - url: https://github.com/paritytech/polkadot
-                stars: 6817
+                stars: 6819
             github_start_commit_data:
               start_commit_link: /paritytech/polkadot/commit/8d2563895c0d7296f1f7da10df7befe334bc8dec
               start_date: '2018-02-08T13:29:30Z'
@@ -5142,7 +5142,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 9101405
+                  value: 9121841
                   color: '#00ADD8'
                 - name: Solidity
                   value: 1686794
@@ -5179,8 +5179,8 @@ landscape:
               stars: 4589
               license: MIT License
               description: node of the decentralized oracle network, bridging on and off-chain computation
-              latest_commit_date: '2023-05-25T16:03:28Z'
-              latest_commit_link: /smartcontractkit/chainlink/commit/28b829d8beda44b3ecbecbd13ac745ace3fe06ec
+              latest_commit_date: '2023-05-25T16:31:11Z'
+              latest_commit_link: /smartcontractkit/chainlink/commit/8aceb5036620820b73d9fdbbae43127bc3d1f5ef
               release_date: '2023-05-16T20:45:43Z'
               release_link: https://github.com/smartcontractkit/chainlink/releases
               contributors_count: 177
@@ -5709,7 +5709,7 @@ landscape:
                   color: '#384d54'
               contributions: 0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;3;0;0;0;0;0;0;0;1;5;2;0;0
               firstWeek: 2022-05-29Z
-              stars: 404
+              stars: 405
               license: MIT License
               description: Bitcoin Script Debugger
               latest_commit_date: '2023-05-10T07:34:09Z'
@@ -5720,7 +5720,7 @@ landscape:
               contributors_link: https://github.com/bitcoin-core/btcdeb/graphs/contributors
             repos:
               - url: https://github.com/bitcoin-core/btcdeb
-                stars: 404
+                stars: 405
             github_start_commit_data:
               start_commit_link: /bitcoin-core/btcdeb/commit/b1207883dc643b314062fb52e52d8de1f8813774
               start_date: '2017-12-13T03:53:22Z'
@@ -5932,7 +5932,7 @@ landscape:
                   color: '#89e051'
               contributions: 8;5;7;14;6;6;5;7;16;13;13;3;2;2;3;5;2;3;0;1;1;3;3;1;4;4;1;3;10;5;2;4;5;3;6;5;0;3;6;2;3;1;0;0;3;16;0;5;4;11;30;19
               firstWeek: 2022-05-29Z
-              stars: 4521
+              stars: 4520
               license: Other
               description: Pythonic Smart Contract Language for the EVM
               latest_commit_date: '2023-05-25T14:29:27Z'
@@ -5943,7 +5943,7 @@ landscape:
               contributors_link: https://github.com/vyperlang/vyper/graphs/contributors
             repos:
               - url: https://github.com/vyperlang/vyper
-                stars: 4521
+                stars: 4520
             github_start_commit_data:
               start_commit_link: /vyperlang/vyper/commit/114b177938317326b0d71bc9ee1d81799817472a
               start_date: '2016-11-11T08:56:58Z'
@@ -6604,7 +6604,7 @@ landscape:
                   color: '#563d7c'
               contributions: 1;1;0;0;2;8;1;3;0;1;0;1;2;0;0;4;1;1;1;2;0;0;3;1;0;0;2;2;6;1;1;2;4;17;7;4;5;4;13;14;1;3;1;5;11;14;10;9;8;5;2;6
               firstWeek: 2022-05-29Z
-              stars: 494
+              stars: 496
               license: Apache License 2.0
               description: Developer documentation for MetaMask
               latest_commit_date: '2023-05-24T19:31:58Z'
@@ -6613,7 +6613,7 @@ landscape:
               contributors_link: https://github.com/MetaMask/metamask-docs/graphs/contributors
             repos:
               - url: https://github.com/MetaMask/metamask-docs
-                stars: 494
+                stars: 496
             github_start_commit_data:
               start_commit_link: /MetaMask/metamask-docs/commit/703c855243525b7b50fb32285cad7c83c584639e
               start_date: '2018-12-01T03:40:59Z'
@@ -7211,7 +7211,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2417125228544
+              market_cap: 2423746723840
               effective_ticker: MSFT
             image_data:
               fileName: azure-blockchain-workbench.svg
@@ -7277,7 +7277,7 @@ landscape:
               contributions: >-
                 28;28;15;18;53;36;74;70;44;75;80;74;63;24;7;29;28;25;49;30;20;42;44;27;26;17;15;18;35;18;2;9;30;23;5;16;26;21;23;23;22;17;3;2;6;16;12;4;21;28;13;11
               firstWeek: 2022-05-29Z
-              stars: 13906
+              stars: 13905
               license: MIT License
               description: A tool for developing smart contracts. Crafted with the finest cacaos.
               latest_commit_date: '2023-05-25T01:29:04Z'
@@ -7288,7 +7288,7 @@ landscape:
               contributors_link: https://github.com/trufflesuite/truffle/graphs/contributors
             repos:
               - url: https://github.com/trufflesuite/truffle
-                stars: 13906
+                stars: 13905
             github_start_commit_data:
               start_commit_link: /trufflesuite/truffle/commit/ea5452a7b44be04cd422f2a9efea0c9a7f74cc31
               start_date: '2015-06-23T20:44:23Z'
@@ -7786,7 +7786,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 205447970816
+              market_cap: 205898317824
               effective_ticker: CRM
             image_data:
               fileName: salesforce-blockchain.svg
@@ -7942,7 +7942,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 156325380096
+              market_cap: 156555132928
               effective_ticker: SAP
             image_data:
               fileName: sap-ich-for-life-sciences.svg
@@ -8653,7 +8653,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 114295627776
+              market_cap: 115185508352
               effective_ticker: IBM
             image_data:
               fileName: ibm-food-trust.svg
@@ -8854,7 +8854,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1181158866944
+              market_cap: 1180305195008
               effective_ticker: AMZN
             image_data:
               fileName: amazon-managed-blockchain.svg
@@ -9606,7 +9606,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 114295627776
+              market_cap: 115185508352
               effective_ticker: IBM
             image_data:
               fileName: ibm-blockchain-platform.svg
@@ -10045,7 +10045,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 276457914368
+              market_cap: 279969267712
               effective_ticker: ORCL
             image_data:
               fileName: oracle-blockchain-platform.svg
@@ -10273,7 +10273,7 @@ landscape:
                 - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 54293082112
+              market_cap: 54790123520
               effective_ticker: VMW
             image_data:
               fileName: v-mware-blockchain.svg
@@ -11078,7 +11078,7 @@ landscape:
                 - Outsourcing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 182089467405
+              market_cap: 183292400931
               effective_ticker: CSA.F
             image_data:
               fileName: accenture.svg
@@ -11357,7 +11357,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29196138775
+              market_cap: 29214921473
               effective_ticker: CAP.PA
             image_data:
               fileName: capgemini.svg
@@ -11769,7 +11769,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24363707338
+              market_cap: 24356485214
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu.svg
@@ -11912,7 +11912,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 64692940800
+              market_cap: 64755003392
               effective_ticker: INFY
             image_data:
               fileName: infosys.svg
@@ -12082,7 +12082,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19931496205
+              market_cap: 19925587919
               effective_ticker: 9613.T
             image_data:
               fileName: ntt-data.svg
@@ -12302,7 +12302,7 @@ landscape:
               contributions: >-
                 16;20;9;20;13;23;13;25;20;21;16;9;31;19;16;22;16;20;20;34;22;7;19;7;28;21;9;38;14;26;12;8;20;32;34;9;16;16;14;9;20;16;31;9;25;13;27;21;9;19;10;14
               firstWeek: 2022-05-29Z
-              stars: 1225
+              stars: 1227
               license: Apache License 2.0
               description: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu
               latest_commit_date: '2023-05-25T07:21:59Z'
@@ -12313,7 +12313,7 @@ landscape:
               contributors_link: https://github.com/hyperledger/besu/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/besu
-                stars: 1166
+                stars: 1168
               - url: https://github.com/hyperledger/besu-docs
                 stars: 46
               - url: https://github.com/hyperledger/besu-native
@@ -12606,7 +12606,7 @@ landscape:
                   value: 1587
               contributions: 3;33;3;7;6;4;1;0;1;7;7;12;8;8;21;19;17;3;4;5;18;15;8;14;15;1;8;6;16;11;0;4;14;43;58;58;44;39;16;12;12;27;12;15;3;6;19;1;3;2;1;0
               firstWeek: 2022-05-29Z
-              stars: 1726
+              stars: 1727
               license: Apache License 2.0
               description: The server portion of a distributed ledger purpose-built for decentralized identity.
               latest_commit_date: '2023-05-08T22:48:21Z'
@@ -12617,7 +12617,7 @@ landscape:
               contributors_link: https://github.com/hyperledger/indy-node/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/indy-node
-                stars: 643
+                stars: 644
               - url: https://github.com/hyperledger/indy-sdk
                 stars: 663
               - url: https://github.com/hyperledger/indy-plenum
@@ -13171,7 +13171,7 @@ landscape:
               contributions: >-
                 94;98;119;142;88;72;20;56;84;76;79;77;108;79;54;53;65;71;64;64;97;112;76;79;39;53;46;49;42;41;61;15;67;53;55;67;58;103;63;67;53;79;41;60;115;22;29;47;48;42;58;34
               firstWeek: 2022-05-29Z
-              stars: 1876
+              stars: 1877
               license: Apache License 2.0
               description: Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer interactions
               latest_commit_date: '2022-07-06T02:54:16Z'
@@ -13180,7 +13180,7 @@ landscape:
               contributors_link: https://github.com/hyperledger/aries/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/aries
-                stars: 245
+                stars: 246
               - url: https://github.com/hyperledger/aries-cloudagent-python
                 stars: 347
               - url: https://github.com/hyperledger/aries-rfcs
@@ -13581,8 +13581,8 @@ landscape:
               stars: 856
               license: Apache License 2.0
               description: Operating System for Enterprise Blockchain
-              latest_commit_date: '2023-05-13T01:03:05Z'
-              latest_commit_link: /hyperledger/cello/commit/1ae158ae10f916c30c1fcf66a4133dfe7bc4f5bd
+              latest_commit_date: '2023-05-25T18:56:56Z'
+              latest_commit_link: /hyperledger/cello/commit/efc6e3bf1a1797be59ab94a88f2a2c171cd0ef34
               release_date: '2022-11-30T00:27:34Z'
               release_link: https://github.com/hyperledger/cello/releases
               contributors_count: 49
@@ -13641,7 +13641,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 7393761
+                  value: 7431369
                   color: '#00ADD8'
                 - name: TypeScript
                   value: 2666494
@@ -13675,7 +13675,7 @@ landscape:
                   value: 2110
                   color: '#563d7c'
               contributions: >-
-                55;61;67;79;66;40;82;39;53;91;120;105;93;98;90;27;42;41;20;24;17;15;7;42;18;11;7;15;20;25;24;43;90;63;37;36;22;10;56;15;40;28;44;43;46;22;36;13;36;13;9;32
+                55;61;67;79;66;40;82;39;53;91;120;105;93;98;90;27;42;41;20;24;17;15;7;42;18;11;7;15;20;25;24;43;90;63;37;36;22;10;56;15;40;28;44;43;46;22;36;13;36;13;9;40
               firstWeek: 2022-05-29Z
               stars: 633
               license: Apache License 2.0
@@ -13683,8 +13683,8 @@ landscape:
                 Hyperledger FireFly is the first open source Supernode: a complete stack for enterprises to build and scale secure Web3 applications. The
                 FireFly API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular
                 chains and protocols.
-              latest_commit_date: '2023-05-24T14:49:03Z'
-              latest_commit_link: /hyperledger/firefly/commit/56b8d2f0bde4ba112abf5faacb7990c5da811aff
+              latest_commit_date: '2023-05-25T17:24:54Z'
+              latest_commit_link: /hyperledger/firefly/commit/cc4de697be79235e512695a68eabefd822f868ef
               release_date: '2023-04-17T14:43:41Z'
               release_link: https://github.com/hyperledger/firefly/releases
               contributors_count: 58
@@ -14406,7 +14406,7 @@ landscape:
                 - Outsourcing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 182089467405
+              market_cap: 183292400931
               effective_ticker: CSA.F
             image_data:
               fileName: accenture-global-solutions-limited-member.svg
@@ -14531,7 +14531,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24363707338
+              market_cap: 24356485214
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu-limited-member.svg
@@ -14603,7 +14603,7 @@ landscape:
                 - Public Relations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 53973924588
+              market_cap: 53957925117
               effective_ticker: 6501.T
             image_data:
               fileName: hitachi-ltd-member.svg
@@ -15095,7 +15095,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 114295627776
+              market_cap: 115185508352
               effective_ticker: IBM
             image_data:
               fileName: international-business-machines-corporation-member.svg
@@ -15200,7 +15200,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112028712960
+              market_cap: 112021291008
               effective_ticker: AXP
             image_data:
               fileName: american-express-banking-corp-member.svg
@@ -15829,7 +15829,7 @@ landscape:
                 - Sales
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 86870351872
+              market_cap: 86530613248
               effective_ticker: CVS
             image_data:
               fileName: cvs-health-member.svg
@@ -16103,7 +16103,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112641716085
+              market_cap: 112714181672
               effective_ticker: DTE.DE
             image_data:
               fileName: deutsche-telekom-ag-member.svg
@@ -16579,7 +16579,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 64692940800
+              market_cap: 64755003392
               effective_ticker: INFY
             image_data:
               fileName: infosys-limited-member.svg
@@ -16903,7 +16903,7 @@ landscape:
                 - Financial Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 394567581696
+              market_cap: 396788531200
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase-member.svg
@@ -17146,7 +17146,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12192960672
+              market_cap: 12189346317
               effective_ticker: 6701.T
             image_data:
               fileName: nec-corporation-member.svg
@@ -17271,7 +17271,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19931496205
+              market_cap: 19925587919
               effective_ticker: 9613.T
             image_data:
               fileName: ntt-data-member.svg
@@ -17631,7 +17631,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 276457914368
+              market_cap: 279969267712
               effective_ticker: ORCL
             image_data:
               fileName: oracle-america-inc-member.svg
@@ -17711,7 +17711,7 @@ landscape:
                 - Packaging Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13454624849
+              market_cap: 13463280588
               effective_ticker: PST.MI
             image_data:
               fileName: poste-italiane-spa-member.svg
@@ -17934,7 +17934,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 854700369
+              market_cap: 854573592
               effective_ticker: 300468.SZ
             image_data:
               fileName: shenzhen-forms-syntron-information-co-ltd-member.svg
@@ -18138,7 +18138,7 @@ landscape:
                 - Real Estate
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 130476040229
+              market_cap: 130559979139
               effective_ticker: SIE.DE
             image_data:
               fileName: siemens-ag-member.svg
@@ -18550,7 +18550,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 467009306624
+              market_cap: 468663894016
               effective_ticker: V
             image_data:
               fileName: visa-inc-member.svg
@@ -18628,7 +18628,7 @@ landscape:
                 - Retail Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 392626241536
+              market_cap: 394919018496
               effective_ticker: WMT
             image_data:
               fileName: walmart-inc-member.svg
@@ -21520,7 +21520,7 @@ landscape:
                 - Outsourcing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 182089467405
+              market_cap: 183292400931
               effective_ticker: CSA.F
             image_data:
               fileName: accenture-hcsp.svg
@@ -21786,7 +21786,7 @@ landscape:
                 - Public Relations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 53973924588
+              market_cap: 53957925117
               effective_ticker: 6501.T
             image_data:
               fileName: hitachi-hcsp.svg
@@ -22284,7 +22284,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 114295627776
+              market_cap: 115185508352
               effective_ticker: IBM
             image_data:
               fileName: ibm-hcsp.svg
@@ -22564,7 +22564,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12192960672
+              market_cap: 12189346317
               effective_ticker: 6701.T
             image_data:
               fileName: nec-corporation-hcsp.svg
@@ -22862,4 +22862,4 @@ landscape:
 twitter_options:
   count: 11
   since_id: '1362823920131465217'
-updated_at: 2023-05-22T21:52:27.345Z
+updated_at: 2023-05-25T19:28:29.379Z
