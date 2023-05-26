@@ -1399,7 +1399,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
           - item:
             name: DLT Global Inc. (member)
-            homepage_url: https://www.dltlabs.com/
+            homepage_url: https://dltlabs.io/
             logo: dlt_global_inc.svg
             crunchbase: https://www.crunchbase.com/organization/dlt-labs
           - item:
@@ -1515,7 +1515,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/krypc
           - item:
             name: LTIMindtree Limited (member)
-            homepage_url: https://www.ltimindtree.com/
+            homepage_url: https://ltimindtree.com/
             logo: ltimindtree_limited.svg
             twitter: https://twitter.com/LTIMindtreeOFCL
             crunchbase: https://www.crunchbase.com/organization/mindtree
@@ -1981,7 +1981,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/the-university-of-hong-kong
           - item:
             name: TNO, the Netherlands Organisation for Applied Scientific Research (member)
-            homepage_url: https://www.tno.nl/nl/
+            homepage_url: https://tno.nl/
             logo: tno_the_netherlands_organisation_for_applied_scientific_research.svg
             twitter: https://twitter.com/TNO_nieuws
             crunchbase: https://www.crunchbase.com/organization/tno
