@@ -10,6 +10,8 @@ happening outside the core DLT development area.
 This landscape both reflects and deciphers the complexity of today's vendor landscape. It includes all the
 Hyperledger Foundation projects - graduated and incubating - and places them in the broader market context.
 
+If you would like to add an entry, [please follow the instructions here](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape#new-entries).
+
 ### Landscape Layers
 
 These layers are crucial to our understanding of the relationships between the various components that make up
