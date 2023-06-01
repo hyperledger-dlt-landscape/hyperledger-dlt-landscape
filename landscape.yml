@@ -1634,22 +1634,11 @@ landscape:
             logo: spydra_technologies_pvt_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/spydra
           - item:
-            name: Tangem AG (member)
-            homepage_url: https://tangem.com/
-            logo: tangem_ag.svg
-            crunchbase: https://www.crunchbase.com/organization/tangem
-          - item:
             name: Tech Mahindra Limited (member)
             homepage_url: https://techmahindra.com/
             logo: tech_mahindra_limited.svg
             twitter: https://twitter.com/tech_mahindra
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
-          - item:
-            name: The Medium (member)
-            homepage_url: https://themedium.io/
-            logo: the_medium.svg
-            organization:
-              name: The Medium
           - item:
             name: Tokentrust AG (member)
             homepage_url: https://atomyze.com/
