@@ -1645,11 +1645,6 @@ landscape:
             logo: tokentrust_ag.svg
             crunchbase: https://www.crunchbase.com/organization/atomyze
           - item:
-            name: Visa Inc. (member)
-            homepage_url: https://visa.com/
-            logo: visa_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/visa
-          - item:
             name: Walmart Inc. (member)
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
