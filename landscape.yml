@@ -1645,6 +1645,12 @@ landscape:
             logo: tokentrust_ag.svg
             crunchbase: https://www.crunchbase.com/organization/atomyze
           - item:
+            name: ToposWare Inc. (member)
+            homepage_url: https://toposware.com/
+            logo: toposware_inc.svg
+            twitter: https://twitter.com/toposware
+            crunchbase: https://www.crunchbase.com/organization/toposware
+          - item:
             name: Walmart Inc. (member)
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
