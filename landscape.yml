@@ -552,6 +552,12 @@ landscape:
             project: non-hyperledger-member-products
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
+          - item:
+            name: Application Service for Blockchain (Blockchain System Development Service)
+            homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            crunchbase: https://www.crunchbase.com/organization/hitachi
       - subcategory:
         name: Analytics/Monitoring tools
         items:
@@ -775,6 +781,12 @@ landscape:
             project: non-hyperledger-member-products
             logo: vmware.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
+          - item:
+            name: Hitachi Blockchain Service for Hyperledger Fabric
+            homepage_url: https://www.hitachi.co.jp/blockchain/service/hyperledger
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            crunchbase: https://www.crunchbase.com/organization/hitachi
   - category:
     name: Standards
     subcategories:
@@ -913,6 +925,12 @@ landscape:
             project: non-hyperledger-member-services
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
+          - item:
+            name: Application Service for Blockchain (Consulting Service)
+            homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            crunchbase: https://www.crunchbase.com/organization/hitachi
   - category:
     name: Hyperledger Projects
     subcategories:
@@ -1258,8 +1276,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
             name: Hitachi, Ltd. (member)
-            homepage_url: https://hitachi.com/
-            logo: hitachi_ltd.svg
+            homepage_url: https://www.hitachi.co.jp/blockchain
+            logo: hitachi-stacked-color.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: International Business Machines Corporation (member)
@@ -2104,13 +2122,11 @@ landscape:
             logo: espeo_software.svg
             crunchbase: https://www.crunchbase.com/organization/espeo-software
           - item:
-            name: Hitachi (HCSP)
+            name: Hitachi, Ltd. (HCSP)
             description: >-
-              Utilizing the blockchain technology provided by Hitachi, the speed of transactions between companies can be dramatically increased, and it becomes
-              possible to create business that overcome the barriers between different industries. Hitachi has a wealth of understanding and know-how covering a
-              wide variety of different industries. By using blockchains and other technologies and know-how that we have developed up till now, Hitachi will
-              contribute to the building of new customer businesses.
-            homepage_url: https://www.hitachi.co.jp/products/it/blockchain/service/hyperledger/index.html
+              Hitachi has a wealth of understanding and know-how covering a wide variety of different industries. By using blockchains and other
+              technologies and know-how that we have developed up till now, Hitachi will contribute to the building of new customer businesses.
+            homepage_url: https://www.hitachi.co.jp/blockchain
             logo: hitachi-stacked-color.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
