@@ -55,7 +55,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1180305195008
+              market_cap: 1291989549056
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services.svg
@@ -138,7 +138,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 66444562432
+              market_cap: 72320991232
               effective_ticker: EQIX
             image_data:
               fileName: equinix.svg
@@ -746,7 +746,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1571566780416
+              market_cap: 1572643799040
               effective_ticker: GOOG
             image_data:
               fileName: google.svg
@@ -767,7 +767,7 @@ landscape:
               description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.ibm.com/
+              homepage: http://www.ibm.com
               city: Armonk
               region: New York
               country: United States
@@ -1239,7 +1239,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115185508352
+              market_cap: 125110435840
               effective_ticker: IBM
             image_data:
               fileName: ibm.svg
@@ -1283,22 +1283,22 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 66346774
+                  value: 66494102
                   color: '#00ADD8'
                 - name: Shell
-                  value: 1874829
+                  value: 1877097
                   color: '#89e051'
                 - name: PowerShell
                   value: 144474
                   color: '#012456'
                 - name: Makefile
-                  value: 63657
+                  value: 63664
                   color: '#427819'
                 - name: Dockerfile
                   value: 49417
                   color: '#384d54'
                 - name: Python
-                  value: 23730
+                  value: 23736
                   color: '#3572A5'
                 - name: C
                   value: 3902
@@ -1313,20 +1313,20 @@ landscape:
                   value: 106
                   color: '#e34c26'
               contributions: >-
-                99;97;152;100;109;80;137;184;168;253;97;61;150;137;112;124;174;132;109;133;215;208;210;350;132;56;49;58;236;158;85;107;197;170;171;159;114;148;174;190;289;426;108;49;46;142;123;110;150;137;166;84
-              firstWeek: 2022-05-29Z
-              stars: 98641
+                100;109;80;137;184;168;253;97;61;151;137;112;124;174;132;109;133;215;208;210;350;132;56;49;58;238;158;88;110;197;170;171;159;114;151;175;191;291;431;112;58;47;143;127;115;152;142;170;95;95;112;81
+              firstWeek: 2022-06-19Z
+              stars: 99191
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2023-05-25T18:34:54Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/3d27dee047a87527735bf74cfcc6b8ff8875f66c
-              release_date: '2023-05-17T21:55:39Z'
+              latest_commit_date: '2023-06-15T13:50:18Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/1193ab62e2e1acb53edf5348df6fe018cbe49e82
+              release_date: '2023-06-14T21:36:39Z'
               release_link: https://github.com/kubernetes/kubernetes/releases
-              contributors_count: 4733
+              contributors_count: 4750
               contributors_link: https://github.com/kubernetes/kubernetes/graphs/contributors
             repos:
               - url: https://github.com/kubernetes/kubernetes
-                stars: 98641
+                stars: 99191
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
               start_date: '2014-06-06T23:40:48Z'
@@ -1920,7 +1920,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2423746723840
+              market_cap: 2565878317056
               effective_ticker: MSFT
             image_data:
               fileName: microsoft.svg
@@ -1942,8 +1942,8 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.oracle.com
-              city: Redwood Shores
-              region: California
+              city: Austin
+              region: Texas
               country: United States
               twitter: https://twitter.com/Oracle
               linkedin: https://www.linkedin.com/company/oracle
@@ -2281,7 +2281,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 279969267712
+              market_cap: 337744986112
               effective_ticker: ORCL
             image_data:
               fileName: oracle.svg
@@ -2401,16 +2401,16 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 11479711
+                  value: 11609458
                   color: '#00ADD8'
                 - name: Python
                   value: 1734089
                   color: '#3572A5'
                 - name: Groovy
-                  value: 181823
+                  value: 196302
                   color: '#e69f56'
                 - name: Shell
-                  value: 137397
+                  value: 140969
                   color: '#89e051'
                 - name: HCL
                   value: 38565
@@ -2418,7 +2418,7 @@ landscape:
                   value: 38206
                   color: '#012456'
                 - name: Dockerfile
-                  value: 31356
+                  value: 31611
                   color: '#384d54'
                 - name: Jinja
                   value: 30303
@@ -2434,25 +2434,25 @@ landscape:
                   value: 395
                   color: '#C1F12E'
               contributions: >-
-                26;31;26;25;40;31;31;42;37;30;40;45;20;43;27;35;32;50;43;14;23;20;25;35;38;21;21;32;49;24;24;27;39;31;41;28;19;43;29;30;30;29;20;18;28;28;36;42;30;43;38;24
-              firstWeek: 2022-05-29Z
-              stars: 21070
+                25;40;31;31;42;37;30;40;45;20;43;27;35;32;50;43;14;23;20;25;35;38;21;21;32;49;24;24;27;40;31;41;28;19;45;29;32;32;29;20;18;28;28;38;43;34;50;39;29;20;28;31
+              firstWeek: 2022-06-19Z
+              stars: 21178
               license: Apache License 2.0
               description: Complete container management platform
-              latest_commit_date: '2023-05-25T09:47:39Z'
-              latest_commit_link: /rancher/rancher/commit/ff2e09449efcfedfee865ccc67aa1b5dcab7183c
-              release_date: '2023-05-23T16:59:01Z'
+              latest_commit_date: '2023-06-15T09:46:53Z'
+              latest_commit_link: /rancher/rancher/commit/6d5373ca2b06350362b29954718b73d46d114381
+              release_date: '2023-06-12T19:24:51Z'
               release_link: https://github.com/rancher/rancher/releases
-              contributors_count: 270
+              contributors_count: 277
               contributors_link: https://github.com/rancher/rancher/graphs/contributors
             repos:
               - url: https://github.com/rancher/rancher
-                stars: 21070
+                stars: 21178
             github_start_commit_data:
               start_commit_link: /rancher/rancher/commit/89854cf6f29bf3ee857b8f3edf51305bdf2d13f9
               start_date: '2017-11-14T00:57:39Z'
             yahoo_finance_data:
-              market_cap: 2258083457
+              market_cap: 2657073501
               effective_ticker: SUSE.F
             image_data:
               fileName: suse-rancher.svg
@@ -2602,10 +2602,11 @@ landscape:
                 - Cloud Management
                 - Enterprise Software
                 - Information Technology
+                - Private Cloud
                 - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 54790123520
+              market_cap: 60697407488
               effective_ticker: VMW
             image_data:
               fileName: v-mware.svg
@@ -2691,9 +2692,9 @@ landscape:
                 - name: Ruby
                   value: 818
                   color: '#701516'
-              contributions: 5;1;3;0;1;0;0;3;4;4;2;0;3;1;2;2;2;1;7;4;1;0;2;4;0;0;4;1;4;1;0;1;0;0;0;0;2;0;5;2;0;0;0;1;2;0;0;0;0;0;0;1
-              firstWeek: 2022-05-29Z
-              stars: 4331
+              contributions: 0;1;0;0;3;4;4;2;0;3;1;2;2;2;1;7;4;1;0;2;4;0;0;4;1;4;1;0;1;0;0;0;0;2;0;5;2;0;0;0;1;2;0;0;0;0;0;0;1;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 4546
               license: GNU Lesser General Public License v3.0
               description: A permissioned implementation of Ethereum supporting data privacy
               latest_commit_date: '2023-05-19T19:42:44Z'
@@ -2704,7 +2705,7 @@ landscape:
               contributors_link: https://github.com/ConsenSys/quorum/graphs/contributors
             repos:
               - url: https://github.com/ConsenSys/quorum
-                stars: 4331
+                stars: 4546
             github_start_commit_data:
               start_commit_link: /ConsenSys/quorum/commit/5db3335dce766bd679c54ea44f6df08a7ff74762
               start_date: '2013-12-26T11:45:52Z'
@@ -2774,9 +2775,9 @@ landscape:
                 - name: JavaScript
                   value: 752
                   color: '#f1e05a'
-              contributions: 1;0;1;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 532
+              contributions: 0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 531
               license: GNU General Public License v3.0
               description: Source code for multichaind, multichain-cli and multichain-util.
               latest_commit_date: '2022-07-28T10:08:50Z'
@@ -2785,7 +2786,7 @@ landscape:
               contributors_link: https://github.com/MultiChain/multichain/graphs/contributors
             repos:
               - url: https://github.com/MultiChain/multichain
-                stars: 532
+                stars: 531
             github_start_commit_data:
               start_commit_link: /MultiChain/multichain/commit/f4e20f004394d120e11509f9620b19223ebea430
               start_date: '2016-12-29T12:51:46Z'
@@ -2831,7 +2832,7 @@ landscape:
             github_data:
               languages:
                 - name: Kotlin
-                  value: 10874258
+                  value: 10905426
                   color: '#F18E33'
                 - name: Java
                   value: 290056
@@ -2865,15 +2866,15 @@ landscape:
                 - name: C
                   value: 454
                   color: '#555555'
-              contributions: 27;8;6;6;7;2;18;0;3;5;0;0;6;0;6;4;0;0;1;2;7;0;5;4;2;4;9;1;14;0;0;4;1;1;3;0;0;0;7;0;7;22;8;2;3;11;15;25;14;2;7;5
-              firstWeek: 2022-05-29Z
+              contributions: 6;7;2;18;0;3;5;0;0;6;0;6;4;0;0;1;2;7;0;5;4;2;4;9;1;14;0;0;4;1;1;3;0;0;0;7;0;7;22;8;2;3;11;15;25;14;2;7;5;1;7;1
+              firstWeek: 2022-06-19Z
               stars: 3937
               license: Apache License 2.0
               description: >-
                 Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain
                 networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
-              latest_commit_date: '2023-05-24T08:42:09Z'
-              latest_commit_link: /corda/corda/commit/2e29e36e01ffa84272a81e69f133415012903e08
+              latest_commit_date: '2023-06-09T16:19:43Z'
+              latest_commit_link: /corda/corda/commit/0e877958fef4af6d880c17f37f979c3acd41f80d
               release_date: '2019-06-14T14:43:53Z'
               release_link: https://github.com/corda/corda/releases
               contributors_count: 249
@@ -2938,9 +2939,9 @@ landscape:
                   color: '#384d54'
                 - name: Mustache
                   value: 415
-              contributions: 0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 703
+              contributions: 0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 701
               license: Other
               description: Dragonchain blockchain platform - simplified integration of advanced blockchain features
               latest_commit_date: '2022-07-26T19:56:26Z'
@@ -2951,7 +2952,7 @@ landscape:
               contributors_link: https://github.com/dragonchain/dragonchain/graphs/contributors
             repos:
               - url: https://github.com/dragonchain/dragonchain
-                stars: 703
+                stars: 701
             github_start_commit_data:
               start_commit_link: /dragonchain/dragonchain/commit/898ac63f7873d6f6730beb70d78a5090ba7dd12f
               start_date: '2016-08-22T06:08:34Z'
@@ -3030,13 +3031,13 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 11194759
+                  value: 11194503
                   color: '#555555'
                 - name: Go
-                  value: 10999147
+                  value: 11163327
                   color: '#00ADD8'
                 - name: Shell
-                  value: 680520
+                  value: 680168
                   color: '#89e051'
                 - name: Python
                   value: 258493
@@ -3047,7 +3048,7 @@ landscape:
                 - name: M4
                   value: 76208
                 - name: Makefile
-                  value: 55256
+                  value: 55625
                   color: '#427819'
                 - name: Smarty
                   value: 30685
@@ -3057,7 +3058,7 @@ landscape:
                 - name: Sage
                   value: 30192
                 - name: Dockerfile
-                  value: 12935
+                  value: 12792
                   color: '#384d54'
                 - name: HTML
                   value: 12512
@@ -3073,25 +3074,22 @@ landscape:
                 - name: PHP
                   value: 563
                   color: '#4F5D95'
-                - name: C++
-                  value: 430
-                  color: '#f34b7d'
                 - name: VBScript
                   value: 294
-              contributions: 10;13;13;12;6;9;11;10;8;18;19;25;27;20;10;26;10;9;12;7;12;20;21;16;10;28;11;8;28;17;18;6;19;4;35;23;19;6;7;14;5;19;10;7;12;16;12;15;10;12;9;13
-              firstWeek: 2022-05-29Z
-              stars: 1243
+              contributions: 12;6;9;11;10;8;18;19;25;27;20;10;26;10;9;12;7;12;20;21;16;10;28;11;8;28;17;18;6;19;4;35;23;19;6;7;14;5;19;10;7;12;16;12;15;10;12;9;13;10;22;8
+              firstWeek: 2022-06-19Z
+              stars: 1251
               license: Other
               description: 'Algorand''s official implementation in Go. '
-              latest_commit_date: '2023-05-25T14:45:30Z'
-              latest_commit_link: /algorand/go-algorand/commit/e7e76fcbaf127ac99f702dee1be1a96ac7b22de2
-              release_date: '2023-04-13T14:30:30Z'
+              latest_commit_date: '2023-06-14T16:54:24Z'
+              latest_commit_link: /algorand/go-algorand/commit/79697d55ce8ad88d2061289f0976cb193577c7d5
+              release_date: '2023-06-14T20:03:55Z'
               release_link: https://github.com/algorand/go-algorand/releases
-              contributors_count: 99
+              contributors_count: 100
               contributors_link: https://github.com/algorand/go-algorand/graphs/contributors
             repos:
               - url: https://github.com/algorand/go-algorand
-                stars: 1243
+                stars: 1251
             github_start_commit_data:
               start_commit_link: /algorand/go-algorand/commit/cf563d365c12b125c76a839017afe85f89ac78f3
               start_date: '2019-06-11T00:45:50Z'
@@ -3132,21 +3130,21 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 10831465
+                  value: 10874691
                   color: '#f34b7d'
                 - name: Python
-                  value: 3209155
+                  value: 3236401
                   color: '#3572A5'
                 - name: C
-                  value: 1657820
+                  value: 1658184
                   color: '#555555'
                 - name: M4
-                  value: 218577
+                  value: 218444
                 - name: Shell
-                  value: 171441
+                  value: 172453
                   color: '#89e051'
                 - name: Makefile
-                  value: 150969
+                  value: 151064
                   color: '#427819'
                 - name: Sage
                   value: 59397
@@ -3156,7 +3154,7 @@ landscape:
                   value: 28242
                   color: '#6E4C13'
                 - name: Scheme
-                  value: 24974
+                  value: 24843
                   color: '#1e4aec'
                 - name: HTML
                   value: 21833
@@ -3178,20 +3176,20 @@ landscape:
                   value: 13
                   color: '#C1F12E'
               contributions: >-
-                72;64;83;93;94;81;73;100;78;65;67;74;71;48;63;69;93;36;88;47;65;51;39;29;35;41;56;70;62;62;18;66;64;99;62;76;57;49;69;55;45;47;52;65;55;29;50;26;35;60;48;40
-              firstWeek: 2022-05-29Z
-              stars: 69673
+                93;94;81;73;102;78;65;67;74;71;48;65;69;93;36;89;50;65;51;39;29;38;41;56;70;62;62;18;66;64;99;62;76;57;49;70;55;49;47;53;68;55;29;59;29;35;72;54;55;54;25;34
+              firstWeek: 2022-06-19Z
+              stars: 69957
               license: MIT License
               description: Bitcoin Core integration/staging tree
-              latest_commit_date: '2023-05-25T14:36:23Z'
-              latest_commit_link: /bitcoin/bitcoin/commit/25202cace9140870c75cb3a811e10045df88c226
-              release_date: '2023-05-18T15:12:15Z'
+              latest_commit_date: '2023-06-15T14:39:51Z'
+              latest_commit_link: /bitcoin/bitcoin/commit/c454395115a89de8c274a79e0284acac1cb01485
+              release_date: '2023-05-26T10:28:38Z'
               release_link: https://github.com/bitcoin/bitcoin/releases
-              contributors_count: 1137
+              contributors_count: 1140
               contributors_link: https://github.com/bitcoin/bitcoin/graphs/contributors
             repos:
               - url: https://github.com/bitcoin/bitcoin
-                stars: 69673
+                stars: 69957
             github_start_commit_data:
               start_commit_link: /bitcoin/bitcoin/commit/4405b78d6059e536c36974088a8ed4d9f0f29898
               start_date: '2009-08-30T03:46:39Z'
@@ -3239,7 +3237,7 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 153636
+                  value: 153847
                   color: '#f1e05a'
                 - name: TypeScript
                   value: 32786
@@ -3247,20 +3245,20 @@ landscape:
                 - name: CSS
                   value: 20334
                   color: '#563d7c'
-              contributions: 11;2;2;2;0;9;9;7;5;18;3;3;1;4;10;7;7;12;6;10;6;4;4;6;7;1;2;9;5;3;3;6;4;9;4;2;5;10;4;5;5;5;5;8;4;2;2;10;2;4;5;0
-              firstWeek: 2022-05-29Z
-              stars: 315
+              contributions: 2;0;9;9;7;5;18;3;3;1;4;10;7;7;12;6;10;6;4;4;6;7;1;2;9;5;3;3;6;4;9;4;2;5;10;4;5;5;5;5;8;4;2;2;10;2;4;5;0;3;4;4
+              firstWeek: 2022-06-19Z
+              stars: 320
               license: MIT License
               description: The Cardano Developer Portal
-              latest_commit_date: '2023-05-17T13:50:39Z'
-              latest_commit_link: /cardano-foundation/developer-portal/commit/e3a6cdc33fbbd8aa670b3f9e84f70eea152a0fce
+              latest_commit_date: '2023-06-12T10:25:42Z'
+              latest_commit_link: /cardano-foundation/developer-portal/commit/98a90e8e6b11e814b6441990e0bb875fa94e40f9
               release_date: '2021-07-13T12:16:49Z'
               release_link: https://github.com/cardano-foundation/developer-portal/releases
-              contributors_count: 190
+              contributors_count: 191
               contributors_link: https://github.com/cardano-foundation/developer-portal/graphs/contributors
             repos:
               - url: https://github.com/cardano-foundation/developer-portal
-                stars: 315
+                stars: 320
             github_start_commit_data:
               start_commit_link: /cardano-foundation/developer-portal/commit/822cd850a217c6f78171d607eca92d386eaedcea
               start_date: '2021-02-23T14:36:43Z'
@@ -3306,32 +3304,32 @@ landscape:
             github_data:
               languages:
                 - name: Rust
-                  value: 29451670
+                  value: 30134900
                   color: '#dea584'
                 - name: Python
-                  value: 1278102
+                  value: 1259712
                   color: '#3572A5'
                 - name: Starlark
-                  value: 832632
+                  value: 858360
                 - name: Shell
-                  value: 698330
+                  value: 706075
                   color: '#89e051'
                 - name: TypeScript
-                  value: 140641
+                  value: 142342
                   color: '#2b7489'
                 - name: TLA
                   value: 89604
                 - name: Nix
-                  value: 51845
+                  value: 51951
                   color: '#7e7eff'
                 - name: Dockerfile
-                  value: 47733
+                  value: 48519
                   color: '#384d54'
                 - name: Harbour
                   value: 41930
                   color: '#0e60e3'
                 - name: HTML
-                  value: 38762
+                  value: 38747
                   color: '#e34c26'
                 - name: C++
                   value: 35633
@@ -3343,7 +3341,7 @@ landscape:
                   value: 22804
                   color: '#04133b'
                 - name: Motoko
-                  value: 15470
+                  value: 15995
                 - name: C
                   value: 10045
                   color: '#555555'
@@ -3368,18 +3366,18 @@ landscape:
                 - name: Thrift
                   value: 147
               contributions: >-
-                195;180;247;212;295;188;229;274;233;239;261;231;214;248;261;172;230;208;232;222;212;193;248;229;259;223;222;258;212;231;111;68;169;223;235;310;255;210;174;203;205;188;220;222;234;115;184;172;159;184;256;188
-              firstWeek: 2022-05-29Z
-              stars: 1300
+                212;295;188;229;274;233;239;261;231;214;248;261;172;230;208;232;222;212;193;248;229;259;223;222;258;212;231;111;68;169;223;235;310;255;210;174;203;205;188;220;222;234;115;184;172;159;184;256;188;128;227;257
+              firstWeek: 2022-06-19Z
+              stars: 1311
               license: Other
               description: 'Internet Computer blockchain source: the client/replica software run by nodes'
-              latest_commit_date: '2023-05-25T18:15:21Z'
-              latest_commit_link: /dfinity/ic/commit/b57f504092bb60392de00e15743ba1ea07d45bf9
-              contributors_count: 171
+              latest_commit_date: '2023-06-15T14:03:53Z'
+              latest_commit_link: /dfinity/ic/commit/23b1cf55e349210e6f581a393a90ae0dd5a3c8f6
+              contributors_count: 173
               contributors_link: https://github.com/dfinity/ic/graphs/contributors
             repos:
               - url: https://github.com/dfinity/ic
-                stars: 1300
+                stars: 1311
             github_start_commit_data:
               start_commit_link: /dfinity/ic/commit/024de2fc73d7f6f5df5a92edf9675851f9ebbf59
               start_date: '2021-05-10T06:14:58Z'
@@ -3459,8 +3457,8 @@ landscape:
                   value: 322
                   color: '#6E4C13'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 11329
+              firstWeek: 2022-06-19Z
+              stars: 11322
               license: MIT License
               description: 'An open source smart contract platform '
               latest_commit_date: '2021-07-19T23:22:42Z'
@@ -3471,7 +3469,7 @@ landscape:
               contributors_link: https://github.com/EOSIO/eos/graphs/contributors
             repos:
               - url: https://github.com/EOSIO/eos
-                stars: 11329
+                stars: 11322
             github_start_commit_data:
               start_commit_link: /EOSIO/eos/commit/e03269e8ed2a2544f85573f0a8028724b8a57e4c
               start_date: '2017-04-05T19:20:50Z'
@@ -3498,7 +3496,7 @@ landscape:
               region: Bern
               country: Switzerland
               twitter: https://twitter.com/ethereum
-              linkedin: https://www.linkedin.com/company/5091692
+              linkedin: https://www.linkedin.com/company/ethereum/
               acquisitions: []
               parents: []
               funding: 18400000
@@ -3519,7 +3517,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 11691167
+                  value: 11703063
                   color: '#00ADD8'
                 - name: C
                   value: 673771
@@ -3536,7 +3534,7 @@ landscape:
                 - name: Sage
                   value: 30192
                 - name: Shell
-                  value: 28463
+                  value: 28464
                   color: '#89e051'
                 - name: M4
                   value: 25931
@@ -3557,21 +3555,20 @@ landscape:
                 - name: Dockerfile
                   value: 897
                   color: '#384d54'
-              contributions: >-
-                11;28;15;12;21;17;11;14;24;22;13;8;24;18;19;13;18;29;12;21;4;9;23;22;15;9;16;11;10;7;3;9;14;19;14;16;22;23;33;9;24;21;18;18;27;1;9;19;12;14;20;14
-              firstWeek: 2022-05-29Z
-              stars: 42361
+              contributions: 12;21;17;11;14;24;22;13;8;24;18;19;13;18;29;12;21;4;9;23;22;15;9;16;11;10;7;3;9;14;19;14;16;22;23;33;9;24;21;18;18;27;1;9;19;12;14;20;14;23;17;8
+              firstWeek: 2022-06-19Z
+              stars: 42603
               license: GNU Lesser General Public License v3.0
               description: Official Go implementation of the Ethereum protocol
-              latest_commit_date: '2023-05-25T13:19:58Z'
-              latest_commit_link: /ethereum/go-ethereum/commit/1816cdc9fdad7af6085369efb9864d934aae2c81
+              latest_commit_date: '2023-06-15T12:55:00Z'
+              latest_commit_link: /ethereum/go-ethereum/commit/604da5c84bbd08e0db24c537c275c006cadfa1e6
               release_date: '2023-05-25T10:02:50Z'
               release_link: https://github.com/ethereum/go-ethereum/releases
-              contributors_count: 843
+              contributors_count: 850
               contributors_link: https://github.com/ethereum/go-ethereum/graphs/contributors
             repos:
               - url: https://github.com/ethereum/go-ethereum
-                stars: 42361
+                stars: 42603
             github_start_commit_data:
               start_commit_link: /ethereum/go-ethereum/commit/5db3335dce766bd679c54ea44f6df08a7ff74762
               start_date: '2013-12-26T11:45:52Z'
@@ -3656,14 +3653,14 @@ landscape:
                 - name: Shell
                   value: 1209
                   color: '#89e051'
-              contributions: 0;0;0;0;0;1;7;0;2;0;2;0;1;5;3;3;4;0;0;2;0;1;0;0;0;0;1;0;0;1;0;0;3;2;0;0;0;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              contributions: 0;0;1;7;0;2;0;2;0;1;5;3;3;4;0;0;2;0;1;0;0;0;0;1;0;0;1;0;0;3;2;0;0;0;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;3
+              firstWeek: 2022-06-19Z
               stars: 79
               license: Apache License 2.0
               description: Tangle Improvement Proposals for the IOTA technology stack.
-              latest_commit_date: '2023-04-17T09:21:10Z'
-              latest_commit_link: /iotaledger/tips/commit/8cd1523ad3acfd39216b86c7a3af541e2ece1443
-              contributors_count: 17
+              latest_commit_date: '2023-06-13T14:52:24Z'
+              latest_commit_link: /iotaledger/tips/commit/e30ee7942900e6d9343650d3c5325673951bb159
+              contributors_count: 18
               contributors_link: https://github.com/iotaledger/tips/graphs/contributors
             repos:
               - url: https://github.com/iotaledger/tips
@@ -3710,10 +3707,10 @@ landscape:
             github_data:
               languages:
                 - name: Rust
-                  value: 18101814
+                  value: 18352018
                   color: '#dea584'
                 - name: Shell
-                  value: 501631
+                  value: 503243
                   color: '#89e051'
                 - name: C
                   value: 151870
@@ -3734,20 +3731,20 @@ landscape:
                   value: 2249
                   color: '#384d54'
               contributions: >-
-                65;72;62;77;99;68;95;67;65;58;84;70;107;67;72;61;67;71;64;58;84;62;62;23;39;75;62;91;82;53;36;69;88;66;64;108;71;104;63;65;36;46;76;80;71;74;67;60;70;83;87;86
-              firstWeek: 2022-05-29Z
-              stars: 10321
-              license: Other
+                77;99;68;95;67;65;58;84;70;107;67;72;61;67;71;64;58;84;62;62;23;39;75;62;91;82;53;36;69;88;66;64;108;71;104;63;65;36;46;76;80;71;74;67;60;70;83;87;86;62;70;81
+              firstWeek: 2022-06-19Z
+              stars: 10395
+              license: Apache License 2.0
               description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-              latest_commit_date: '2023-05-25T18:46:46Z'
-              latest_commit_link: /solana-labs/solana/commit/5572d23efaa38f5f5ad95903b32ddd88ebaba739
-              release_date: '2023-05-16T02:09:58Z'
+              latest_commit_date: '2023-06-15T02:35:19Z'
+              latest_commit_link: /solana-labs/solana/commit/eabe1070667e87f447b9cb892e2d916ca5b68e34
+              release_date: '2023-05-31T05:13:50Z'
               release_link: https://github.com/solana-labs/solana/releases
-              contributors_count: 475
+              contributors_count: 480
               contributors_link: https://github.com/solana-labs/solana/graphs/contributors
             repos:
               - url: https://github.com/solana-labs/solana
-                stars: 10321
+                stars: 10395
             github_start_commit_data:
               start_commit_link: /solana-labs/solana/commit/e1e963e734602f822e676249e848ae58a1639154
               start_date: '2018-02-14T04:53:49Z'
@@ -3801,18 +3798,18 @@ landscape:
                 - name: Makefile
                   value: 826
                   color: '#427819'
-              contributions: 7;7;7;4;4;6;5;4;1;0;0;2;3;1;1;0;0;1;1;0;0;2;2;5;2;2;0;1;0;1;1;0;3;1;0;2;1;1;0;2;1;0;1;0;0;0;0;2;0;0;1;0
-              firstWeek: 2022-05-29Z
-              stars: 460
+              contributions: 4;4;6;5;4;1;0;0;2;3;1;1;0;0;1;1;0;0;2;2;5;2;2;0;1;0;1;1;0;3;1;0;2;1;1;0;2;1;0;1;0;0;0;0;2;0;0;1;0;0;0;2
+              firstWeek: 2022-06-19Z
+              stars: 466
               license: Unknown License
               description: Developer discussion about possible changes to the protocol.
-              latest_commit_date: '2023-05-16T23:07:51Z'
-              latest_commit_link: /stellar/stellar-protocol/commit/f420e063052d5663c21ede0fee6ffcebb425b15f
+              latest_commit_date: '2023-06-09T22:00:45Z'
+              latest_commit_link: /stellar/stellar-protocol/commit/084f9d86225064975e3269cd207120f429a04814
               contributors_count: 91
               contributors_link: https://github.com/stellar/stellar-protocol/graphs/contributors
             repos:
               - url: https://github.com/stellar/stellar-protocol
-                stars: 460
+                stars: 466
             github_start_commit_data:
               start_commit_link: /stellar/stellar-protocol/commit/c50ad3cfb4662409f28fd24fc02633b1ed94e813
               start_date: '2014-08-26T18:23:47Z'
@@ -3855,30 +3852,30 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 4890871
+                  value: 4948496
                   color: '#f34b7d'
                 - name: Python
-                  value: 322644
+                  value: 333771
                   color: '#3572A5'
                 - name: TypeScript
-                  value: 218786
+                  value: 256743
                   color: '#2b7489'
                 - name: Rust
-                  value: 127308
+                  value: 138329
                   color: '#dea584'
                 - name: Shell
-                  value: 118540
+                  value: 118638
                   color: '#89e051'
                 - name: CMake
-                  value: 116494
+                  value: 116741
                 - name: Solidity
-                  value: 57590
+                  value: 71689
                   color: '#AA6746'
                 - name: C
-                  value: 40555
+                  value: 40574
                   color: '#555555'
                 - name: Dockerfile
-                  value: 9641
+                  value: 9755
                   color: '#384d54'
                 - name: Starlark
                   value: 1467
@@ -3888,20 +3885,20 @@ landscape:
                 - name: JavaScript
                   value: 792
                   color: '#f1e05a'
-              contributions: 16;30;48;3;10;3;4;4;2;4;6;21;15;23;32;46;22;27;31;20;18;18;20;12;12;10;9;13;5;6;0;8;2;19;13;13;6;12;11;26;19;5;3;6;15;11;19;14;2;3;3;3
-              firstWeek: 2022-05-29Z
-              stars: 1126
+              contributions: 3;10;3;4;4;2;4;6;21;15;23;32;46;22;27;31;20;18;18;20;12;12;10;9;13;5;6;0;8;2;19;13;13;6;12;11;26;19;5;3;6;15;11;19;14;2;3;3;3;2;4;11
+              firstWeek: 2022-06-19Z
+              stars: 1125
               license: GNU General Public License v3.0
               description: Zilliqa is the world's first high-throughput public blockchain platform - designed to scale to thousands ​of transactions per second.
-              latest_commit_date: '2023-05-24T11:10:38Z'
-              latest_commit_link: /Zilliqa/Zilliqa/commit/53d4528dafd5f978a93eb62cc2785c30cb89ea38
+              latest_commit_date: '2023-06-15T13:44:30Z'
+              latest_commit_link: /Zilliqa/Zilliqa/commit/e37faa79deeaec153fa41538bb5ad944c14cf8be
               release_date: '2023-04-25T08:57:22Z'
               release_link: https://github.com/Zilliqa/Zilliqa/releases
               contributors_count: 81
               contributors_link: https://github.com/Zilliqa/Zilliqa/graphs/contributors
             repos:
               - url: https://github.com/Zilliqa/Zilliqa
-                stars: 1126
+                stars: 1125
             github_start_commit_data:
               start_commit_link: /Zilliqa/Zilliqa/commit/b212929400f4bdaa423f5178334c0ef3dc9a3058
               start_date: '2017-12-27T07:42:34Z'
@@ -3968,7 +3965,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1180305195008
+              market_cap: 1291989549056
               effective_ticker: AMZN
             image_data:
               fileName: amazon-qldb.svg
@@ -4032,8 +4029,8 @@ landscape:
                   value: 1628
                   color: '#f1e05a'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 3989
+              firstWeek: 2022-06-19Z
+              stars: 3991
               license: Apache License 2.0
               description: Meet BigchainDB. The blockchain database.
               latest_commit_date: '2022-05-16T22:30:19Z'
@@ -4044,7 +4041,7 @@ landscape:
               contributors_link: https://github.com/bigchaindb/bigchaindb/graphs/contributors
             repos:
               - url: https://github.com/bigchaindb/bigchaindb
-                stars: 3989
+                stars: 3991
             github_start_commit_data:
               start_commit_link: /bigchaindb/bigchaindb/commit/0bbd9bc5ad49cd5cfdaa3cb9b080e4d8227fb4d0
               start_date: '2016-02-08T10:12:58Z'
@@ -4090,7 +4087,7 @@ landscape:
             github_data:
               languages:
                 - name: Clojure
-                  value: 1281316
+                  value: 1288372
                   color: '#db5855'
                 - name: JavaScript
                   value: 10477
@@ -4110,20 +4107,20 @@ landscape:
                 - name: CSS
                   value: 947
                   color: '#563d7c'
-              contributions: 2;15;21;11;19;30;10;8;7;6;2;9;19;6;12;22;12;6;9;9;9;13;33;30;37;22;69;21;10;69;39;30;24;25;73;39;95;51;42;28;11;5;14;20;24;20;19;27;9;40;22;22
-              firstWeek: 2022-05-29Z
-              stars: 273
+              contributions: 11;19;30;10;8;7;6;2;9;19;6;12;22;12;6;9;9;9;13;33;30;37;22;69;21;10;69;39;30;24;25;73;39;95;51;42;28;11;5;14;20;24;20;19;27;9;40;22;38;7;9;17
+              firstWeek: 2022-06-19Z
+              stars: 274
               license: Other
               description: Fluree database / query server source
-              latest_commit_date: '2023-05-22T20:37:36Z'
-              latest_commit_link: /fluree/db/commit/b10ce23e7aa63b29900dbc0f640c72e18366064b
-              release_date: '2023-03-30T15:55:27Z'
+              latest_commit_date: '2023-06-12T15:32:54Z'
+              latest_commit_link: /fluree/db/commit/07a8f336696a5ebc49f71fd5656c1fc22c6dac02
+              release_date: '2023-06-07T18:01:38Z'
               release_link: https://github.com/fluree/db/releases
               contributors_count: 10
               contributors_link: https://github.com/fluree/db/graphs/contributors
             repos:
               - url: https://github.com/fluree/db
-                stars: 273
+                stars: 274
             github_start_commit_data:
               start_commit_link: /fluree/db/commit/ccc0252fd6d2d823a1173f173d000214aa728623
               start_date: '2020-10-19T21:07:26Z'
@@ -4225,7 +4222,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/filebase/
               acquisitions: []
               parents: []
-              funding: 2000000
+              funding: 5000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -4275,7 +4272,7 @@ landscape:
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              firstWeek: 2022-06-19Z
               stars: 4
               license: MIT License
               description: Iagon Cloud App for Iagon Cloud Services(Distributed Storage and Processing). For Public Releases only
@@ -4327,18 +4324,18 @@ landscape:
                 - Internet
             github_data:
               languages: []
-              contributions: 0;0;1;0;1;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 22105
+              contributions: 0;1;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;1
+              firstWeek: 2022-06-19Z
+              stars: 22122
               license: MIT License
               description: Peer-to-peer hypermedia protocol
-              latest_commit_date: '2023-03-28T16:30:10Z'
-              latest_commit_link: /ipfs/ipfs/commit/67981fafb08edefc7b72567a12ea332ba813d97b
+              latest_commit_date: '2023-06-14T11:14:39Z'
+              latest_commit_link: /ipfs/ipfs/commit/b08b49c6eac5ef80279d19e3863c33017b95c9c5
               contributors_count: 84
               contributors_link: https://github.com/ipfs/ipfs/graphs/contributors
             repos:
               - url: https://github.com/ipfs/ipfs
-                stars: 22105
+                stars: 22122
             github_start_commit_data:
               start_commit_link: /ipfs/ipfs/commit/e9aa7b298ac6f56764ac7adcfec51bdae80662a4
               start_date: '2013-12-04T22:19:26Z'
@@ -4383,19 +4380,19 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 8881646
+                  value: 8955506
                   color: '#00ADD8'
                 - name: Vue
-                  value: 1914176
+                  value: 2039444
                   color: '#2c3e50'
                 - name: TypeScript
-                  value: 687494
+                  value: 702118
                   color: '#2b7489'
                 - name: CSS
                   value: 243055
                   color: '#563d7c'
                 - name: HTML
-                  value: 143258
+                  value: 168574
                   color: '#e34c26'
                 - name: Shell
                   value: 116016
@@ -4403,7 +4400,7 @@ landscape:
                 - name: Rich Text Format
                   value: 64772
                 - name: JavaScript
-                  value: 30593
+                  value: 31713
                   color: '#f1e05a'
                 - name: C#
                   value: 23544
@@ -4411,10 +4408,10 @@ landscape:
                 - name: Makefile
                   value: 22603
                   color: '#427819'
+                - name: SCSS
+                  value: 11555
                 - name: Svelte
                   value: 9088
-                - name: SCSS
-                  value: 8254
                 - name: Earthly
                   value: 5347
                 - name: Python
@@ -4427,20 +4424,20 @@ landscape:
                   value: 2554
                   color: '#384d54'
               contributions: >-
-                27;15;14;26;24;20;15;14;24;28;24;25;28;25;17;27;27;32;32;30;13;16;26;25;20;45;15;22;33;27;15;12;34;18;31;40;34;23;25;34;33;29;31;59;85;29;36;31;19;32;17;12
-              firstWeek: 2022-05-29Z
-              stars: 2683
+                26;24;20;15;14;24;28;24;25;28;25;17;27;27;32;32;30;13;16;26;25;20;45;15;22;33;27;15;12;34;18;31;41;34;23;25;34;33;29;31;59;85;29;36;31;19;32;22;23;12;36;25
+              firstWeek: 2022-06-19Z
+              stars: 2688
               license: GNU Affero General Public License v3.0
               description: Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
-              latest_commit_date: '2023-05-25T14:53:50Z'
-              latest_commit_link: /storj/storj/commit/ccfe5cae4961f6e0d338d9792d465802884d6740
-              release_date: '2023-05-25T16:19:26Z'
+              latest_commit_date: '2023-06-15T12:49:01Z'
+              latest_commit_link: /storj/storj/commit/2a4c1fa41e2b63b3df0509e35e996f8a0273ccf3
+              release_date: '2023-06-13T12:22:29Z'
               release_link: https://github.com/storj/storj/releases
               contributors_count: 105
               contributors_link: https://github.com/storj/storj/graphs/contributors
             repos:
               - url: https://github.com/storj/storj
-                stars: 2683
+                stars: 2688
             github_start_commit_data:
               start_commit_link: /storj/storj/commit/250b36f27b4456993848698b1653fd91df8e8ccb
               start_date: '2018-04-06T16:32:34Z'
@@ -4809,7 +4806,7 @@ landscape:
                   value: 416
                   color: '#427819'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              firstWeek: 2022-06-19Z
               stars: 335
               license: MIT License
               description: Aion Network - Java Implementation
@@ -4871,8 +4868,8 @@ landscape:
                   value: 1306
                   color: '#3572A5'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 1195
+              firstWeek: 2022-06-19Z
+              stars: 1196
               license: Unknown License
               description: 'Internet of Blockchains ⚛  '
               latest_commit_date: '2019-07-14T23:15:34Z'
@@ -4881,7 +4878,7 @@ landscape:
               contributors_link: https://github.com/cosmos/cosmos/graphs/contributors
             repos:
               - url: https://github.com/cosmos/cosmos
-                stars: 1195
+                stars: 1196
             github_start_commit_data:
               start_commit_link: /cosmos/cosmos/commit/c4a0158fe054589ff81efc8967ee6398d9671e3d
               start_date: '2016-06-04T13:36:29Z'
@@ -4926,13 +4923,13 @@ landscape:
             github_data:
               languages:
                 - name: Rust
-                  value: 8680293
+                  value: 8742585
                   color: '#dea584'
                 - name: Shell
                   value: 48787
                   color: '#89e051'
                 - name: Dockerfile
-                  value: 10434
+                  value: 10454
                   color: '#384d54'
                 - name: Ruby
                   value: 10427
@@ -4941,7 +4938,7 @@ landscape:
                   value: 4766
                   color: '#f1e05a'
                 - name: Handlebars
-                  value: 2639
+                  value: 2881
                 - name: HTML
                   value: 1334
                   color: '#e34c26'
@@ -4949,20 +4946,20 @@ landscape:
                   value: 132
                   color: '#563d7c'
               contributions: >-
-                12;5;10;18;18;11;6;9;13;16;7;16;10;12;15;17;12;16;20;14;16;7;10;19;14;10;19;21;13;12;8;9;25;12;20;14;18;11;21;13;23;19;21;16;17;8;22;16;12;20;19;17
-              firstWeek: 2022-05-29Z
-              stars: 6819
+                18;18;11;6;9;13;16;7;16;10;12;15;17;12;16;20;14;16;7;10;19;14;10;19;21;13;12;8;9;25;12;20;14;18;11;21;13;23;19;21;16;17;8;22;16;12;20;19;17;19;11;12
+              firstWeek: 2022-06-19Z
+              stars: 6856
               license: GNU General Public License v3.0
               description: Polkadot Node Implementation
-              latest_commit_date: '2023-05-25T14:18:14Z'
-              latest_commit_link: /paritytech/polkadot/commit/dfab53378f8cf7abfa9f10fbb9765bcc9f023f1d
-              release_date: '2023-05-04T13:09:56Z'
+              latest_commit_date: '2023-06-15T13:46:06Z'
+              latest_commit_link: /paritytech/polkadot/commit/2d840ffb2f778831faef07eb4cbd50ce66eeac1f
+              release_date: '2023-06-13T15:00:53Z'
               release_link: https://github.com/paritytech/polkadot/releases
-              contributors_count: 249
+              contributors_count: 250
               contributors_link: https://github.com/paritytech/polkadot/graphs/contributors
             repos:
               - url: https://github.com/paritytech/polkadot
-                stars: 6819
+                stars: 6856
             github_start_commit_data:
               start_commit_link: /paritytech/polkadot/commit/8d2563895c0d7296f1f7da10df7befe334bc8dec
               start_date: '2018-02-08T13:29:30Z'
@@ -4987,9 +4984,9 @@ landscape:
               num_employees_min: 251
               num_employees_max: 500
               homepage: https://polygon.technology
-              city: Bengaluru
-              region: Karnataka
-              country: India
+              city: Yogyakarta
+              region: Yogyakarta
+              country: Indonesia
               twitter: https://www.twitter.com/0xPolygon
               linkedin: https://www.linkedin.com/company/polygonlabs
               acquisitions:
@@ -5014,37 +5011,37 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 4298579
+                  value: 4752434
                   color: '#00ADD8'
                 - name: Solidity
-                  value: 113032
+                  value: 113104
                   color: '#AA6746'
                 - name: Shell
-                  value: 14084
+                  value: 17967
                   color: '#89e051'
                 - name: JavaScript
                   value: 6536
                   color: '#f1e05a'
                 - name: Makefile
-                  value: 2683
+                  value: 2912
                   color: '#427819'
                 - name: Dockerfile
                   value: 496
                   color: '#384d54'
-              contributions: 5;1;9;3;4;4;4;2;7;3;5;2;0;6;6;1;3;10;7;13;5;3;9;15;8;7;6;4;5;2;1;1;3;1;4;1;11;9;9;8;13;20;19;11;10;13;11;27;9;15;16;17
-              firstWeek: 2022-05-29Z
-              stars: 809
+              contributions: 3;4;4;4;2;7;3;5;2;0;6;6;1;3;10;7;13;5;3;9;15;8;7;6;4;5;2;1;1;3;1;4;1;11;9;9;8;13;20;19;11;10;13;11;27;9;15;16;17;16;19;18
+              firstWeek: 2022-06-19Z
+              stars: 822
               license: Apache License 2.0
               description: A Framework for Building Ethereum-compatible Blockchain Networks
-              latest_commit_date: '2023-05-25T13:38:27Z'
-              latest_commit_link: /0xPolygon/polygon-edge/commit/7b1f1287b3c673cc855a7ba447514f414497adac
-              release_date: '2023-05-05T09:30:46Z'
+              latest_commit_date: '2023-06-15T11:33:52Z'
+              latest_commit_link: /0xPolygon/polygon-edge/commit/df3e91bb6ef2affa19e2c9e42315eee59d022c65
+              release_date: '2023-06-05T13:04:01Z'
               release_link: https://github.com/0xPolygon/polygon-edge/releases
-              contributors_count: 50
+              contributors_count: 52
               contributors_link: https://github.com/0xPolygon/polygon-edge/graphs/contributors
             repos:
               - url: https://github.com/0xPolygon/polygon-edge
-                stars: 809
+                stars: 822
             github_start_commit_data:
               start_commit_link: /0xPolygon/polygon-edge/commit/161b3279c1a30f095079c35ac9b313ef042f7923
               start_date: '2018-11-05T09:55:45Z'
@@ -5142,24 +5139,24 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 9121841
+                  value: 9571022
                   color: '#00ADD8'
                 - name: Solidity
-                  value: 1686794
+                  value: 1726665
                   color: '#AA6746'
                 - name: TypeScript
-                  value: 1594733
+                  value: 1637971
                   color: '#2b7489'
                 - name: Shell
-                  value: 102842
+                  value: 104822
                   color: '#89e051'
                 - name: PLpgSQL
-                  value: 90532
+                  value: 91456
                 - name: Makefile
-                  value: 13481
+                  value: 13875
                   color: '#427819'
                 - name: Dockerfile
-                  value: 8971
+                  value: 9097
                   color: '#384d54'
                 - name: Python
                   value: 2943
@@ -5174,20 +5171,20 @@ landscape:
                   value: 684
                   color: '#04133b'
               contributions: >-
-                27;29;21;37;49;15;32;55;50;54;77;16;60;160;98;67;48;47;38;38;56;38;57;51;51;48;27;47;53;13;0;29;64;42;78;27;40;30;62;75;49;79;79;56;32;29;43;38;45;50;81;87
-              firstWeek: 2022-05-29Z
-              stars: 4589
+                37;49;15;32;55;50;54;77;16;60;160;98;67;48;47;38;38;56;38;57;51;51;48;27;47;53;13;0;29;64;43;78;27;40;30;62;75;49;79;79;56;32;29;43;39;45;50;82;99;71;107;87
+              firstWeek: 2022-06-19Z
+              stars: 4680
               license: MIT License
               description: node of the decentralized oracle network, bridging on and off-chain computation
-              latest_commit_date: '2023-05-25T16:31:11Z'
-              latest_commit_link: /smartcontractkit/chainlink/commit/8aceb5036620820b73d9fdbbae43127bc3d1f5ef
-              release_date: '2023-05-16T20:45:43Z'
+              latest_commit_date: '2023-06-15T13:56:50Z'
+              latest_commit_link: /smartcontractkit/chainlink/commit/c6c4d217e277e316fce8324052683966e59511ab
+              release_date: '2023-06-12T16:22:21Z'
               release_link: https://github.com/smartcontractkit/chainlink/releases
-              contributors_count: 177
+              contributors_count: 180
               contributors_link: https://github.com/smartcontractkit/chainlink/graphs/contributors
             repos:
               - url: https://github.com/smartcontractkit/chainlink
-                stars: 4589
+                stars: 4680
             github_start_commit_data:
               start_commit_link: /smartcontractkit/chainlink/commit/d6b94e9576ad3bb914413c16fab9f82b77b58722
               start_date: '2017-11-20T21:06:58Z'
@@ -5236,7 +5233,7 @@ landscape:
                   value: 4198
                   color: '#89e051'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              firstWeek: 2022-06-19Z
               stars: 406
               license: Other
               description: Specifications for Interledger and related protocols
@@ -5335,8 +5332,8 @@ landscape:
                 - name: Shell
                   value: 1038
                   color: '#89e051'
-              contributions: 0;0;0;0;0;2;4;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              contributions: 0;0;2;4;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2022-06-19Z
               stars: 121
               license: Apache License 2.0
               description: Hyperledger Fabric Packages for Go Chaincode
@@ -5402,29 +5399,29 @@ landscape:
             github_data:
               languages:
                 - name: Scala
-                  value: 8730506
+                  value: 8710305
                   color: '#c22d40'
                 - name: Haskell
-                  value: 3992601
+                  value: 3949190
                   color: '#5e5086'
                 - name: Starlark
-                  value: 1003292
+                  value: 981096
                 - name: TypeScript
-                  value: 700705
+                  value: 699674
                   color: '#2b7489'
                 - name: Java
                   value: 644737
                   color: '#b07219'
                 - name: Shell
-                  value: 197248
+                  value: 197176
                   color: '#89e051'
                 - name: HCL
-                  value: 49829
+                  value: 49828
                 - name: Nix
                   value: 43823
                   color: '#7e7eff'
                 - name: PowerShell
-                  value: 32464
+                  value: 32366
                   color: '#012456'
                 - name: Python
                   value: 22213
@@ -5436,7 +5433,7 @@ landscape:
                   value: 13068
                   color: '#563d7c'
                 - name: HTML
-                  value: 12498
+                  value: 8518
                   color: '#e34c26'
                 - name: Smarty
                   value: 6850
@@ -5454,30 +5451,30 @@ landscape:
                 - name: Jsonnet
                   value: 994
                   color: '#0064bd'
-                - name: Batchfile
-                  value: 885
-                  color: '#C1F12E'
                 - name: Dockerfile
                   value: 596
                   color: '#384d54'
                 - name: sed
                   value: 238
                   color: '#64b970'
+                - name: Batchfile
+                  value: 193
+                  color: '#C1F12E'
               contributions: >-
-                38;55;33;38;21;40;32;28;45;38;49;42;48;45;56;35;28;49;33;39;44;53;33;35;50;46;52;43;39;37;3;16;27;41;40;35;47;46;33;38;35;35;20;20;27;17;24;31;22;30;22;19
-              firstWeek: 2022-05-29Z
-              stars: 763
+                38;21;40;32;28;45;38;49;42;48;45;56;35;28;49;33;39;44;53;33;35;50;46;52;43;39;37;3;16;27;41;40;35;47;46;33;38;35;35;20;20;27;17;24;31;22;30;22;19;29;14;18
+              firstWeek: 2022-06-19Z
+              stars: 764
               license: Apache License 2.0
               description: The Daml smart contract language
-              latest_commit_date: '2023-05-25T15:05:00Z'
-              latest_commit_link: /digital-asset/daml/commit/8d0357ce02e7ec0a9f91c373c9ee14b15f6ddff8
-              release_date: '2023-05-24T08:38:53Z'
+              latest_commit_date: '2023-06-15T10:00:05Z'
+              latest_commit_link: /digital-asset/daml/commit/96199179f92bad60aab88b474085e60c69054a41
+              release_date: '2023-06-14T08:42:15Z'
               release_link: https://github.com/digital-asset/daml/releases
-              contributors_count: 175
+              contributors_count: 179
               contributors_link: https://github.com/digital-asset/daml/graphs/contributors
             repos:
               - url: https://github.com/digital-asset/daml
-                stars: 763
+                stars: 764
             github_start_commit_data:
               start_commit_link: /digital-asset/daml/commit/05e691f55852fbb207f0e43cf23bb95b95866ba3
               start_date: '2019-04-04T08:33:38Z'
@@ -5520,7 +5517,7 @@ landscape:
             github_data:
               languages:
                 - name: Haskell
-                  value: 1968001
+                  value: 1969009
                   color: '#5e5086'
                 - name: C
                   value: 78618
@@ -5531,20 +5528,20 @@ landscape:
                 - name: Shell
                   value: 6052
                   color: '#89e051'
-              contributions: 2;2;0;0;0;4;2;3;0;0;8;4;5;5;1;0;0;0;1;3;0;0;1;5;2;1;0;3;4;0;2;0;2;0;3;3;11;2;1;4;4;1;2;2;1;8;5;3;8;8;7;1
-              firstWeek: 2022-05-29Z
-              stars: 541
+              contributions: 0;0;4;2;3;0;0;8;4;5;5;1;0;0;0;1;3;0;0;1;5;2;1;0;3;4;0;2;0;2;0;3;3;11;2;1;4;4;1;2;2;1;8;5;3;8;8;7;1;1;0;1
+              firstWeek: 2022-06-19Z
+              stars: 549
               license: BSD 3-Clause "New" or "Revised" License
               description: The Pact Smart Contract Language
-              latest_commit_date: '2023-05-20T01:32:45Z'
-              latest_commit_link: /kadena-io/pact/commit/456aa65ef45596458488ed59e7167621b40e6139
-              release_date: '2023-05-10T21:09:11Z'
+              latest_commit_date: '2023-06-12T17:35:07Z'
+              latest_commit_link: /kadena-io/pact/commit/e704ef56fe9c7c8c34683032bd6dbc3c9086720d
+              release_date: '2023-06-09T23:28:51Z'
               release_link: https://github.com/kadena-io/pact/releases
-              contributors_count: 48
+              contributors_count: 49
               contributors_link: https://github.com/kadena-io/pact/graphs/contributors
             repos:
               - url: https://github.com/kadena-io/pact
-                stars: 541
+                stars: 549
             github_start_commit_data:
               start_commit_link: /kadena-io/pact/commit/39efb849bda93dfd4b67aa7a18f7fc8351326f8e
               start_date: '2016-11-13T05:16:42Z'
@@ -5632,9 +5629,9 @@ landscape:
                 - name: JavaScript
                   value: 477
                   color: '#f1e05a'
-              contributions: 0;1;0;0;0;1;3;0;13;6;4;0;2;7;1;1;2;3;2;2;8;2;0;1;1;1;1;2;3;3;1;0;2;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;2
-              firstWeek: 2022-05-29Z
-              stars: 237
+              contributions: 0;0;1;3;0;13;6;4;0;2;7;1;1;2;3;2;2;8;2;0;1;1;1;1;2;3;3;1;0;2;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 238
               license: GNU General Public License v3.0
               description: Scilla - A Smart Contract Intermediate Level Language
               latest_commit_date: '2023-05-18T11:15:15Z'
@@ -5645,7 +5642,7 @@ landscape:
               contributors_link: https://github.com/Zilliqa/scilla/graphs/contributors
             repos:
               - url: https://github.com/Zilliqa/scilla
-                stars: 237
+                stars: 238
             github_start_commit_data:
               start_commit_link: /Zilliqa/scilla/commit/72c8e6e6e218c425a2c124efa37da5da15d687f4
               start_date: '2018-02-13T18:58:51Z'
@@ -5707,9 +5704,9 @@ landscape:
                 - name: Dockerfile
                   value: 1414
                   color: '#384d54'
-              contributions: 0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;3;0;0;0;0;0;0;0;1;5;2;0;0
-              firstWeek: 2022-05-29Z
-              stars: 405
+              contributions: 4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;3;0;0;0;0;0;0;0;1;5;2;0;0;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 414
               license: MIT License
               description: Bitcoin Script Debugger
               latest_commit_date: '2023-05-10T07:34:09Z'
@@ -5720,7 +5717,7 @@ landscape:
               contributors_link: https://github.com/bitcoin-core/btcdeb/graphs/contributors
             repos:
               - url: https://github.com/bitcoin-core/btcdeb
-                stars: 405
+                stars: 414
             github_start_commit_data:
               start_commit_link: /bitcoin-core/btcdeb/commit/b1207883dc643b314062fb52e52d8de1f8813774
               start_date: '2017-12-13T03:53:22Z'
@@ -5765,7 +5762,7 @@ landscape:
                   value: 9310
                   color: '#f1e05a'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              firstWeek: 2022-06-19Z
               stars: 8
               license: Unknown License
               description: Sample code for Smart Filters in MultiChain 2.0
@@ -5804,7 +5801,7 @@ landscape:
               region: Bern
               country: Switzerland
               twitter: https://twitter.com/ethereum
-              linkedin: https://www.linkedin.com/company/5091692
+              linkedin: https://www.linkedin.com/company/ethereum/
               acquisitions: []
               parents: []
               funding: 18400000
@@ -5825,21 +5822,21 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 6553787
+                  value: 6569148
                   color: '#f34b7d'
                 - name: Solidity
-                  value: 3856461
+                  value: 3898064
                   color: '#AA6746'
                 - name: Yul
-                  value: 602996
+                  value: 604971
                 - name: Python
                   value: 293102
                   color: '#3572A5'
                 - name: Shell
-                  value: 279428
+                  value: 283406
                   color: '#89e051'
                 - name: CMake
-                  value: 81301
+                  value: 82395
                 - name: C
                   value: 70487
                   color: '#555555'
@@ -5853,20 +5850,20 @@ landscape:
                   value: 3636
                   color: '#012456'
               contributions: >-
-                18;28;57;24;16;24;22;7;26;9;48;47;21;43;27;36;19;38;14;7;7;42;25;35;23;22;44;15;8;15;4;5;18;20;6;38;29;21;49;8;11;7;10;22;22;20;32;23;13;44;23;13
-              firstWeek: 2022-05-29Z
-              stars: 20229
+                24;16;24;22;7;26;9;48;47;21;43;27;36;19;38;14;7;7;42;25;35;23;22;44;15;8;15;4;5;18;20;6;38;29;21;49;9;11;7;10;22;22;20;32;25;15;44;28;21;16;21;21
+              firstWeek: 2022-06-19Z
+              stars: 20328
               license: GNU General Public License v3.0
               description: Solidity, the Smart Contract Programming Language
-              latest_commit_date: '2023-05-25T10:25:14Z'
-              latest_commit_link: /ethereum/solidity/commit/8c7404f639b19a30d0e0ace31002bb48a7a6f5c4
+              latest_commit_date: '2023-06-14T15:31:32Z'
+              latest_commit_link: /ethereum/solidity/commit/374a6fd50e1bc404ed156e77cc07a63803977622
               release_date: '2023-05-10T11:21:23Z'
               release_link: https://github.com/ethereum/solidity/releases
-              contributors_count: 657
+              contributors_count: 661
               contributors_link: https://github.com/ethereum/solidity/graphs/contributors
             repos:
               - url: https://github.com/ethereum/solidity
-                stars: 20229
+                stars: 20328
             github_start_commit_data:
               start_commit_link: /ethereum/solidity/commit/780099223ca2028cc7d008c0f52743cb347536dc
               start_date: '2014-01-03T01:27:19Z'
@@ -5895,7 +5892,7 @@ landscape:
               region: Bern
               country: Switzerland
               twitter: https://twitter.com/ethereum
-              linkedin: https://www.linkedin.com/company/5091692
+              linkedin: https://www.linkedin.com/company/ethereum/
               acquisitions: []
               parents: []
               funding: 18400000
@@ -5916,7 +5913,7 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 1854620
+                  value: 1852426
                   color: '#3572A5'
                 - name: Makefile
                   value: 1886
@@ -5930,20 +5927,20 @@ landscape:
                 - name: Shell
                   value: 504
                   color: '#89e051'
-              contributions: 8;5;7;14;6;6;5;7;16;13;13;3;2;2;3;5;2;3;0;1;1;3;3;1;4;4;1;3;10;5;2;4;5;3;6;5;0;3;6;2;3;1;0;0;3;16;0;5;4;11;30;19
-              firstWeek: 2022-05-29Z
-              stars: 4520
+              contributions: 14;6;6;5;7;16;13;13;3;2;2;3;5;2;3;0;1;1;3;3;1;4;4;1;3;10;5;2;4;5;3;6;5;0;3;6;2;3;1;0;0;3;16;0;5;4;11;30;19;9;4;2
+              firstWeek: 2022-06-19Z
+              stars: 4543
               license: Other
               description: Pythonic Smart Contract Language for the EVM
-              latest_commit_date: '2023-05-25T14:29:27Z'
-              latest_commit_link: /vyperlang/vyper/commit/070b0cfba0bf32da66b8640740d54d9e2a850833
-              release_date: '2023-05-23T15:00:58Z'
+              latest_commit_date: '2023-06-14T16:57:27Z'
+              latest_commit_link: /vyperlang/vyper/commit/c90ab2fb26d66ad2121bf967dabe738ee8eaf21e
+              release_date: '2023-05-29T15:36:22Z'
               release_link: https://github.com/vyperlang/vyper/releases
-              contributors_count: 211
+              contributors_count: 212
               contributors_link: https://github.com/vyperlang/vyper/graphs/contributors
             repos:
               - url: https://github.com/vyperlang/vyper
-                stars: 4520
+                stars: 4543
             github_start_commit_data:
               start_commit_link: /vyperlang/vyper/commit/114b177938317326b0d71bc9ee1d81799817472a
               start_date: '2016-11-11T08:56:58Z'
@@ -5984,16 +5981,16 @@ landscape:
             github_data:
               languages:
                 - name: WebAssembly
-                  value: 12934205
+                  value: 12969941
                   color: '#04133b'
                 - name: C++
-                  value: 6271775
+                  value: 6289729
                   color: '#f34b7d'
                 - name: JavaScript
                   value: 1685040
                   color: '#f1e05a'
                 - name: Python
-                  value: 299603
+                  value: 299749
                   color: '#3572A5'
                 - name: C
                   value: 206892
@@ -6006,20 +6003,20 @@ landscape:
                 - name: Assembly
                   value: 818
                   color: '#6E4C13'
-              contributions: 19;7;9;9;10;5;22;7;20;14;19;13;27;25;8;14;19;19;18;18;24;18;14;16;19;20;12;20;9;16;0;15;23;13;12;12;9;5;9;23;11;17;14;4;24;20;18;8;6;15;11;6
-              firstWeek: 2022-05-29Z
-              stars: 6415
+              contributions: 9;10;5;22;7;20;14;19;13;27;25;8;14;19;19;18;18;24;18;14;16;19;20;12;20;9;16;0;15;23;13;12;12;9;5;9;23;11;17;14;4;24;20;18;8;6;15;11;6;2;5;11
+              firstWeek: 2022-06-19Z
+              stars: 6463
               license: Apache License 2.0
               description: Optimizer and compiler/toolchain library for WebAssembly
-              latest_commit_date: '2023-05-23T17:38:00Z'
-              latest_commit_link: /WebAssembly/binaryen/commit/e8ac658a5db2fadc93c3d317d465eed253e191ed
+              latest_commit_date: '2023-06-13T19:10:18Z'
+              latest_commit_link: /WebAssembly/binaryen/commit/00211a90878cf0f37fbfb124332c4abc9863032b
               release_date: '2023-05-16T20:59:00Z'
               release_link: https://github.com/WebAssembly/binaryen/releases
-              contributors_count: 149
+              contributors_count: 150
               contributors_link: https://github.com/WebAssembly/binaryen/graphs/contributors
             repos:
               - url: https://github.com/WebAssembly/binaryen
-                stars: 6415
+                stars: 6463
             github_start_commit_data:
               start_commit_link: /WebAssembly/binaryen/commit/5c839bb462f43f7a356593f537edb08014d0f25f
               start_date: '2015-10-29T18:55:39Z'
@@ -6069,9 +6066,9 @@ landscape:
                 - name: Gherkin
                   value: 28237
                   color: '#5B2063'
-              contributions: 1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;3;0;3;1;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 242
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;1;1;1;3;0;3;1;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 249
               license: Apache License 2.0
               description: Smart Legal Contracts & Templating System
               latest_commit_date: '2023-01-06T09:30:42Z'
@@ -6082,7 +6079,7 @@ landscape:
               contributors_link: https://github.com/accordproject/cicero/graphs/contributors
             repos:
               - url: https://github.com/accordproject/cicero
-                stars: 242
+                stars: 249
             github_start_commit_data:
               start_commit_link: /accordproject/cicero/commit/b350929201910629a9d5c59f574496b715d2bcdc
               start_date: '2017-11-02T05:49:46Z'
@@ -6167,7 +6164,7 @@ landscape:
                   value: 833
                   color: '#f1e05a'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              firstWeek: 2022-06-19Z
               stars: 0
               license: Unknown License
               description: Concerto models for clause types
@@ -6216,7 +6213,6 @@ landscape:
               industries:
                 - Blockchain
                 - Enterprise Software
-                - Legal
                 - Open Source
                 - Software
             image_data:
@@ -6268,7 +6264,7 @@ landscape:
                   value: 621
                   color: '#384d54'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              firstWeek: 2022-06-19Z
               stars: 101
               license: Apache License 2.0
               description: Shared Scala libraries for the OpenLaw project.
@@ -6312,7 +6308,7 @@ landscape:
               region: Bern
               country: Switzerland
               twitter: https://twitter.com/ethereum
-              linkedin: https://www.linkedin.com/company/5091692
+              linkedin: https://www.linkedin.com/company/ethereum/
               acquisitions: []
               parents: []
               funding: 18400000
@@ -6333,13 +6329,13 @@ landscape:
             github_data:
               languages:
                 - name: Solidity
-                  value: 1369480
+                  value: 1395171
                   color: '#AA6746'
                 - name: TypeScript
-                  value: 374035
+                  value: 383081
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 207024
+                  value: 215642
                   color: '#f1e05a'
                 - name: Python
                   value: 121954
@@ -6365,18 +6361,18 @@ landscape:
                   value: 833
                   color: '#701516'
               contributions: >-
-                13;9;15;5;18;9;22;30;28;32;17;22;34;35;30;13;40;17;16;16;12;28;27;15;44;47;21;24;23;29;23;20;50;23;23;15;57;30;35;45;33;22;48;20;26;12;42;12;20;15;25;10
-              firstWeek: 2022-05-29Z
-              stars: 11588
+                5;18;9;22;30;28;32;17;22;34;35;30;13;40;17;16;16;12;28;27;15;44;47;21;24;23;29;23;20;50;23;23;15;57;30;35;45;33;22;48;20;26;12;42;12;20;15;25;10;26;24;21
+              firstWeek: 2022-06-19Z
+              stars: 11661
               license: Creative Commons Zero v1.0 Universal
               description: The Ethereum Improvement Proposal repository
-              latest_commit_date: '2023-05-25T15:43:23Z'
-              latest_commit_link: /ethereum/EIPs/commit/6791956eba2113e1a73a2ed71a9ec42540ab2b71
-              contributors_count: 612
+              latest_commit_date: '2023-06-14T15:18:43Z'
+              latest_commit_link: /ethereum/EIPs/commit/a9e7891309150158946465cb8fab05ccaec81b9f
+              contributors_count: 632
               contributors_link: https://github.com/ethereum/EIPs/graphs/contributors
             repos:
               - url: https://github.com/ethereum/EIPs
-                stars: 11588
+                stars: 11661
             github_start_commit_data:
               start_commit_link: /ethereum/EIPs/commit/5e932181f5ced8b256c02476c9b013a93f382352
               start_date: '2015-10-26T14:10:14Z'
@@ -6424,8 +6420,8 @@ landscape:
                 - name: PHP
                   value: 121686
                   color: '#4F5D95'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2022-06-19Z
               stars: 53
               license: MIT License
               description: PHP library for Block.io
@@ -6502,9 +6498,9 @@ landscape:
                 - name: HTML
                   value: 69
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;6;0;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 59
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;6;0;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 60
               license: Unknown License
               description: Kadena Chainweaver desktop wallet and web-based playground for Pact
               latest_commit_date: '2023-01-14T12:24:57Z'
@@ -6515,7 +6511,7 @@ landscape:
               contributors_link: https://github.com/kadena-io/chainweaver/graphs/contributors
             repos:
               - url: https://github.com/kadena-io/chainweaver
-                stars: 59
+                stars: 60
             github_start_commit_data:
               start_commit_link: /kadena-io/chainweaver/commit/ba227502650d38822d8556bbdacd1e3c8bd2ca91
               start_date: '2018-08-21T20:58:13Z'
@@ -6594,26 +6590,26 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 13280
+                  value: 13428
                   color: '#f1e05a'
                 - name: TypeScript
                   value: 7051
                   color: '#2b7489'
                 - name: CSS
-                  value: 5754
+                  value: 5846
                   color: '#563d7c'
-              contributions: 1;1;0;0;2;8;1;3;0;1;0;1;2;0;0;4;1;1;1;2;0;0;3;1;0;0;2;2;6;1;1;2;4;17;7;4;5;4;13;14;1;3;1;5;11;14;10;9;8;5;2;6
-              firstWeek: 2022-05-29Z
-              stars: 496
+              contributions: 0;2;8;1;3;0;1;0;1;2;0;0;4;1;1;1;2;0;0;3;1;0;0;2;2;6;1;1;2;4;17;7;4;5;4;13;14;1;3;1;5;11;14;10;9;8;5;2;6;1;6;3
+              firstWeek: 2022-06-19Z
+              stars: 505
               license: Apache License 2.0
               description: Developer documentation for MetaMask
-              latest_commit_date: '2023-05-24T19:31:58Z'
-              latest_commit_link: /MetaMask/metamask-docs/commit/f3acdfc3e68242e77f01c179690ada8d51ec8b45
-              contributors_count: 89
+              latest_commit_date: '2023-06-12T20:35:34Z'
+              latest_commit_link: /MetaMask/metamask-docs/commit/a673170af6140f663693e54fa790cd71ddd1b630
+              contributors_count: 93
               contributors_link: https://github.com/MetaMask/metamask-docs/graphs/contributors
             repos:
               - url: https://github.com/MetaMask/metamask-docs
-                stars: 496
+                stars: 505
             github_start_commit_data:
               start_commit_link: /MetaMask/metamask-docs/commit/703c855243525b7b50fb32285cad7c83c584639e
               start_date: '2018-12-01T03:40:59Z'
@@ -6629,6 +6625,79 @@ landscape:
       - subcategory:
         name: Development tools/platforms
         items:
+          - item:
+            name: Application Service for Blockchain (Blockchain System Development Service)
+            homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+            crunchbase_data:
+              name: Hitachi
+              description: Hitachi is engaged in the manufacture and sale of electronic and electrical products worldwide.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.hitachi.com
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/HitachiGlobal
+              linkedin: https://www.linkedin.com/company/hitachi
+              acquisitions:
+                - date: '2007-02-05'
+                  acquiree: Archivas
+                  price: 120000000
+                - date: '2008-04-07'
+                  acquiree: Hitachi ID Systems
+                - date: '2010-08-20'
+                  acquiree: Parascale
+                - date: '2011-06-22'
+                  acquiree: Aloka
+                - date: '2011-09-07'
+                  acquiree: BlueArc
+                - date: '2011-10-07'
+                  acquiree: Hi-Rel Electronics
+                - date: '2012-09-24'
+                  acquiree: Cofio Software
+                - date: '2012-10-30'
+                  acquiree: Horizon Nuclear Power
+                - date: '2013-11-15'
+                  acquiree: Hitachi Payment Services
+                  price: 250000000
+                - date: '2013-12-02'
+                  acquiree: Ideaca
+                - date: '2015-12-14'
+                  acquiree: Ignify
+                - date: '2018-12-17'
+                  acquiree: ABB - Power Grids Business
+                  price: 7800000000
+                - date: '2019-04-24'
+                  acquiree: JR Automation Technologies
+                  price: 1425000000
+                - date: '2021-03-31'
+                  acquiree: GlobalLogic
+                  price: 9600000000
+                - date: '2022-08-31'
+                  acquiree: Flexware Innovation
+              parents: []
+              ticker: 6501.T
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Industrial Manufacturing
+                - Manufacturing
+                - Public Relations
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 60859812616
+              effective_ticker: 6501.T
+            image_data:
+              fileName: application-service-for-blockchain-blockchain-system-development-service.svg
+              hash: NEz58IDdZhUC2GpuYWggYMZf2is/b5HmIMxKmlQqCbY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-27T16:00:09.000Z
           - item:
             name: Azure Blockchain Workbench
             homepage_url: https://azure.microsoft.com/en-us/features/blockchain-workbench/
@@ -7211,7 +7280,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2423746723840
+              market_cap: 2565878317056
               effective_ticker: MSFT
             image_data:
               fileName: azure-blockchain-workbench.svg
@@ -7253,42 +7322,44 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 2376454
+                  value: 2755919
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 1719422
+                  value: 1720605
                   color: '#f1e05a'
                 - name: Solidity
-                  value: 331574
+                  value: 332878
                   color: '#AA6746'
                 - name: Shell
-                  value: 9754
+                  value: 9752
                   color: '#89e051'
+                - name: SCSS
+                  value: 2217
+                - name: HTML
+                  value: 976
+                  color: '#e34c26'
                 - name: Vyper
                   value: 748
-                - name: HTML
-                  value: 452
-                  color: '#e34c26'
                 - name: Yul
                   value: 222
                 - name: Python
                   value: 96
                   color: '#3572A5'
               contributions: >-
-                28;28;15;18;53;36;74;70;44;75;80;74;63;24;7;29;28;25;49;30;20;42;44;27;26;17;15;18;35;18;2;9;30;23;5;16;26;21;23;23;22;17;3;2;6;16;12;4;21;28;13;11
-              firstWeek: 2022-05-29Z
-              stars: 13905
+                18;53;36;74;70;44;75;80;74;63;24;7;29;28;25;49;30;20;42;44;27;26;17;15;19;35;18;2;9;30;23;5;16;26;21;23;23;22;17;4;2;6;16;12;4;21;29;17;11;12;31;29
+              firstWeek: 2022-06-19Z
+              stars: 13947
               license: MIT License
               description: A tool for developing smart contracts. Crafted with the finest cacaos.
-              latest_commit_date: '2023-05-25T01:29:04Z'
-              latest_commit_link: /trufflesuite/truffle/commit/2105e359021ae3786c1454c03e3ccd65834eba80
-              release_date: '2023-05-19T21:22:19Z'
+              latest_commit_date: '2023-06-15T02:19:03Z'
+              latest_commit_link: /trufflesuite/truffle/commit/f580f0c06aaa127c6185eb4c3726239a9af8bdf0
+              release_date: '2023-06-06T20:40:50Z'
               release_link: https://github.com/trufflesuite/truffle/releases
-              contributors_count: 277
+              contributors_count: 278
               contributors_link: https://github.com/trufflesuite/truffle/graphs/contributors
             repos:
               - url: https://github.com/trufflesuite/truffle
-                stars: 13905
+                stars: 13947
             github_start_commit_data:
               start_commit_link: /trufflesuite/truffle/commit/ea5452a7b44be04cd422f2a9efea0c9a7f74cc31
               start_date: '2015-06-23T20:44:23Z'
@@ -7474,38 +7545,38 @@ landscape:
             github_data:
               languages:
                 - name: Rust
-                  value: 1214656
+                  value: 1236586
                   color: '#dea584'
-                - name: Shell
-                  value: 24650
-                  color: '#89e051'
                 - name: Makefile
-                  value: 24052
+                  value: 23712
                   color: '#427819'
-                - name: Dockerfile
-                  value: 2976
-                  color: '#384d54'
+                - name: Shell
+                  value: 20089
+                  color: '#89e051'
                 - name: Smarty
-                  value: 2762
+                  value: 5129
+                - name: Dockerfile
+                  value: 1841
+                  color: '#384d54'
                 - name: Open Policy Agent
-                  value: 537
+                  value: 544
                 - name: Ruby
                   value: 76
                   color: '#701516'
-              contributions: 20;13;13;30;30;22;9;10;19;1;7;1;17;13;34;40;4;1;0;4;9;2;9;7;24;18;39;21;11;26;13;3;16;11;27;18;8;12;32;21;29;9;30;15;4;25;26;21;17;8;10;5
-              firstWeek: 2022-05-29Z
-              stars: 15
+              contributions: 30;30;22;9;10;19;1;7;1;17;13;34;40;4;1;0;4;9;2;9;7;24;18;39;21;11;26;13;3;16;11;27;18;8;12;32;21;29;9;30;15;4;25;26;21;17;8;12;9;20;43;40
+              firstWeek: 2022-06-19Z
+              stars: 16
               license: Apache License 2.0
               description: Chronicle - the open-source, blockchain-backed, domain-agnostic provenance platform
-              latest_commit_date: '2023-05-23T16:05:43Z'
-              latest_commit_link: /btpworks/chronicle/commit/e74850671fb028f2ecf70bd3c58f597a527600fe
-              release_date: '2023-01-18T21:11:37Z'
+              latest_commit_date: '2023-06-14T18:12:35Z'
+              latest_commit_link: /btpworks/chronicle/commit/927c65ec667ef3894273c14128331ff762b7cf45
+              release_date: '2023-06-08T02:28:04Z'
               release_link: https://github.com/btpworks/chronicle/releases
               contributors_count: 9
               contributors_link: https://github.com/btpworks/chronicle/graphs/contributors
             repos:
               - url: https://github.com/btpworks/chronicle
-                stars: 15
+                stars: 16
             github_start_commit_data:
               start_commit_link: /btpworks/chronicle/commit/2363b73e0faf870767e2fe4fb8a5b0fd1517cc08
               start_date: '2021-10-12T19:24:20Z'
@@ -7786,7 +7857,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 205898317824
+              market_cap: 204442599424
               effective_ticker: CRM
             image_data:
               fileName: salesforce-blockchain.svg
@@ -7942,7 +8013,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 156555132928
+              market_cap: 158740578304
               effective_ticker: SAP
             image_data:
               fileName: sap-ich-for-life-sciences.svg
@@ -7971,7 +8042,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/vottun/
               acquisitions: []
               parents: []
-              funding: 1242876
+              funding: 1457388
               stockExchange: null
               company_type: For Profit
               industries:
@@ -8181,7 +8252,7 @@ landscape:
               description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.ibm.com/
+              homepage: http://www.ibm.com
               city: Armonk
               region: New York
               country: United States
@@ -8653,7 +8724,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115185508352
+              market_cap: 125110435840
               effective_ticker: IBM
             image_data:
               fileName: ibm-food-trust.svg
@@ -8854,7 +8925,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1180305195008
+              market_cap: 1291989549056
               effective_ticker: AMZN
             image_data:
               fileName: amazon-managed-blockchain.svg
@@ -9101,8 +9172,8 @@ landscape:
             crunchbase_data:
               name: First Genesis
               description: First Genesis is a provider of information technology services and solutions.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 1
+              num_employees_max: 10
               homepage: https://www.firstgenesis.com/
               city: Sugar Land
               region: Texas
@@ -9124,6 +9195,79 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Hitachi Blockchain Service for Hyperledger Fabric
+            homepage_url: https://www.hitachi.co.jp/blockchain/service/hyperledger
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+            crunchbase_data:
+              name: Hitachi
+              description: Hitachi is engaged in the manufacture and sale of electronic and electrical products worldwide.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.hitachi.com
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/HitachiGlobal
+              linkedin: https://www.linkedin.com/company/hitachi
+              acquisitions:
+                - date: '2007-02-05'
+                  acquiree: Archivas
+                  price: 120000000
+                - date: '2008-04-07'
+                  acquiree: Hitachi ID Systems
+                - date: '2010-08-20'
+                  acquiree: Parascale
+                - date: '2011-06-22'
+                  acquiree: Aloka
+                - date: '2011-09-07'
+                  acquiree: BlueArc
+                - date: '2011-10-07'
+                  acquiree: Hi-Rel Electronics
+                - date: '2012-09-24'
+                  acquiree: Cofio Software
+                - date: '2012-10-30'
+                  acquiree: Horizon Nuclear Power
+                - date: '2013-11-15'
+                  acquiree: Hitachi Payment Services
+                  price: 250000000
+                - date: '2013-12-02'
+                  acquiree: Ideaca
+                - date: '2015-12-14'
+                  acquiree: Ignify
+                - date: '2018-12-17'
+                  acquiree: ABB - Power Grids Business
+                  price: 7800000000
+                - date: '2019-04-24'
+                  acquiree: JR Automation Technologies
+                  price: 1425000000
+                - date: '2021-03-31'
+                  acquiree: GlobalLogic
+                  price: 9600000000
+                - date: '2022-08-31'
+                  acquiree: Flexware Innovation
+              parents: []
+              ticker: 6501.T
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Industrial Manufacturing
+                - Manufacturing
+                - Public Relations
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 60859812616
+              effective_ticker: 6501.T
+            image_data:
+              fileName: hitachi-blockchain-service-for-hyperledger-fabric.svg
+              hash: NEz58IDdZhUC2GpuYWggYMZf2is/b5HmIMxKmlQqCbY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-27T16:00:09.000Z
+          - item:
             name: IBM Blockchain Platform
             homepage_url: https://www.ibm.com/products/blockchain-platform-hyperledger-fabric
             project: hyperledger-member-products
@@ -9134,7 +9278,7 @@ landscape:
               description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.ibm.com/
+              homepage: http://www.ibm.com
               city: Armonk
               region: New York
               country: United States
@@ -9606,7 +9750,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115185508352
+              market_cap: 125110435840
               effective_ticker: IBM
             image_data:
               fileName: ibm-blockchain-platform.svg
@@ -9706,8 +9850,8 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.oracle.com
-              city: Redwood Shores
-              region: California
+              city: Austin
+              region: Texas
               country: United States
               twitter: https://twitter.com/Oracle
               linkedin: https://www.linkedin.com/company/oracle
@@ -10045,7 +10189,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 279969267712
+              market_cap: 337744986112
               effective_ticker: ORCL
             image_data:
               fileName: oracle-blockchain-platform.svg
@@ -10270,10 +10414,11 @@ landscape:
                 - Cloud Management
                 - Enterprise Software
                 - Information Technology
+                - Private Cloud
                 - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 54790123520
+              market_cap: 60697407488
               effective_ticker: VMW
             image_data:
               fileName: v-mware-blockchain.svg
@@ -10506,7 +10651,7 @@ landscape:
               description: Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.accenture.com/in-en
+              homepage: https://www.accenture.com
               city: Dublin
               region: Dublin
               country: Ireland
@@ -11066,6 +11211,14 @@ landscape:
                   acquiree: EINR
                 - date: '2023-05-09'
                   acquiree: Objectivity
+                - date: '2023-05-29'
+                  acquiree: Green Domus
+                - date: '2023-05-31'
+                  acquiree: Bourne Digital
+                - date: '2023-06-01'
+                  acquiree: Nextira
+                - date: '2023-06-01'
+                  acquiree: Six Nines
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -11078,7 +11231,7 @@ landscape:
                 - Outsourcing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 183292400931
+              market_cap: 204475539036
               effective_ticker: CSA.F
             image_data:
               fileName: accenture.svg
@@ -11088,6 +11241,79 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-08-23T18:52:16.000Z
+          - item:
+            name: Application Service for Blockchain (Consulting Service)
+            homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+            crunchbase_data:
+              name: Hitachi
+              description: Hitachi is engaged in the manufacture and sale of electronic and electrical products worldwide.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.hitachi.com
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/HitachiGlobal
+              linkedin: https://www.linkedin.com/company/hitachi
+              acquisitions:
+                - date: '2007-02-05'
+                  acquiree: Archivas
+                  price: 120000000
+                - date: '2008-04-07'
+                  acquiree: Hitachi ID Systems
+                - date: '2010-08-20'
+                  acquiree: Parascale
+                - date: '2011-06-22'
+                  acquiree: Aloka
+                - date: '2011-09-07'
+                  acquiree: BlueArc
+                - date: '2011-10-07'
+                  acquiree: Hi-Rel Electronics
+                - date: '2012-09-24'
+                  acquiree: Cofio Software
+                - date: '2012-10-30'
+                  acquiree: Horizon Nuclear Power
+                - date: '2013-11-15'
+                  acquiree: Hitachi Payment Services
+                  price: 250000000
+                - date: '2013-12-02'
+                  acquiree: Ideaca
+                - date: '2015-12-14'
+                  acquiree: Ignify
+                - date: '2018-12-17'
+                  acquiree: ABB - Power Grids Business
+                  price: 7800000000
+                - date: '2019-04-24'
+                  acquiree: JR Automation Technologies
+                  price: 1425000000
+                - date: '2021-03-31'
+                  acquiree: GlobalLogic
+                  price: 9600000000
+                - date: '2022-08-31'
+                  acquiree: Flexware Innovation
+              parents: []
+              ticker: 6501.T
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Industrial Manufacturing
+                - Manufacturing
+                - Public Relations
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 60859812616
+              effective_ticker: 6501.T
+            image_data:
+              fileName: application-service-for-blockchain-consulting-service.svg
+              hash: NEz58IDdZhUC2GpuYWggYMZf2is/b5HmIMxKmlQqCbY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-27T16:00:09.000Z
           - item:
             name: Atos
             homepage_url: https://atos.net/en
@@ -11201,7 +11427,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1571206272
+              market_cap: 1640015616
               effective_ticker: AEXAF
             image_data:
               fileName: atos.svg
@@ -11357,7 +11583,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29214921473
+              market_cap: 32933044903
               effective_ticker: CAP.PA
             image_data:
               fileName: capgemini.svg
@@ -11543,6 +11769,7 @@ landscape:
                 - Accounting
                 - Consulting
                 - Financial Services
+                - Legal
                 - Professional Services
                 - Risk Management
             image_data:
@@ -11769,7 +11996,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24356485214
+              market_cap: 25957798617
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu.svg
@@ -11912,7 +12139,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 64755003392
+              market_cap: 64196419584
               effective_ticker: INFY
             image_data:
               fileName: infosys.svg
@@ -12082,7 +12309,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19925587919
+              market_cap: 21746486418
               effective_ticker: 9613.T
             image_data:
               fileName: ntt-data.svg
@@ -12261,7 +12488,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 18397253
+                  value: 18595747
                   color: '#b07219'
                 - name: C
                   value: 69723
@@ -12300,24 +12527,24 @@ landscape:
                   value: 490
                   color: '#701516'
               contributions: >-
-                16;20;9;20;13;23;13;25;20;21;16;9;31;19;16;22;16;20;20;34;22;7;19;7;28;21;9;38;14;26;12;8;20;32;34;9;16;16;14;9;20;16;31;9;25;13;27;21;9;19;10;14
-              firstWeek: 2022-05-29Z
-              stars: 1227
+                20;13;23;13;25;20;21;16;9;31;19;16;22;16;20;20;34;22;7;19;7;28;21;9;38;14;26;12;8;20;32;34;9;16;16;14;9;20;16;31;9;25;13;27;21;9;19;10;14;22;12;22
+              firstWeek: 2022-06-19Z
+              stars: 1238
               license: Apache License 2.0
               description: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu
-              latest_commit_date: '2023-05-25T07:21:59Z'
-              latest_commit_link: /hyperledger/besu/commit/128f95e1a5bae08b5814da3cfd4d35bed4ec2be7
-              release_date: '2023-05-04T15:49:19Z'
+              latest_commit_date: '2023-06-14T23:43:12Z'
+              latest_commit_link: /hyperledger/besu/commit/857c9ac0b8d14c945ac24665d740c70174df1349
+              release_date: '2023-05-31T19:41:49Z'
               release_link: https://github.com/hyperledger/besu/releases
-              contributors_count: 162
+              contributors_count: 164
               contributors_link: https://github.com/hyperledger/besu/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/besu
-                stars: 1168
+                stars: 1178
               - url: https://github.com/hyperledger/besu-docs
                 stars: 46
               - url: https://github.com/hyperledger/besu-native
-                stars: 7
+                stars: 8
               - url: https://github.com/hyperledger/homebrew-besu
                 stars: 4
               - url: https://github.com/hyperledger/besu-errorprone-checks
@@ -12372,19 +12599,19 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 20698735
+                  value: 21003143
                   color: '#00ADD8'
                 - name: JavaScript
-                  value: 5588971
+                  value: 5589487
                   color: '#f1e05a'
                 - name: Java
-                  value: 3951425
+                  value: 3954455
                   color: '#b07219'
                 - name: TypeScript
-                  value: 1288426
+                  value: 1289045
                   color: '#2b7489'
                 - name: Shell
-                  value: 1199372
+                  value: 1204215
                   color: '#89e051'
                 - name: Python
                   value: 699293
@@ -12422,39 +12649,39 @@ landscape:
                   value: 103
                   color: '#c065db'
               contributions: >-
-                23;24;32;45;12;27;21;40;4;23;14;18;14;13;9;22;14;12;15;9;23;26;12;13;18;23;20;10;32;14;0;12;20;33;32;26;12;22;22;22;20;12;13;16;12;3;15;10;14;21;13;9
-              firstWeek: 2022-05-29Z
-              stars: 22277
+                45;12;27;21;40;4;23;14;18;14;13;9;22;14;12;15;9;23;26;12;13;18;23;20;10;32;14;0;12;20;33;32;26;12;22;22;22;20;12;13;16;12;3;16;10;14;22;13;9;6;27;13
+              firstWeek: 2022-06-19Z
+              stars: 22314
               license: Apache License 2.0
               description: >-
                 Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and
                 versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while
                 preserving privacy.
-              latest_commit_date: '2023-05-25T14:58:01Z'
-              latest_commit_link: /hyperledger/fabric/commit/98b63932b64f6c02d40585a34b7575a41d307286
-              release_date: '2023-05-01T10:59:20Z'
+              latest_commit_date: '2023-06-14T14:40:59Z'
+              latest_commit_link: /hyperledger/fabric/commit/677f65bcd386aa920e1be1d22d5b3aebbb241546
+              release_date: '2023-06-15T12:37:34Z'
               release_link: https://github.com/hyperledger/fabric/releases
-              contributors_count: 626
+              contributors_count: 628
               contributors_link: https://github.com/hyperledger/fabric/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/fabric
-                stars: 14618
+                stars: 14632
               - url: https://github.com/hyperledger/fabric-samples
-                stars: 2500
+                stars: 2512
               - url: https://github.com/hyperledger/fabric-sdk-java
-                stars: 1097
+                stars: 1098
               - url: https://github.com/hyperledger/fabric-sdk-go
-                stars: 873
+                stars: 876
               - url: https://github.com/hyperledger/fabric-sdk-node
                 stars: 774
               - url: https://github.com/hyperledger/fabric-ca
                 stars: 414
               - url: https://github.com/hyperledger/fabric-sdk-py
-                stars: 385
+                stars: 387
               - url: https://github.com/hyperledger/fabric-chaincode-java
-                stars: 282
+                stars: 283
               - url: https://github.com/hyperledger/fabric-chaincode-node
-                stars: 221
+                stars: 223
               - url: https://github.com/hyperledger/fabric-gateway-java
                 stars: 191
               - url: https://github.com/hyperledger/fabric-contract-api-go
@@ -12462,7 +12689,7 @@ landscape:
               - url: https://github.com/hyperledger/fabric-test
                 stars: 150
               - url: https://github.com/hyperledger/fabric-private-chaincode
-                stars: 137
+                stars: 138
               - url: https://github.com/hyperledger/fabric-chaincode-go
                 stars: 121
               - url: https://github.com/hyperledger/fabric-gateway
@@ -12470,7 +12697,7 @@ landscape:
               - url: https://github.com/hyperledger/fabric-docs-i18n
                 stars: 74
               - url: https://github.com/hyperledger/fabric-protos-go
-                stars: 41
+                stars: 42
               - url: https://github.com/hyperledger/fabric-protos
                 stars: 36
               - url: https://github.com/hyperledger/fabric-rfcs
@@ -12560,10 +12787,10 @@ landscape:
                   value: 476478
                   color: '#555555'
                 - name: TypeScript
-                  value: 448925
+                  value: 445542
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 271902
+                  value: 271919
                   color: '#f1e05a'
                 - name: C++
                   value: 240232
@@ -12595,18 +12822,18 @@ landscape:
                 - name: Makefile
                   value: 7315
                   color: '#427819'
-                - name: CMake
-                  value: 5411
                 - name: Smarty
                   value: 4134
+                - name: CMake
+                  value: 3645
                 - name: Batchfile
                   value: 3329
                   color: '#C1F12E'
                 - name: Jinja
                   value: 1587
-              contributions: 3;33;3;7;6;4;1;0;1;7;7;12;8;8;21;19;17;3;4;5;18;15;8;14;15;1;8;6;16;11;0;4;14;43;58;58;44;39;16;12;12;27;12;15;3;6;19;1;3;2;1;0
-              firstWeek: 2022-05-29Z
-              stars: 1727
+              contributions: 7;6;4;1;0;1;7;7;12;8;8;21;19;17;3;4;5;18;15;8;14;15;1;8;6;16;11;0;4;14;43;58;58;44;39;16;12;13;27;13;15;3;6;20;1;3;2;1;0;8;4;0
+              firstWeek: 2022-06-19Z
+              stars: 1731
               license: Apache License 2.0
               description: The server portion of a distributed ledger purpose-built for decentralized identity.
               latest_commit_date: '2023-05-08T22:48:21Z'
@@ -12617,15 +12844,15 @@ landscape:
               contributors_link: https://github.com/hyperledger/indy-node/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/indy-node
-                stars: 644
+                stars: 647
               - url: https://github.com/hyperledger/indy-sdk
                 stars: 663
               - url: https://github.com/hyperledger/indy-plenum
                 stars: 211
               - url: https://github.com/hyperledger/indy-hipe
-                stars: 70
+                stars: 69
               - url: https://github.com/hyperledger/indy-vdr
-                stars: 41
+                stars: 43
               - url: https://github.com/hyperledger/indy-sdk-react-native
                 stars: 22
               - url: https://github.com/hyperledger/indy-node-container
@@ -12759,20 +12986,20 @@ landscape:
                 - name: Rust
                   value: 88
                   color: '#dea584'
-              contributions: 23;26;0;9;6;1;11;5;4;12;4;4;7;20;7;13;19;1;4;4;19;11;5;3;4;4;1;2;0;2;4;1;5;0;6;1;0;1;1;7;2;8;16;7;3;0;5;4;5;2;3;7
-              firstWeek: 2022-05-29Z
-              stars: 720
+              contributions: 9;6;1;11;5;4;12;4;4;7;20;7;13;19;1;4;4;19;11;5;3;4;4;1;2;0;2;4;1;5;0;6;1;0;1;1;7;2;8;16;7;3;0;5;5;5;2;3;7;2;1;0
+              firstWeek: 2022-06-19Z
+              stars: 730
               license: Apache License 2.0
               description: Iroha - A simple, enterprise-grade decentralized ledger
-              latest_commit_date: '2023-05-12T09:00:55Z'
-              latest_commit_link: /hyperledger/iroha/commit/f3e422687bcf1ad192e89475e4bc56a8c38dd99d
+              latest_commit_date: '2023-05-26T15:40:10Z'
+              latest_commit_link: /hyperledger/iroha/commit/cf01a1cb6841b93184702b6673a52212a4cc9bee
               release_date: '2022-07-07T06:49:57Z'
               release_link: https://github.com/hyperledger/iroha/releases
-              contributors_count: 93
+              contributors_count: 94
               contributors_link: https://github.com/hyperledger/iroha/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/iroha
-                stars: 373
+                stars: 380
               - url: https://github.com/hyperledger/iroha-python
                 stars: 100
               - url: https://github.com/hyperledger/iroha-javascript
@@ -12782,9 +13009,9 @@ landscape:
               - url: https://github.com/hyperledger/iroha-ed25519
                 stars: 28
               - url: https://github.com/hyperledger/iroha-java
-                stars: 27
+                stars: 28
               - url: https://github.com/hyperledger/iroha-2-docs
-                stars: 4
+                stars: 6
               - url: https://github.com/hyperledger/iroha-deploy
                 stars: 3
               - url: https://github.com/hyperledger/iroha-state-migration-tool
@@ -12897,9 +13124,9 @@ landscape:
                   color: '#438eff'
                 - name: SCSS
                   value: 77
-              contributions: 2;11;5;0;4;30;20;16;27;9;3;6;5;2;19;12;1;11;1;0;0;9;0;0;0;0;2;0;1;0;0;0;0;0;18;7;0;0;1;0;0;0;1;0;0;0;0;0;0;1;8;1
-              firstWeek: 2022-05-29Z
-              stars: 1787
+              contributions: 0;4;30;20;16;27;9;3;6;5;2;19;12;1;11;1;0;0;9;0;0;0;0;2;0;1;0;0;0;0;0;18;7;0;0;1;0;0;0;1;0;0;0;0;0;0;1;8;1;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 1789
               license: Apache License 2.0
               description: Core repository for Sawtooth Distributed Ledger
               latest_commit_date: '2022-09-23T15:55:00Z'
@@ -12908,11 +13135,11 @@ landscape:
               contributors_link: https://github.com/hyperledger/sawtooth-core/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/sawtooth-core
-                stars: 1418
+                stars: 1417
               - url: https://github.com/hyperledger/sawtooth-seth
-                stars: 73
+                stars: 74
               - url: https://github.com/hyperledger/sawtooth-pbft
-                stars: 70
+                stars: 71
               - url: https://github.com/hyperledger/sawtooth-sabre
                 stars: 49
               - url: https://github.com/hyperledger/sawtooth-sdk-javascript
@@ -12930,7 +13157,7 @@ landscape:
               - url: https://github.com/hyperledger/sawtooth-poet
                 stars: 9
               - url: https://github.com/hyperledger/sawtooth-sdk-swift
-                stars: 7
+                stars: 8
               - url: https://github.com/hyperledger/sawtooth-lib
                 stars: 6
               - url: https://github.com/hyperledger/sawtooth-devmode
@@ -12999,7 +13226,7 @@ landscape:
                   value: 94408
                   color: '#f34b7d'
                 - name: Python
-                  value: 60618
+                  value: 60612
                   color: '#3572A5'
                 - name: CSS
                   value: 42591
@@ -13011,7 +13238,7 @@ landscape:
                   value: 7002
                   color: '#89e051'
                 - name: CMake
-                  value: 5476
+                  value: 3704
                 - name: Java
                   value: 2612
                   color: '#b07219'
@@ -13024,20 +13251,20 @@ landscape:
                 - name: Objective-C
                   value: 90
                   color: '#438eff'
-              contributions: 5;1;4;5;10;2;14;6;6;7;8;1;9;0;3;2;0;7;13;5;8;27;19;31;11;15;10;5;23;6;3;29;42;25;57;26;27;28;3;10;31;15;23;15;22;6;7;2;4;0;2;11
-              firstWeek: 2022-05-29Z
-              stars: 79
+              contributions: 5;10;2;14;6;6;7;8;1;9;0;3;2;0;7;13;5;8;27;19;31;11;15;10;5;23;6;3;29;42;25;57;26;27;28;3;10;31;15;23;15;22;6;7;2;4;0;2;11;10;1;0
+              firstWeek: 2022-06-19Z
+              stars: 84
               license: Apache License 2.0
               description: anoncreds-rs
-              latest_commit_date: '2023-05-25T08:28:58Z'
-              latest_commit_link: /hyperledger/anoncreds-rs/commit/3e98d1398435694c35d97446c148f6345df5a422
-              release_date: '2023-05-25T08:29:32Z'
+              latest_commit_date: '2023-06-02T16:24:49Z'
+              latest_commit_link: /hyperledger/anoncreds-rs/commit/9c915bb77bc4e033cc6d28d45e330ee5bda26211
+              release_date: '2023-06-02T16:26:49Z'
               release_link: https://github.com/hyperledger/anoncreds-rs/releases
               contributors_count: 28
               contributors_link: https://github.com/hyperledger/anoncreds-rs/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/anoncreds-rs
-                stars: 37
+                stars: 42
               - url: https://github.com/hyperledger/anoncreds-spec
                 stars: 37
               - url: https://github.com/hyperledger/anoncreds-methods-registry
@@ -13093,34 +13320,34 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 10051077
+                  value: 10069107
                   color: '#00ADD8'
                 - name: Python
-                  value: 9187526
+                  value: 9212960
                   color: '#3572A5'
                 - name: TypeScript
-                  value: 6118048
+                  value: 6326690
                   color: '#2b7489'
                 - name: Rust
-                  value: 5928873
+                  value: 5997521
                   color: '#dea584'
                 - name: HTML
-                  value: 1761980
+                  value: 1762980
                   color: '#e34c26'
                 - name: C#
-                  value: 1616289
+                  value: 1616435
                   color: '#178600'
                 - name: JavaScript
                   value: 555600
                   color: '#f1e05a'
                 - name: Gherkin
-                  value: 339713
+                  value: 341073
                   color: '#5B2063'
                 - name: Java
                   value: 337306
                   color: '#b07219'
                 - name: Shell
-                  value: 261463
+                  value: 262733
                   color: '#89e051'
                 - name: Objective-C
                   value: 245018
@@ -13135,21 +13362,21 @@ landscape:
                   value: 59790
                   color: '#DA5B0B'
                 - name: Dockerfile
-                  value: 30696
+                  value: 30723
                   color: '#384d54'
                 - name: Handlebars
-                  value: 20495
+                  value: 21269
                 - name: Makefile
                   value: 12905
                   color: '#427819'
                 - name: Objective-C++
                   value: 5454
                   color: '#6866fb'
-                - name: CMake
-                  value: 5403
                 - name: CSS
                   value: 3800
                   color: '#563d7c'
+                - name: CMake
+                  value: 3638
                 - name: Ruby
                   value: 3599
                   color: '#701516'
@@ -13169,28 +13396,28 @@ landscape:
                   value: 375
                   color: '#ffac45'
               contributions: >-
-                94;98;119;142;88;72;20;56;84;76;79;77;108;79;54;53;65;71;64;64;97;112;76;79;39;53;46;49;42;41;61;15;67;53;55;67;58;103;63;67;53;79;41;60;115;22;29;47;48;42;58;34
-              firstWeek: 2022-05-29Z
-              stars: 1877
+                142;88;72;20;56;84;76;79;77;108;79;54;53;65;71;64;64;97;112;76;79;39;53;46;49;42;41;61;15;68;53;56;67;58;103;63;67;53;79;42;60;115;22;29;47;48;44;72;39;80;40;56
+              firstWeek: 2022-06-19Z
+              stars: 1904
               license: Apache License 2.0
               description: Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer interactions
               latest_commit_date: '2022-07-06T02:54:16Z'
               latest_commit_link: /hyperledger/aries/commit/5020df5371b9e0e037b0ff77bfc673c3231c1b72
-              contributors_count: 352
+              contributors_count: 358
               contributors_link: https://github.com/hyperledger/aries/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/aries
-                stars: 246
+                stars: 248
               - url: https://github.com/hyperledger/aries-cloudagent-python
-                stars: 347
+                stars: 349
               - url: https://github.com/hyperledger/aries-rfcs
-                stars: 298
+                stars: 303
               - url: https://github.com/hyperledger/aries-framework-go
-                stars: 224
+                stars: 226
               - url: https://github.com/hyperledger/aries-framework-javascript
-                stars: 185
+                stars: 192
               - url: https://github.com/hyperledger/aries-mobile-agent-react-native
-                stars: 101
+                stars: 103
               - url: https://github.com/hyperledger/aries-framework-dotnet
                 stars: 79
               - url: https://github.com/hyperledger/aries-vcx
@@ -13198,19 +13425,19 @@ landscape:
               - url: https://github.com/hyperledger/aries-agent-test-harness
                 stars: 50
               - url: https://github.com/hyperledger/aries-askar
-                stars: 42
+                stars: 43
               - url: https://github.com/hyperledger/aries-acapy-controllers
+                stars: 40
+              - url: https://github.com/hyperledger/aries-toolbox
                 stars: 38
               - url: https://github.com/hyperledger/aries-mobile-agent-xamarin
                 stars: 37
-              - url: https://github.com/hyperledger/aries-toolbox
-                stars: 37
               - url: https://github.com/hyperledger/aries-protocol-test-suite
-                stars: 28
-              - url: https://github.com/hyperledger/aries-mediator-service
-                stars: 23
+                stars: 27
               - url: https://github.com/hyperledger/aries-framework-javascript-ext
-                stars: 22
+                stars: 24
+              - url: https://github.com/hyperledger/aries-mediator-service
+                stars: 24
               - url: https://github.com/hyperledger/aries-acapy-plugin-toolbox
                 stars: 21
               - url: https://github.com/hyperledger/aries-staticagent-python
@@ -13218,7 +13445,7 @@ landscape:
               - url: https://github.com/hyperledger/aries-framework-go-ext
                 stars: 14
               - url: https://github.com/hyperledger/aries-mobile-test-harness
-                stars: 8
+                stars: 9
               - url: https://github.com/hyperledger/aries-fabric-wrapper
                 stars: 6
             github_start_commit_data:
@@ -13273,9 +13500,9 @@ landscape:
             github_data:
               languages:
                 - name: Smarty
-                  value: 179660
+                  value: 235566
                 - name: Shell
-                  value: 120619
+                  value: 125552
                   color: '#89e051'
                 - name: Python
                   value: 24155
@@ -13284,24 +13511,24 @@ landscape:
                   value: 15042
                   color: '#C1F12E'
                 - name: Dockerfile
-                  value: 10770
+                  value: 10845
                   color: '#384d54'
                 - name: Mustache
                   value: 1992
-              contributions: 9;9;8;9;6;2;1;0;5;2;3;6;2;0;4;2;9;5;2;4;4;3;3;7;9;5;3;3;2;24;2;3;6;0;2;5;7;0;3;4;15;5;10;1;0;0;2;0;0;0;0;0
-              firstWeek: 2022-05-29Z
-              stars: 301
+              contributions: 9;6;2;1;0;5;2;3;6;2;0;4;2;9;5;2;4;4;3;3;7;9;5;3;3;2;24;2;3;6;0;2;5;7;0;3;4;15;6;10;2;7;6;5;5;5;2;18;6;26;5;5
+              firstWeek: 2022-06-19Z
+              stars: 300
               license: Apache License 2.0
               description: An automation framework for rapidly and consistently deploying production-ready DLT platforms
-              latest_commit_date: '2023-04-17T10:29:04Z'
-              latest_commit_link: /hyperledger/bevel/commit/dcc228a54fe6428381609d55996e18db126b4a0a
-              release_date: '2023-03-02T11:05:27Z'
+              latest_commit_date: '2023-06-14T10:57:39Z'
+              latest_commit_link: /hyperledger/bevel/commit/121e40d329b06d81d75ae0dcf1f6f8bdcbf80090
+              release_date: '2023-06-14T10:58:06Z'
               release_link: https://github.com/hyperledger/bevel/releases
-              contributors_count: 73
+              contributors_count: 77
               contributors_link: https://github.com/hyperledger/bevel/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/bevel
-                stars: 301
+                stars: 300
             github_start_commit_data:
               start_commit_link: /hyperledger/bevel/commit/4a5b11f27ce32b9e5ec434ce2889426cacdcaa4c
               start_date: '2019-10-16T19:09:27Z'
@@ -13348,10 +13575,10 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 5550534
+                  value: 5682978
                   color: '#2b7489'
                 - name: Kotlin
-                  value: 1710697
+                  value: 1768359
                   color: '#F18E33'
                 - name: Go
                   value: 1012797
@@ -13360,19 +13587,19 @@ landscape:
                   value: 536971
                   color: '#dea584'
                 - name: JavaScript
-                  value: 271409
+                  value: 275341
                   color: '#f1e05a'
                 - name: Shell
-                  value: 267670
+                  value: 268680
                   color: '#89e051'
                 - name: Solidity
                   value: 80641
                   color: '#AA6746'
                 - name: Dockerfile
-                  value: 59734
+                  value: 59726
                   color: '#384d54'
                 - name: Makefile
-                  value: 58302
+                  value: 57788
                   color: '#427819'
                 - name: Python
                   value: 41787
@@ -13402,20 +13629,20 @@ landscape:
                   color: '#ecdebe'
                 - name: EJS
                   value: 98
-              contributions: 36;22;13;12;10;40;40;23;20;8;15;9;12;10;13;12;7;19;16;60;45;9;7;6;11;16;28;19;15;23;36;18;30;27;25;8;14;8;1;3;1;2;10;21;6;8;4;5;0;4;1;0
-              firstWeek: 2022-05-29Z
-              stars: 262
+              contributions: 12;10;40;40;23;20;8;15;9;12;10;13;12;7;19;16;60;45;9;7;6;11;16;28;19;15;23;36;18;30;27;25;8;14;9;1;3;2;2;10;21;6;10;5;5;1;4;2;2;1;2;1
+              firstWeek: 2022-06-19Z
+              stars: 263
               license: Apache License 2.0
               description: Hyperledger Cacti is a new approach to the blockchain interoperability problem
-              latest_commit_date: '2023-05-25T06:30:43Z'
-              latest_commit_link: /hyperledger/cacti/commit/e54842d168be78a3cd327ca07c24b75ea43043f8
+              latest_commit_date: '2023-06-15T04:28:47Z'
+              latest_commit_link: /hyperledger/cacti/commit/1e5c34971773d3a3f5a8a335e62afdcf7ec534b3
               release_date: '2023-05-25T09:21:59Z'
               release_link: https://github.com/hyperledger/cacti/releases
-              contributors_count: 89
+              contributors_count: 91
               contributors_link: https://github.com/hyperledger/cacti/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/cacti
-                stars: 262
+                stars: 263
             github_start_commit_data:
               start_commit_link: /hyperledger/cacti/commit/e066337ba1ca43902479a1a2163b74eeabffe4b7
               start_date: '2019-10-21T16:06:39Z'
@@ -13493,9 +13720,9 @@ landscape:
                 - name: TypeScript
                   value: 1988
                   color: '#2b7489'
-              contributions: 3;0;1;4;5;10;8;3;5;15;6;0;0;0;0;0;0;2;1;2;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1
-              firstWeek: 2022-05-29Z
-              stars: 671
+              contributions: 4;5;10;8;3;5;15;6;0;0;0;0;0;0;2;1;2;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+              firstWeek: 2022-06-19Z
+              stars: 678
               license: Apache License 2.0
               description: ' A blockchain benchmark framework to measure performance of multiple blockchain solutions https://wiki.hyperledger.org/display/caliper'
               latest_commit_date: '2023-05-21T22:18:06Z'
@@ -13506,9 +13733,9 @@ landscape:
               contributors_link: https://github.com/hyperledger/caliper/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/caliper
-                stars: 586
+                stars: 590
               - url: https://github.com/hyperledger/caliper-benchmarks
-                stars: 85
+                stars: 88
             github_start_commit_data:
               start_commit_link: /hyperledger/caliper/commit/9036266b7afa41b3c30dc4635d636e2ab5023e7c
               start_date: '2018-03-20T02:29:50Z'
@@ -13576,20 +13803,20 @@ landscape:
                   color: '#427819'
                 - name: EJS
                   value: 4678
-              contributions: 9;2;2;3;5;5;6;1;6;0;4;2;3;3;2;2;5;5;0;4;3;0;6;8;4;3;0;2;5;0;4;0;9;4;0;2;5;0;12;0;9;7;3;2;2;0;0;2;0;1;1;0
-              firstWeek: 2022-05-29Z
-              stars: 856
+              contributions: 3;5;5;6;1;6;0;4;2;3;3;2;2;5;5;0;4;3;0;6;8;4;3;0;2;5;0;4;0;9;4;0;2;5;0;12;0;9;7;3;2;2;0;0;2;0;1;1;1;1;0;0
+              firstWeek: 2022-06-19Z
+              stars: 858
               license: Apache License 2.0
               description: Operating System for Enterprise Blockchain
               latest_commit_date: '2023-05-25T18:56:56Z'
               latest_commit_link: /hyperledger/cello/commit/efc6e3bf1a1797be59ab94a88f2a2c171cd0ef34
-              release_date: '2022-11-30T00:27:34Z'
+              release_date: '2023-06-03T07:14:11Z'
               release_link: https://github.com/hyperledger/cello/releases
               contributors_count: 49
               contributors_link: https://github.com/hyperledger/cello/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/cello
-                stars: 848
+                stars: 850
               - url: https://github.com/hyperledger/cello-analytics
                 stars: 8
             github_start_commit_data:
@@ -13641,23 +13868,23 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 7431369
+                  value: 7538994
                   color: '#00ADD8'
                 - name: TypeScript
-                  value: 2666494
+                  value: 2672782
                   color: '#2b7489'
                 - name: Java
                   value: 180962
                   color: '#b07219'
                 - name: PLpgSQL
-                  value: 57310
+                  value: 58434
                 - name: Shell
                   value: 29661
                   color: '#89e051'
                 - name: Smarty
                   value: 24874
                 - name: JavaScript
-                  value: 21453
+                  value: 21376
                   color: '#f1e05a'
                 - name: Makefile
                   value: 20470
@@ -13666,7 +13893,7 @@ landscape:
                   value: 7238
                   color: '#AA6746'
                 - name: Dockerfile
-                  value: 6986
+                  value: 7013
                   color: '#384d54'
                 - name: HTML
                   value: 3993
@@ -13675,33 +13902,33 @@ landscape:
                   value: 2110
                   color: '#563d7c'
               contributions: >-
-                55;61;67;79;66;40;82;39;53;91;120;105;93;98;90;27;42;41;20;24;17;15;7;42;18;11;7;15;20;25;24;43;90;63;37;36;22;10;56;15;40;28;44;43;46;22;36;13;36;13;9;40
-              firstWeek: 2022-05-29Z
-              stars: 633
+                79;66;40;82;39;53;91;120;105;93;98;90;27;42;41;20;24;17;15;7;42;18;11;7;15;20;25;24;43;90;63;37;36;22;10;56;15;40;28;44;43;46;22;36;14;38;14;17;48;37;35;20
+              firstWeek: 2022-06-19Z
+              stars: 639
               license: Apache License 2.0
               description: >-
                 Hyperledger FireFly is the first open source Supernode: a complete stack for enterprises to build and scale secure Web3 applications. The
                 FireFly API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular
                 chains and protocols.
-              latest_commit_date: '2023-05-25T17:24:54Z'
-              latest_commit_link: /hyperledger/firefly/commit/cc4de697be79235e512695a68eabefd822f868ef
+              latest_commit_date: '2023-06-09T15:14:35Z'
+              latest_commit_link: /hyperledger/firefly/commit/2fbd5b68c09dc4fb00746c93b1c3a5cd9e8b18f3
               release_date: '2023-04-17T14:43:41Z'
               release_link: https://github.com/hyperledger/firefly/releases
-              contributors_count: 58
+              contributors_count: 59
               contributors_link: https://github.com/hyperledger/firefly/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/firefly
-                stars: 368
+                stars: 373
               - url: https://github.com/hyperledger/firefly-ethconnect
                 stars: 71
               - url: https://github.com/hyperledger/firefly-cli
                 stars: 42
               - url: https://github.com/hyperledger/firefly-ui
                 stars: 27
+              - url: https://github.com/hyperledger/firefly-fabconnect
+                stars: 20
               - url: https://github.com/hyperledger/firefly-tokens-erc1155
                 stars: 20
-              - url: https://github.com/hyperledger/firefly-fabconnect
-                stars: 19
               - url: https://github.com/hyperledger/firefly-tokens-erc20-erc721
                 stars: 14
               - url: https://github.com/hyperledger/firefly-transaction-manager
@@ -13769,43 +13996,46 @@ landscape:
             github_data:
               languages:
                 - name: Rust
-                  value: 3963383
+                  value: 3995177
                   color: '#dea584'
                 - name: Solidity
-                  value: 519881
+                  value: 556186
                   color: '#AA6746'
                 - name: TypeScript
-                  value: 180504
+                  value: 188778
                   color: '#2b7489'
                 - name: C
                   value: 78407
                   color: '#555555'
+                - name: JavaScript
+                  value: 5922
+                  color: '#f1e05a'
                 - name: Makefile
                   value: 804
                   color: '#427819'
                 - name: C++
                   value: 476
                   color: '#f34b7d'
+                - name: Shell
+                  value: 399
+                  color: '#89e051'
                 - name: Dockerfile
                   value: 391
                   color: '#384d54'
-                - name: Shell
-                  value: 355
-                  color: '#89e051'
-              contributions: 9;9;6;8;8;10;15;10;8;8;12;9;8;9;7;5;11;4;4;12;6;6;5;0;9;7;4;6;7;7;6;2;7;3;8;13;10;15;13;6;6;6;5;13;15;9;10;4;8;8;7;7
-              firstWeek: 2022-05-29Z
-              stars: 1009
+              contributions: 8;8;10;15;10;8;8;12;9;8;9;7;5;11;4;4;12;6;6;5;0;9;7;4;6;7;7;6;2;7;3;8;13;10;15;13;6;6;6;5;13;15;9;10;4;8;8;7;7;15;7;5
+              firstWeek: 2022-06-19Z
+              stars: 1018
               license: Apache License 2.0
               description: Solidity Compiler for Solana and Substrate
-              latest_commit_date: '2023-05-25T16:21:03Z'
-              latest_commit_link: /hyperledger/solang/commit/d8220388eeec0762000814ad311919a5f5062fb9
+              latest_commit_date: '2023-06-13T16:33:47Z'
+              latest_commit_link: /hyperledger/solang/commit/610690c97662b5696b69f97a8cb4a26d1434c52d
               release_date: '2023-05-22T20:35:31Z'
               release_link: https://github.com/hyperledger/solang/releases
-              contributors_count: 33
+              contributors_count: 34
               contributors_link: https://github.com/hyperledger/solang/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/solang
-                stars: 1009
+                stars: 1018
             github_start_commit_data:
               start_commit_link: /hyperledger/solang/commit/ea60c0116d04375b192da93ecfb41ef1043460c5
               start_date: '2018-12-29T14:40:52Z'
@@ -13834,7 +14064,7 @@ landscape:
               description: Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.accenture.com/in-en
+              homepage: https://www.accenture.com
               city: Dublin
               region: Dublin
               country: Ireland
@@ -14394,6 +14624,14 @@ landscape:
                   acquiree: EINR
                 - date: '2023-05-09'
                   acquiree: Objectivity
+                - date: '2023-05-29'
+                  acquiree: Green Domus
+                - date: '2023-05-31'
+                  acquiree: Bourne Digital
+                - date: '2023-06-01'
+                  acquiree: Nextira
+                - date: '2023-06-01'
+                  acquiree: Six Nines
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -14406,7 +14644,7 @@ landscape:
                 - Outsourcing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 183292400931
+              market_cap: 204475539036
               effective_ticker: CSA.F
             image_data:
               fileName: accenture-global-solutions-limited-member.svg
@@ -14531,7 +14769,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24356485214
+              market_cap: 25957798617
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu-limited-member.svg
@@ -14543,8 +14781,8 @@ landscape:
               latest_tweet_date: 2022-08-23T11:00:13.000Z
           - item:
             name: Hitachi, Ltd. (member)
-            homepage_url: https://hitachi.com/
-            logo: hitachi_ltd.svg
+            homepage_url: https://www.hitachi.co.jp/blockchain
+            logo: hitachi-stacked-color.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
             crunchbase_data:
               name: Hitachi
@@ -14603,11 +14841,11 @@ landscape:
                 - Public Relations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 53957925117
+              market_cap: 60859812616
               effective_ticker: 6501.T
             image_data:
               fileName: hitachi-ltd-member.svg
-              hash: yD4fP+4Fzfcouy23i6t7l0+aFhZPi7iJLGXQ6VXtggs=
+              hash: NEz58IDdZhUC2GpuYWggYMZf2is/b5HmIMxKmlQqCbY=
             best_practice_data:
               badge: false
               percentage: null
@@ -14623,7 +14861,7 @@ landscape:
               description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.ibm.com/
+              homepage: http://www.ibm.com
               city: Armonk
               region: New York
               country: United States
@@ -15095,7 +15333,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115185508352
+              market_cap: 125110435840
               effective_ticker: IBM
             image_data:
               fileName: international-business-machines-corporation-member.svg
@@ -15200,7 +15438,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112021291008
+              market_cap: 128134750208
               effective_ticker: AXP
             image_data:
               fileName: american-express-banking-corp-member.svg
@@ -15662,12 +15900,10 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Blockchain
-                - Cryptocurrency
-                - Ethereum
-                - FinTech
-                - Mobile
-                - Software
+                - Consulting
+                - Financial Exchanges
+                - Health Care
+                - Industrial Design
               kind: funding
             image_data:
               fileName: consen-sys-ag-member.svg
@@ -15829,7 +16065,7 @@ landscape:
                 - Sales
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 86530613248
+              market_cap: 87812644864
               effective_ticker: CVS
             image_data:
               fileName: cvs-health-member.svg
@@ -16046,6 +16282,7 @@ landscape:
                 - Accounting
                 - Consulting
                 - Financial Services
+                - Legal
                 - Professional Services
                 - Risk Management
             image_data:
@@ -16103,7 +16340,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112714181672
+              market_cap: 105158651417
               effective_ticker: DTE.DE
             image_data:
               fileName: deutsche-telekom-ag-member.svg
@@ -16161,7 +16398,7 @@ landscape:
               percentage: null
           - item:
             name: DLT Global Inc. (member)
-            homepage_url: https://www.dltlabs.com/
+            homepage_url: https://dltlabs.io/
             logo: dlt_global_inc.svg
             crunchbase: https://www.crunchbase.com/organization/dlt-labs
             crunchbase_data:
@@ -16579,7 +16816,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 64755003392
+              market_cap: 64196419584
               effective_ticker: INFY
             image_data:
               fileName: infosys-limited-member.svg
@@ -16775,7 +17012,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ipwe
             crunchbase_data:
               name: IPwe
-              description: IPwe is a global financial technology company revolutionizing the IP space. Our mission is to become the go-to IP business analytics company
+              description: IPwe is a global platform leveraging the power of AI, predictive analytics & blockchain technology around smart intangible asset management.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://ipwe.com
@@ -16903,7 +17140,7 @@ landscape:
                 - Financial Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 396788531200
+              market_cap: 413416357888
               effective_ticker: JPM
             image_data:
               fileName: jp-morgan-chase-member.svg
@@ -16984,7 +17221,7 @@ landscape:
               latest_tweet_date: 2023-01-26T05:43:52.000Z
           - item:
             name: LTIMindtree Limited (member)
-            homepage_url: https://www.ltimindtree.com/
+            homepage_url: https://ltimindtree.com/
             logo: ltimindtree_limited.svg
             twitter: https://twitter.com/LTIMindtreeOFCL
             crunchbase: https://www.crunchbase.com/organization/mindtree
@@ -17146,7 +17383,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12189346317
+              market_cap: 13362799582
               effective_ticker: 6701.T
             image_data:
               fileName: nec-corporation-member.svg
@@ -17271,7 +17508,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19925587919
+              market_cap: 21746486418
               effective_ticker: 9613.T
             image_data:
               fileName: ntt-data-member.svg
@@ -17292,8 +17529,8 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.oracle.com
-              city: Redwood Shores
-              region: California
+              city: Austin
+              region: Texas
               country: United States
               twitter: https://twitter.com/Oracle
               linkedin: https://www.linkedin.com/company/oracle
@@ -17631,7 +17868,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 279969267712
+              market_cap: 337744986112
               effective_ticker: ORCL
             image_data:
               fileName: oracle-america-inc-member.svg
@@ -17711,7 +17948,7 @@ landscape:
                 - Packaging Services
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13463280588
+              market_cap: 14203563486
               effective_ticker: PST.MI
             image_data:
               fileName: poste-italiane-spa-member.svg
@@ -17934,7 +18171,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 854573592
+              market_cap: 880383946
               effective_ticker: 300468.SZ
             image_data:
               fileName: shenzhen-forms-syntron-information-co-ltd-member.svg
@@ -18138,7 +18375,7 @@ landscape:
                 - Real Estate
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 130559979139
+              market_cap: 142998260809
               effective_ticker: SIE.DE
             image_data:
               fileName: siemens-ag-member.svg
@@ -18300,42 +18537,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T15:01:59.000Z
           - item:
-            name: Tangem AG (member)
-            homepage_url: https://tangem.com/
-            logo: tangem_ag.svg
-            crunchbase: https://www.crunchbase.com/organization/tangem
-            crunchbase_data:
-              name: Tangem
-              description: Tangem is a manufacturer of smartcard wallets that focus on cryptocurrency security and accessibility.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://tangem.com
-              city: Zug
-              region: Zug
-              country: Switzerland
-              twitter: https://twitter.com/Tangem
-              linkedin: https://linkedin.com/company/tangem
-              acquisitions: []
-              parents: []
-              funding: 23000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Cryptocurrency
-                - Electronics
-                - FinTech
-                - Security
-              kind: funding
-            image_data:
-              fileName: tangem-ag-member.svg
-              hash: ukgtA/d8dRaVE6JgNBCEr74MNTM6OOLBa4KKy8fLXyY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-27T16:59:40.000Z
-          - item:
             name: Tech Mahindra Limited (member)
             homepage_url: https://techmahindra.com/
             logo: tech_mahindra_limited.svg
@@ -18442,21 +18643,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T14:47:52.000Z
           - item:
-            name: The Medium (member)
-            homepage_url: https://themedium.io/
-            logo: the_medium.svg
-            organization:
-              name: The Medium
-            crunchbase_data:
-              name: The Medium
-              parents: []
-            image_data:
-              fileName: the-medium-member.svg
-              hash: FTkjlEDr4QxplyM6LfK1ebQZzxniJCMaU0F+ymI70sM=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Tokentrust AG (member)
             homepage_url: https://atomyze.com/
             logo: tokentrust_ag.svg
@@ -18486,80 +18672,38 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Visa Inc. (member)
-            homepage_url: https://visa.com/
-            logo: visa_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/visa
+            name: ToposWare Inc. (member)
+            homepage_url: https://toposware.com/
+            logo: toposware_inc.svg
+            twitter: https://twitter.com/toposware
+            crunchbase: https://www.crunchbase.com/organization/toposware
             crunchbase_data:
-              name: Visa
-              description: Visa is a multinational financial services company that facilitates electronic payment systems throughout the world.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.visa.com
-              city: San Francisco
-              region: California
+              name: Toposware
+              description: Toposware develops a fully interoperable blockchain ecosystem powered by zero-knowledge proofs.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://toposware.com/
+              city: Boston
+              region: Massachusetts
               country: United States
-              twitter: https://twitter.com/Visa
-              linkedin: https://www.linkedin.com/company/visa
-              acquisitions:
-                - date: '2010-04-21'
-                  acquiree: Cybersource
-                - date: '2011-02-09'
-                  acquiree: PlaySpan
-                  price: 190000000
-                - date: '2011-06-09'
-                  acquiree: Fundamo (Proprietary)
-                  price: 110000000
-                - date: '2015-02-27'
-                  acquiree: TrialPay
-                - date: '2015-10-30'
-                  acquiree: Visa Europe
-                  price: 23300000000
-                - date: '2016-12-01'
-                  acquiree: CardinalCommerce
-                - date: '2018-02-09'
-                  acquiree: Fraedom
-                - date: '2018-12-27'
-                  acquiree: Earthport Plc
-                  price: 250367332
-                - date: '2019-06-25'
-                  acquiree: Bell ID
-                - date: '2019-06-25'
-                  acquiree: Rambus - Payments and Ticketing
-                - date: '2019-06-28'
-                  acquiree: Verifi, Inc.
-                - date: '2019-07-07'
-                  acquiree: Payworks
-                - date: '2020-10-27'
-                  acquiree: YellowPepper
-                - date: '2021-06-24'
-                  acquiree: Tink
-                  price: 2147079733
-                - date: '2021-07-22'
-                  acquiree: Currencycloud
-                  price: 964095699
+              twitter: https://twitter.com/toposware
+              linkedin: https://www.linkedin.com/company/toposware/
+              acquisitions: []
               parents: []
-              ticker: V
-              funding: 0
-              stockExchange: nyse
+              funding: 9075489
+              stockExchange: null
               company_type: For Profit
               industries:
-                - Finance
-                - Financial Services
-                - Mobile Payments
-                - Payments
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 468663894016
-              effective_ticker: V
+                - Blockchain
+                - Information Technology
+                - Software
+              kind: funding
             image_data:
-              fileName: visa-inc-member.svg
-              hash: XGbphrnBVWTKIAFZPdekkLtwRDN08dIGsUTUwplxhUA=
+              fileName: topos-ware-inc-member.svg
+              hash: 6tUt64Uw1/gAtQt2Y4bxmV3G2YkuS9FHqyGKQ8ZzA1U=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-07T16:56:36.000Z
           - item:
             name: Walmart Inc. (member)
             homepage_url: https://walmart.com/
@@ -18628,7 +18772,7 @@ landscape:
                 - Retail Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 394919018496
+              market_cap: 425159032832
               effective_ticker: WMT
             image_data:
               fileName: walmart-inc-member.svg
@@ -18760,7 +18904,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26093347947
+              market_cap: 26008548503
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro-limited-member.svg
@@ -18918,7 +19062,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/arizona-state-university/
               acquisitions: []
               parents: []
-              funding: 21298570
+              funding: 23298570
               stockExchange: null
               company_type: ''
               industries:
@@ -19068,15 +19212,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
             crunchbase_data:
               name: University of California Berkeley
-              description: University of California, Berkeley is a public institution for higher education.
+              description: University of California Berkeley is a public institution for higher education.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.berkeley.edu/
+              homepage: http://www.berkeley.edu
               city: Berkeley
               region: California
               country: United States
-              twitter: https://twitter.com/UCBerkeley
-              linkedin: https://www.linkedin.com/edu/university-of-california-berkeley-17939
+              twitter: https://www.twitter.com/UCBerkeley
+              linkedin: https://www.linkedin.com/school/uc-berkeley
               acquisitions: []
               parents: []
               funding: 1042321
@@ -19205,7 +19349,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-cambridge
               acquisitions: []
               parents: []
-              funding: 143177866
+              funding: 144149130
               stockExchange: null
               company_type: ''
               industries:
@@ -19416,8 +19560,8 @@ landscape:
             crunchbase_data:
               name: Decentralized Identity Foundation
               description: DIF is building an open source decentralized identity ecosystem for people.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 1
+              num_employees_max: 10
               homepage: http://identity.foundation/
               city: Los Gatos
               region: California
@@ -19592,7 +19736,7 @@ landscape:
               region: Bern
               country: Switzerland
               twitter: https://twitter.com/ethereum
-              linkedin: https://www.linkedin.com/company/5091692
+              linkedin: https://www.linkedin.com/company/ethereum/
               acquisitions: []
               parents: []
               funding: 18400000
@@ -20510,7 +20654,7 @@ landscape:
               latest_tweet_date: 2023-01-26T10:40:30.000Z
           - item:
             name: TNO, the Netherlands Organisation for Applied Scientific Research (member)
-            homepage_url: https://www.tno.nl/nl/
+            homepage_url: https://tno.nl/
             logo: tno_the_netherlands_organisation_for_applied_scientific_research.svg
             twitter: https://twitter.com/TNO_nieuws
             crunchbase: https://www.crunchbase.com/organization/tno
@@ -20948,7 +21092,7 @@ landscape:
               description: Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.accenture.com/in-en
+              homepage: https://www.accenture.com
               city: Dublin
               region: Dublin
               country: Ireland
@@ -21508,6 +21652,14 @@ landscape:
                   acquiree: EINR
                 - date: '2023-05-09'
                   acquiree: Objectivity
+                - date: '2023-05-29'
+                  acquiree: Green Domus
+                - date: '2023-05-31'
+                  acquiree: Bourne Digital
+                - date: '2023-06-01'
+                  acquiree: Nextira
+                - date: '2023-06-01'
+                  acquiree: Six Nines
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -21520,7 +21672,7 @@ landscape:
                 - Outsourcing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 183292400931
+              market_cap: 204475539036
               effective_ticker: CSA.F
             image_data:
               fileName: accenture-hcsp.svg
@@ -21720,13 +21872,11 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-12-19T09:56:22.000Z
           - item:
-            name: Hitachi (HCSP)
+            name: Hitachi, Ltd. (HCSP)
             description: >-
-              Utilizing the blockchain technology provided by Hitachi, the speed of transactions between companies can be dramatically increased, and it becomes
-              possible to create business that overcome the barriers between different industries. Hitachi has a wealth of understanding and know-how covering a
-              wide variety of different industries. By using blockchains and other technologies and know-how that we have developed up till now, Hitachi will
-              contribute to the building of new customer businesses.
-            homepage_url: https://www.hitachi.co.jp/products/it/blockchain/service/hyperledger/index.html
+              Hitachi has a wealth of understanding and know-how covering a wide variety of different industries. By using blockchains and other technologies
+              and know-how that we have developed up till now, Hitachi will contribute to the building of new customer businesses.
+            homepage_url: https://www.hitachi.co.jp/blockchain
             logo: hitachi-stacked-color.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
             crunchbase_data:
@@ -21786,10 +21936,10 @@ landscape:
                 - Public Relations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 53957925117
+              market_cap: 60859812616
               effective_ticker: 6501.T
             image_data:
-              fileName: hitachi-hcsp.svg
+              fileName: hitachi-ltd-hcsp.svg
               hash: NEz58IDdZhUC2GpuYWggYMZf2is/b5HmIMxKmlQqCbY=
             best_practice_data:
               badge: false
@@ -21812,7 +21962,7 @@ landscape:
               description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.ibm.com/
+              homepage: http://www.ibm.com
               city: Armonk
               region: New York
               country: United States
@@ -22284,7 +22434,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115185508352
+              market_cap: 125110435840
               effective_ticker: IBM
             image_data:
               fileName: ibm-hcsp.svg
@@ -22564,7 +22714,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 12189346317
+              market_cap: 13362799582
               effective_ticker: 6701.T
             image_data:
               fileName: nec-corporation-hcsp.svg
@@ -22849,7 +22999,7 @@ landscape:
                 - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26093347947
+              market_cap: 26008548503
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro-limited-hcsp.svg
@@ -22862,4 +23012,4 @@ landscape:
 twitter_options:
   count: 11
   since_id: '1362823920131465217'
-updated_at: 2023-05-25T19:28:29.379Z
+updated_at: 2023-06-15T15:03:12.680Z
