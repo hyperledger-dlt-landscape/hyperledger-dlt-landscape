@@ -1276,8 +1276,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
             name: Hitachi, Ltd. (member)
-            homepage_url: https://www.hitachi.co.jp/blockchain
-            logo: hitachi-stacked-color.svg
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: International Business Machines Corporation (member)
@@ -1421,9 +1421,9 @@ landscape:
             logo: dlt_global_inc.svg
             crunchbase: https://www.crunchbase.com/organization/dlt-labs
           - item:
-            name: Energy Web Foundation (member)
+            name: Energy Web (member)
             homepage_url: https://energyweb.org/
-            logo: energy_web_foundation.svg
+            logo: energy_web.svg
             crunchbase: https://www.crunchbase.com/organization/energy-web-foundation
           - item:
             name: Espeo Software (member)
@@ -1484,9 +1484,9 @@ landscape:
             logo: instnt_inc.svg
             crunchbase: https://www.crunchbase.com/organization/instnt
           - item:
-            name: Integra Ledger (member)
+            name: integraledger (member)
             homepage_url: https://integraledger.com/
-            logo: integra_ledger.svg
+            logo: integraledger.svg
             crunchbase: https://www.crunchbase.com/organization/integra-ledger
           - item:
             name: IntellectEU (member)
@@ -1597,9 +1597,9 @@ landscape:
             organization:
               name: REALTO GROUP INC
           - item:
-            name: Red Date (Hong Kong) Technology Limited (member)
+            name: Reddatetech (member)
             homepage_url: https://bsnbase.io/
-            logo: red_date_hong_kong_technology_limited.svg
+            logo: reddatetech.svg
             crunchbase: https://www.crunchbase.com/organization/red-date-technology
           - item:
             name: Ripple Labs Inc. (member)
@@ -1912,6 +1912,11 @@ landscape:
             logo: monetary_authority_of_singapore.svg
             crunchbase: https://www.crunchbase.com/organization/monetary-authority-of-singapore
           - item:
+            name: Morgan State University (member)
+            homepage_url: https://fintech.morgan.edu/
+            logo: morgan_state_university.svg
+            crunchbase: https://www.crunchbase.com/organization/morgan-state-university
+          - item:
             name: Open Earth Foundation (member)
             homepage_url: https://openearth.org/
             logo: open_earth_foundation.svg
@@ -1964,9 +1969,9 @@ landscape:
             twitter: https://twitter.com/SunYatsen_Uni
             crunchbase: https://www.crunchbase.com/organization/sun-yat-sen-university
           - item:
-            name: Tecnalia Corporation (member)
+            name: TECNALIA Research & Innovation (member)
             homepage_url: https://tecnalia.com/
-            logo: tecnalia_corporation.svg
+            logo: tecnalia_research__innovation.svg
             crunchbase: https://www.crunchbase.com/organization/tecnalia
           - item:
             name: The Digital Dollar Project (member)
@@ -1975,11 +1980,6 @@ landscape:
             twitter: https://twitter.com/Digital_Dollar_
             organization:
               name: The Digital Dollar Project
-          - item:
-            name: The National FinTech Center at Morgan State University (member)
-            homepage_url: https://fintech.morgan.edu/
-            logo: the_national_fintech_center_at_morgan_state_university.svg
-            crunchbase: https://www.crunchbase.com/organization/morgan-state-university
           - item:
             name: The University of Hong Kong (member)
             homepage_url: https://hku.hk/
