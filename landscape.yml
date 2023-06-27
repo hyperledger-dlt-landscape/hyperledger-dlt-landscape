@@ -1405,6 +1405,12 @@ landscape:
             twitter: https://twitter.com/DeloitteUS
             crunchbase: https://www.crunchbase.com/organization/deloitte
           - item:
+            name: Deutsche Telekom AG (member)
+            homepage_url: https://telekom.com/
+            logo: deutsche_telekom_ag.svg
+            twitter: https://twitter.com/deutschetelekom
+            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+          - item:
             name: Digital Asset Holdings, LLC (member)
             homepage_url: https://digitalasset.com/
             logo: digital_asset_holdings_llc.svg
@@ -1567,11 +1573,6 @@ landscape:
             homepage_url: https://oracle.com/
             logo: oracle_america_inc.svg
             crunchbase: https://www.crunchbase.com/organization/oracle
-          - item:
-            name: Pan-Net (member)
-            homepage_url: https://telekom.com/
-            logo: pan-net.svg
-            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
           - item:
             name: Paramount Software Solutions Inc. (member)
             homepage_url: https://paramountsoft.net/
