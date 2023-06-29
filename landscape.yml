@@ -1276,8 +1276,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
             name: Hitachi, Ltd. (member)
-            homepage_url: https://www.hitachi.co.jp/blockchain
-            logo: hitachi-stacked-color.svg
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: International Business Machines Corporation (member)
