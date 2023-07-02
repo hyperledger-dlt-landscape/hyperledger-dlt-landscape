@@ -1669,6 +1669,12 @@ landscape:
             logo: toposware_inc.svg
             crunchbase: https://www.crunchbase.com/organization/toposware
           - item:
+            name: Validation Cloud (member)
+            homepage_url: https://validationcloud.io/
+            logo: validation_cloud.svg
+            organization:
+              name: Validation Cloud
+          - item:
             name: Walmart Inc. (member)
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
