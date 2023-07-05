@@ -1597,9 +1597,9 @@ landscape:
             organization:
               name: REALTO GROUP INC
           - item:
-            name: Reddatetech (member)
+            name: Red Date (Hong Kong) Technology Limited (member)
             homepage_url: https://bsnbase.io/
-            logo: reddatetech.svg
+            logo: red_date_hong_kong_technology_limited.svg
             crunchbase: https://www.crunchbase.com/organization/red-date-technology
           - item:
             name: Ripple Labs Inc. (member)
@@ -1918,11 +1918,6 @@ landscape:
             logo: monetary_authority_of_singapore.svg
             crunchbase: https://www.crunchbase.com/organization/monetary-authority-of-singapore
           - item:
-            name: Morgan State University (member)
-            homepage_url: https://fintech.morgan.edu/
-            logo: morgan_state_university.svg
-            crunchbase: https://www.crunchbase.com/organization/morgan-state-university
-          - item:
             name: Open Earth Foundation (member)
             homepage_url: https://openearth.org/
             logo: open_earth_foundation.svg
@@ -1986,6 +1981,11 @@ landscape:
             twitter: https://twitter.com/Digital_Dollar_
             organization:
               name: The Digital Dollar Project
+          - item:
+            name: The National FinTech Center at Morgan State University (member)
+            homepage_url: https://fintech.morgan.edu/
+            logo: the_national_fintech_center_at_morgan_state_university.svg
+            crunchbase: https://www.crunchbase.com/organization/morgan-state-university
           - item:
             name: The University of Hong Kong (member)
             homepage_url: https://hku.hk/
