@@ -1276,8 +1276,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
             name: Hitachi, Ltd. (member)
-            homepage_url: https://www.hitachi.co.jp/blockchain
-            logo: hitachi-stacked-color.svg
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: International Business Machines Corporation (member)
@@ -1421,9 +1421,9 @@ landscape:
             logo: dlt_global_inc.svg
             crunchbase: https://www.crunchbase.com/organization/dlt-labs
           - item:
-            name: Energy Web (member)
+            name: Energy Web Foundation (member)
             homepage_url: https://energyweb.org/
-            logo: energy_web.svg
+            logo: energy_web_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/energy-web-foundation
           - item:
             name: Espeo Software (member)
@@ -1479,14 +1479,14 @@ landscape:
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
-            name: Instnt (member)
+            name: Instnt Inc. (member)
             homepage_url: https://instnt.org/
-            logo: instnt.svg
+            logo: instnt_inc.svg
             crunchbase: https://www.crunchbase.com/organization/instnt
           - item:
-            name: integraledger (member)
+            name: Integra Ledger (member)
             homepage_url: https://integraledger.com/
-            logo: integraledger.svg
+            logo: integra_ledger.svg
             crunchbase: https://www.crunchbase.com/organization/integra-ledger
           - item:
             name: IntellectEU (member)
@@ -1970,9 +1970,9 @@ landscape:
             twitter: https://twitter.com/SunYatsen_Uni
             crunchbase: https://www.crunchbase.com/organization/sun-yat-sen-university
           - item:
-            name: TECNALIA Research & Innovation (member)
+            name: Tecnalia Corporation (member)
             homepage_url: https://tecnalia.com/
-            logo: tecnalia_research__innovation.svg
+            logo: tecnalia_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/tecnalia
           - item:
             name: The Digital Dollar Project (member)
