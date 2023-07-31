@@ -538,6 +538,7 @@ landscape:
             homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: Azure Blockchain Workbench
@@ -744,6 +745,7 @@ landscape:
             homepage_url: https://www.hitachi.co.jp/blockchain/service/hyperledger
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: IBM Blockchain Platform
@@ -846,6 +848,7 @@ landscape:
             homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: Atos
@@ -1279,6 +1282,7 @@ landscape:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
+            twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: International Business Machines Corporation (member)
@@ -2139,6 +2143,7 @@ landscape:
               and know-how that we have developed up till now, Hitachi will contribute to the building of new customer businesses.
             homepage_url: https://www.hitachi.co.jp/blockchain
             logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: IBM (HCSP)
