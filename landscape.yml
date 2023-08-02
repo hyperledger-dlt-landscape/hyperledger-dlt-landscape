@@ -1322,6 +1322,12 @@ landscape:
             logo: blockchain_technology_partners_inc.svg
             crunchbase: https://www.crunchbase.com/organization/btpworks
           - item:
+            name: BlockLabs (member)
+            homepage_url: https://blocklabs.eu/
+            logo: blocklabs.svg
+            organization:
+              name: BlockLabs
+          - item:
             name: BONbLOC Inc (member)
             homepage_url: https://bonbloc.com/
             logo: bonbloc_inc.svg
