@@ -1572,10 +1572,10 @@ landscape:
             twitter: https://twitter.com/H3CGlobal
             crunchbase: https://www.crunchbase.com/organization/h3c-technologies
           - item:
-            name: NTT DATA (member)
+            name: NTT DATA Group (member)
             homepage_url: https://nttdata.com/
             project: hyperledger-member-services
-            logo: ntt_data.svg
+            logo: ntt_data_group.svg
             twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
           - item:
