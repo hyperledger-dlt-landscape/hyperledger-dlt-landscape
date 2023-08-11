@@ -1375,10 +1375,9 @@ landscape:
             twitter: https://twitter.com/Circulor1
             crunchbase: https://www.crunchbase.com/organization/circulor
           - item:
-            name: ConsenSys AG (member)
-            homepage_url: https://consensys.net/
+            name: Consensys AG (member)
+            homepage_url: https://consensys.io/
             logo: consensys_ag.svg
-            twitter: https://twitter.com/ConsenSys
             crunchbase: https://www.crunchbase.com/organization/consensus-systems
           - item:
             name: Corsha (member)
