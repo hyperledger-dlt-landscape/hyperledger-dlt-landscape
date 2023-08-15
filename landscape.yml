@@ -1112,9 +1112,7 @@ landscape:
             name: Hyperledger Aries
             second_path: Technology Intersections / Cybersecurity
             description: >-
-              Hyperledger Aries provides a shared, reusable, interoperable tool kit designed for initiatives and solutions focused on creating, transmitting and
-              storing verifiable digital credentials. It is infrastructure for blockchain-rooted, peer-to-peer interactions. This project consumes the
-              cryptographic support provided by Hyperledger Ursa, to provide secure secret management and decentralized key management functionality.
+              Hyperledger Aries is your complete toolkit for decentralized identity solutions and digital trust. Issue, store and present verifiable credentials with maximum privacy preservation, and establish confidential, ongoing communication channels for rich interactions. It supports multiple protocols, credential types, ledgers and registries. It has frameworks in multiple development languages, and interoperability tools and profiles to help everything work together seamlessly.
             homepage_url: https://www.hyperledger.org/use/aries
             project: graduated
             repo_url: https://github.com/hyperledger/aries
