@@ -586,7 +586,7 @@ landscape:
           - item:
             name: Chronicle
             homepage_url: https://btp.works/chronicle
-            project: hyperledger-member-products
+            project: non-hyperledger-member-products
             repo_url: https://github.com/btpworks/chronicle
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/btpworks
@@ -713,7 +713,7 @@ landscape:
           - item:
             name: BTP
             homepage_url: https://btp.works
-            project: hyperledger-member-products
+            project: non-hyperledger-member-products
             logo: btp-works.svg
             crunchbase: https://www.crunchbase.com/organization/btpworks
           - item:
