@@ -1311,13 +1311,6 @@ landscape:
             logo: avanza_innovations_it_solutions_llc.svg
             crunchbase: https://www.crunchbase.com/organization/avanza-innovations
           - item:
-            name: BCW Group (member)
-            homepage_url: https://bcw.group/
-            logo: bcw_group.svg
-            twitter: https://twitter.com/BCW_llc
-            organization:
-              name: BCW Group
-          - item:
             name: BlockLabs (member)
             homepage_url: https://blocklabs.eu/
             logo: blocklabs.svg
