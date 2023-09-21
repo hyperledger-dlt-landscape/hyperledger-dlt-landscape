@@ -1915,6 +1915,11 @@ landscape:
             logo: monetary_authority_of_singapore.svg
             crunchbase: https://www.crunchbase.com/organization/monetary-authority-of-singapore
           - item:
+            name: Noregs Bank (member)
+            homepage_url: https://norges-bank.no/
+            logo: noregs_bank.svg
+            crunchbase: https://www.crunchbase.com/organization/norges-bank
+          - item:
             name: Open Earth Foundation (member)
             homepage_url: https://openearth.org/
             logo: open_earth_foundation.svg
