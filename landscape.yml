@@ -1170,7 +1170,7 @@ landscape:
             second_path: Interoperability / Point-to-point and overlayer approaches
             description: Hyperledger Cacti is a blockchain integration tool designed to allow users to securely integrate different blockchains.
             homepage_url: https://www.hyperledger.org/use/cacti
-            project: incubating
+            project: graduated
             repo_url: https://github.com/hyperledger/cacti
             logo: hyperledger-cacti.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
@@ -1219,7 +1219,7 @@ landscape:
               API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular chains and
               protocols.
             homepage_url: https://www.hyperledger.org/use/firefly
-            project: incubating
+            project: graduated
             repo_url: https://github.com/hyperledger/firefly
             additional_repos:
               - repo_url: https://github.com/hyperledger/firefly-cli
