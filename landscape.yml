@@ -1314,8 +1314,7 @@ landscape:
             name: BlockLabs (member)
             homepage_url: https://blocklabs.eu/
             logo: blocklabs.svg
-            organization:
-              name: BlockLabs
+            crunchbase: https://www.crunchbase.com/organization/blocklabs-b424
           - item:
             name: BONbLOC Inc (member)
             homepage_url: https://bonbloc.com/
@@ -1440,8 +1439,7 @@ landscape:
             homepage_url: https://goledger.io/
             logo: goledger.svg
             twitter: https://twitter.com/go_ledger
-            organization:
-              name: GoLedger
+            crunchbase: https://www.crunchbase.com/organization/goledger
           - item:
             name: GSBN (member)
             homepage_url: https://gsbn.trade/
