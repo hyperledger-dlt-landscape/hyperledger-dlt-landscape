@@ -1508,6 +1508,11 @@ landscape:
             logo: ipwe.svg
             crunchbase: https://www.crunchbase.com/organization/ipwe
           - item:
+            name: Japan Securities Clearing Corporation (JSCC) (member)
+            homepage_url: https://jpx.co.jp/jscc/en
+            logo: japan_securities_clearing_corporation_jscc.svg
+            crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
+          - item:
             name: Joisto Group Oy (member)
             homepage_url: https://joisto.com/
             logo: joisto_group_oy.svg
