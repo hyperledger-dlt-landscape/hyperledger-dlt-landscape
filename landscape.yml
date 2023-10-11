@@ -1918,6 +1918,11 @@ landscape:
             logo: monetary_authority_of_singapore.svg
             crunchbase: https://www.crunchbase.com/organization/monetary-authority-of-singapore
           - item:
+            name: National Payments Corporation of India (member)
+            homepage_url: https://npci.org.in/
+            logo: national_payments_corporation_of_india.svg
+            crunchbase: https://www.crunchbase.com/organization/national-payments-corporation-of-india
+          - item:
             name: Noregs Bank (member)
             homepage_url: https://norges-bank.no/
             logo: noregs_bank.svg
