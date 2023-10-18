@@ -1279,12 +1279,14 @@ landscape:
             stock_ticker: null
             logo: fujitsu_limited.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            joined: '2016-01-01'
           - item:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
+            joined: '2023-03-01'
           - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
@@ -1475,6 +1477,7 @@ landscape:
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
+            joined: '2020-11-01'
           - item:
             name: Instnt Inc. (member)
             homepage_url: https://instnt.org/
