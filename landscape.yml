@@ -1279,12 +1279,14 @@ landscape:
             stock_ticker: null
             logo: fujitsu_limited.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            joined: '2016-01-01'
           - item:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
+            joined: '2023-03-01'
           - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
@@ -1402,6 +1404,7 @@ landscape:
             logo: deloitte_consulting_llp.svg
             twitter: https://twitter.com/DeloitteUS
             crunchbase: https://www.crunchbase.com/organization/deloitte
+            joined: '2018-09-01'
           - item:
             name: Deutsche Telekom AG (member)
             homepage_url: https://telekom.com/
@@ -1475,6 +1478,7 @@ landscape:
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
+            joined: '2020-11-01'
           - item:
             name: Instnt Inc. (member)
             homepage_url: https://instnt.org/
@@ -1522,6 +1526,7 @@ landscape:
             homepage_url: https://jpmorganchase.com/
             logo: jpmorgan_chase.svg
             crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
+            joined: '2018-08-01'
           - item:
             name: Kaleido (member)
             homepage_url: https://kaleido.io/
@@ -1685,6 +1690,7 @@ landscape:
             logo: walmart_inc.svg
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
+            joined: '2018-09-01'
           - item:
             name: Wipro Limited (member)
             homepage_url: https://wipro.com/
