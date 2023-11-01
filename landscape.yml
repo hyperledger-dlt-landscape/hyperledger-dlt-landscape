@@ -1539,12 +1539,6 @@ landscape:
             logo: krypc_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/krypc
           - item:
-            name: LTIMindtree Limited (member)
-            homepage_url: https://ltimindtree.com/
-            logo: ltimindtree_limited.svg
-            twitter: https://twitter.com/LTIMindtreeOFCL
-            crunchbase: https://www.crunchbase.com/organization/mindtree
-          - item:
             name: MediConCen Limited (member)
             homepage_url: https://mediconcen.com/
             logo: mediconcen_limited.svg
