@@ -1324,12 +1324,6 @@ landscape:
             twitter: https://twitter.com/BonblocT
             crunchbase: https://www.crunchbase.com/organization/bonbloc
           - item:
-            name: BondEvalue Pte. Ltd. (member)
-            homepage_url: https://bondevalue.com/
-            logo: bondevalue_pte_ltd.svg
-            twitter: https://twitter.com/BondEvalue
-            crunchbase: https://www.crunchbase.com/organization/bondevalue
-          - item:
             name: Bosch (member)
             homepage_url: https://bosch.com/
             logo: bosch.svg
@@ -1685,6 +1679,12 @@ landscape:
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
             joined: '2018-09-01'
+          - item:
+            name: Web3 Labs (member)
+            homepage_url: https://web3labs.com/
+            logo: web3_labs.svg
+            organization:
+              name: Web3 Labs
           - item:
             name: Wipro Limited (member)
             homepage_url: https://wipro.com/
