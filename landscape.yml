@@ -2228,6 +2228,15 @@ landscape:
             logo: snapper_logo_horizontal.svg
             crunchbase: https://www.crunchbase.com/organization/snapper-future-tech
           - item:
+            name: Spydra Technologies Pvt Ltd (HCSP)
+            description: >-
+              Spydra is revolutionizing the enterprise blockchain landscape by creating a highly customizable, low-code Asset Tokenization Platform built on 
+              Hyperledger Fabric. Our Cutting-edge solution empowers businesses to rapidly deploy scalable blockchain networks on their preferred cloud 
+              infrastructure, ensuring flexibility and seamless integration with existing systems.
+            homepage_url: https://spydra.app/
+            logo: spydra_technologies_pvt_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/spydra
+          - item:
             name: Tech Mahindra (HCSP)
             description: >-
               Tech Mahindra is one of the leading Blockchain Service Providers in the world with demonstrated product development capabilities using Hyperledger
