@@ -1874,7 +1874,6 @@ landscape:
           - item:
             name: INATBA (member)
             homepage_url: https://inatba.org/
-            project: organization
             logo: inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba
