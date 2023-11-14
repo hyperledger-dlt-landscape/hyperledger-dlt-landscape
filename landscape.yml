@@ -1872,12 +1872,6 @@ landscape:
             twitter: https://twitter.com/Howest_Intl
             crunchbase: https://www.crunchbase.com/organization/hogeschool-west-vlaanderen
           - item:
-            name: INATBA (member)
-            homepage_url: https://inatba.org/
-            logo: inatba.svg
-            twitter: https://twitter.com/INATBA_org
-            crunchbase: https://www.crunchbase.com/organization/inatba
-          - item:
             name: Initiative for CryptoCurrencies and Contracts (IC3) (member)
             homepage_url: https://initc3.org/
             logo: initiative_for_cryptocurrencies_and_contracts_ic3.svg
@@ -1889,6 +1883,13 @@ landscape:
             logo: inter-american_development_bank_dba_lacchain.svg
             twitter: https://twitter.com/LACChain
             crunchbase: https://www.crunchbase.com/organization/inter-american-development-bank
+          - item:
+            name: International Association for Trusted Blockchain Applications (INATBA) (member)
+            homepage_url: https://inatba.org/
+            project: organization
+            logo: international_association_for_trusted_blockchain_applications_inatba.svg
+            twitter: https://twitter.com/INATBA_org
+            crunchbase: https://www.crunchbase.com/organization/inatba
           - item:
             name: Kerala Blockchain Academy (member)
             homepage_url: https://kba.ai/
