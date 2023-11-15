@@ -1585,13 +1585,6 @@ landscape:
             logo: r3_llc.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
           - item:
-            name: REALTO GROUP INC (member)
-            homepage_url: https://realtoapps.com/
-            logo: realto_group_inc.svg
-            twitter: https://twitter.com/RealtoApps
-            organization:
-              name: REALTO GROUP INC
-          - item:
             name: Red Date (Hong Kong) Technology Limited (member)
             homepage_url: https://bsnbase.io/
             logo: red_date_hong_kong_technology_limited.svg
@@ -1646,6 +1639,12 @@ landscape:
             homepage_url: https://spydra.app/
             logo: spydra_technologies_pvt_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/spydra
+          - item:
+            name: Tassets Inc (member)
+            homepage_url: https://tassets.com/
+            logo: tassets_inc.svg
+            organization:
+              name: Tassets Inc
           - item:
             name: Tech Mahindra Limited (member)
             homepage_url: https://techmahindra.com/
