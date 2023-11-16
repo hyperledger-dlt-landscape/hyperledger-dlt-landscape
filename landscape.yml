@@ -1643,8 +1643,7 @@ landscape:
             name: Tassets Inc (member)
             homepage_url: https://tassets.com/
             logo: tassets_inc.svg
-            organization:
-              name: Tassets Inc
+            crunchbase: https://www.crunchbase.com/organization/tassets-e830
           - item:
             name: Tech Mahindra Limited (member)
             homepage_url: https://techmahindra.com/
