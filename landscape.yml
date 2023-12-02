@@ -1302,6 +1302,12 @@ landscape:
             twitter: https://twitter.com/Absa
             crunchbase: https://www.crunchbase.com/organization/absa-bank
           - item:
+            name: Adhara Limited (member)
+            homepage_url: https://adhara.io/
+            logo: adhara_limited.svg
+            organization:
+              name: Adhara Limited
+          - item:
             name: American Express Banking Corp. (member)
             homepage_url: https://americanexpress.com/
             logo: american_express_banking_corp.svg
@@ -1375,11 +1381,6 @@ landscape:
             logo: csengineering.svg
             twitter: https://twitter.com/CSECorp
             crunchbase: https://www.crunchbase.com/organization/constellation-software-engineering
-          - item:
-            name: CVS Health (member)
-            homepage_url: https://cvshealth.com/
-            logo: cvs_health.svg
-            crunchbase: https://www.crunchbase.com/organization/cvs-caremark
           - item:
             name: Data Storage Research, LLC d/b/a DSR Corporation (member)
             homepage_url: https://dsr-corporation.com/
@@ -1533,6 +1534,11 @@ landscape:
             logo: krypc_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/krypc
           - item:
+            name: Launchnodes (member)
+            homepage_url: https://launchnodes.com/
+            logo: launchnodes.svg
+            crunchbase: https://www.crunchbase.com/organization/launchnodes
+          - item:
             name: MediConCen Limited (member)
             homepage_url: https://mediconcen.com/
             logo: mediconcen_limited.svg
@@ -1584,11 +1590,6 @@ landscape:
             homepage_url: https://r3.com/
             logo: r3_llc.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
-          - item:
-            name: Red Date (Hong Kong) Technology Limited (member)
-            homepage_url: https://bsnbase.io/
-            logo: red_date_hong_kong_technology_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/red-date-technology
           - item:
             name: Ripple Labs Inc. (member)
             homepage_url: https://ripple.com/
