@@ -1602,6 +1602,12 @@ landscape:
             twitter: https://twitter.com/Ripple
             crunchbase: https://www.crunchbase.com/organization/ripple-labs
           - item:
+            name: SDAX Exchange Pte Ltd (member)
+            homepage_url: https://sdax.co/
+            logo: sdax_exchange_pte_ltd.svg
+            organization:
+              name: SDAX Exchange Pte Ltd
+          - item:
             name: Senofi (member)
             homepage_url: https://senofi.ca/
             logo: senofi.svg
