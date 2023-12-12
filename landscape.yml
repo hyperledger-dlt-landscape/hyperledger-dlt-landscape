@@ -1305,8 +1305,7 @@ landscape:
             name: Adhara Limited (member)
             homepage_url: https://adhara.io/
             logo: adhara_limited.svg
-            organization:
-              name: Adhara Limited
+            crunchbase: https://www.crunchbase.com/organization/adhara
           - item:
             name: American Express Banking Corp. (member)
             homepage_url: https://americanexpress.com/
@@ -1381,6 +1380,12 @@ landscape:
             logo: csengineering.svg
             twitter: https://twitter.com/CSECorp
             crunchbase: https://www.crunchbase.com/organization/constellation-software-engineering
+          - item:
+            name: DABCo Ltd (member)
+            homepage_url: https://pairpoint.io/
+            logo: dabco_ltd.svg
+            organization:
+              name: DABCo Ltd
           - item:
             name: Data Storage Research, LLC d/b/a DSR Corporation (member)
             homepage_url: https://dsr-corporation.com/
@@ -1605,8 +1610,7 @@ landscape:
             name: SDAX Exchange Pte Ltd (member)
             homepage_url: https://sdax.co/
             logo: sdax_exchange_pte_ltd.svg
-            organization:
-              name: SDAX Exchange Pte Ltd
+            crunchbase: https://www.crunchbase.com/organization/sdax
           - item:
             name: Senofi (member)
             homepage_url: https://senofi.ca/
