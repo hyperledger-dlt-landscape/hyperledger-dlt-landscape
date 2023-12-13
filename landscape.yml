@@ -1284,7 +1284,6 @@ landscape:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
-            twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
             joined: '2023-03-01'
           - item:
@@ -1305,6 +1304,7 @@ landscape:
             name: Adhara Limited (member)
             homepage_url: https://adhara.io/
             logo: adhara_limited.svg
+            twitter: https://twitter.com/adhara_io
             crunchbase: https://www.crunchbase.com/organization/adhara
           - item:
             name: American Express Banking Corp. (member)
@@ -1365,8 +1365,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/circulor
           - item:
             name: Consensys AG (member)
-            homepage_url: https://consensys.io/
+            homepage_url: https://consensys.net/
             logo: consensys_ag.svg
+            twitter: https://twitter.com/ConsenSys
             crunchbase: https://www.crunchbase.com/organization/consensus-systems
           - item:
             name: Corsha (member)
@@ -1382,7 +1383,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/constellation-software-engineering
           - item:
             name: DABCo Ltd (member)
-            homepage_url: https://pairpoint.io/
+            homepage_url: https://vdigitalassetbroker.com/
             logo: dabco_ltd.svg
             organization:
               name: DABCo Ltd
@@ -1475,6 +1476,7 @@ landscape:
           - item:
             name: Infosys Limited (member)
             homepage_url: https://infosys.com/
+            stock_ticker: null
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
@@ -1592,7 +1594,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/poste-italiane
           - item:
             name: R3 LLC (member)
-            homepage_url: https://r3.com/
+            homepage_url: https://r3cev.com/
             logo: r3_llc.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
           - item:
@@ -1657,8 +1659,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/spydra
           - item:
             name: Tassets Inc (member)
-            homepage_url: https://tassets.com/
+            homepage_url: https://realtoapps.com/
             logo: tassets_inc.svg
+            twitter: https://twitter.com/RealtoApps
             crunchbase: https://www.crunchbase.com/organization/tassets-e830
           - item:
             name: Tech Mahindra Limited (member)
@@ -1697,6 +1700,7 @@ landscape:
             name: Web3 Labs (member)
             homepage_url: https://web3labs.com/
             logo: web3_labs.svg
+            twitter: https://twitter.com/web3labs
             crunchbase: https://www.crunchbase.com/organization/web3-labs
           - item:
             name: Wipro Limited (member)
