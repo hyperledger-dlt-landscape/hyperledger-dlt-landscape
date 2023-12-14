@@ -1284,7 +1284,6 @@ landscape:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
-            twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
             joined: '2023-03-01'
           - item:
@@ -1305,6 +1304,7 @@ landscape:
             name: Adhara Limited (member)
             homepage_url: https://adhara.io/
             logo: adhara_limited.svg
+            twitter: https://twitter.com/adhara_io
             crunchbase: https://www.crunchbase.com/organization/adhara
           - item:
             name: American Express Banking Corp. (member)
@@ -1367,6 +1367,7 @@ landscape:
             name: Consensys AG (member)
             homepage_url: https://consensys.io/
             logo: consensys_ag.svg
+            twitter: https://twitter.com/ConsenSys
             crunchbase: https://www.crunchbase.com/organization/consensus-systems
           - item:
             name: Corsha (member)
@@ -1475,6 +1476,7 @@ landscape:
           - item:
             name: Infosys Limited (member)
             homepage_url: https://infosys.com/
+            stock_ticker: null
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
@@ -1659,6 +1661,7 @@ landscape:
             name: Tassets Inc (member)
             homepage_url: https://tassets.com/
             logo: tassets_inc.svg
+            twitter: https://twitter.com/RealtoApps
             crunchbase: https://www.crunchbase.com/organization/tassets-e830
           - item:
             name: Tech Mahindra Limited (member)
@@ -1697,6 +1700,7 @@ landscape:
             name: Web3 Labs (member)
             homepage_url: https://web3labs.com/
             logo: web3_labs.svg
+            twitter: https://twitter.com/web3labs
             crunchbase: https://www.crunchbase.com/organization/web3-labs
           - item:
             name: Wipro Limited (member)
@@ -1813,6 +1817,12 @@ landscape:
             homepage_url: https://identity.foundation/
             logo: decentralized_identity_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/decentralized-identity-foundation
+          - item:
+            name: Digital Currency Forum (member)
+            homepage_url: https://decurret-dcp.com/
+            logo: digital_currency_forum.svg
+            organization:
+              name: Digital Currency Forum
           - item:
             name: Digital Euro Association (DEA) (member)
             homepage_url: https://digital-euro-association.de/
@@ -2183,10 +2193,10 @@ landscape:
           - item:
             name: Infosys (HCSP)
             description: >-
-              Infosys is a leading provider of blockchain services with a proven track record of success. We offer a full-stack solution and a rick asset portfolio, 
-              which enables us to rapidly deliver end-to-end solutions that meet the unique needs of our clients. Our expertise in value definition and long-term
-              sustainability frameworks, as well as our deep understanding of web3 technologies, make us a valuable partner for clients who are looking to harness
-              the power of blockchain to transform their businesses.
+              Infosys is a leading provider of blockchain services with a proven track record of success. We offer a full-stack solution and a rick asset
+              portfolio,  which enables us to rapidly deliver end-to-end solutions that meet the unique needs of our clients. Our expertise in value definition
+              and long-term sustainability frameworks, as well as our deep understanding of web3 technologies, make us a valuable partner for clients who are
+              looking to harness the power of blockchain to transform their businesses.
             homepage_url: https://www.infosys.com/services/blockchain.html
             logo: infosys_limited.svg
             crunchbase: https://www.crunchbase.com/organization/infosys
