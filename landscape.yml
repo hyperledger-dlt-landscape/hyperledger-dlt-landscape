@@ -1299,7 +1299,7 @@ landscape:
             homepage_url: https://absa.africa/
             logo: absa_bank_limited.svg
             twitter: https://twitter.com/Absa
-            crunchbase: https://www.crunchbase.com/organization/absa-bank
+            crunchbase: https://www.crunchbase.com/organization/barclays-capital
           - item:
             name: Adhara Limited (member)
             homepage_url: https://adhara.io/
@@ -1613,6 +1613,11 @@ landscape:
             homepage_url: https://sdax.co/
             logo: sdax_exchange_pte_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/sdax
+          - item:
+            name: SEIYAJ TECH (member)
+            homepage_url: https://seiyaj.com/
+            logo: seiyaj_tech.svg
+            crunchbase: https://www.crunchbase.com/organization/seiyaj-tech
           - item:
             name: Senofi (member)
             homepage_url: https://senofi.ca/
