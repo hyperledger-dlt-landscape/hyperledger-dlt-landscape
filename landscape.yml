@@ -1382,6 +1382,11 @@ landscape:
             twitter: https://twitter.com/CSECorp
             crunchbase: https://www.crunchbase.com/organization/constellation-software-engineering
           - item:
+            name: CVS Health (member)
+            homepage_url: https://cvshealth.com/
+            logo: cvs_health.svg
+            crunchbase: https://www.crunchbase.com/organization/cvs-caremark
+          - item:
             name: DABCo Ltd (member)
             homepage_url: https://pairpoint.io/
             logo: dabco_ltd.svg
@@ -1614,6 +1619,11 @@ landscape:
             logo: sdax_exchange_pte_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/sdax
           - item:
+            name: SEIYAJ TECH (member)
+            homepage_url: https://seiyaj.com/
+            logo: seiyaj_tech.svg
+            crunchbase: https://www.crunchbase.com/organization/seiyaj-tech
+          - item:
             name: Senofi (member)
             homepage_url: https://senofi.ca/
             logo: senofi.svg
@@ -1663,12 +1673,6 @@ landscape:
             logo: tassets_inc.svg
             twitter: https://twitter.com/RealtoApps
             crunchbase: https://www.crunchbase.com/organization/tassets-e830
-          - item:
-            name: Tech Mahindra Limited (member)
-            homepage_url: https://techmahindra.com/
-            logo: tech_mahindra_limited.svg
-            twitter: https://twitter.com/tech_mahindra
-            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
           - item:
             name: Tokentrust AG (member)
             homepage_url: https://atomyze.com/
