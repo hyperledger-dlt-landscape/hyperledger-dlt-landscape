@@ -2235,16 +2235,6 @@ landscape:
             logo: KrypC-logo.svg
             crunchbase: https://www.crunchbase.com/organization/krypc
           - item:
-            name: Mindtree (HCSP)
-            description: >-
-              Mindtree has been developing capabilities around Hyperledger for the last four years, started contributing to the Hyperledger community since
-              2017. Mindtree has a product for ‘Loyalty Exchange Platform’, named ‘$wap’, using Hyperledger Fabric. 'Merchant On-Boarding' on blockchain using
-              Hyperledger Fabric, is another product which is also in MVP state. Both the products can be customized easily as per the requirement of the
-              customers.
-            homepage_url: https://www.mindtree.com
-            logo: mindtree-horizontal-color.svg
-            crunchbase: https://www.crunchbase.com/organization/mindtree
-          - item:
             name: NEC Corporation (HCSP)
             description: >-
               NEC Corporation is a leader in the integration of IT and network technologies that benefit businesses and people around the world. NEC brings more
@@ -2273,17 +2263,6 @@ landscape:
             homepage_url: https://spydra.app/
             logo: spydra_technologies_pvt_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/spydra
-          - item:
-            name: Tech Mahindra (HCSP)
-            description: >-
-              Tech Mahindra is one of the leading Blockchain Service Providers in the world with demonstrated product development capabilities using Hyperledger
-              projects by developing 25+ Blockchain platforms and also implemented one of the world’s largest Blockchain networks covering 500 million+
-              subscribers in India to fight spam calls and text. With 250+ global engagements and 100+ core Blockchain team members trained on Hyperledger, we
-              have extensive experience in developing and deploying several transformative implementations for governments, large and mid-sized enterprises
-              across diverse industry verticals that have helped our clients solve complex business problems.
-            homepage_url: https://www.techmahindra.com/en-in/techmnxt/techbets/blockchain/
-            logo: techmahindra-stacked-color.svg
-            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
           - item:
             name: Wipro Limited (HCSP)
             homepage_url: https://wipro.com/
