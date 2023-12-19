@@ -1629,11 +1629,6 @@ landscape:
             logo: senofi.svg
             crunchbase: https://www.crunchbase.com/organization/senofi
           - item:
-            name: Shanghai Vonechain Information Technology Co., Ltd (member)
-            homepage_url: https://vonechain.com/
-            logo: shanghai_vonechain_information_technology_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/vonechain-technology
-          - item:
             name: Shenzhen Forms Syntron Information Co. Ltd (member)
             homepage_url: https://formssi.com/
             logo: shenzhen_forms_syntron_information_co_ltd.svg
