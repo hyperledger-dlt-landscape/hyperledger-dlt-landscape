@@ -1274,13 +1274,6 @@ landscape:
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
           - item:
-            name: Fujitsu Limited (member)
-            homepage_url: https://fujitsu.com/
-            stock_ticker: null
-            logo: fujitsu_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/fujitsu
-            joined: '2016-01-01'
-          - item:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
@@ -1329,11 +1322,6 @@ landscape:
             twitter: https://twitter.com/BonblocT
             crunchbase: https://www.crunchbase.com/organization/bonbloc
           - item:
-            name: Bosch (member)
-            homepage_url: https://bosch.com/
-            logo: bosch.svg
-            crunchbase: https://www.crunchbase.com/organization/bosch
-          - item:
             name: CasperLabs LLC (member)
             homepage_url: https://casperlabs.io/
             logo: casperlabs_llc.svg
@@ -1346,13 +1334,6 @@ landscape:
             logo: chainyard.svg
             crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
           - item:
-            name: Change Healthcare (member)
-            homepage_url: https://changehealthcare.com/
-            stock_ticker: null
-            logo: change_healthcare.svg
-            twitter: https://twitter.com/Change_HC
-            crunchbase: https://www.crunchbase.com/organization/change-healthcare
-          - item:
             name: China Systems Holdings Limited (member)
             homepage_url: https://chinasystems.com/
             logo: china_systems_holdings_limited.svg
@@ -1363,6 +1344,13 @@ landscape:
             logo: circulor_ltd.svg
             twitter: https://twitter.com/Circulor1
             crunchbase: https://www.crunchbase.com/organization/circulor
+          - item:
+            name: Citi (member)
+            homepage_url: https://citi.com/
+            logo: citi.svg
+            twitter: https://twitter.com/citi
+            crunchbase: https://www.crunchbase.com/organization/citigroup
+            joined: '2021-01-25'
           - item:
             name: Consensys AG (member)
             homepage_url: https://consensys.io/
@@ -1375,12 +1363,6 @@ landscape:
             logo: corsha.svg
             twitter: https://twitter.com/Corsha_APIs
             crunchbase: https://www.crunchbase.com/organization/corsha
-          - item:
-            name: CSEngineering (member)
-            homepage_url: https://cse-corp.com/
-            logo: csengineering.svg
-            twitter: https://twitter.com/CSECorp
-            crunchbase: https://www.crunchbase.com/organization/constellation-software-engineering
           - item:
             name: CVS Health (member)
             homepage_url: https://cvshealth.com/
@@ -1399,12 +1381,6 @@ landscape:
             twitter: https://twitter.com/DSR_corporation
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
           - item:
-            name: Datachain, Inc. (member)
-            homepage_url: https://datachain.jp/
-            logo: datachain_inc.svg
-            twitter: https://twitter.com/datachain_en
-            crunchbase: https://www.crunchbase.com/organization/datachain-japan
-          - item:
             name: Deloitte Consulting LLP (member)
             homepage_url: https://deloitte.com/
             logo: deloitte_consulting_llp.svg
@@ -1422,11 +1398,6 @@ landscape:
             logo: digital_asset_holdings_llc.svg
             twitter: https://twitter.com/Damldriven
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
-          - item:
-            name: DLT Global Inc. (member)
-            homepage_url: https://dltlabs.io/
-            logo: dlt_global_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/dlt-labs
           - item:
             name: Energy Web Foundation (member)
             homepage_url: https://energyweb.org/
@@ -1449,12 +1420,6 @@ landscape:
             logo: goledger.svg
             twitter: https://twitter.com/go_ledger
             crunchbase: https://www.crunchbase.com/organization/goledger
-          - item:
-            name: GSBN (member)
-            homepage_url: https://gsbn.trade/
-            logo: gsbn.svg
-            twitter: https://twitter.com/gsbn_trade
-            crunchbase: https://www.crunchbase.com/organization/gsbn
           - item:
             name: Hedera Hashgraph LLC (member)
             homepage_url: https://hedera.com/
@@ -1514,26 +1479,10 @@ landscape:
             twitter: https://twitter.com/InputOutputHK
             crunchbase: https://www.crunchbase.com/organization/input-output
           - item:
-            name: IPwe (member)
-            homepage_url: https://ipwe.com/
-            logo: ipwe.svg
-            crunchbase: https://www.crunchbase.com/organization/ipwe
-          - item:
             name: Japan Securities Clearing Corporation (JSCC) (member)
             homepage_url: https://www.jpx.co.jp/jscc/en/
             logo: japan_securities_clearing_corporation_jscc.svg
             crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
-          - item:
-            name: Joisto Group Oy (member)
-            homepage_url: https://joisto.com/
-            logo: joisto_group_oy.svg
-            crunchbase: https://www.crunchbase.com/organization/joisto
-          - item:
-            name: JPMorgan Chase (member)
-            homepage_url: https://jpmorganchase.com/
-            logo: jpmorgan_chase.svg
-            crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
-            joined: '2018-08-01'
           - item:
             name: Kaleido (member)
             homepage_url: https://kaleido.io/
@@ -1568,12 +1517,6 @@ landscape:
             twitter: https://twitter.com/NEC_corp
             crunchbase: https://www.crunchbase.com/organization/nec
           - item:
-            name: New H3C Technologies Co., Ltd (member)
-            homepage_url: https://h3c.com/
-            logo: new_h3c_technologies_co_ltd.svg
-            twitter: https://twitter.com/H3CGlobal
-            crunchbase: https://www.crunchbase.com/organization/h3c-technologies
-          - item:
             name: NTT DATA Group Corporation (member)
             homepage_url: https://nttdata.com/
             project: hyperledger-member-services
@@ -1591,12 +1534,6 @@ landscape:
             logo: paramount_software_solutions_inc.svg
             twitter: https://twitter.com/Paramount_GA
             crunchbase: https://www.crunchbase.com/organization/paramount-software-solutions-inc
-          - item:
-            name: Poste Italiane SPA (member)
-            homepage_url: https://posteitaliane.it/
-            logo: poste_italiane_spa.svg
-            twitter: https://twitter.com/PosteNews
-            crunchbase: https://www.crunchbase.com/organization/poste-italiane
           - item:
             name: R3 LLC (member)
             homepage_url: https://r3.com/
@@ -1639,19 +1576,6 @@ landscape:
             logo: siemens_ag.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
-            name: SIMBA Chain (member)
-            homepage_url: https://simbachain.com/
-            project: hyperledger-member-products
-            logo: simba_chain.svg
-            twitter: https://twitter.com/SIMBAchain
-            crunchbase: https://www.crunchbase.com/organization/simba-chain
-          - item:
-            name: Snapper Future Tech Pvt Ltd (member)
-            homepage_url: https://snapperfuturetech.com/
-            logo: snapper_future_tech_pvt_ltd.svg
-            twitter: https://twitter.com/snapper_future
-            crunchbase: https://www.crunchbase.com/organization/snapper-future-tech
-          - item:
             name: SORAMITSU CO., LTD. (member)
             homepage_url: https://soramitsu.co.jp/
             logo: soramitsu_co_ltd.svg
@@ -1668,11 +1592,6 @@ landscape:
             logo: tassets_inc.svg
             twitter: https://twitter.com/RealtoApps
             crunchbase: https://www.crunchbase.com/organization/tassets-e830
-          - item:
-            name: Tokentrust AG (member)
-            homepage_url: https://atomyze.com/
-            logo: tokentrust_ag.svg
-            crunchbase: https://www.crunchbase.com/organization/atomyze
           - item:
             name: ToposWare Inc. (member)
             homepage_url: https://toposware.com/
