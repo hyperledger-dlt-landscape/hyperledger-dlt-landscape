@@ -1274,6 +1274,13 @@ landscape:
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
           - item:
+            name: Fujitsu Limited (member)
+            homepage_url: https://fujitsu.com/
+            stock_ticker: null
+            logo: fujitsu_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+            joined: '2016-01-01'
+          - item:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
