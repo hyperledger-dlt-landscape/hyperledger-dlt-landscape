@@ -556,7 +556,7 @@ landscape:
           - item:
             name: Web3 Labs/Epirus
             homepage_url: https://www.web3labs.com
-            project: non-hyperledger-member-products
+            project: hyperledger-member-products
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
       - subcategory:
@@ -931,7 +931,7 @@ landscape:
           - item:
             name: Web3 Labs
             homepage_url: https://www.web3labs.com
-            project: non-hyperledger-member-services
+            project: hyperledger-member-services
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
   - category:
