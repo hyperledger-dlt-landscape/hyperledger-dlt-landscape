@@ -780,7 +780,7 @@ landscape:
           - item:
             name: SIMBA Chain
             homepage_url: https://simbachain.com/
-            project: hyperledger-member-products
+            project: non-hyperledger-member-products
             logo: simba_chain.svg
             crunchbase: https://www.crunchbase.com/organization/simba-chain
           - item:
