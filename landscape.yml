@@ -1573,11 +1573,6 @@ landscape:
             logo: senofi.svg
             crunchbase: https://www.crunchbase.com/organization/senofi
           - item:
-            name: Shenzhen Forms Syntron Information Co. Ltd (member)
-            homepage_url: https://formssi.com/
-            logo: shenzhen_forms_syntron_information_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/shenzhen-forms-syntron-information
-          - item:
             name: Siemens AG (member)
             homepage_url: https://siemens.com/
             logo: siemens_ag.svg
