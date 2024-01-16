@@ -1829,7 +1829,6 @@ landscape:
           - item:
             name: International Association for Trusted Blockchain Applications (INATBA) (member)
             homepage_url: https://inatba.org/
-            project: organization
             logo: international_association_for_trusted_blockchain_applications_inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba

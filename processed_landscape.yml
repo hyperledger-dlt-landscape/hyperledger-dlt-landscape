@@ -7149,7 +7149,7 @@ landscape:
           - item:
             name: Web3 Labs/Epirus
             homepage_url: https://www.web3labs.com
-            project: non-hyperledger-member-products
+            project: hyperledger-member-products
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
             crunchbase_data:
@@ -9878,7 +9878,7 @@ landscape:
           - item:
             name: SIMBA Chain
             homepage_url: https://simbachain.com/
-            project: hyperledger-member-products
+            project: non-hyperledger-member-products
             logo: simba_chain.svg
             crunchbase: https://www.crunchbase.com/organization/simba-chain
             crunchbase_data:
@@ -12005,7 +12005,7 @@ landscape:
           - item:
             name: Web3 Labs
             homepage_url: https://www.web3labs.com
-            project: non-hyperledger-member-services
+            project: hyperledger-member-services
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
             crunchbase_data:
@@ -14278,7 +14278,7 @@ landscape:
                 - Information Technology
             image_data:
               fileName: depository-trust-and-clearing-corporation-dtcc-member.svg
-              hash: jX5qNSNB6CRt2jhFRWqGFF5oclDDYDwAdW0EJhd1cho=
+              hash: Buj5xE5JL9LgXtD7L8OdFccpNwruTTlwslBRPicP8zs=
             best_practice_data:
               badge: false
               percentage: null
@@ -14290,6 +14290,7 @@ landscape:
             stock_ticker: null
             logo: fujitsu_limited.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            joined: '2016-01-01'
             crunchbase_data:
               name: Fujitsu
               description: Fujitsu is a information & communications technology equipment and services firm providing IT & IT infrastructure and other services.
@@ -14375,8 +14376,8 @@ landscape:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
-            twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
+            joined: '2023-03-01'
             crunchbase_data:
               name: Hitachi
               description: Hitachi is engaged in the manufacture and sale of electronic and electrical products worldwide.
@@ -14936,6 +14937,45 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T12:55:21.000Z
           - item:
+            name: Adhara Limited (member)
+            homepage_url: https://adhara.io/
+            logo: adhara_limited.svg
+            twitter: https://twitter.com/adhara_io
+            crunchbase: https://www.crunchbase.com/organization/adhara
+            crunchbase_data:
+              name: Adhara
+              description: Real time global liquidity management, FX and international payments on CBDCs and tokenized money for banks and central banks
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://adhara.io
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/adhara_io
+              linkedin: https://www.linkedin.com/company/adhara-io/
+              acquisitions: []
+              parents: []
+              funding: 14000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Banking
+                - Blockchain
+                - Ethereum
+                - FinTech
+                - Financial Exchanges
+                - Financial Services
+                - Information Technology
+                - Payments
+                - Software
+              kind: funding
+            image_data:
+              fileName: adhara-limited-member.svg
+              hash: NfWRdpU1JorgIy1GtrmW2/bHRomuiJJvBEgcWGoGWhs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: American Express Banking Corp. (member)
             homepage_url: https://americanexpress.com/
             logo: american_express_banking_corp.svg
@@ -15100,109 +15140,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-09-22T06:08:44.000Z
           - item:
-            name: BondEvalue Pte. Ltd. (member)
-            homepage_url: https://bondevalue.com/
-            logo: bondevalue_pte_ltd.svg
-            twitter: https://twitter.com/BondEvalue
-            crunchbase: https://www.crunchbase.com/organization/bondevalue
-            crunchbase_data:
-              name: BondEvalue
-              description: BondEvalue is a Singapore based Fintech company that focuses on Asian bond markets.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://bondevalue.com/
-              city: Singapore
-              region: Central Region
-              country: Singapore
-              twitter: https://twitter.com/BondAlerts
-              linkedin: https://www.linkedin.com/company/bondevalue/about/
-              acquisitions: []
-              parents: []
-              funding: 6000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - FinTech
-                - Financial Services
-              kind: funding
-            image_data:
-              fileName: bond-evalue-pte-ltd-member.svg
-              hash: ziBBnVdtUf4efeM0as/3xtBh1sB6Jm/92jyf2UR8ye0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-02-23T06:10:48.000Z
-          - item:
-            name: Bosch (member)
-            homepage_url: https://bosch.com/
-            logo: bosch.svg
-            crunchbase: https://www.crunchbase.com/organization/bosch
-            crunchbase_data:
-              name: Bosch
-              description: The Bosch Group is a supplier of technology and services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.bosch.com
-              city: Stuttgart
-              region: Baden-Wurttemberg
-              country: Germany
-              twitter: http://twitter.com/BoschGlobal
-              linkedin: https://www.linkedin.com/company/bosch
-              acquisitions:
-                - date: '2005-08-19'
-                  acquiree: Akustica
-                - date: '2006-06-28'
-                  acquiree: Telex Communications, Inc
-                - date: '2006-10-13'
-                  acquiree: TeleAlarm
-                - date: '2008-06-02'
-                  acquiree: Bosch Solar Energy
-                - date: '2008-12-22'
-                  acquiree: Health Hero Network
-                - date: '2011-07-18'
-                  acquiree: Inubit
-                - date: '2015-01-14'
-                  acquiree: Climatec
-                - date: '2015-04-24'
-                  acquiree: ProSyst Software
-                - date: '2015-08-28'
-                  acquiree: Seeo
-                - date: '2016-10-13'
-                  acquiree: ITK Engineering
-                - date: '2018-02-21'
-                  acquiree: SPLT (Splitting Fares)
-                - date: '2022-02-24'
-                  acquiree: Atlatec GmbH
-                - date: '2022-04-12'
-                  acquiree: FiveAI
-                - date: '2022-09-26'
-                  acquiree: ItoM
-                - date: '2023-07-05'
-                  acquiree: Paladin Technologies
-              parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Automotive
-                - Consumer Goods
-                - Electronics
-                - Industrial
-                - Industrial Engineering
-                - Information Technology
-                - Manufacturing
-                - Mechanical Engineering
-                - Sensor
-            image_data:
-              fileName: bosch-member.svg
-              hash: Jg5YfY3sDf0Asd+vgWpeKmDrxGqD8Dp51cq4RrpW838=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-27T13:36:47.000Z
-          - item:
             name: CasperLabs LLC (member)
             homepage_url: https://casperlabs.io/
             logo: casperlabs_llc.svg
@@ -15275,57 +15212,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-08-16T12:30:19.000Z
           - item:
-            name: Change Healthcare (member)
-            homepage_url: https://changehealthcare.com/
-            stock_ticker: null
-            logo: change_healthcare.svg
-            twitter: https://twitter.com/Change_HC
-            crunchbase: https://www.crunchbase.com/organization/change-healthcare
-            crunchbase_data:
-              name: Change Healthcare
-              description: Change Healthcare is a healthcare technology company that focuses on revenue and payment cycle management services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.changehealthcare.com
-              city: Nashville
-              region: Tennessee
-              country: United States
-              twitter: http://twitter.com/change_hc
-              linkedin: https://www.linkedin.com/company/change-healthcare
-              acquisitions:
-                - date: '2014-11-19'
-                  acquiree: Emdeon
-                - date: '2018-01-18'
-                  acquiree: National Decision Support Co.
-                - date: '2020-05-04'
-                  acquiree: eRx Network
-                - date: '2020-06-01'
-                  acquiree: PDX
-                - date: '2020-08-19'
-                  acquiree: Nucleus.io
-                - date: '2020-08-26'
-                  acquiree: Prometheus Analytics
-              parents: []
-              ticker: CHNG
-              funding: 48000000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Health Care
-                - Information Technology
-                - Medical
-                - Payments
-              kind: funding
-            image_data:
-              fileName: change-healthcare-member.svg
-              hash: DtptYZmIb047ZKfMQp4G9H14n+9CsXM2BtYCx+eH8w0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-20T15:19:26.000Z
-          - item:
             name: China Systems Holdings Limited (member)
             homepage_url: https://chinasystems.com/
             logo: china_systems_holdings_limited.svg
@@ -15396,9 +15282,61 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T11:37:00.000Z
           - item:
+            name: Citi (member)
+            homepage_url: https://citi.com/
+            logo: citi.svg
+            twitter: https://twitter.com/citi
+            crunchbase: https://www.crunchbase.com/organization/citigroup
+            joined: '2021-01-25'
+            crunchbase_data:
+              name: Citi
+              description: Citigroup is a diversified financial services holding company that provides various financial products and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.citigroup.com
+              city: New York
+              region: New York
+              country: United States
+              twitter: https://twitter.com/citi
+              linkedin: https://www.linkedin.com/company/citi
+              acquisitions:
+                - date: '2001-02-13'
+                  acquiree: European American Bank
+                - date: '2001-05-18'
+                  acquiree: Citibanamex
+                - date: '2004-02-18'
+                  acquiree: Koram Bank
+                - date: '2004-07-02'
+                  acquiree: Lava Trading
+                - date: '2006-12-13'
+                  acquiree: Quilter Cheviot
+                - date: '2007-07-02'
+                  acquiree: Automated Trading Desk
+                - date: '2007-08-01'
+                  acquiree: The BISYS Group
+              parents: []
+              ticker: C
+              funding: 8700000000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Banking
+                - Credit Cards
+                - Financial Services
+                - Wealth Management
+            yahoo_finance_data:
+              effective_ticker: C
+            image_data:
+              fileName: citi-member.svg
+              hash: lIm2dNjDnlybPwe0zSHfHIgwtYPoa8vBbAfoKbiUOZ4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Consensys AG (member)
             homepage_url: https://consensys.io/
             logo: consensys_ag.svg
+            twitter: https://twitter.com/ConsenSys
             crunchbase: https://www.crunchbase.com/organization/consensus-systems
             crunchbase_data:
               name: ConsenSys
@@ -15480,43 +15418,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-19T18:01:04.000Z
           - item:
-            name: CSEngineering (member)
-            homepage_url: https://cse-corp.com/
-            logo: csengineering.svg
-            twitter: https://twitter.com/CSECorp
-            crunchbase: https://www.crunchbase.com/organization/constellation-software-engineering
-            crunchbase_data:
-              name: CSEngineering
-              description: CSEngineering provides DevSecOps and Blockchain Solutions, dApps, Asset Tokenization, Smart Contracts and Professional Services.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://cse-corp.com
-              city: Annapolis
-              region: Maryland
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/constellation-software-engineering/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Business Information Systems
-                - Cloud Infrastructure
-                - Government
-                - Information Technology
-                - Military
-                - Professional Services
-                - Software
-                - Software Engineering
-            image_data:
-              fileName: cs-engineering-member.svg
-              hash: nZufToerQVatnKmPHJelqpLwIesxlL7lSStwktAnc88=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: CVS Health (member)
             homepage_url: https://cvshealth.com/
             logo: cvs_health.svg
@@ -15593,6 +15494,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T17:25:05.000Z
           - item:
+            name: DABCo Ltd (member)
+            homepage_url: https://pairpoint.io/
+            logo: dabco_ltd.svg
+            organization:
+              name: DABCo Ltd
+            crunchbase_data:
+              name: DABCo Ltd
+              parents: []
+            image_data:
+              fileName: dab-co-ltd-member.svg
+              hash: PD8BDmvrbgE0k/TuNFmskkGaxu8fdSXGAMzu8G4qprA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Data Storage Research, LLC d/b/a DSR Corporation (member)
             homepage_url: https://dsr-corporation.com/
             logo: data_storage_research_llc_dba_dsr_corporation.svg
@@ -15627,46 +15543,12 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-26T18:22:28.000Z
           - item:
-            name: Datachain, Inc. (member)
-            homepage_url: https://datachain.jp/
-            logo: datachain_inc.svg
-            twitter: https://twitter.com/datachain_en
-            crunchbase: https://www.crunchbase.com/organization/datachain-japan
-            crunchbase_data:
-              name: Datachain
-              description: Datachain is the core contributor of YUI, a Hyperledger Lab, which enables interoperability between multiple ledgers through Cosmos IBC.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.datachain.jp/
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: https://twitter.com/Datachain_en
-              linkedin: https://www.linkedin.com/company/datachain/
-              acquisitions: []
-              parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Cryptocurrency
-                - Enterprise Software
-                - Payments
-            image_data:
-              fileName: datachain-inc-member.svg
-              hash: 2o5WQQCQHGlC/lDV15l+j/8pPbEYrJgwm9W2lVhkTnk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-24T12:39:34.000Z
-          - item:
             name: Deloitte Consulting LLP (member)
             homepage_url: https://deloitte.com/
             logo: deloitte_consulting_llp.svg
             twitter: https://twitter.com/DeloitteUS
             crunchbase: https://www.crunchbase.com/organization/deloitte
+            joined: '2018-09-01'
             crunchbase_data:
               name: Deloitte
               description: "Deloitte is a business consulting company that offers audit, consulting, financial\_advisory, and tax services."
@@ -15909,40 +15791,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: DLT Global Inc. (member)
-            homepage_url: https://dltlabs.io/
-            logo: dlt_global_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/dlt-labs
-            crunchbase_data:
-              name: DLT Labs
-              description: DLT Labs is a global leader in blockchain based enterprise software solutions for the supply chain and financial services industries.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.dltlabs.com
-              city: Toronto
-              region: Ontario
-              country: Canada
-              twitter: https://twitter.com/DLTLabs
-              linkedin: https://www.linkedin.com/company/dlt-labs/mycompany/
-              acquisitions: []
-              parents: []
-              funding: 801314
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: dlt-global-inc-member.svg
-              hash: OsCOzs7co3wmwB4FsPKQxqsKV1WFTEfQnLVgBRvbURs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-27T15:18:27.000Z
-          - item:
             name: Energy Web Foundation (member)
             homepage_url: https://energyweb.org/
             logo: energy_web_foundation.svg
@@ -16071,37 +15919,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: GSBN (member)
-            homepage_url: https://gsbn.trade/
-            logo: gsbn.svg
-            twitter: https://twitter.com/gsbn_trade
-            crunchbase: https://www.crunchbase.com/organization/gsbn
-            crunchbase_data:
-              name: GSBN
-              description: GSBN is a trade data utility platform powered by blockchain that enables supply chain participants to work collaboratively.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.gsbn.trade
-              city: Hong Kong
-              region: Hong Kong Island
-              country: Hong Kong
-              twitter: null
-              linkedin: https://www.linkedin.com/company/gsbn
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Information Technology
-            image_data:
-              fileName: gsbn-member.svg
-              hash: XUvD8m7Ngutu0sAzsdxSSvw6JaviO3OiTff8K4qHIe8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T02:54:49.000Z
           - item:
             name: Hedera Hashgraph LLC (member)
             homepage_url: https://hedera.com/
@@ -16255,9 +16072,11 @@ landscape:
           - item:
             name: Infosys Limited (member)
             homepage_url: https://infosys.com/
+            stock_ticker: null
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
+            joined: '2020-11-01'
             crunchbase_data:
               name: Infosys
               description: Infosys is a provider of consulting, technology, and outsourcing, and next-generation services.
@@ -16516,144 +16335,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T18:44:12.000Z
           - item:
-            name: IPwe (member)
-            homepage_url: https://ipwe.com/
-            logo: ipwe.svg
-            crunchbase: https://www.crunchbase.com/organization/ipwe
+            name: Japan Securities Clearing Corporation (JSCC) (member)
+            homepage_url: https://www.jpx.co.jp/jscc/en/
+            logo: japan_securities_clearing_corporation_jscc.svg
+            crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
             crunchbase_data:
-              name: IPwe
-              description: IPwe is a global financial technology company revolutionizing the IP space. Our mission is to become the go-to IP business analytics company
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://ipwe.com
-              city: Dallas
-              region: Texas
-              country: United States
-              twitter: https://twitter.com/ipwe_
-              linkedin: https://www.linkedin.com/company/ipwe-com/
-              acquisitions:
-                - date: '2020-04-12'
-                  acquiree: ClearAccessIP
-              parents: []
-              funding: 14509189
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cryptocurrency
-                - FinTech
-                - Finance
-                - Lending
-                - Risk Management
-                - Software
-                - Trading Platform
-              kind: funding
-            image_data:
-              fileName: i-pwe-member.svg
-              hash: I+5H6H5sBMgRXk9kiH+dlZMq1YSY4IcopyB3xzVnB+8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-27T11:04:44.000Z
-          - item:
-            name: Joisto Group Oy (member)
-            homepage_url: https://joisto.com/
-            logo: joisto_group_oy.svg
-            crunchbase: https://www.crunchbase.com/organization/joisto
-            crunchbase_data:
-              name: JOISTO
-              description: Information Technology
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://joisto.com/
-              city: Kerava
-              region: Southern Finland
-              country: Finland
-              twitter: null
-              linkedin: https://www.linkedin.com/company/joisto
+              name: Japan Exchange Group
+              description: JPX operates financial instruments exchange markets to provide market users with reliable venues for trading listed securities.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.jpx.co.jp/english
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://www.twitter.com/JPX_official_EN
+              linkedin: https://www.linkedin.com/company/jpx-derivatives-commodities
               acquisitions: []
               parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: joisto-group-oy-member.svg
-              hash: sEyd6v2Nb5xUtuLF2Nlz+RQKsQOJFfH9BFnrDvX1m+Q=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: JPMorgan Chase (member)
-            homepage_url: https://jpmorganchase.com/
-            logo: jpmorgan_chase.svg
-            crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
-            crunchbase_data:
-              name: JP Morgan Chase
-              description: JP Morgan Chase is a global financial services provider that offers investment banking, asset management, treasury, and other services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.jpmorganchase.com
-              city: New York
-              region: New York
-              country: United States
-              twitter: https://www.twitter.com/jpmorgan
-              linkedin: https://www.linkedin.com/company/jpmorganchase
-              acquisitions:
-                - date: '1999-09-28'
-                  acquiree: Hambrecht & Quist
-                - date: '2004-01-15'
-                  acquiree: Bank One
-                - date: '2005-06-23'
-                  acquiree: Neovest Holdings
-                - date: '2005-12-15'
-                  acquiree: Collegiate Funding Services
-                - date: '2007-05-17'
-                  acquiree: Xign Corporation
-                - date: '2008-03-01'
-                  acquiree: Xspand
-                - date: '2008-03-17'
-                  acquiree: Bear Stearns
-                - date: '2008-09-26'
-                  acquiree: Washington Mutual
-                - date: '2009-11-19'
-                  acquiree: J.P. Morgan Cazenove
-                - date: '2017-10-17'
-                  acquiree: WePay
-                - date: '2019-05-17'
-                  acquiree: InstaMed
-                - date: '2020-12-28'
-                  acquiree: cxLoyalty Group-Global Loyalty business
-                - date: '2021-09-09'
-                  acquiree: The Infatuation
-                - date: '2021-09-21'
-                  acquiree: Frank Financial Aid
-                - date: '2022-02-17'
-                  acquiree: FROSCH
-                - date: '2022-03-01'
-                  acquiree: Global Shares
-                - date: '2023-03-22'
-                  acquiree: Aumni
-                - date: '2023-05-01'
-                  acquiree: First Republic Bank
-              parents: []
-              ticker: JPM
-              funding: 3000000
-              stockExchange: nyse
+              ticker: 8697.T
+              funding: 0
+              stockExchange: tyo
               company_type: For Profit
               industries:
-                - Asset Management
-                - Banking
                 - Financial Services
+                - Stock Exchanges
             yahoo_finance_data:
-              effective_ticker: JPM
+              effective_ticker: 8697.T
             image_data:
-              fileName: jp-morgan-chase-member.svg
-              hash: hPdxL2i1uuLbLvhAUdAgwL6KG8rpBJ7kbIrH1GhyK6A=
+              fileName: japan-securities-clearing-corporation-jscc-member.svg
+              hash: W7xuoVRmiDoOfnL0VojsebdxLR5S/5kC65k7zOkzg9Y=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-27T13:07:26.000Z
           - item:
             name: Kaleido (member)
             homepage_url: https://kaleido.io/
@@ -16725,46 +16438,30 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-26T05:43:52.000Z
           - item:
-            name: LTIMindtree Limited (member)
-            homepage_url: https://ltimindtree.com/
-            logo: ltimindtree_limited.svg
-            twitter: https://twitter.com/LTIMindtreeOFCL
-            crunchbase: https://www.crunchbase.com/organization/mindtree
+            name: Launchnodes (member)
+            homepage_url: https://launchnodes.com/
+            logo: launchnodes.svg
+            crunchbase: https://www.crunchbase.com/organization/launchnodes
             crunchbase_data:
-              name: MindTree
-              description: Mindtree is a global technology consulting & services firm, helping enterprises marry scale with agility to achieve competitive advantage.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.mindtree.com/
-              city: Bangalore
-              region: Karnataka
-              country: India
-              twitter: http://twitter.com/Mindtree_Ltd
-              linkedin: https://www.linkedin.com/company/mindtree-ltd-
-              acquisitions:
-                - date: '2010-04-22'
-                  acquiree: 7Strata
-                - date: '2015-01-19'
-                  acquiree: Discoverture Solutions
-                - date: '2015-07-16'
-                  acquiree: Bluefin Solutions
-                - date: '2015-07-16'
-                  acquiree: RELATIONAL SOLUTIONS
-                - date: '2016-01-18'
-                  acquiree: Magnet 360
-                - date: '2021-05-21'
-                  acquiree: L&T Group - NxT Digital Business
+              name: Launchnodes
+              description: Launchnodes exists to make Ethereum (ETH) staking easy, secure and decentralised for as many stakeholders as possible
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.launchnodes.com/
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/launchnodes/status/1427547097243525120
+              linkedin: https://www.linkedin.com/company/launchnodes
+              acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Hospitality
-                - Information Technology
-                - Insurance
-                - Tourism
+                - FinTech
             image_data:
-              fileName: lti-mindtree-limited-member.svg
-              hash: A3NKVbmHQoUFsmJYqpsa92AEWTq0gimz/XygNoxYA6k=
+              fileName: launchnodes-member.svg
+              hash: Uhw78l4cn2ADsqD4KQa0jmn7yBBZy1PaGTlhQ2z4i68=
             best_practice_data:
               badge: false
               percentage: null
@@ -16889,38 +16586,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T07:38:03.000Z
           - item:
-            name: New H3C Technologies Co., Ltd (member)
-            homepage_url: https://h3c.com/
-            logo: new_h3c_technologies_co_ltd.svg
-            twitter: https://twitter.com/H3CGlobal
-            crunchbase: https://www.crunchbase.com/organization/h3c-technologies
-            crunchbase_data:
-              name: H3C Technologies
-              description: H3C is a leading global supplier of IP-based products and solutions.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.h3c.com/portal/
-              city: Binjiang
-              region: Jiangxi
-              country: China
-              twitter: null
-              linkedin: https://www.linkedin.com/company/h3c-technologies-co-ltd
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Electronics
-                - Information Technology
-                - Manufacturing
-                - Software
-            image_data:
-              fileName: new-h3-c-technologies-co-ltd-member.svg
-              hash: 1HicaLWby3iMbdzHLfkzLOpB5ZgKLPEMMTYoGbtuA58=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: NTT DATA Group Corporation (member)
             homepage_url: https://nttdata.com/
             project: hyperledger-member-services
@@ -17005,7 +16670,7 @@ landscape:
               effective_ticker: 9613.T
             image_data:
               fileName: ntt-data-group-corporation-member.svg
-              hash: G7Ed1WXgCKT4vRpfC/EGDlAqqIe1YeC2vYaT7DxENzc=
+              hash: st9TPQt7Y0OUu1gtnLZbpRiNmmihCnqrxH9/92ZVemY=
             best_practice_data:
               badge: false
               percentage: null
@@ -17370,53 +17035,8 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T16:38:33.000Z
           - item:
-            name: Poste Italiane SPA (member)
-            homepage_url: https://posteitaliane.it/
-            logo: poste_italiane_spa.svg
-            twitter: https://twitter.com/PosteNews
-            crunchbase: https://www.crunchbase.com/organization/poste-italiane
-            crunchbase_data:
-              name: Poste Italiane
-              description: Poste Italiane is the offer of postal products and services, financial and insurance, available online.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.posteitaliane.it/
-              city: Rome
-              region: Lazio
-              country: Italy
-              twitter: https://www.twitter.com/postenews
-              linkedin: https://www.linkedin.com/company/poste-italiane/
-              acquisitions:
-                - date: '2011-08-01'
-                  acquiree: Banca del Mezzogiorno - MedioCredito Centrale
-                - date: '2017-02-20'
-                  acquiree: IndaBox
-                - date: '2020-11-16'
-                  acquiree: Nexive
-                - date: '2022-10-27'
-                  acquiree: Agile Lab
-              parents: []
-              ticker: PST.MI
-              stockExchange: bit
-              company_type: For Profit
-              industries:
-                - Energy
-                - Financial Services
-                - Logistics
-                - Packaging Services
-            yahoo_finance_data:
-              effective_ticker: PST.MI
-            image_data:
-              fileName: poste-italiane-spa-member.svg
-              hash: GrkHb8cBcMqNMYfHLGNqsVtVxGCNenw3qFyFOkf7lFs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-27T14:51:46.000Z
-          - item:
             name: R3 LLC (member)
-            homepage_url: https://r3cev.com/
+            homepage_url: https://r3.com/
             logo: r3_llc.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
             crunchbase_data:
@@ -17452,24 +17072,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-08-23T11:43:01.000Z
-          - item:
-            name: REALTO GROUP INC (member)
-            homepage_url: https://realtoapps.com/
-            logo: realto_group_inc.svg
-            twitter: https://twitter.com/RealtoApps
-            organization:
-              name: REALTO GROUP INC
-            crunchbase_data:
-              name: REALTO GROUP INC
-              parents: []
-            image_data:
-              fileName: realto-group-inc-member.svg
-              hash: VglFjgkG4xQDg7tLzAkXEnHp3E7z+ol2D4Kj7FWvVPM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-02-15T15:34:04.000Z
           - item:
             name: Red Date (Hong Kong) Technology Limited (member)
             homepage_url: https://bsnbase.io/
@@ -17541,6 +17143,71 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: SDAX Exchange Pte Ltd (member)
+            homepage_url: https://sdax.co/
+            logo: sdax_exchange_pte_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/sdax
+            crunchbase_data:
+              name: SDAX
+              description: SDAX is a globally connected platform offering private markets investment opportunities.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.sdax.co/
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: https://twitter.com/sdax_co
+              linkedin: https://sg.linkedin.com/company/sdax
+              acquisitions: []
+              parents: []
+              funding: 17591116
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Asset Management
+                - FinTech
+                - Financial Services
+                - Trading Platform
+              kind: funding
+            image_data:
+              fileName: sdax-exchange-pte-ltd-member.svg
+              hash: MiXKJuyS6Tvd1NElEcRIVphUx0MKBCvne6IGo7kb/i0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: SEIYAJ TECH (member)
+            homepage_url: https://seiyaj.com/
+            logo: seiyaj_tech.svg
+            crunchbase: https://www.crunchbase.com/organization/seiyaj-tech
+            crunchbase_data:
+              name: SEIYAJ TECH
+              description: To localize cutting-edge digital solutions and green energy technologies through collaboration with innovative international companies
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://seiyaj.com/
+              city: Hasa
+              region: Al Madinah
+              country: Saudi Arabia
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Aerospace
+                - AgTech
+                - GreenTech
+                - Health Care
+                - PropTech
+            image_data:
+              fileName: seiyaj-tech-member.svg
+              hash: 7FLT1C4+litbC2MaxulidiNMux4xdB8ho6k1BNiNIjY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Senofi (member)
             homepage_url: https://senofi.ca/
             logo: senofi.svg
@@ -17567,69 +17234,6 @@ landscape:
             image_data:
               fileName: senofi-member.svg
               hash: LD5R1Uoii4dCkFoVb630nV/NxK3Nyj+xwzWGiNiMPi4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Shanghai Vonechain Information Technology Co., Ltd (member)
-            homepage_url: https://vonechain.com/
-            logo: shanghai_vonechain_information_technology_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/vonechain-technology
-            crunchbase_data:
-              name: Vonechain Technology
-              description: Vonechain Technology is the blockchain innovator that provides blockchain solutions for all industries.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: http://www.vonechain.com/web/en/index/page
-              city: Shanghai
-              region: Shanghai
-              country: China
-              twitter: https://twitter.com/vonechain
-              linkedin: https://www.linkedin.com/company/vonechain-technology
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-            image_data:
-              fileName: shanghai-vonechain-information-technology-co-ltd-member.svg
-              hash: k42ga6anHRgFKZDygFDngvKyzBZ5LW92q3mj1kqG0JE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-14T08:09:47.000Z
-          - item:
-            name: Shenzhen Forms Syntron Information Co. Ltd (member)
-            homepage_url: https://formssi.com/
-            logo: shenzhen_forms_syntron_information_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/shenzhen-forms-syntron-information
-            crunchbase_data:
-              name: Shenzhen Forms Syntron Information
-              description: Shenzhen Forms Syntron Information develops software products.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.formssi.com/
-              city: Nanshanqu
-              region: Guangdong
-              country: China
-              twitter: null
-              linkedin: https://www.linkedin.com/company/forms-hk/
-              acquisitions: []
-              parents: []
-              ticker: 300468.SZ
-              stockExchange: szse
-              company_type: For Profit
-              industries:
-                - Consumer Applications
-                - Information Technology
-                - Software
-            yahoo_finance_data:
-              effective_ticker: 300468.SZ
-            image_data:
-              fileName: shenzhen-forms-syntron-information-co-ltd-member.svg
-              hash: 7gocvZ1LwjhMOHeI5uGvOeInP845v6SA7gTTDO764RY=
             best_practice_data:
               badge: false
               percentage: null
@@ -17827,85 +17431,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T12:00:00.000Z
           - item:
-            name: SIMBA Chain (member)
-            homepage_url: https://simbachain.com/
-            project: hyperledger-member-products
-            logo: simba_chain.svg
-            twitter: https://twitter.com/SIMBAchain
-            crunchbase: https://www.crunchbase.com/organization/simba-chain
-            crunchbase_data:
-              name: SIMBA Chain
-              description: Incubated at the University of Notre Dame, SIMBA Chain provides a scalable enterprise platform that simplifies blockchain development.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.simbachain.com
-              city: South Bend
-              region: Indiana
-              country: United States
-              twitter: http://twitter.com/simbachain
-              linkedin: https://www.linkedin.com/company/simbachain/
-              acquisitions:
-                - date: '2022-02-15'
-                  acquiree: StrongSalt
-              parents: []
-              funding: 58500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Cryptocurrency
-                - FinTech
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: simba-chain-member.svg
-              hash: crWQkiO/lVN5RGtiNme1MWPwS4f0mZCIzky1RQBcdb8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-25T16:02:29.000Z
-          - item:
-            name: Snapper Future Tech Pvt Ltd (member)
-            homepage_url: https://snapperfuturetech.com/
-            logo: snapper_future_tech_pvt_ltd.svg
-            twitter: https://twitter.com/snapper_future
-            crunchbase: https://www.crunchbase.com/organization/snapper-future-tech
-            crunchbase_data:
-              name: Snapper Future Tech
-              description: SFT is a blockchain technology development company offering Hyperledger and Ethereum solutions development
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.snapperfuturetech.com
-              city: Aundh
-              region: Maharashtra
-              country: India
-              twitter: null
-              linkedin: https://www.linkedin.com/company/13729670/admin/
-              acquisitions: []
-              parents: []
-              funding: 544000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - GovTech
-                - Information Technology
-                - InsurTech
-                - Software
-                - Supply Chain Management
-                - Training
-              kind: funding
-            image_data:
-              fileName: snapper-future-tech-pvt-ltd-member.svg
-              hash: LhAc7csuXrtKb47VE8WnT4ekJsNxQ5PIWONQK8CuS/o=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-10-27T15:36:22.000Z
-          - item:
             name: SORAMITSU CO., LTD. (member)
             homepage_url: https://soramitsu.co.jp/
             logo: soramitsu_co_ltd.svg
@@ -17978,119 +17503,41 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T15:01:59.000Z
           - item:
-            name: Tech Mahindra Limited (member)
-            homepage_url: https://techmahindra.com/
-            logo: tech_mahindra_limited.svg
-            twitter: https://twitter.com/tech_mahindra
-            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
+            name: Tassets Inc (member)
+            homepage_url: https://tassets.com/
+            logo: tassets_inc.svg
+            twitter: https://twitter.com/RealtoApps
+            crunchbase: https://www.crunchbase.com/organization/tassets-e830
             crunchbase_data:
-              name: Tech Mahindra
-              description: Tech Mahindra is a global systems integrator and is a part of the Mahindra Group.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.techmahindra.com
-              city: Pune
-              region: Maharashtra
-              country: India
-              twitter: http://twitter.com/Tech_Mahindra
-              linkedin: https://www.linkedin.com/company/tech-mahindra
-              acquisitions:
-                - date: '2007-01-18'
-                  acquiree: iPolicy Networks
-                - date: '2013-06-25'
-                  acquiree: Satyam Computer Services Ltd.
-                - date: '2014-11-20'
-                  acquiree: Lightbridge Communications Corporation
-                - date: '2015-01-09'
-                  acquiree: SOFGEN
-                - date: '2016-05-28'
-                  acquiree: Target Group
-                - date: '2016-06-22'
-                  acquiree: The Bio Agency
-                - date: '2017-03-06'
-                  acquiree: CJS Solutions Group
-                - date: '2018-08-22'
-                  acquiree: Inter - Informatics
-                - date: '2019-02-04'
-                  acquiree: Dynacommerce
-                - date: '2019-06-17'
-                  acquiree: Objectwise
-                - date: '2019-07-30'
-                  acquiree: Mad*Pow
-                - date: '2019-11-05'
-                  acquiree: BORN
-                - date: '2020-02-24'
-                  acquiree: Zen3 infosolutions
-                - date: '2020-10-23'
-                  acquiree: Momenton
-                - date: '2020-10-23'
-                  acquiree: Tenzing Ltd.
-                - date: '2021-01-12'
-                  acquiree: Payments Technology Services Ltd
-                - date: '2021-03-15'
-                  acquiree: Perigord
-                - date: '2021-04-19'
-                  acquiree: DigitalOnUS
-                - date: '2021-04-27'
-                  acquiree: Eventus Solutions Group
-                - date: '2021-06-28'
-                  acquiree: BrainScale
-                - date: '2021-10-25'
-                  acquiree: Lodestone
-                - date: '2021-10-25'
-                  acquiree: We Make Websites
-                - date: '2021-12-03'
-                  acquiree: Activus Connect
-                - date: '2021-12-31'
-                  acquiree: Allyis
-                - date: '2022-01-17'
-                  acquiree: Com Tec Co
-                - date: '2022-03-12'
-                  acquiree: Thirdware Solution
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Consulting
-                - Network Security
-                - Telecommunications
-            image_data:
-              fileName: tech-mahindra-limited-member.svg
-              hash: eqN6YujrGGRfxZPMEgIdOjwPZcw0vvKsmd6wf8mriV0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-27T14:47:52.000Z
-          - item:
-            name: Tokentrust AG (member)
-            homepage_url: https://atomyze.com/
-            logo: tokentrust_ag.svg
-            crunchbase: https://www.crunchbase.com/organization/atomyze
-            crunchbase_data:
-              name: Atomyze
-              description: Atomyze, LLC is the US arm of a global fintech platform
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://atomyze.us/
-              city: Greenwich
-              region: Connecticut
+              name: TASSETS
+              description: TASSETS is an AI and blockchain platform that provides financial solutions and technology services for asset tokenization as a service.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.tassets.com
+              city: Santa Clara
+              region: California
               country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/atomyzeus/
+              twitter: https://twitter.com/tassetsinc
+              linkedin: https://www.linkedin.com/company/tassets
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - FinTech
+                - Artificial Intelligence (AI)
+                - Blockchain
                 - Financial Services
+                - Information Technology
+                - Payments
+                - Software
             image_data:
-              fileName: tokentrust-ag-member.svg
-              hash: z/cABhZ6bxCm4NFFe6+RlKyxEJ2gmjCSMT5iaRjjeNs=
+              fileName: tassets-inc-member.svg
+              hash: uVKDfPbFnSkTkF+s/gz+wOUchoHLp0ldQWZhNEHiL3Q=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-02-15T15:34:04.000Z
           - item:
             name: ToposWare Inc. (member)
             homepage_url: https://toposware.com/
@@ -18228,6 +17675,7 @@ landscape:
             logo: walmart_inc.svg
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
+            joined: '2018-09-01'
             crunchbase_data:
               name: Walmart Labs
               description: WalmartLabs, the technology division responsible for Walmart’s global e-Commerce initiatives.
@@ -18298,6 +17746,37 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-01-27T19:10:26.000Z
+          - item:
+            name: Web3 Labs (member)
+            homepage_url: https://web3labs.com/
+            logo: web3_labs.svg
+            twitter: https://twitter.com/web3labs
+            crunchbase: https://www.crunchbase.com/organization/web3-labs
+            crunchbase_data:
+              name: Web3 Labs
+              description: Web3 Labs provides the full-stack development and intelligence platform for companies to work with blockchain at speed and scale.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.web3labs.com/
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/web3labs
+              linkedin: https://www.linkedin.com/company/web3labs/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+            image_data:
+              fileName: web3-labs-member.svg
+              hash: 2q5KVgEnYidDGhypsdcxFiOJJW3muFEme50NoiIdWNM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-08-23T15:02:29.000Z
           - item:
             name: Wipro Limited (member)
             homepage_url: https://wipro.com/
@@ -18564,7 +18043,7 @@ landscape:
               kind: funding
             image_data:
               fileName: arizona-state-university-member.svg
-              hash: dhmCWGIrbRVPH1Qg21oeG0veA0K539hLABkAvDghK/0=
+              hash: G2ZiZg35xG2ZEnBbmeENWZrQkAb7mfUITwjHWFzLfHQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -19045,6 +18524,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-06T19:47:59.000Z
           - item:
+            name: Digital Currency Forum (member)
+            homepage_url: https://decurret-dcp.com/
+            logo: digital_currency_forum.svg
+            organization:
+              name: Digital Currency Forum
+            crunchbase_data:
+              name: Digital Currency Forum
+              parents: []
+            image_data:
+              fileName: digital-currency-forum-member.svg
+              hash: scI8no03pEWdl7Fel/20dcnQQJ7ThXwF0w/BuIckmFs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Digital Euro Association (DEA) (member)
             homepage_url: https://digital-euro-association.de/
             logo: digital_euro_association_dea.svg
@@ -19440,42 +18934,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-21T10:00:29.000Z
           - item:
-            name: INATBA (member)
-            homepage_url: https://inatba.org/
-            project: organization
-            logo: inatba.svg
-            twitter: https://twitter.com/INATBA_org
-            crunchbase: https://www.crunchbase.com/organization/inatba
-            crunchbase_data:
-              name: International Association for Trusted Blockchain Applications
-              description: INATBA is a nonprofit blockchain association that helps organizations with blockchain applications and blockchain ecosystem.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://inatba.org
-              city: Brussels
-              region: Brussels Hoofdstedelijk Gewest
-              country: Belgium
-              twitter: https://twitter.com/inatba_org
-              linkedin: https://www.linkedin.com/company/inatba/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Association
-                - Blockchain
-                - Consulting
-                - Information Technology
-                - Non Profit
-            image_data:
-              fileName: inatba-member.svg
-              hash: d0YQVuehNU4nRkc8srsjlyIqnQuNKaxiD3Pd3uJhIEk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-27T11:20:03.000Z
-          - item:
             name: Initiative for CryptoCurrencies and Contracts (IC3) (member)
             homepage_url: https://initc3.org/
             logo: initiative_for_cryptocurrencies_and_contracts_ic3.svg
@@ -19541,6 +18999,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-01-27T17:35:31.000Z
+          - item:
+            name: International Association for Trusted Blockchain Applications (INATBA) (member)
+            homepage_url: https://inatba.org/
+            logo: international_association_for_trusted_blockchain_applications_inatba.svg
+            twitter: https://twitter.com/INATBA_org
+            crunchbase: https://www.crunchbase.com/organization/inatba
+            crunchbase_data:
+              name: International Association for Trusted Blockchain Applications
+              description: INATBA is a nonprofit blockchain association that helps organizations with blockchain applications and blockchain ecosystem.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://inatba.org
+              city: Brussels
+              region: Brussels Hoofdstedelijk Gewest
+              country: Belgium
+              twitter: https://twitter.com/inatba_org
+              linkedin: https://www.linkedin.com/company/inatba/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Association
+                - Blockchain
+                - Consulting
+                - Information Technology
+                - Non Profit
+            image_data:
+              fileName: international-association-for-trusted-blockchain-applications-inatba-member.svg
+              hash: d0YQVuehNU4nRkc8srsjlyIqnQuNKaxiD3Pd3uJhIEk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-27T11:20:03.000Z
           - item:
             name: Kerala Blockchain Academy (member)
             homepage_url: https://kba.ai/
@@ -19710,9 +19203,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-25T11:33:55.000Z
           - item:
-            name: Noregs Bank (member)
+            name: National Payments Corporation of India (member)
+            homepage_url: https://npci.org.in/
+            logo: national_payments_corporation_of_india.svg
+            crunchbase: https://www.crunchbase.com/organization/national-payments-corporation-of-india
+            crunchbase_data:
+              name: National Payments Corporation of India
+              description: NPCI is an umbrella organization for all retail payments in India.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.npci.org.in/
+              city: Mumbai
+              region: Maharashtra
+              country: India
+              twitter: https://www.twitter.com/npci_npci
+              linkedin: https://www.linkedin.com/company/npci
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Financial Services
+                - Non Profit
+            image_data:
+              fileName: national-payments-corporation-of-india-member.svg
+              hash: 9ABEzOVk194r/8bA90LaW9IvPkjsbJlafC3grZbWsJ4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Norges Bank (member)
             homepage_url: https://norges-bank.no/
-            logo: noregs_bank.svg
+            logo: norges_bank.svg
             crunchbase: https://www.crunchbase.com/organization/norges-bank
             crunchbase_data:
               name: Norges Bank
@@ -19732,7 +19254,7 @@ landscape:
               industries:
                 - Banking
             image_data:
-              fileName: noregs-bank-member.svg
+              fileName: norges-bank-member.svg
               hash: pPfQJa/P9v0AHSRcjza5IFb0DuB64GUyugyyswBSn0c=
             best_practice_data:
               badge: false
@@ -21937,6 +21459,93 @@ landscape:
             twitter_data:
               latest_tweet_date: 2012-02-27T18:36:36.000Z
           - item:
+            name: Infosys (HCSP)
+            description: >-
+              Infosys is a leading provider of blockchain services with a proven track record of success. We offer a full-stack solution and a rick asset
+              portfolio,  which enables us to rapidly deliver end-to-end solutions that meet the unique needs of our clients. Our expertise in value definition
+              and long-term sustainability frameworks, as well as our deep understanding of web3 technologies, make us a valuable partner for clients who are
+              looking to harness the power of blockchain to transform their businesses.
+            homepage_url: https://www.infosys.com/services/blockchain.html
+            logo: infosys_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/infosys
+            crunchbase_data:
+              name: Infosys
+              description: Infosys is a provider of consulting, technology, and outsourcing, and next-generation services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.infosys.com
+              city: Bangalore
+              region: Karnataka
+              country: India
+              twitter: http://twitter.com/infosys
+              linkedin: https://www.linkedin.com/company/infosys
+              acquisitions:
+                - date: '2003-12-18'
+                  acquiree: Infosys Technologies (Australia) Pty. Ltd.
+                - date: '2009-11-13'
+                  acquiree: McCamish Systems LLC
+                - date: '2012-05-05'
+                  acquiree: EdgeVerve
+                - date: '2012-09-10'
+                  acquiree: Lodestone Holding
+                - date: '2015-02-16'
+                  acquiree: Panaya
+                - date: '2015-04-24'
+                  acquiree: Kallidus Technologies
+                - date: '2015-04-27'
+                  acquiree: Skava
+                - date: '2015-10-19'
+                  acquiree: Noah Consulting
+                - date: '2017-04-18'
+                  acquiree: Skytree
+                - date: '2017-08-03'
+                  acquiree: Brilliant Basics
+                - date: '2018-04-13'
+                  acquiree: WONGDOODY
+                - date: '2018-09-14'
+                  acquiree: Fluido
+                - date: '2019-03-28'
+                  acquiree: Stater
+                - date: '2019-10-09'
+                  acquiree: Eishtec
+                - date: '2020-02-10'
+                  acquiree: Simplus
+                - date: '2020-09-03'
+                  acquiree: Kaleidoscope Innovation and Product Design
+                - date: '2020-09-14'
+                  acquiree: GuideVision
+                - date: '2020-10-08'
+                  acquiree: Blue Acorn iCi
+                - date: '2021-01-13'
+                  acquiree: Carter Digital
+                - date: '2021-12-15'
+                  acquiree: Singtel
+                - date: '2022-07-13'
+                  acquiree: Base Life Science
+                - date: '2023-09-01'
+                  acquiree: Danske Bank
+              parents: []
+              ticker: INFY
+              funding: 200000000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Consulting
+                - IT Management
+                - Information Services
+                - Information Technology
+                - Software
+            yahoo_finance_data:
+              effective_ticker: INFY
+            image_data:
+              fileName: infosys-hcsp.svg
+              hash: RrtW5EwunWf+Ra7/QvHxQKNSs+5rWBoaO+9uKVgZpdo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-08-23T12:30:01.000Z
+          - item:
             name: IntellectEU (HCSP)
             description: >-
               IntellectEU is a founding member of the Hyperledger Foundation and has built several production-grade solutions built on Hyperledger Fabric
@@ -22062,56 +21671,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-26T05:43:52.000Z
           - item:
-            name: Mindtree (HCSP)
-            description: >-
-              Mindtree has been developing capabilities around Hyperledger for the last four years, started contributing to the Hyperledger community since
-              2017. Mindtree has a product for ‘Loyalty Exchange Platform’, named ‘$wap’, using Hyperledger Fabric. 'Merchant On-Boarding' on blockchain using
-              Hyperledger Fabric, is another product which is also in MVP state. Both the products can be customized easily as per the requirement of the
-              customers.
-            homepage_url: https://www.mindtree.com
-            logo: mindtree-horizontal-color.svg
-            crunchbase: https://www.crunchbase.com/organization/mindtree
-            crunchbase_data:
-              name: MindTree
-              description: Mindtree is a global technology consulting & services firm, helping enterprises marry scale with agility to achieve competitive advantage.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.mindtree.com/
-              city: Bangalore
-              region: Karnataka
-              country: India
-              twitter: http://twitter.com/Mindtree_Ltd
-              linkedin: https://www.linkedin.com/company/mindtree-ltd-
-              acquisitions:
-                - date: '2010-04-22'
-                  acquiree: 7Strata
-                - date: '2015-01-19'
-                  acquiree: Discoverture Solutions
-                - date: '2015-07-16'
-                  acquiree: Bluefin Solutions
-                - date: '2015-07-16'
-                  acquiree: RELATIONAL SOLUTIONS
-                - date: '2016-01-18'
-                  acquiree: Magnet 360
-                - date: '2021-05-21'
-                  acquiree: L&T Group - NxT Digital Business
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Hospitality
-                - Information Technology
-                - Insurance
-                - Tourism
-            image_data:
-              fileName: mindtree-hcsp.svg
-              hash: zXrhJuAXe0AswSdnHA395KtbE4UKLPSMOjl7daLKR3A=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-11-14T13:36:47.000Z
-          - item:
             name: NEC Corporation (HCSP)
             description: >-
               NEC Corporation is a leader in the integration of IT and network technologies that benefit businesses and people around the world. NEC brings more
@@ -22173,137 +21732,48 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T06:00:24.000Z
           - item:
-            name: Snapper Future Tech (HCSP)
+            name: Spydra Technologies Pvt Ltd (HCSP)
             description: >-
-              Snapper Future Tech is a global services & technology products company, leading digital transformation for enterprises using blockchain. It offers
-              services in Blockchain application development, training & consulting, along with an innovative suite of specialized products for e-Governance,
-              Financial Services, Insurance, Sustainable Supply Chain & Healthcare.  A Hyperledger Certified Service Provider (HCSP) & Training partner (HTP),
-              the company participates in open-source initiatives across the globe & has robust technological alliances & partnerships with Hyperledger, Oracle,
-              Amazon Web Services, IBM, Trust over IP & Sovrin.
-            homepage_url: https://snapperfuturetech.com/
-            logo: snapper_logo_horizontal.svg
-            crunchbase: https://www.crunchbase.com/organization/snapper-future-tech
+              Spydra is revolutionizing the enterprise blockchain landscape by creating a highly customizable, low-code Asset Tokenization Platform built on 
+              Hyperledger Fabric. Our Cutting-edge solution empowers businesses to rapidly deploy scalable blockchain networks on their preferred cloud 
+              infrastructure, ensuring flexibility and seamless integration with existing systems.
+            homepage_url: https://spydra.app/
+            logo: spydra_technologies_pvt_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/spydra
             crunchbase_data:
-              name: Snapper Future Tech
-              description: SFT is a blockchain technology development company offering Hyperledger and Ethereum solutions development
+              name: Spydra
+              description: Scalable Web 3 Service & Infrastructure Provider | Blockchain Technology Solutions for Your Business on SPYDRA.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.snapperfuturetech.com
-              city: Aundh
-              region: Maharashtra
-              country: India
-              twitter: null
-              linkedin: https://www.linkedin.com/company/13729670/admin/
+              homepage: https://www.spydra.app/
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: https://twitter.com/spydra_io
+              linkedin: https://www.linkedin.com/company/spydra/
               acquisitions: []
               parents: []
-              funding: 544000
+              funding: 3000000
               stockExchange: null
               company_type: For Profit
               industries:
+                - Banking
                 - Blockchain
-                - GovTech
-                - Information Technology
-                - InsurTech
-                - Software
+                - Enterprise Software
+                - FinTech
+                - Manufacturing
+                - Retail
+                - SaaS
                 - Supply Chain Management
-                - Training
               kind: funding
             image_data:
-              fileName: snapper-future-tech-hcsp.svg
-              hash: yAwS3JcV/XCfZbHcv8LcH3X2pucofAPQO4VK4nCZqfk=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Tech Mahindra (HCSP)
-            description: >-
-              Tech Mahindra is one of the leading Blockchain Service Providers in the world with demonstrated product development capabilities using Hyperledger
-              projects by developing 25+ Blockchain platforms and also implemented one of the world’s largest Blockchain networks covering 500 million+
-              subscribers in India to fight spam calls and text. With 250+ global engagements and 100+ core Blockchain team members trained on Hyperledger, we
-              have extensive experience in developing and deploying several transformative implementations for governments, large and mid-sized enterprises
-              across diverse industry verticals that have helped our clients solve complex business problems.
-            homepage_url: https://www.techmahindra.com/en-in/techmnxt/techbets/blockchain/
-            logo: techmahindra-stacked-color.svg
-            crunchbase: https://www.crunchbase.com/organization/tech-mahindra
-            crunchbase_data:
-              name: Tech Mahindra
-              description: Tech Mahindra is a global systems integrator and is a part of the Mahindra Group.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.techmahindra.com
-              city: Pune
-              region: Maharashtra
-              country: India
-              twitter: http://twitter.com/Tech_Mahindra
-              linkedin: https://www.linkedin.com/company/tech-mahindra
-              acquisitions:
-                - date: '2007-01-18'
-                  acquiree: iPolicy Networks
-                - date: '2013-06-25'
-                  acquiree: Satyam Computer Services Ltd.
-                - date: '2014-11-20'
-                  acquiree: Lightbridge Communications Corporation
-                - date: '2015-01-09'
-                  acquiree: SOFGEN
-                - date: '2016-05-28'
-                  acquiree: Target Group
-                - date: '2016-06-22'
-                  acquiree: The Bio Agency
-                - date: '2017-03-06'
-                  acquiree: CJS Solutions Group
-                - date: '2018-08-22'
-                  acquiree: Inter - Informatics
-                - date: '2019-02-04'
-                  acquiree: Dynacommerce
-                - date: '2019-06-17'
-                  acquiree: Objectwise
-                - date: '2019-07-30'
-                  acquiree: Mad*Pow
-                - date: '2019-11-05'
-                  acquiree: BORN
-                - date: '2020-02-24'
-                  acquiree: Zen3 infosolutions
-                - date: '2020-10-23'
-                  acquiree: Momenton
-                - date: '2020-10-23'
-                  acquiree: Tenzing Ltd.
-                - date: '2021-01-12'
-                  acquiree: Payments Technology Services Ltd
-                - date: '2021-03-15'
-                  acquiree: Perigord
-                - date: '2021-04-19'
-                  acquiree: DigitalOnUS
-                - date: '2021-04-27'
-                  acquiree: Eventus Solutions Group
-                - date: '2021-06-28'
-                  acquiree: BrainScale
-                - date: '2021-10-25'
-                  acquiree: Lodestone
-                - date: '2021-10-25'
-                  acquiree: We Make Websites
-                - date: '2021-12-03'
-                  acquiree: Activus Connect
-                - date: '2021-12-31'
-                  acquiree: Allyis
-                - date: '2022-01-17'
-                  acquiree: Com Tec Co
-                - date: '2022-03-12'
-                  acquiree: Thirdware Solution
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Consulting
-                - Network Security
-                - Telecommunications
-            image_data:
-              fileName: tech-mahindra-hcsp.svg
-              hash: 1Y3T5OtwX3GMtFnWB0zhMM+WRM6zetQiLh1WFx9RtPY=
+              fileName: spydra-technologies-pvt-ltd-hcsp.svg
+              hash: 1ZgsNgynx8hFENrI3in7Z5V5VN/D8+1J0zOLAkQM7JM=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2023-01-27T14:47:52.000Z
+              latest_tweet_date: 2023-01-27T15:01:59.000Z
           - item:
             name: Wipro Limited (HCSP)
             homepage_url: https://wipro.com/
