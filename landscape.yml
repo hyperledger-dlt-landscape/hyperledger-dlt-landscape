@@ -1304,7 +1304,6 @@ landscape:
             name: Adhara Limited (member)
             homepage_url: https://adhara.io/
             logo: adhara_limited.svg
-            twitter: https://twitter.com/adhara_io
             crunchbase: https://www.crunchbase.com/organization/adhara
           - item:
             name: American Express Banking Corp. (member)
@@ -1355,7 +1354,6 @@ landscape:
             name: Citi (member)
             homepage_url: https://citi.com/
             logo: citi.svg
-            twitter: https://twitter.com/citi
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
@@ -1547,11 +1545,6 @@ landscape:
             logo: r3_llc.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
           - item:
-            name: Red Date (Hong Kong) Technology Limited (member)
-            homepage_url: https://bsnbase.io/
-            logo: red_date_hong_kong_technology_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/red-date-technology
-          - item:
             name: Ripple Labs Inc. (member)
             homepage_url: https://ripple.com/
             logo: ripple_labs_inc.svg
@@ -1620,7 +1613,6 @@ landscape:
             name: Web3 Labs (member)
             homepage_url: https://web3labs.com/
             logo: web3_labs.svg
-            twitter: https://twitter.com/web3labs
             crunchbase: https://www.crunchbase.com/organization/web3-labs
           - item:
             name: Wipro Limited (member)
@@ -1829,6 +1821,7 @@ landscape:
           - item:
             name: International Association for Trusted Blockchain Applications (INATBA) (member)
             homepage_url: https://inatba.org/
+            project: organization
             logo: international_association_for_trusted_blockchain_applications_inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba
