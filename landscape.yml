@@ -564,7 +564,7 @@ landscape:
                 Used by hundreds of companies and protocols globally, Chainlens has accelerated blockchain adoption and made it easier to manage digital assets.
             homepage_url: https://chainlens.com/
             project: hyperledger-member-products
-            logo: chainlens.svg
+            logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
       - subcategory:
         name: Analytics/Monitoring tools
