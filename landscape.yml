@@ -555,13 +555,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/truffle-suite
           - item:
             name: Web3 Labs/Chainlens
-            description: |-
-                Chainlens by Web3 Labs, is the go-to appchain and blockchain explorer for EVM-compatible networks, designed to demystify blockchain assets and smart contracts. With a focus on ease of use, Chainlens offers:
-                - Full NFT and token support (ERC-20, ERC-721, ERC-1155)
-                - Advanced search, filter, and sort features
-                - Customisation tailored to your brand
-                - Robust API for streamlined reporting
-                Used by hundreds of companies and protocols globally, Chainlens has accelerated blockchain adoption and made it easier to manage digital assets.
+            description: Chainlens by Web3 Labs, is the go-to appchain and blockchain explorer for EVM-compatible networks, designed to demystify blockchain assets and smart contracts. With a focus on ease of use, Chainlens offers full NFT and token support (ERC-20, ERC-721, ERC-1155), advanced search, filter, and sort features, customisation tailored to your brand, robust API for streamlined reporting. Used by hundreds of companies and protocols globally, Chainlens has accelerated blockchain adoption and made it easier to manage digital assets.
             homepage_url: https://chainlens.com/
             project: hyperledger-member-products
             logo: web3-labs-primary.svg
