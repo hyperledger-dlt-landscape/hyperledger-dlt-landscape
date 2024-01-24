@@ -555,7 +555,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/truffle-suite
           - item:
             name: Web3 Labs/Chainlens
-            description: Chainlens by Web3 Labs, is the go-to appchain and blockchain explorer for EVM-compatible networks, designed to demystify blockchain assets and smart contracts. With a focus on ease of use, Chainlens offers full NFT and token support (ERC-20, ERC-721, ERC-1155), advanced search, filter, and sort features, customisation tailored to your brand, robust API for streamlined reporting. Used by hundreds of companies and protocols globally, Chainlens has accelerated blockchain adoption and made it easier to manage digital assets.
+            description: >-
+              Chainlens by Web3 Labs, is the go-to appchain and blockchain explorer for EVM-compatible networks, designed to demystify blockchain assets and
+              smart contracts. With a focus on ease of use, Chainlens offers full NFT and token support (ERC-20, ERC-721, ERC-1155), advanced search, filter,
+              and sort features, customisation tailored to your brand, robust API for streamlined reporting. Used by hundreds of companies and protocols
+              globally, Chainlens has accelerated blockchain adoption and made it easier to manage digital assets.
             homepage_url: https://chainlens.com/
             project: hyperledger-member-products
             logo: web3-labs-primary.svg
@@ -931,7 +935,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ust
           - item:
             name: Web3 Labs
-            description: Web3 Labs offers enterprise support for Hyperledger Besu, a crucial aspect when organisations or consortia set up permissioned blockchain networks. As ConsenSys' recommended supplier for Hyperledger Besu, Web3 Labs ensures high-quality, SLA-backed production support for organisations currently operating or intending to establish permissioned blockchain networks, ensuring stability and reliability in their infrastructure.
+            description: >-
+              Web3 Labs offers enterprise support for Hyperledger Besu, a crucial aspect when organisations or consortia set up permissioned blockchain
+              networks. As ConsenSys' recommended supplier for Hyperledger Besu, Web3 Labs ensures high-quality, SLA-backed production support for organisations
+              currently operating or intending to establish permissioned blockchain networks, ensuring stability and reliability in their infrastructure.
             homepage_url: https://www.web3labs.com
             project: hyperledger-member-services
             logo: web3-labs-primary.svg
@@ -1276,13 +1283,6 @@ landscape:
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
           - item:
-            name: Fujitsu Limited (member)
-            homepage_url: https://fujitsu.com/
-            stock_ticker: null
-            logo: fujitsu_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/fujitsu
-            joined: '2016-01-01'
-          - item:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
@@ -1306,7 +1306,6 @@ landscape:
             name: Adhara Limited (member)
             homepage_url: https://adhara.io/
             logo: adhara_limited.svg
-            twitter: https://twitter.com/adhara_io
             crunchbase: https://www.crunchbase.com/organization/adhara
           - item:
             name: American Express Banking Corp. (member)
@@ -1357,7 +1356,6 @@ landscape:
             name: Citi (member)
             homepage_url: https://citi.com/
             logo: citi.svg
-            twitter: https://twitter.com/citi
             crunchbase: https://www.crunchbase.com/organization/citigroup
             joined: '2021-01-25'
           - item:
@@ -1549,11 +1547,6 @@ landscape:
             logo: r3_llc.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
           - item:
-            name: Red Date (Hong Kong) Technology Limited (member)
-            homepage_url: https://bsnbase.io/
-            logo: red_date_hong_kong_technology_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/red-date-technology
-          - item:
             name: Ripple Labs Inc. (member)
             homepage_url: https://ripple.com/
             logo: ripple_labs_inc.svg
@@ -1620,10 +1613,12 @@ landscape:
             joined: '2018-09-01'
           - item:
             name: Web3 Labs (member)
-            description: Web3 Labs is a leading blockchain technology firm specialising in decentralised infrastructure solutions. We offer a suite of products and services that provide customers with core infrastructure for their network. This encompasses Chainlens, the blockchain, development and analytics platform, as well as Hyperledger Besu Support and integrations with existing systems.
+            description: >-
+              Web3 Labs is a leading blockchain technology firm specialising in decentralised infrastructure solutions. We offer a suite of products and
+              services that provide customers with core infrastructure for their network. This encompasses Chainlens, the blockchain, development and analytics
+              platform, as well as Hyperledger Besu Support and integrations with existing systems.
             homepage_url: https://web3labs.com/
             logo: web3_labs.svg
-            twitter: https://twitter.com/web3labs
             crunchbase: https://www.crunchbase.com/organization/web3-labs
           - item:
             name: Wipro Limited (member)
@@ -1832,6 +1827,7 @@ landscape:
           - item:
             name: International Association for Trusted Blockchain Applications (INATBA) (member)
             homepage_url: https://inatba.org/
+            project: organization
             logo: international_association_for_trusted_blockchain_applications_inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba
