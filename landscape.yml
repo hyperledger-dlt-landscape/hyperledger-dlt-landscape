@@ -951,7 +951,8 @@ landscape:
         items:
           - item:
             name: Hyperledger Besu
-            second_path: Distributed Ledgers / Hybrid
+            second_path:
+              - Distributed Ledgers / Hybrid
             description: >-
               Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases, with an
               extractable EVM implementation. It can also be run on test networks such as Sepolia and Görli. Hyperledger Besu includes several consensus
@@ -974,7 +975,8 @@ landscape:
               documentation: https://besu.hyperledger.org/en/stable/
           - item:
             name: Hyperledger Fabric
-            second_path: Distributed Ledgers / Permissioned
+            second_path:
+              - Distributed Ledgers / Permissioned
             description: >-
               Hyperledger Fabric is intended as a foundation for developing applications or solutions with a modular architecture. Hyperledger Fabric allows
               components, such as consensus and membership services, to be plug-and-play.  Its modular and versatile design satisfies a broad range of industry
@@ -1013,7 +1015,8 @@ landscape:
               documentation: https://hyperledger-fabric.readthedocs.io/en/latest/
           - item:
             name: Hyperledger Indy
-            second_path: Distributed Ledgers / Permissioned
+            second_path:
+              - Distributed Ledgers / Permissioned
             description: >-
               Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed
               ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other
@@ -1042,7 +1045,8 @@ landscape:
               documentation: https://indy.readthedocs.io/en/latest/
           - item:
             name: Hyperledger Iroha
-            second_path: Distributed Ledgers / Permissioned
+            second_path:
+              - Distributed Ledgers / Permissioned
             description: >-
               Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural or IoT projects requiring distributed ledger technology. 
               Hyperledger Iroha features a simple construction, modular, domain-driven C++ design, emphasis on client application development and a new, crash
@@ -1068,7 +1072,8 @@ landscape:
               documentation: https://iroha.readthedocs.io/en/main/
           - item:
             name: Hyperledger Sawtooth
-            second_path: Distributed Ledgers / Hybrid
+            second_path:
+              - Distributed Ledgers / Hybrid
             description: >-
               Hyperledger Sawtooth offers a flexible and modular architecture separates the core system from the application domain, so smart contracts can
               specify the business rules for applications without needing to know the underlying design of the core system. Hyperledger Sawtooth supports a
@@ -1119,7 +1124,8 @@ landscape:
               wiki: https://wiki.hyperledger.org/display/anoncreds
           - item:
             name: Hyperledger Aries
-            second_path: Technology Intersections / Cybersecurity
+            second_path:
+              - Technology Intersections / Cybersecurity
             description: >-
               Hyperledger Aries is your complete toolkit for decentralized identity solutions and digital trust. Issue, store and present verifiable credentials
               with maximum privacy preservation, and establish confidential, ongoing communication channels for rich interactions. It supports multiple
@@ -1161,7 +1167,8 @@ landscape:
         items:
           - item:
             name: Hyperledger Bevel
-            second_path: Platforms / Management/Operations
+            second_path:
+              - Platforms / Management/Operations
             description: >-
               Hyperledger Bevel is an accelerator by which developers can consistently deploy production-ready distributed networks across public and private
               cloud providers.
@@ -1176,7 +1183,8 @@ landscape:
               documentation: https://hyperledger-bevel.readthedocs.io/en/latest/
           - item:
             name: Hyperledger Cacti
-            second_path: Interoperability / Point-to-point and overlayer approaches
+            second_path:
+              - Interoperability / Point-to-point and overlayer approaches
             description: Hyperledger Cacti is a blockchain integration tool designed to allow users to securely integrate different blockchains.
             homepage_url: https://www.hyperledger.org/use/cacti
             project: graduated
@@ -1188,7 +1196,8 @@ landscape:
               chat: https://discord.com/channels/905194001349627914/908379366650703943
           - item:
             name: Hyperledger Caliper
-            second_path: Application Tooling/Integrations / Analytics/Monitoring tools
+            second_path:
+              - Application Tooling/Integrations / Analytics/Monitoring tools
             description: >-
               Hyperledger Caliper is a blockchain benchmark tool, it allows users to measure the performance of a blockchain implementation with a set of
               predefined use cases. Hyperledger Caliper will produce reports containing a number of performance indicators to serve as a reference when using
@@ -1205,7 +1214,8 @@ landscape:
               chat: https://discord.com/channels/905194001349627914/941417677778473031
           - item:
             name: Hyperledger Cello
-            second_path: Application Tooling/Integrations / Development tools/platforms
+            second_path:
+              - Application Tooling/Integrations / Development tools/platforms
             description: >-
               Hyperledger Cello aims to serve as the operational dashboard for Blockchain, which reduces the effort required for creating, managing and using
               blockchains. Besides, it can also be used to facilitate creating Blockchain as a Service. Cello provides an operational console  for managing
@@ -1222,7 +1232,8 @@ landscape:
               chat: https://discord.com/channels/905194001349627914/941475454378991646
           - item:
             name: Hyperledger Firefly
-            second_path: Application Tooling/Integrations / Development tools/platforms
+            second_path:
+              - Application Tooling/Integrations / Development tools/platforms
             description: >-
               Hyperledger FireFly is the first open source Supernode, a complete stack for enterprises to build and scale secure Web3 applications. The FireFly
               API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular chains and
