@@ -1577,6 +1577,12 @@ landscape:
             logo: sdax_exchange_pte_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/sdax
           - item:
+            name: Sede Blockchain (member)
+            homepage_url: https://sedeblockchain.com/
+            logo: sede_blockchain.svg
+            organization:
+              name: Sede Blockchain
+          - item:
             name: SEIYAJ TECH (member)
             homepage_url: https://seiyaj.com/
             logo: seiyaj_tech.svg
@@ -1754,6 +1760,12 @@ landscape:
             homepage_url: https://identity.foundation/
             logo: decentralized_identity_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/decentralized-identity-foundation
+          - item:
+            name: Digi Yatra Foundation (member)
+            homepage_url: https://www.digiyatrafoundation.com/
+            logo: digi_yatra_foundation.svg
+            organization:
+              name: Digi Yatra Foundation
           - item:
             name: Digital Currency Forum (member)
             homepage_url: https://decurret-dcp.com/
