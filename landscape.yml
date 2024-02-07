@@ -1483,11 +1483,6 @@ landscape:
             logo: instnt_inc.svg
             crunchbase: https://www.crunchbase.com/organization/instnt
           - item:
-            name: Integra Ledger (member)
-            homepage_url: https://integraledger.com/
-            logo: integra_ledger.svg
-            crunchbase: https://www.crunchbase.com/organization/integra-ledger
-          - item:
             name: IntellectEU (member)
             homepage_url: https://intellecteu.com/
             project: hyperledger-member-services
