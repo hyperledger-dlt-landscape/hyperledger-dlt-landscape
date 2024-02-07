@@ -1070,40 +1070,6 @@ landscape:
               wiki: https://wiki.hyperledger.org/display/iroha
               chat: https://discord.com/channels/905194001349627914/905205848547155968
               documentation: https://iroha.readthedocs.io/en/main/
-          - item:
-            name: Hyperledger Sawtooth
-            second_path:
-              - Distributed Ledgers / Hybrid
-            description: >-
-              Hyperledger Sawtooth offers a flexible and modular architecture separates the core system from the application domain, so smart contracts can
-              specify the business rules for applications without needing to know the underlying design of the core system. Hyperledger Sawtooth supports a
-              variety of consensus algorithms, including Practical Byzantine Fault Tolerance (PBFT) and Proof of Elapsed Time (PoET).
-            homepage_url: https://www.hyperledger.org/use/sawtooth
-            project: graduated
-            repo_url: https://github.com/hyperledger/sawtooth-core
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/sawtooth-contrib
-              - repo_url: https://github.com/hyperledger/sawtooth-devmode
-              - repo_url: https://github.com/hyperledger/sawtooth-docs
-              - repo_url: https://github.com/hyperledger/sawtooth-lib
-              - repo_url: https://github.com/hyperledger/sawtooth-pbft
-              - repo_url: https://github.com/hyperledger/sawtooth-poet
-              - repo_url: https://github.com/hyperledger/sawtooth-rfcs
-              - repo_url: https://github.com/hyperledger/sawtooth-sabre
-              - repo_url: https://github.com/hyperledger/sawtooth-sdk-cxx
-              - repo_url: https://github.com/hyperledger/sawtooth-sdk-go
-              - repo_url: https://github.com/hyperledger/sawtooth-sdk-java
-              - repo_url: https://github.com/hyperledger/sawtooth-sdk-javascript
-              - repo_url: https://github.com/hyperledger/sawtooth-sdk-python
-              - repo_url: https://github.com/hyperledger/sawtooth-sdk-rust
-              - repo_url: https://github.com/hyperledger/sawtooth-sdk-swift
-              - repo_url: https://github.com/hyperledger/sawtooth-seth
-            logo: hyperledger-sawtooth.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            extra:
-              wiki: https://wiki.hyperledger.org/display/sawtooth
-              chat: https://discord.com/channels/905194001349627914/905206249879113818
-              documentation: https://sawtooth.hyperledger.org/docs/core/releases/latest/
       - subcategory:
         name: Libraries
         items:
