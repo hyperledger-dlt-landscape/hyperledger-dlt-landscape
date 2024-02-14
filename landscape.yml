@@ -1128,6 +1128,17 @@ landscape:
               chat: https://discord.com/channels/905194001349627914/905206466410057728
               introduction_course: https://www.edx.org/course/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa
               developer_course: https://www.edx.org/course/becoming-a-hyperledger-aries-developer
+          - item:
+            name: Hyperledger Web3J
+            description: >-
+              Web3j is a highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes)
+              on the Ethereum network. This allows you to work with the Ethereum blockchain, without the additional overhead of having to write your own
+              integration code for the platform.
+            homepage_url: https://www.hyperledger.org/projects/web3j
+            project: incubating
+            repo_url: https://github.com/web3j/web3j
+            logo: hyperledger-web3j.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
       - subcategory:
         name: Tools
         items:
