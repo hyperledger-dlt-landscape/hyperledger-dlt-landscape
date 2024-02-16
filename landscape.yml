@@ -1131,8 +1131,8 @@ landscape:
           - item:
             name: Hyperledger Web3J
             description: >-
-              Web3j is a highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes)
-              on the Ethereum network. This allows you to work with the Ethereum blockchain, without the additional overhead of having to write your own
+              Web3j is a highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on
+              the Ethereum network. This allows you to work with the Ethereum blockchain, without the additional overhead of having to write your own
               integration code for the platform.
             homepage_url: https://www.hyperledger.org/projects/web3j
             project: incubating
@@ -2010,7 +2010,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/zhejiang-block-chain-technology-application-association
           - item:
             name: Zhejiang University (member)
-            homepage_url: https://www.zju.edu.cn/
+            homepage_url: https://zju.edu.cn/
             logo: zhejiang_university.svg
             crunchbase: https://www.crunchbase.com/organization/zhejiang-university
   - category:
