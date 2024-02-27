@@ -1302,6 +1302,11 @@ landscape:
             twitter: https://twitter.com/AmericanExpress
             crunchbase: https://www.crunchbase.com/organization/americanexpress
           - item:
+            name: Avanza Innovations IT Solutions LLC (member)
+            homepage_url: https://avanzainnovations.com/
+            logo: avanza_innovations_it_solutions_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/avanza-innovations
+          - item:
             name: BlockLabs (member)
             homepage_url: https://blocklabs.eu/
             logo: blocklabs.svg
