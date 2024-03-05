@@ -916,6 +916,12 @@ landscape:
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
+            name: ioBuilders
+            homepage_url: https://io.builders/
+            project: hyperledger-member-services
+            logo: io_builders_blockchain_technologies__ventures.svg
+            crunchbase: https://www.crunchbase.com/organization/iobuilders
+          - item:
             name: NTT DATA
             homepage_url: https://nttdata.com/
             project: hyperledger-member-services
