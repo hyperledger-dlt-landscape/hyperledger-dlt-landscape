@@ -918,7 +918,8 @@ landscape:
           - item:
             name: ioBuilders
             description: >-
-              ioBuilders is a blockchain consultancy firm specializing in enterprise solutions. They focus on the tokenization of real-world assets, custom payment workflows, and providing guidance on enterprise blockchain services.
+              ioBuilders is a blockchain consultancy firm specializing in enterprise solutions. They focus on the tokenization of real-world assets, custom
+              payment workflows, and providing guidance on enterprise blockchain services.
             homepage_url: https://io.builders/
             project: hyperledger-member-services
             logo: io_builders_blockchain_technologies__ventures.svg
