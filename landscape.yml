@@ -1689,6 +1689,12 @@ landscape:
             twitter: https://twitter.com/dtapscott
             crunchbase: https://www.crunchbase.com/organization/blockchain-research-institute
           - item:
+            name: BNDES (member)
+            homepage_url: https://bndes.gov.br/
+            logo: bndes.svg
+            organization:
+              name: BNDES
+          - item:
             name: Budapest University of Technology and Economics (member)
             homepage_url: https://mit.bme.hu/
             logo: budapest_university_of_technology_and_economics.svg
