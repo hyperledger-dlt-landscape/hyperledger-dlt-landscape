@@ -1311,6 +1311,12 @@ landscape:
             twitter: https://twitter.com/AmericanExpress
             crunchbase: https://www.crunchbase.com/organization/americanexpress
           - item:
+            name: Applied Blockchain (member)
+            homepage_url: https://appliedblockchain.com/
+            logo: applied_blockchain.svg
+            twitter: https://twitter.com/AppBlockchain
+            crunchbase: https://www.crunchbase.com/organization/applied-blockchain
+          - item:
             name: BlockLabs (member)
             homepage_url: https://blocklabs.eu/
             logo: blocklabs.svg
@@ -1379,13 +1385,6 @@ landscape:
             logo: data_storage_research_llc_dba_dsr_corporation.svg
             twitter: https://twitter.com/DSR_corporation
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
-          - item:
-            name: Deloitte Consulting LLP (member)
-            homepage_url: https://deloitte.com/
-            logo: deloitte_consulting_llp.svg
-            twitter: https://twitter.com/DeloitteUS
-            crunchbase: https://www.crunchbase.com/organization/deloitte
-            joined: '2018-09-01'
           - item:
             name: Deutsche Telekom AG (member)
             homepage_url: https://telekom.com/
@@ -1567,6 +1566,11 @@ landscape:
             homepage_url: https://siemens.com/
             logo: siemens_ag.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
+          - item:
+            name: SmartContract Inc. (member)
+            homepage_url: https://chainlinklabs.com/
+            logo: smartcontract_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/chainlink-labs
           - item:
             name: SORAMITSU CO., LTD. (member)
             homepage_url: https://soramitsu.co.jp/
