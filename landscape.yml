@@ -1553,12 +1553,6 @@ landscape:
             logo: sdax_exchange_pte_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/sdax
           - item:
-            name: Sede Blockchain (member)
-            homepage_url: https://sedeblockchain.com/
-            logo: sede_blockchain.svg
-            organization:
-              name: Sede Blockchain
-          - item:
             name: SEIYAJ TECH (member)
             homepage_url: https://seiyaj.com/
             logo: seiyaj_tech.svg
