@@ -1340,6 +1340,12 @@ landscape:
             logo: chainyard.svg
             crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
           - item:
+            name: Cheesecake Labs (member)
+            homepage_url: https://cheesecakelabs.com/
+            logo: cheesecake_labs.svg
+            organization:
+              name: Cheesecake Labs
+          - item:
             name: China Systems Holdings Limited (member)
             homepage_url: https://chinasystems.com/
             logo: china_systems_holdings_limited.svg
@@ -1468,6 +1474,12 @@ landscape:
             project: hyperledger-member-services
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
+          - item:
+            name: Intersect (member)
+            homepage_url: https://intersectmbo.org/
+            logo: intersect.svg
+            organization:
+              name: Intersect
           - item:
             name: IO Builders Blockchain Technologies & Ventures (member)
             homepage_url: https://io.builders/
