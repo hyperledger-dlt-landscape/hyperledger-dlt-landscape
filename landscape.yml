@@ -1343,8 +1343,7 @@ landscape:
             name: Cheesecake Labs (member)
             homepage_url: https://cheesecakelabs.com/
             logo: cheesecake_labs.svg
-            organization:
-              name: Cheesecake Labs
+            crunchbase: https://www.crunchbase.com/organization/cheesecake-labs-2
           - item:
             name: China Systems Holdings Limited (member)
             homepage_url: https://chinasystems.com/
