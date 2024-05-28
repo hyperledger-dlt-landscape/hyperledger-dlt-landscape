@@ -2087,6 +2087,13 @@ landscape:
             logo: espeo_software.svg
             crunchbase: https://www.crunchbase.com/organization/espeo-software
           - item:
+            name: GoLedger (HCSP)
+            description: >-
+              GoLedger is a renowned company specializing in developing on-demand private and permissioned blockchains using the Hyperledger Fabric platform. Our certified team is known for its high level technical skills, ensuring the creation of custom Blockchain networks tailored for several segments, like financial, oil & gas or supply chain. We excel in developing chaincodes for secure, cost-efficient transactions, providing reliable and robust solutions for business.
+            homepage_url: https://goledger.io/chaincode/
+            logo: GoLedger.svg
+            crunchbase: https://www.crunchbase.com/organization/goledger
+          - item:
             name: Hitachi, Ltd. (HCSP)
             description: >-
               Hitachi has a wealth of understanding and know-how covering a wide variety of different industries. By using blockchains and other technologies
