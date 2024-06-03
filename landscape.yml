@@ -1285,11 +1285,6 @@ landscape:
             logo: hitachi_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/hitachi
             joined: '2023-03-01'
-          - item:
-            name: International Business Machines Corporation (member)
-            homepage_url: https://ibm.com/
-            logo: international_business_machines_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
       - subcategory:
         name: General
         items:
@@ -1474,6 +1469,12 @@ landscape:
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
+            name: International Business Machines Corporation (member)
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
             name: Intersect (member)
             homepage_url: https://intersectmbo.org/
             logo: intersect.svg
@@ -1522,12 +1523,6 @@ landscape:
             logo: milligan_partners.svg
             twitter: https://twitter.com/MilliganPartnrs
             crunchbase: https://www.crunchbase.com/organization/milligan-partners
-          - item:
-            name: NEC Corporation (member)
-            homepage_url: https://nec.com/
-            logo: nec_corporation.svg
-            twitter: https://twitter.com/NEC_corp
-            crunchbase: https://www.crunchbase.com/organization/nec
           - item:
             name: NTT DATA Group Corporation (member)
             homepage_url: https://nttdata.com/
