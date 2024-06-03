@@ -1513,6 +1513,11 @@ landscape:
             logo: launchnodes.svg
             crunchbase: https://www.crunchbase.com/organization/launchnodes
           - item:
+            name: LayerZero Labs Ltd. (member)
+            homepage_url: https://layerzero.network/
+            logo: layerzero_labs_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/layerzero-labs
+          - item:
             name: MediConCen Limited (member)
             homepage_url: https://mediconcen.com/
             logo: mediconcen_limited.svg
