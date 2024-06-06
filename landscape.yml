@@ -1148,6 +1148,20 @@ landscape:
             repo_url: https://github.com/web3j/web3j
             logo: hyperledger-web3j.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+          - item:
+            name: Hyperledger Identus
+            description: >-
+              Hyperledger Identus provides components to develop decentralized identity solutions that adhere to widely recognized self-sovereign identity (SSI) 
+              standards. It offers complete DID and verifiable credential functionality and simplifies the complexities of adopting a decentralized identity 
+              solution into existing and new workflows.
+            homepage_url: https://www.hyperledger.org/projects/identus
+            project: incubating
+            repo_url: https://github.com/hyperledger/identus
+            logo: hyperledger-identus.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://wiki.hyperledger.org/display/identus
+              chat: https://discord.com/channels/905194001349627914/1226983777687965707      
       - subcategory:
         name: Tools
         items:
