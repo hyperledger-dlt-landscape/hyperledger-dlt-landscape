@@ -1614,6 +1614,12 @@ landscape:
             twitter: https://twitter.com/RealtoApps
             crunchbase: https://www.crunchbase.com/organization/tassets-e830
           - item:
+            name: Tata Consultancy Services Limited (member)
+            homepage_url: https://tcs.com/
+            logo: tata_consultancy_services_limited.svg
+            twitter: https://twitter.com/TCS
+            crunchbase: https://www.crunchbase.com/organization/tata-consultancy-services
+          - item:
             name: ToposWare Inc. (member)
             homepage_url: https://toposware.com/
             logo: toposware_inc.svg
