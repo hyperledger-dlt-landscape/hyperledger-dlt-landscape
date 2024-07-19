@@ -2107,6 +2107,13 @@ landscape:
             logo: espeo_software.svg
             crunchbase: https://www.crunchbase.com/organization/espeo-software
           - item:
+            name: Fujitsu (HCSP)
+            description: >-
+              We specialize in discruption and innovation using blockchain.
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+          - item:
             name: GoLedger (HCSP)
             description: >-
               GoLedger is a renowned company specializing in developing on-demand private and permissioned Blockchains using the Hyperledger Fabric platform. 
