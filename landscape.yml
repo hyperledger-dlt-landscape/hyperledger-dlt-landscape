@@ -2197,15 +2197,6 @@ landscape:
             logo: nec-400x245.svg
             crunchbase: https://www.crunchbase.com/organization/nec
           - item:
-            name: Spydra Technologies Pvt Ltd (HCSP)
-            description: >-
-              Spydra is revolutionizing the enterprise blockchain landscape by creating a highly customizable, low-code Asset Tokenization Platform built on 
-              Hyperledger Fabric. Our Cutting-edge solution empowers businesses to rapidly deploy scalable blockchain networks on their preferred cloud 
-              infrastructure, ensuring flexibility and seamless integration with existing systems.
-            homepage_url: https://spydra.app/
-            logo: spydra_technologies_pvt_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/spydra
-          - item:
             name: Wipro Limited (HCSP)
             homepage_url: https://wipro.com/
             logo: wipro_limited.svg
