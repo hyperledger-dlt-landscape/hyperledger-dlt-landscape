@@ -1603,11 +1603,6 @@ landscape:
             twitter: https://twitter.com/soramitsu_co
             crunchbase: https://www.crunchbase.com/organization/soramitsu
           - item:
-            name: Spydra Technologies Pvt Ltd (member)
-            homepage_url: https://spydra.app/
-            logo: spydra_technologies_pvt_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/spydra
-          - item:
             name: Tassets Inc (member)
             homepage_url: https://tassets.com/
             logo: tassets_inc.svg
