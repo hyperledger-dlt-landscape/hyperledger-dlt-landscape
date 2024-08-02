@@ -1326,11 +1326,6 @@ landscape:
             twitter: https://twitter.com/AppBlockchain
             crunchbase: https://www.crunchbase.com/organization/applied-blockchain
           - item:
-            name: BlockLabs (member)
-            homepage_url: https://blocklabs.eu/
-            logo: blocklabs.svg
-            crunchbase: https://www.crunchbase.com/organization/blocklabs-b424
-          - item:
             name: BONbLOC Inc (member)
             homepage_url: https://bonbloc.com/
             logo: bonbloc_inc.svg
