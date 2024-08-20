@@ -1598,12 +1598,6 @@ landscape:
             twitter: https://twitter.com/soramitsu_co
             crunchbase: https://www.crunchbase.com/organization/soramitsu
           - item:
-            name: Tassets Inc (member)
-            homepage_url: https://tassets.com/
-            logo: tassets_inc.svg
-            twitter: https://twitter.com/RealtoApps
-            crunchbase: https://www.crunchbase.com/organization/tassets-e830
-          - item:
             name: Tata Consultancy Services Limited (member)
             homepage_url: https://tcs.com/
             logo: tata_consultancy_services_limited.svg
@@ -1650,6 +1644,12 @@ landscape:
             homepage_url: https://zeeve.io/
             logo: zeeve_inc.svg
             crunchbase: https://www.crunchbase.com/organization/zeeve
+          - item:
+            name: Zoniqx Inc. (member)
+            homepage_url: https://zoniqx.com/
+            logo: zoniqx_inc.svg
+            twitter: https://twitter.com/RealtoApps
+            crunchbase: https://www.crunchbase.com/organization/tassets-e830
       - subcategory:
         name: Associate
         items:
