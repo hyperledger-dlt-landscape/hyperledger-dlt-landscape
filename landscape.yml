@@ -1665,23 +1665,6 @@ landscape:
             twitter: https://twitter.com/Alastria_
             crunchbase: https://www.crunchbase.com/organization/alastria
           - item:
-            name: Alliance of Blockchain Industry, Z-park (member)
-            homepage_url: https://zgc-blockchain.cn/
-            logo: alliance_of_blockchain_industry_z-park.svg
-            crunchbase: https://www.crunchbase.com/organization/alliance-of-blockchain-industry-z-park
-          - item:
-            name: Arizona State University (member)
-            homepage_url: https://asu.edu/
-            logo: arizona_state_university.svg
-            twitter: https://twitter.com/ASU
-            crunchbase: https://www.crunchbase.com/organization/arizona-state-university
-          - item:
-            name: Auburn University RFID Lab (member)
-            homepage_url: https://auburn.edu/
-            logo: auburn_university_rfid_lab.svg
-            twitter: https://twitter.com/AuburnU
-            crunchbase: https://www.crunchbase.com/organization/auburn-university
-          - item:
             name: Bank of England (member)
             homepage_url: https://bankofengland.co.uk/
             logo: bank_of_england.svg
@@ -1691,11 +1674,6 @@ landscape:
             homepage_url: https://banque-france.fr/
             logo: banque_de_france.svg
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
-          - item:
-            name: Blockchain at Berkeley (member)
-            homepage_url: https://blockchain.berkeley.edu/
-            logo: blockchain_at_berkeley.svg
-            crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
           - item:
             name: Blockchain Research Institute (Tapscott Group) (member)
             homepage_url: https://tapscott.com/
@@ -1715,17 +1693,6 @@ landscape:
             twitter: https://twitter.com/BME_hu
             crunchbase: https://www.crunchbase.com/organization/budapest-university-of-technology-and-economics
           - item:
-            name: Business School of Hunan University (member)
-            homepage_url: https://ibschool.hnu.edu.cn/
-            logo: business_school_of_hunan_university.svg
-            crunchbase: https://www.crunchbase.com/organization/hunanuniversity
-          - item:
-            name: Cambridge Centre for Alternative Finance (member)
-            homepage_url: https://jbs.cam.ac.uk/
-            logo: cambridge_centre_for_alternative_finance.svg
-            twitter: https://twitter.com/Cambridge_Uni
-            crunchbase: https://www.crunchbase.com/organization/university-of-cambridge
-          - item:
             name: Central Bank of Nigeria (member)
             homepage_url: https://cbn.gov.ng/
             logo: central_bank_of_nigeria.svg
@@ -1740,17 +1707,6 @@ landscape:
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
-          - item:
-            name: Cloud Security Alliance (member)
-            homepage_url: https://cloudsecurityalliance.org/
-            logo: cloud_security_alliance.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-security-alliance
-          - item:
-            name: Construction Blockchain Consortium (member)
-            homepage_url: https://constructionblockchain.org/
-            logo: construction_blockchain_consortium.svg
-            twitter: https://twitter.com/CBC_UCL
-            crunchbase: https://www.crunchbase.com/organization/construction-blockchain-consortium
           - item:
             name: CPQD (member)
             homepage_url: https://cpqd.com.br/
@@ -1818,20 +1774,10 @@ landscape:
             logo: federal_reserve_bank_of_boston.svg
             crunchbase: https://www.crunchbase.com/organization/federal-reserve-bank-of-boston
           - item:
-            name: Fujian Blockchain Association (member)
-            homepage_url: https://fjchain.net/
-            logo: fujian_blockchain_association.svg
-            crunchbase: https://www.crunchbase.com/organization/fujian-blockchian-association
-          - item:
             name: Global Blockchain Business Council (member)
             homepage_url: https://gbbcouncil.org/
             logo: global_blockchain_business_council.svg
             crunchbase: https://www.crunchbase.com/organization/global-blockchain-business-council
-          - item:
-            name: Government of Bermuda (member)
-            homepage_url: https://gov.bm/
-            logo: government_of_bermuda.svg
-            crunchbase: https://www.crunchbase.com/organization/government-of-bermuda
           - item:
             name: GS1 US (member)
             homepage_url: https://gs1us.org/
@@ -1869,12 +1815,6 @@ landscape:
             logo: kerala_blockchain_academy.svg
             crunchbase: https://www.crunchbase.com/organization/kerala-blockchain-academy
           - item:
-            name: Kiva (member)
-            homepage_url: https://kiva.org/
-            logo: kiva.svg
-            twitter: https://twitter.com/Kiva
-            crunchbase: https://www.crunchbase.com/organization/kiva
-          - item:
             name: MIT Connection Science (member)
             homepage_url: https://mit.edu/
             logo: mit_connection_science.svg
@@ -1900,23 +1840,6 @@ landscape:
             homepage_url: https://norges-bank.no/
             logo: norges_bank.svg
             crunchbase: https://www.crunchbase.com/organization/norges-bank
-          - item:
-            name: Open Earth Foundation (member)
-            homepage_url: https://openearth.org/
-            logo: open_earth_foundation.svg
-            crunchbase: https://www.crunchbase.com/organization/open-earth-foundation
-          - item:
-            name: Peking University (member)
-            homepage_url: https://pku.edu.cn/
-            logo: peking_university.svg
-            twitter: https://twitter.com/PKU1898
-            crunchbase: https://www.crunchbase.com/organization/peking-university
-          - item:
-            name: Portland State University (member)
-            homepage_url: https://pdx.edu/
-            logo: portland_state_university.svg
-            twitter: https://twitter.com/Portland_State
-            crunchbase: https://www.crunchbase.com/organization/portland-state-university
           - item:
             name: Province of British Columbia - Ministry of Citizens Services (member)
             homepage_url: https://gov.bc.ca/
@@ -1947,12 +1870,6 @@ landscape:
             twitter: https://twitter.com/StellarOrg
             crunchbase: https://www.crunchbase.com/organization/stellar
           - item:
-            name: Sun Yat-sen University (member)
-            homepage_url: https://sysu.edu.cn/
-            logo: sun_yat-sen_university.svg
-            twitter: https://twitter.com/SunYatsen_Uni
-            crunchbase: https://www.crunchbase.com/organization/sun-yat-sen-university
-          - item:
             name: Tecnalia Corporation (member)
             homepage_url: https://tecnalia.com/
             logo: tecnalia_corporation.svg
@@ -1970,83 +1887,17 @@ landscape:
             logo: the_national_fintech_center_at_morgan_state_university.svg
             crunchbase: https://www.crunchbase.com/organization/morgan-state-university
           - item:
-            name: The University of Hong Kong (member)
-            homepage_url: https://hku.hk/
-            logo: the_university_of_hong_kong.svg
-            twitter: https://twitter.com/HKUniversity
-            crunchbase: https://www.crunchbase.com/organization/the-university-of-hong-kong
-          - item:
-            name: TNO, the Netherlands Organisation for Applied Scientific Research (member)
-            homepage_url: https://tno.nl/
-            logo: tno_the_netherlands_organisation_for_applied_scientific_research.svg
-            twitter: https://twitter.com/TNO_nieuws
-            crunchbase: https://www.crunchbase.com/organization/tno
-          - item:
-            name: UCLA Blockchain Lab (member)
-            homepage_url: https://humnet.ucla.edu/
-            logo: ucla_blockchain_lab.svg
-            crunchbase: https://www.crunchbase.com/organization/university-of-california-los-angeles
-          - item:
             name: United Nations (International Computing Centre) (member)
             homepage_url: https://unicc.org/
             logo: united_nations_international_computing_centre.svg
             twitter: https://twitter.com/unicc_ict
             crunchbase: https://www.crunchbase.com/organization/united-nations
           - item:
-            name: Universidad Tecnológica Nacional - Facultad Regional Córdoba (member)
-            homepage_url: https://frc.utn.edu.ar/
-            logo: universidad_tecnologica_nacional_-_facultad_regional_cordoba.svg
-            crunchbase: https://www.crunchbase.com/organization/national-technological-university
-          - item:
-            name: University College London (member)
-            homepage_url: https://ucl.ac.uk/
-            logo: university_college_london.svg
-            crunchbase: https://www.crunchbase.com/organization/university-college-london-u-of-london
-          - item:
-            name: University of Nicosia (member)
-            homepage_url: https://unic.ac.cy/
-            logo: university_of_nicosia.svg
-            twitter: https://twitter.com/UNIC_ENG
-            crunchbase: https://www.crunchbase.com/organization/university-of-nicosia
-          - item:
-            name: University of Rome Tor Vergata (member)
-            homepage_url: https://uniroma2.it/
-            logo: university_of_rome_tor_vergata.svg
-            twitter: https://twitter.com/fb_uniroma2
-            crunchbase: https://www.crunchbase.com/organization/university-of-rome-tor-vergata
-          - item:
-            name: University of Southern California (member)
-            homepage_url: https://usc.edu/
-            logo: university_of_southern_california.svg
-            crunchbase: https://www.crunchbase.com/organization/university-of-southern-california
-          - item:
-            name: Vilnius Gediminas Technical University (member)
-            homepage_url: https://vgtu.it/
-            logo: vilnius_gediminas_technical_university.svg
-            twitter: https://twitter.com/VGTU_university
-            crunchbase: https://www.crunchbase.com/organization/vilnius-gediminas-technical-university
-          - item:
             name: Wall Street Blockchain Alliance (member)
             homepage_url: https://wsba.co/
             logo: wall_street_blockchain_alliance.svg
             twitter: https://twitter.com/WallStreetBTC
             crunchbase: https://www.crunchbase.com/organization/the-wall-street-bitcoin-alliance
-          - item:
-            name: XPRIZE (member)
-            homepage_url: https://xprize.org/
-            logo: xprize.svg
-            crunchbase: https://www.crunchbase.com/organization/x-prize-foundation
-          - item:
-            name: Zhejiang Block Chain Technology Application Association (member)
-            homepage_url: https://hzzbta.com/
-            logo: zhejiang_block_chain_technology_application_association.svg
-            twitter: https://twitter.com/dnx
-            crunchbase: https://www.crunchbase.com/organization/zhejiang-block-chain-technology-application-association
-          - item:
-            name: Zhejiang University (member)
-            homepage_url: https://zju.edu.cn/
-            logo: zhejiang_university.svg
-            crunchbase: https://www.crunchbase.com/organization/zhejiang-university
   - category:
     name: Hyperledger Certified Service Providers
     subcategories:
