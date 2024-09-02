@@ -1400,6 +1400,12 @@ landscape:
             logo: deutsche_telekom_ag.svg
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
           - item:
+            name: Dfns (member)
+            homepage_url: https://dfns.co/
+            logo: dfns.svg
+            organization:
+              name: Dfns
+          - item:
             name: Digital Asset (Switzerland) GmbH (member)
             homepage_url: https://digitalasset.com/
             logo: digital_asset_switzerland_gmbh.svg
@@ -1435,6 +1441,12 @@ landscape:
             logo: goledger.svg
             twitter: https://twitter.com/go_ledger
             crunchbase: https://www.crunchbase.com/organization/goledger
+          - item:
+            name: Hashgraph Foundry Inc. (DBA Hashgraph) (member)
+            homepage_url: https://hashgraph.com/
+            logo: hashgraph_foundry_inc_dba_hashgraph.svg
+            organization:
+              name: Hashgraph Foundry Inc. (DBA Hashgraph)
           - item:
             name: Hedera Hashgraph LLC (member)
             homepage_url: https://hedera.com/
@@ -1664,6 +1676,13 @@ landscape:
             logo: alastria_blockchain_ecosystem.svg
             twitter: https://twitter.com/Alastria_
             crunchbase: https://www.crunchbase.com/organization/alastria
+          - item:
+            name: Banco Central do Brasil (member)
+            homepage_url: https://bcb.gov.br/
+            logo: banco_central_do_brasil.svg
+            twitter: https://twitter.com/BancoCentralBR
+            organization:
+              name: Banco Central do Brasil
           - item:
             name: Bank of England (member)
             homepage_url: https://bankofengland.co.uk/
