@@ -590,17 +590,23 @@ landscape:
         items:
           - item:
             name: Chronicle
-            homepage_url: https://btp.works/chronicle
+            homepage_url: https://docs.chronicle.works/
             project: non-hyperledger-member-products
-            repo_url: https://github.com/btpworks/chronicle
+            repo_url: https://github.com/chronicleworks
             logo: chronicle-dark.svg
-            crunchbase: https://www.crunchbase.com/organization/btpworks
+            crunchbase: https://www.crunchbase.com/organization/paravela
           - item:
             name: Finboot Track&Trace/Blockstamp
             homepage_url: https://www.finboot.com/
             project: non-hyperledger-member-products
             logo: finboot.svg
             crunchbase: https://www.crunchbase.com/organization/finboot
+          - item:
+            name: Paravela Provenance Platform
+            homepage_url: https://www.paravela.com/
+            project: non-hyperledger-member-products
+            logo: paravela.svg
+            crunchbase: https://www.crunchbase.com/organization/paravela
           - item:
             name: Ping Identity/Shocard
             homepage_url: https://www.pingidentity.com/en/platform/capabilities/personal-identity.html
@@ -674,6 +680,12 @@ landscape:
             logo: mediledger.svg
             crunchbase: https://www.crunchbase.com/organization/mediledger
           - item:
+            name: Paravela Solutions
+            homepage_url: https://www.paravela.com/
+            project: non-hyperledger-member-products
+            logo: paravela.svg
+            crunchbase: https://www.crunchbase.com/organization/paravela
+          - item:
             name: PharmaLedger
             homepage_url: https://pharmaledger.eu/
             project: network
@@ -715,12 +727,6 @@ landscape:
             project: non-hyperledger-member-products
             logo: blockdaemon.svg
             crunchbase: https://www.crunchbase.com/organization/blockdaemon
-          - item:
-            name: BTP
-            homepage_url: https://btp.works
-            project: non-hyperledger-member-products
-            logo: btp-works.svg
-            crunchbase: https://www.crunchbase.com/organization/btpworks
           - item:
             name: Chainstack
             homepage_url: https://chainstack.com
