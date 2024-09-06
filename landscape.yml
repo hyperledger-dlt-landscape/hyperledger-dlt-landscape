@@ -592,7 +592,7 @@ landscape:
             name: Chronicle
             homepage_url: https://docs.chronicle.works/
             project: non-hyperledger-member-products
-            repo_url: https://github.com/chronicleworks
+            repo_url: https://github.com/chronicleworks/chronicle
             logo: chronicle-dark.svg
             crunchbase: https://www.crunchbase.com/organization/paravela
           - item:
