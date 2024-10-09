@@ -1,5 +1,4 @@
----
-landscapeName: hl
+slug: lf-decentralized-trust
 landscapeMemberClasses:
   - name: Premier Membership
     category: Premier
@@ -7,8 +6,5 @@ landscapeMemberClasses:
     category: General
   - name: Associate Membership
     category: Associate
-project: a0941000002wByYAAU  # Hyperledger 
 landscapeMemberCategory: Hyperledger Members
-landscapefile: landscape.yml
-missingcsvfile: missing.csv
 memberSuffix: ' (member)'
