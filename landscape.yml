@@ -959,7 +959,7 @@ landscape:
             logo: web3-labs-primary.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
   - category:
-    name: Hyperledger Projects
+    name: LF Decentralized Trust Projects
     subcategories:
       - subcategory:
         name: Distributed Ledgers
@@ -1282,7 +1282,7 @@ landscape:
               wiki: https://wiki.hyperledger.org/display/SOL/Hyperledger+Solang
               chat: https://discord.com/channels/905194001349627914/905834552965103638
   - category:
-    name: Hyperledger Members
+    name: LF Decentralized Trust Members
     subcategories:
       - subcategory:
         name: Premier
