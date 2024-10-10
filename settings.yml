@@ -7,7 +7,7 @@ global:
   company_url: https://hyperledger.org
   email: info@hyperledger.org
   self: https://www.crunchbase.com/organization/hyperledger-2
-  membership: Hyperledger Members
+  membership: LF Decentralized Trust Members
   meta:
     title: Hyperledger DLT Landscape
     description: null
@@ -31,7 +31,7 @@ global:
     gray_large_items: true
     companies: false
     hide_license_for_categories:
-      - Hyperledger Members
+      - LF Decentralized Trust Members
   hide_best_practices: true
 twitter:
   search: dltlandscape.org
@@ -336,7 +336,7 @@ big_picture:
         left: 0
         color: rgb(126,115,14)
         fit_width: true
-    category: Hyperledger Projects
+    category: LF Decentralized Trust Projects
   fourth:
     tab_index: 2
     url: members
@@ -372,7 +372,7 @@ big_picture:
         color: '#C0C0C0'
         fit_width: true
         is_large: true
-    category: Hyperledger Members
+    category: LF Decentralized Trust Members
   fifth:
     tab_index: 3
     url: providers
