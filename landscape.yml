@@ -2099,7 +2099,7 @@ landscape:
             twitter: https://twitter.com/WallStreetBTC
             crunchbase: https://www.crunchbase.com/organization/the-wall-street-bitcoin-alliance
   - category:
-    name: Hyperledger Certified Service Providers
+    name: LF Decentralized Trust CSPs
     subcategories:
       - subcategory:
         name: Hyperledger Fabric CSPs
