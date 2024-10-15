@@ -389,7 +389,7 @@ big_picture:
         left: 0
         color: rgb(19,105,73)
         fit_width: true
-    category: Hyperledger Certified Service Providers
+    category: LF Decentralized Trust CSPs
 test:
   header: Hyperledger DLT Landscape
   section: Project
