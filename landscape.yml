@@ -1358,9 +1358,7 @@ landscape:
             homepage_url: https://gala.com/
             project: null
             logo: blockchain_game_partners_inc.svg
-            organization:
-              name: Blockchain Game Partners Inc.(“Gala”)
-              linkedin: https://www.linkedin.com/company/gogala
+            crunchbase: https://www.crunchbase.com/organization/gala-games
           - item:
             name: BONbLOC Inc (member)
             homepage_url: https://bonbloc.com/
@@ -1987,9 +1985,7 @@ landscape:
             homepage_url: https://hkma.gov.hk/
             project: null
             logo: hong_kong_monetary_authority.svg
-            organization:
-              name: Hong Kong Monetary Authority
-              linkedin: https://www.linkedin.com/company/hong-kong-monetary-authority
+            crunchbase: https://www.crunchbase.com/organization/hkma
           - item:
             name: Howest (member)
             homepage_url: https://howest.be/
