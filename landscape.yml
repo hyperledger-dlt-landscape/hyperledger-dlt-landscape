@@ -1333,10 +1333,10 @@ landscape:
             twitter: https://twitter.com/adhara_io
             crunchbase: https://www.crunchbase.com/organization/adhara
           - item:
-            name: American Express Banking Corp. (member)
+            name: American Express (member)
             homepage_url: https://americanexpress.com/
             project: null
-            logo: american_express_banking_corp.svg
+            logo: american_express.svg
             twitter: https://twitter.com/AmericanExpress
             crunchbase: https://www.crunchbase.com/organization/americanexpress
           - item:
@@ -1486,6 +1486,14 @@ landscape:
             logo: espeo_software.svg
             twitter: https://twitter.com/espeo_software
             crunchbase: https://www.crunchbase.com/organization/espeo-software
+          - item:
+            name: Exponential Science Foundation (member)
+            homepage_url: https://dltscience.org/
+            project: null
+            logo: exponential_science_foundation.svg
+            organization:
+              name: Exponential Science Foundation
+              linkedin: https://www.linkedin.com/company/dltscience
           - item:
             name: Filecoin Foundation (member)
             homepage_url: https://fil.org/
@@ -1739,6 +1747,13 @@ landscape:
             twitter: https://twitter.com/soramitsu_co
             crunchbase: https://www.crunchbase.com/organization/soramitsu
           - item:
+            name: Stellar Development Foundation (member)
+            homepage_url: https://stellar.org/
+            project: null
+            logo: stellar_development_foundation.svg
+            twitter: https://twitter.com/StellarOrg
+            crunchbase: https://www.crunchbase.com/organization/stellar
+          - item:
             name: Tata Consultancy Services Limited (member)
             homepage_url: https://tcs.com/
             project: null
@@ -1772,13 +1787,6 @@ landscape:
             logo: wanchain.svg
             twitter: https://twitter.com/wanchain_org
             crunchbase: https://www.crunchbase.com/organization/wanchain
-          - item:
-            name: Web3 Labs (member)
-            homepage_url: https://web3labs.com/
-            project: null
-            logo: web3_labs.svg
-            twitter: https://twitter.com/web3labs
-            crunchbase: https://www.crunchbase.com/organization/web3-labs
           - item:
             name: Wipro Limited (member)
             homepage_url: https://wipro.com/
