@@ -1030,6 +1030,26 @@ landscape:
               chat: https://discord.com/channels/905194001349627914/905205541326975046
               documentation: https://hyperledger-fabric.readthedocs.io/en/latest/
           - item:
+            name: Hiero
+            second_path:
+              - Distributed Ledgers
+            description: Hiero is the open source DLT codebase used to build the Hedera network; including the hashgraph consensus algorithm and all core services, tooling and libraries. Hiero supports the development of a wide range of decentralized applications and core platform features tailored for the Hedera network, including wallets, exchanges, explorers, bridges, SDKs, private ledgers, and advanced cryptographic solutions.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/hiero
+            project: incubating
+            repo_url: https://github.com/hiero-ledger/hiero
+            additional_repos:
+              - repo_url: https://github.com/hiero-ledger/awesome-contributions
+              - repo_url: https://github.com/hiero-ledger/governance
+              - repo_url: https://github.com/hiero-ledger/hiero-gradle-conventions
+              - repo_url: https://github.com/hiero-ledger/hiero-sdk-cpp
+              - repo_url: https://github.com/hiero-ledger/hiero-sdk-tck
+              - repo_url: https://github.com/hiero-ledger/hiero-website
+              - repo_url: https://github.com/hiero-ledger/tsc
+            logo: hiero_stroke.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              chat: https://discord.com/channels/905194001349627914/1283487103006543952
+          - item:
             name: Hyperledger Indy
             second_path:
               - Distributed Ledgers / Permissioned
