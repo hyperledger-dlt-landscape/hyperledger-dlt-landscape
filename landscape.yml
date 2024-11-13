@@ -979,6 +979,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/hyperledger/besu-docs
               - repo_url: https://github.com/hyperledger/besu-errorprone-checks
+              - repo_url: https://github.com/besu-eth/governance
               - repo_url: https://github.com/hyperledger/besu-native
               - repo_url: https://github.com/hyperledger/homebrew-besu
             logo: hyperledger-besu.svg
@@ -1068,17 +1069,26 @@ landscape:
               fault tolerant consensus algorithm, called YAC.
             homepage_url: https://www.hyperledger.org/use/iroha
             project: graduated
-            repo_url: https://github.com/hyperledger/iroha
+            repo_url: https://github.com/hyperledger-iroha/iroha
             additional_repos:
-              - repo_url: https://github.com/hyperledger/iroha-2-docs
-              - repo_url: https://github.com/hyperledger/iroha-deploy
-              - repo_url: https://github.com/hyperledger/iroha-ed25519
-              - repo_url: https://github.com/hyperledger/iroha-ios
-              - repo_url: https://github.com/hyperledger/iroha-java
-              - repo_url: https://github.com/hyperledger/iroha-javascript
-              - repo_url: https://github.com/hyperledger/iroha-python
-              - repo_url: https://github.com/hyperledger/iroha-state-migration-tool
-              - repo_url: https://github.com/hyperledger/iroha-tui-client
+              - repo_url: https://github.com/hyperledger-iroha/const-str
+              - repo_url: https://github.com/hyperledger-iroha/const-vec
+              - repo_url: https://github.com/hyperledger-iroha/governance
+              - repo_url: https://github.com/hyperledger-iroha/iroha-2-docs
+              - repo_url: https://github.com/hyperledger-iroha/iroha-2-examples
+              - repo_url: https://github.com/hyperledger-iroha/iroha-config-base
+              - repo_url: https://github.com/hyperledger-iroha/iroha-crypto
+              - repo_url: https://github.com/hyperledger-iroha/iroha-deploy
+              - repo_url: https://github.com/hyperledger-iroha/iroha-ed25519
+              - repo_url: https://github.com/hyperledger-iroha/iroha-ffi
+              - repo_url: https://github.com/hyperledger-iroha/iroha-ios
+              - repo_url: https://github.com/hyperledger-iroha/iroha-java
+              - repo_url: https://github.com/hyperledger-iroha/iroha-javascript
+              - repo_url: https://github.com/hyperledger-iroha/iroha-news
+              - repo_url: https://github.com/hyperledger-iroha/iroha-python
+              - repo_url: https://github.com/hyperledger-iroha/iroha-rfcs
+              - repo_url: https://github.com/hyperledger-iroha/iroha-wasm-codec
+              - repo_url: https://github.com/hyperledger-iroha/iroha-wasm-test-runner
             logo: hyperledger-iroha.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
@@ -1116,25 +1126,18 @@ landscape:
             project: graduated
             repo_url: https://github.com/hyperledger/aries
             additional_repos:
-              - repo_url: https://github.com/hyperledger/aries-acapy-controllers
-              - repo_url: https://github.com/hyperledger/aries-acapy-plugin-toolbox
-              - repo_url: https://github.com/hyperledger/aries-agent-test-harness
-              - repo_url: https://github.com/hyperledger/aries-askar
-              - repo_url: https://github.com/hyperledger/aries-cloudagent-python
-              - repo_url: https://github.com/hyperledger/aries-fabric-wrapper
-              - repo_url: https://github.com/hyperledger/aries-framework-dotnet
-              - repo_url: https://github.com/hyperledger/aries-framework-go
-              - repo_url: https://github.com/hyperledger/aries-framework-go-ext
-              - repo_url: https://github.com/hyperledger/aries-framework-javascript
-              - repo_url: https://github.com/hyperledger/aries-framework-javascript-ext
-              - repo_url: https://github.com/hyperledger/aries-mediator-service
-              - repo_url: https://github.com/hyperledger/aries-mobile-agent-react-native
-              - repo_url: https://github.com/hyperledger/aries-mobile-agent-xamarin
-              - repo_url: https://github.com/hyperledger/aries-mobile-test-harness
-              - repo_url: https://github.com/hyperledger/aries-protocol-test-suite
+              - repo_url: https://github.com/hyperledger-labs/aries-agent-controller
+              - repo_url: https://github.com/hyperledger/aries
+              - repo_url: https://github.com/hyperledger/aries-acapy-docs
+              - repo_url: https://github.com/hyperledger/aries-bbs-go
+              - repo_url: https://github.com/hyperledger/aries-bbssignatures-rs
+              - repo_url: https://github.com/hyperledger/aries-builder-images
+              - repo_url: https://github.com/hyperledger/aries-endorser-service
+              - repo_url: https://github.com/hyperledger/aries-framework-kotlin
+              - repo_url: https://github.com/hyperledger/aries-framework-swift
               - repo_url: https://github.com/hyperledger/aries-rfcs
-              - repo_url: https://github.com/hyperledger/aries-staticagent-python
-              - repo_url: https://github.com/hyperledger/aries-toolbox
+              - repo_url: https://github.com/hyperledger/aries-socketdock
+              - repo_url: https://github.com/hyperledger/aries-uniffi-wrappers
               - repo_url: https://github.com/hyperledger/aries-vcx
             logo: hyperledger-aries.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
@@ -1152,6 +1155,19 @@ landscape:
             homepage_url: https://www.hyperledger.org/projects/identus
             project: incubating
             repo_url: https://github.com/hyperledger/identus
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-identus/governance
+              - repo_url: https://github.com/hyperledger/identus
+              - repo_url: https://github.com/hyperledger/identus-apollo
+              - repo_url: https://github.com/hyperledger/identus-cloud-agent
+              - repo_url: https://github.com/hyperledger/identus-docs
+              - repo_url: https://github.com/hyperledger/identus-edge-agent-sdk-kmp
+              - repo_url: https://github.com/hyperledger/identus-edge-agent-sdk-swift
+              - repo_url: https://github.com/hyperledger/identus-edge-agent-sdk-ts
+              - repo_url: https://github.com/hyperledger/identus-infrastructure
+              - repo_url: https://github.com/hyperledger/identus-keycloak-plugins
+              - repo_url: https://github.com/hyperledger/identus-mediator
+              - repo_url: https://github.com/hyperledger/identus-vdr
             logo: hyperledger-identus.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
@@ -1165,7 +1181,21 @@ landscape:
               integration code for the platform.
             homepage_url: https://www.hyperledger.org/projects/web3j
             project: incubating
-            repo_url: https://github.com/web3j/web3j
+            repo_url: https://github.com/hyperledger-web3j/web3j
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-web3j/governance
+              - repo_url: https://github.com/hyperledger-web3j/web3j-build-tools
+              - repo_url: https://github.com/hyperledger-web3j/web3j-cli
+              - repo_url: https://github.com/hyperledger-web3j/web3j-docs
+              - repo_url: https://github.com/hyperledger-web3j/web3j-evm
+              - repo_url: https://github.com/hyperledger-web3j/web3j-gradle-plugin
+              - repo_url: https://github.com/hyperledger-web3j/web3j-installer
+              - repo_url: https://github.com/hyperledger-web3j/web3j-maven-plugin
+              - repo_url: https://github.com/hyperledger-web3j/web3j-openapi
+              - repo_url: https://github.com/hyperledger-web3j/web3j-openapi-gradle-plugin
+              - repo_url: https://github.com/hyperledger-web3j/web3j-sokt
+              - repo_url: https://github.com/hyperledger-web3j/web3j-solidity-gradle-plugin
+              - repo_url: https://github.com/hyperledger-web3j/web3j-unit
             logo: hyperledger-web3j.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
       - subcategory:
@@ -1180,7 +1210,11 @@ landscape:
               cloud providers.
             homepage_url: https://www.hyperledger.org/use/bevel
             project: incubating
-            repo_url: https://github.com/hyperledger/bevel
+            repo_url: https://github.com/hyperledger-bevel/bevel
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-bevel/bevel-operator-fabric
+              - repo_url: https://github.com/hyperledger-bevel/bevel-samples
+              - repo_url: https://github.com/hyperledger-bevel/governance
             logo: hyperledger-bevel.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
@@ -1194,7 +1228,7 @@ landscape:
             description: Hyperledger Cacti is a blockchain integration tool designed to allow users to securely integrate different blockchains.
             homepage_url: https://www.hyperledger.org/use/cacti
             project: graduated
-            repo_url: https://github.com/hyperledger/cacti
+            repo_url: https://github.com/hyperledger-cacti/cacti
             logo: hyperledger-cacti.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
@@ -1210,9 +1244,10 @@ landscape:
               the following blockchain solutions: Hyperledger Besu, Ethereum, Hyperledger Fabric, FISCO BCOS, Hyperledger Iroha, and Hyperledger Sawtooth.
             homepage_url: https://www.hyperledger.org/use/caliper
             project: incubating
-            repo_url: https://github.com/hyperledger/caliper
+            repo_url: https://github.com/hyperledger-caliper/caliper
             additional_repos:
-              - repo_url: https://github.com/hyperledger/caliper-benchmarks
+              - repo_url: https://github.com/hyperledger-caliper/caliper-benchmarks
+              - repo_url: https://github.com/hyperledger-caliper/governance
             logo: hyperledger-caliper.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
@@ -1230,7 +1265,8 @@ landscape:
             project: incubating
             repo_url: https://github.com/hyperledger/cello
             additional_repos:
-              - repo_url: https://github.com/hyperledger/cello-analytics
+              - repo_url: https://github.com/hyperledger-cello/cello-analytics
+              - repo_url: https://github.com/hyperledger-cello/governance
             logo: hyperledger-cello.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
@@ -1248,10 +1284,13 @@ landscape:
             project: graduated
             repo_url: https://github.com/hyperledger/firefly
             additional_repos:
+              - repo_url: https://github.com/hyperledger-firefly/governance
               - repo_url: https://github.com/hyperledger/firefly-cli
+              - repo_url: https://github.com/hyperledger/firefly-common
               - repo_url: https://github.com/hyperledger/firefly-cordaconnect
               - repo_url: https://github.com/hyperledger/firefly-dataexchange-https
               - repo_url: https://github.com/hyperledger/firefly-ethconnect
+              - repo_url: https://github.com/hyperledger/firefly-evmconnect
               - repo_url: https://github.com/hyperledger/firefly-fabconnect
               - repo_url: https://github.com/hyperledger/firefly-fir
               - repo_url: https://github.com/hyperledger/firefly-helm-charts
@@ -1259,6 +1298,8 @@ landscape:
               - repo_url: https://github.com/hyperledger/firefly-samples
               - repo_url: https://github.com/hyperledger/firefly-sandbox
               - repo_url: https://github.com/hyperledger/firefly-sdk-nodejs
+              - repo_url: https://github.com/hyperledger/firefly-signer
+              - repo_url: https://github.com/hyperledger/firefly-tezosconnect
               - repo_url: https://github.com/hyperledger/firefly-tokens-erc1155
               - repo_url: https://github.com/hyperledger/firefly-tokens-erc20-erc721
               - repo_url: https://github.com/hyperledger/firefly-transaction-manager
@@ -1275,7 +1316,14 @@ landscape:
               Substrate.
             homepage_url: https://www.hyperledger.org/use/solang
             project: incubating
-            repo_url: https://github.com/hyperledger/solang
+            repo_url: https://github.com/hyperledger-solang/solang
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-labs/solang-playground
+              - repo_url: https://github.com/hyperledger-solang/governance
+              - repo_url: https://github.com/hyperledger-solang/homebrew-solang
+              - repo_url: https://github.com/hyperledger-solang/solang-aqd
+              - repo_url: https://github.com/hyperledger-solang/solang-llvm
+              - repo_url: https://github.com/hyperledger-solang/solang-substrate-ci
             logo: hyperledger-solang.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
