@@ -10,7 +10,7 @@ on:
 jobs:
   validate-landscape:
     runs-on: ubuntu-latest
-    name: "Validate settings.yml file"
+    name: "Validate landscape.yml file"
     steps:
       - name: Harden Runner
         uses: step-security/harden-runner@91182cccc01eb5e619899d80e4e971d6181294a7 # v2.10.1
@@ -21,7 +21,7 @@ jobs:
       - uses: cncf/landscape2-validate-action@7f299c46e9b03b4e8bc2896882734fb0b0756b37 # v2.0.0
         with:
           target_kind: data
-          target_path: ./settings.yml
+          target_path: ./landscape.yml
       - uses: pascalgn/automerge-action@7961b8b5eec56cc088c140b56d864285eabd3f67 # v0.16.4
         if: success()
         env:
