@@ -12,8 +12,6 @@ on:
       - 'hosted_logos/*'
     types:
       - opened
-      - edited
-      - synchronize
 
 jobs:
   comment:
