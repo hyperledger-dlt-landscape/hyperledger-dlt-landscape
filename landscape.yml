@@ -391,7 +391,7 @@ landscape:
         items:
           - item:
             name: Chaincode
-            homepage_url: https://www.hyperledger.org/use/fabric
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/fabric
             repo_url: https://github.com/hyperledger/fabric-chaincode-go
             logo: hyperledger-fabric.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
@@ -973,7 +973,7 @@ landscape:
               extractable EVM implementation. It can also be run on test networks such as Sepolia and Görli. Hyperledger Besu includes several consensus
               algorithms including Proof of Stake, Proof of Work, and Proof of Authority (IBFT 2.0, QBFT, and Clique). Its comprehensive permissioning schemes
               are designed specifically for use in a consortium environment.
-            homepage_url: https://www.hyperledger.org/use/besu
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/besu
             project: graduated
             repo_url: https://github.com/hyperledger/besu
             additional_repos:
@@ -986,7 +986,7 @@ landscape:
             twitter: https://twitter.com/hyperledgerbesu
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/besu
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/besu/overview
               chat: https://discord.com/channels/905194001349627914/938504958909747250
               documentation: https://besu.hyperledger.org/en/stable/
           - item:
@@ -997,7 +997,7 @@ landscape:
               Hyperledger Fabric is intended as a foundation for developing applications or solutions with a modular architecture. Hyperledger Fabric allows
               components, such as consensus and membership services, to be plug-and-play.  Its modular and versatile design satisfies a broad range of industry
               use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-            homepage_url: https://www.hyperledger.org/use/fabric
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/fabric
             project: graduated
             repo_url: https://github.com/hyperledger/fabric
             additional_repos:
@@ -1026,7 +1026,7 @@ landscape:
             logo: hyperledger-fabric.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/fabric
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/fabric/overview
               chat: https://discord.com/channels/905194001349627914/905205541326975046
               documentation: https://hyperledger-fabric.readthedocs.io/en/latest/
           - item:
@@ -1057,7 +1057,7 @@ landscape:
               Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed
               ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other
               blockchains or can be used standalone powering the decentralization of identity.
-            homepage_url: https://www.hyperledger.org/use/hyperledger-indy
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/hyperledger-indy
             project: graduated
             repo_url: https://github.com/hyperledger/indy-node
             additional_repos:
@@ -1076,7 +1076,7 @@ landscape:
             logo: hyperledger-indy.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/indy
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/indy/overview
               chat: https://discord.com/channels/905194001349627914/905205711850594336
               documentation: https://indy.readthedocs.io/en/latest/
           - item:
@@ -1087,7 +1087,7 @@ landscape:
               Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural or IoT projects requiring distributed ledger technology. 
               Hyperledger Iroha features a simple construction, modular, domain-driven C++ design, emphasis on client application development and a new, crash
               fault tolerant consensus algorithm, called YAC.
-            homepage_url: https://www.hyperledger.org/use/iroha
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/iroha
             project: graduated
             repo_url: https://github.com/hyperledger-iroha/iroha
             additional_repos:
@@ -1112,7 +1112,7 @@ landscape:
             logo: hyperledger-iroha.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/iroha
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/iroha/overview
               chat: https://discord.com/channels/905194001349627914/905205848547155968
               documentation: https://iroha.readthedocs.io/en/main/
       - subcategory:
@@ -1123,7 +1123,7 @@ landscape:
             description: >-
               Hyperledger AnonCreds is a type of verifiable credential that supports important privacy-protecting capabilities based on zero-knowledge proof
               cryptography.
-            homepage_url: https://www.hyperledger.org/use/anoncreds
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/anoncreds
             project: incubating
             repo_url: https://github.com/hyperledger/anoncreds-rs
             additional_repos:
@@ -1132,7 +1132,7 @@ landscape:
             logo: hyperledger-anon-creds.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/anoncreds
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/anoncreds/overview
           - item:
             name: Hyperledger Aries
             second_path:
@@ -1142,7 +1142,7 @@ landscape:
               with maximum privacy preservation, and establish confidential, ongoing communication channels for rich interactions. It supports multiple
               protocols, credential types, ledgers and registries. It has frameworks in multiple development languages, and interoperability tools and profiles
               to help everything work together seamlessly.
-            homepage_url: https://www.hyperledger.org/use/aries
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/aries
             project: graduated
             repo_url: https://github.com/hyperledger/aries
             additional_repos:
@@ -1162,7 +1162,7 @@ landscape:
             logo: hyperledger-aries.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/aries
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/aries/overview
               chat: https://discord.com/channels/905194001349627914/905206466410057728
               introduction_course: https://www.edx.org/course/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa
               developer_course: https://www.edx.org/course/becoming-a-hyperledger-aries-developer
@@ -1172,7 +1172,7 @@ landscape:
               Hyperledger Identus provides components to develop decentralized identity solutions that adhere to widely recognized self-sovereign identity
               (SSI)  standards. It offers complete DID and verifiable credential functionality and simplifies the complexities of adopting a decentralized
               identity  solution into existing and new workflows.
-            homepage_url: https://www.hyperledger.org/projects/identus
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/identus
             project: incubating
             repo_url: https://github.com/hyperledger/identus
             additional_repos:
@@ -1191,7 +1191,7 @@ landscape:
             logo: hyperledger-identus.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/identus
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/identus/overview
               chat: https://discord.com/channels/905194001349627914/1226983777687965707
           - item:
             name: Hyperledger Web3J
@@ -1199,7 +1199,7 @@ landscape:
               Web3j is a highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on
               the Ethereum network. This allows you to work with the Ethereum blockchain, without the additional overhead of having to write your own
               integration code for the platform.
-            homepage_url: https://www.hyperledger.org/projects/web3j
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/web3j
             project: incubating
             repo_url: https://github.com/hyperledger-web3j/web3j
             additional_repos:
@@ -1228,7 +1228,7 @@ landscape:
             description: >-
               Hyperledger Bevel is an accelerator by which developers can consistently deploy production-ready distributed networks across public and private
               cloud providers.
-            homepage_url: https://www.hyperledger.org/use/bevel
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/bevel
             project: incubating
             repo_url: https://github.com/hyperledger-bevel/bevel
             additional_repos:
@@ -1238,7 +1238,7 @@ landscape:
             logo: hyperledger-bevel.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/BEV
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/BEV/overview
               chat: https://discord.com/channels/905194001349627914/941475087389950002
               documentation: https://hyperledger-bevel.readthedocs.io/en/latest/
           - item:
@@ -1246,13 +1246,13 @@ landscape:
             second_path:
               - Interoperability / Point-to-point and overlayer approaches
             description: Hyperledger Cacti is a blockchain integration tool designed to allow users to securely integrate different blockchains.
-            homepage_url: https://www.hyperledger.org/use/cacti
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/cacti
             project: graduated
             repo_url: https://github.com/hyperledger-cacti/cacti
             logo: hyperledger-cacti.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/cactus
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/cactus/overview
               chat: https://discord.com/channels/905194001349627914/908379366650703943
           - item:
             name: Hyperledger Caliper
@@ -1262,7 +1262,7 @@ landscape:
               Hyperledger Caliper is a blockchain benchmark tool, it allows users to measure the performance of a blockchain implementation with a set of
               predefined use cases. Hyperledger Caliper will produce reports containing a number of performance indicators to serve as a reference when using
               the following blockchain solutions: Hyperledger Besu, Ethereum, Hyperledger Fabric, FISCO BCOS, Hyperledger Iroha, and Hyperledger Sawtooth.
-            homepage_url: https://www.hyperledger.org/use/caliper
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/caliper
             project: incubating
             repo_url: https://github.com/hyperledger-caliper/caliper
             additional_repos:
@@ -1271,7 +1271,7 @@ landscape:
             logo: hyperledger-caliper.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/caliper
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/caliper/overview
               chat: https://discord.com/channels/905194001349627914/941417677778473031
           - item:
             name: Hyperledger Cello
@@ -1281,7 +1281,7 @@ landscape:
               Hyperledger Cello aims to serve as the operational dashboard for Blockchain, which reduces the effort required for creating, managing and using
               blockchains. Besides, it can also be used to facilitate creating Blockchain as a Service. Cello provides an operational console  for managing
               blockchain’s efficiently and running on top of various infrastructures, e.g., baremetal, virtual machine, and various container platforms.
-            homepage_url: https://www.hyperledger.org/use/cello
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/cello
             project: incubating
             repo_url: https://github.com/hyperledger/cello
             additional_repos:
@@ -1290,7 +1290,7 @@ landscape:
             logo: hyperledger-cello.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/cello
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/cello/overview
               chat: https://discord.com/channels/905194001349627914/941475454378991646
           - item:
             name: Hyperledger Firefly
@@ -1300,7 +1300,7 @@ landscape:
               Hyperledger FireFly is the first open source Supernode, a complete stack for enterprises to build and scale secure Web3 applications. The FireFly
               API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular chains and
               protocols.
-            homepage_url: https://www.hyperledger.org/use/firefly
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/firefly
             project: graduated
             repo_url: https://github.com/hyperledger/firefly
             additional_repos:
@@ -1327,14 +1327,14 @@ landscape:
             logo: hyperledger-firefly.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/fir
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/fir/overview
               chat: https://discord.com/channels/905194001349627914/928377875827154984
           - item:
             name: Hyperledger Solang
             description: >-
               Hyperledger Solang is a Solidity compiler written in rust which uses llvm as the compiler backend. Solang can compile Solidity for Solana and
               Substrate.
-            homepage_url: https://www.hyperledger.org/use/solang
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/solang
             project: incubating
             repo_url: https://github.com/hyperledger-solang/solang
             additional_repos:
@@ -1347,7 +1347,7 @@ landscape:
             logo: hyperledger-solang.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
             extra:
-              wiki: https://wiki.hyperledger.org/display/SOL/Hyperledger+Solang
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/SOL/overview
               chat: https://discord.com/channels/905194001349627914/905834552965103638
   - category:
     name: LF Decentralized Trust Members
