@@ -1084,7 +1084,7 @@ landscape:
             second_path:
               - Distributed Ledgers / Permissioned
             description: >-
-              Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural or IoT projects requiring distributed ledger technology. 
+              Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural or IoT projects requiring distributed ledger technology.
               Hyperledger Iroha features a simple construction, modular, domain-driven C++ design, emphasis on client application development and a new, crash
               fault tolerant consensus algorithm, called YAC.
             homepage_url: https://www.lfdecentralizedtrust.org/projects/iroha
@@ -1329,6 +1329,31 @@ landscape:
             extra:
               wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/fir/overview
               chat: https://discord.com/channels/905194001349627914/928377875827154984
+          - item:
+            name: Lockness
+            description: >-
+              Lockness aims to establish a new open source ecosystem focused on key management
+              and digital signature protocols, including technologies like Multi-Party Computation (MPC),
+              Threshold Signature Schemes (TSS), Hardware Security Modules (HSM) and other
+              state-of-the-art protocols in public key cryptography and cryptographic modules.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/lockness
+            project: incubating
+            repo_url: https://github.com/LFDT-Lockness/governance
+            additional_repos:
+              - repo_url: https://github.com/LFDT-Lockness/cggmp21
+              - repo_url: https://github.com/LFDT-Lockness/fast-paillier
+              - repo_url: https://github.com/LFDT-Lockness/generic-ec
+              - repo_url: https://github.com/LFDT-Lockness/givre
+              - repo_url: https://github.com/LFDT-Lockness/hd-wallet
+              - repo_url: https://github.com/LFDT-Lockness/paillier-zk
+              - repo_url: https://github.com/LFDT-Lockness/rand_hash
+              - repo_url: https://github.com/LFDT-Lockness/round-based
+              - repo_url: https://github.com/LFDT-Lockness/stark-curve
+              - repo_url: https://github.com/LFDT-Lockness/udigest
+            logo: lockness_stroke.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              chat: https://discord.com/channels/905194001349627914/1255573353683746856
           - item:
             name: Hyperledger Solang
             description: >-
@@ -2261,9 +2286,9 @@ landscape:
           - item:
             name: GoLedger (HCSP)
             description: >-
-              GoLedger is a renowned company specializing in developing on-demand private and permissioned Blockchains using the Hyperledger Fabric platform. 
-              Our certified team is known for its high level technical skills, ensuring the creation of custom Blockchain networks tailored for several 
-              segments, like financial, oil & gas or supply chain. We excel in developing chaincodes for secure, cost-efficient transactions, providing 
+              GoLedger is a renowned company specializing in developing on-demand private and permissioned Blockchains using the Hyperledger Fabric platform.
+              Our certified team is known for its high level technical skills, ensuring the creation of custom Blockchain networks tailored for several
+              segments, like financial, oil & gas or supply chain. We excel in developing chaincodes for secure, cost-efficient transactions, providing
               reliable and robust solutions for business.
             homepage_url: https://goledger.io/chaincode/
             logo: goledger.svg
