@@ -1385,28 +1385,24 @@ landscape:
           - item:
             name: Accenture Global Solutions Limited (member)
             homepage_url: https://accenture.com/
-            project: null
             logo: accenture_global_solutions_limited.svg
             twitter: https://twitter.com/Accenture
             crunchbase: https://www.crunchbase.com/organization/accenture
           - item:
             name: Depository Trust and Clearing Corporation (DTCC) (member)
             homepage_url: https://dtcc.com/
-            project: null
             logo: depository_trust_and_clearing_corporation_dtcc.svg
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
           - item:
             name: Hedera Hashgraph LLC (member)
             homepage_url: https://hedera.com/
-            project: null
             logo: hedera_hashgraph_llc.svg
             twitter: https://twitter.com/hedera
             crunchbase: https://www.crunchbase.com/organization/hashgraph
           - item:
             name: Hitachi, Ltd. (member)
             homepage_url: https://hitachi.com/
-            project: null
             logo: hitachi_ltd.svg
             twitter: https://twitter.com/HitachiGlobal
             crunchbase: https://www.crunchbase.com/organization/hitachi
@@ -1416,62 +1412,53 @@ landscape:
           - item:
             name: Absa Bank Limited (member)
             homepage_url: https://absa.africa/
-            project: null
             logo: absa_bank_limited.svg
             twitter: https://twitter.com/Absa
             crunchbase: https://www.crunchbase.com/organization/absa-bank
           - item:
             name: Adhara Limited (member)
             homepage_url: https://adhara.io/
-            project: null
             logo: adhara_limited.svg
             twitter: https://twitter.com/adhara_io
             crunchbase: https://www.crunchbase.com/organization/adhara
           - item:
             name: American Express (member)
             homepage_url: https://americanexpress.com/
-            project: null
             logo: american_express.svg
             twitter: https://twitter.com/AmericanExpress
             crunchbase: https://www.crunchbase.com/organization/americanexpress
           - item:
             name: Applied Blockchain (member)
             homepage_url: https://appliedblockchain.com/
-            project: null
             logo: applied_blockchain.svg
             twitter: https://twitter.com/AppBlockchain
             crunchbase: https://www.crunchbase.com/organization/applied-blockchain
           - item:
             name: AyanWorks Technology Solutions Pvt. Ltd. (member)
             homepage_url: https://ayanworks.com/
-            project: null
             logo: ayanworks_technology_solutions_pvt_ltd.svg
             twitter: https://twitter.com/ayanworkstech
             crunchbase: https://www.crunchbase.com/organization/ayanworks
           - item:
             name: Blockchain Game Partners Inc.(“Gala”) (member)
             homepage_url: https://gala.com/
-            project: null
             logo: blockchain_game_partners_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gala-games
           - item:
             name: BONbLOC Inc (member)
             homepage_url: https://bonbloc.com/
-            project: null
             logo: bonbloc_inc.svg
             twitter: https://twitter.com/BonblocT
             crunchbase: https://www.crunchbase.com/organization/bonbloc
           - item:
             name: CasperLabs LLC (member)
             homepage_url: https://casperlabs.io/
-            project: null
             logo: casperlabs_llc.svg
             twitter: https://twitter.com/Casper_Network
             crunchbase: https://www.crunchbase.com/organization/casperlabs
           - item:
             name: Chainyard (member)
             homepage_url: https://chainyard.com/
-            project: null
             logo: chainyard.svg
             twitter: https://twitter.com/chainyard
             organization:
@@ -1480,55 +1467,47 @@ landscape:
           - item:
             name: Cheesecake Labs (member)
             homepage_url: https://cheesecakelabs.com/
-            project: null
             logo: cheesecake_labs.svg
             crunchbase: https://www.crunchbase.com/organization/cheesecake-labs-2
           - item:
             name: China Systems Holdings Limited (member)
             homepage_url: https://chinasystems.com/
-            project: null
             logo: china_systems_holdings_limited.svg
             twitter: https://twitter.com/china_systems
             crunchbase: https://www.crunchbase.com/organization/china-systems
           - item:
             name: Circulor Ltd. (member)
             homepage_url: https://circulor.com/
-            project: null
             logo: circulor_ltd.svg
             twitter: https://twitter.com/Circulor1
             crunchbase: https://www.crunchbase.com/organization/circulor
           - item:
             name: Citi (member)
             homepage_url: https://citi.com/
-            project: null
             logo: citi.svg
             twitter: https://twitter.com/citi
             crunchbase: https://www.crunchbase.com/organization/citigroup
           - item:
             name: Consensys AG (member)
             homepage_url: https://consensys.io/
-            project: null
             logo: consensys_ag.svg
             twitter: https://twitter.com/ConsenSys
             crunchbase: https://www.crunchbase.com/organization/consensus-systems
           - item:
             name: Corsha (member)
             homepage_url: https://corsha.com/
-            project: null
             logo: corsha.svg
             twitter: https://twitter.com/Corsha_APIs
             crunchbase: https://www.crunchbase.com/organization/corsha
           - item:
             name: CVS Health (member)
             homepage_url: https://cvshealth.com/
-            project: null
             logo: cvs_health.svg
             twitter: https://twitter.com/CVSHealth
             crunchbase: https://www.crunchbase.com/organization/cvs-caremark
           - item:
             name: DABCo Ltd (member)
             homepage_url: https://pairpoint.io/
-            project: null
             logo: dabco_ltd.svg
             organization:
               name: DABCo Ltd
@@ -1536,55 +1515,47 @@ landscape:
           - item:
             name: Data Storage Research, LLC d/b/a DSR Corporation (member)
             homepage_url: https://dsr-corporation.com/
-            project: null
             logo: data_storage_research_llc_d_b_a_dsr_corporation.svg
             twitter: https://twitter.com/DSR_corporation
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
           - item:
             name: Deutsche Telekom AG (member)
             homepage_url: https://telekom.com/
-            project: null
             logo: deutsche_telekom_ag.svg
             twitter: https://twitter.com/deutschetelekom
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
           - item:
             name: Dfns (member)
             homepage_url: https://dfns.co/
-            project: null
             logo: dfns.svg
             crunchbase: https://www.crunchbase.com/organization/xkey
           - item:
             name: Dhiway Networks Private Limited (member)
             homepage_url: https://dhiway.com/
-            project: null
             logo: dhiway_networks_private_limited.svg
             twitter: https://twitter.com/dhiwaynetworks
             crunchbase: https://www.crunchbase.com/organization/dhiway
           - item:
             name: Digital Asset (Switzerland) GmbH (member)
             homepage_url: https://digitalasset.com/
-            project: null
             logo: digital_asset_switzerland_gmbh.svg
             twitter: https://twitter.com/Damldriven
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
           - item:
             name: Energy Web Foundation (member)
             homepage_url: https://energyweb.org/
-            project: null
             logo: energy_web_foundation.svg
             twitter: https://twitter.com/energywebx
             crunchbase: https://www.crunchbase.com/organization/energy-web-foundation
           - item:
             name: Espeo Software (member)
             homepage_url: https://espeo.eu/
-            project: null
             logo: espeo_software.svg
             twitter: https://twitter.com/espeo_software
             crunchbase: https://www.crunchbase.com/organization/espeo-software
           - item:
             name: Exponential Science Foundation (member)
             homepage_url: https://dltscience.org/
-            project: null
             logo: exponential_science_foundation.svg
             organization:
               name: Exponential Science Foundation
@@ -1592,28 +1563,24 @@ landscape:
           - item:
             name: Filecoin Foundation (member)
             homepage_url: https://fil.org/
-            project: null
             logo: filecoin_foundation.svg
             twitter: https://twitter.com/FilFoundation
             crunchbase: https://www.crunchbase.com/organization/filecoin-foundation
           - item:
             name: Fujitsu Limited (member)
             homepage_url: https://fujitsu.com/
-            project: null
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
             name: GoLedger (member)
             homepage_url: https://goledger.io/
-            project: null
             logo: goledger.svg
             twitter: https://twitter.com/go_ledger
             crunchbase: https://www.crunchbase.com/organization/goledger
           - item:
             name: Hashgraph Foundry Inc. (DBA Hashgraph) (member)
             homepage_url: https://hashgraph.com/
-            project: null
             logo: hashgraph_foundry_inc.svg
             organization:
               name: Hashgraph Foundry Inc. (DBA Hashgraph)
@@ -1621,209 +1588,178 @@ landscape:
           - item:
             name: Huawei Technologies Co., Ltd (member)
             homepage_url: https://huawei.com/
-            project: null
             logo: huawei_technologies_co.svg
             twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Indicio (member)
             homepage_url: https://indicio.tech/
-            project: null
             logo: indicio.svg
             twitter: https://twitter.com/IndicioID
             crunchbase: https://www.crunchbase.com/organization/indicio-tech
           - item:
             name: Information Data Systems (member)
             homepage_url: https://idssoft.com/
-            project: null
             logo: information_data_systems.svg
             twitter: https://twitter.com/IDSSOFT
             crunchbase: https://www.crunchbase.com/organization/information-data-systems-de20
           - item:
             name: Infosys Limited (member)
             homepage_url: https://infosys.com/
-            project: null
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
             name: Instnt Inc. (member)
             homepage_url: https://instnt.org/
-            project: null
             logo: instnt_inc.svg
             twitter: https://twitter.com/Instnt_org
             crunchbase: https://www.crunchbase.com/organization/instnt
           - item:
             name: IntellectEU (member)
             homepage_url: https://intellecteu.com/
-            project: null
             logo: intellecteu.svg
             twitter: https://twitter.com/IntellectEU
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
-            project: null
             logo: international_business_machines_corporation.svg
             twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Intersect (member)
             homepage_url: https://intersectmbo.org/
-            project: null
             logo: intersect.svg
             organization:
               name: Intersect
           - item:
             name: IO Builders Blockchain Technologies & Ventures (member)
             homepage_url: https://io.builders/
-            project: null
             logo: io_builders_blockchain_technologies_ventures.svg
             twitter: https://twitter.com/iobuilders
             crunchbase: https://www.crunchbase.com/organization/iobuilders
           - item:
             name: IOG Singapore Pte. Ltd (member)
             homepage_url: https://iohk.io/
-            project: null
             logo: iog_singapore_pte.svg
             twitter: https://twitter.com/InputOutputHK
             crunchbase: https://www.crunchbase.com/organization/input-output
           - item:
             name: Japan Securities Clearing Corporation (JSCC) (member)
             homepage_url: https://www.jpx.co.jp/jscc/en/
-            project: null
             logo: japan_securities_clearing_corporation_jscc.svg
             crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
           - item:
             name: Kaleido (member)
             homepage_url: https://kaleido.io/
-            project: null
             logo: kaleido.svg
             twitter: https://twitter.com/Kaleido_io
             crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
             name: Krypc Corporation (member)
             homepage_url: https://krypc.com/
-            project: null
             logo: krypc_corporation.svg
             twitter: https://twitter.com/krypctalk
             crunchbase: https://www.crunchbase.com/organization/krypc
           - item:
             name: Launchnodes (member)
             homepage_url: https://launchnodes.com/
-            project: null
             logo: launchnodes.svg
             crunchbase: https://www.crunchbase.com/organization/launchnodes
           - item:
             name: LayerZero Labs Ltd. (member)
             homepage_url: https://layerzero.network/
-            project: null
             logo: layerzero_labs_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/layerzero-labs
           - item:
             name: MasterCard Incorporated (member)
             homepage_url: https://mastercard.us/
-            project: null
             logo: mastercard_incorporated.svg
             twitter: https://twitter.com/Mastercard
             crunchbase: https://www.crunchbase.com/organization/mastercard
           - item:
             name: MediConCen Limited (member)
             homepage_url: https://mediconcen.com/
-            project: null
             logo: mediconcen_limited.svg
             twitter: https://twitter.com/mediconcen
             crunchbase: https://www.crunchbase.com/organization/mediconcen
           - item:
             name: Milligan Partners (member)
             homepage_url: https://milliganpartners.com/
-            project: null
             logo: milligan_partners.svg
             twitter: https://twitter.com/MilliganPartnrs
             crunchbase: https://www.crunchbase.com/organization/milligan-partners
           - item:
             name: NTT DATA Group Corporation (member)
             homepage_url: https://nttdata.com/
-            project: null
             logo: ntt_data_group_corporation.svg
             twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
           - item:
             name: Oracle America Inc. (member)
             homepage_url: https://oracle.com/
-            project: null
             logo: oracle_america_inc.svg
             twitter: https://twitter.com/Oracle
             crunchbase: https://www.crunchbase.com/organization/oracle
           - item:
             name: Ownera (member)
             homepage_url: https://ownera.io/
-            project: null
             logo: ownera.svg
             crunchbase: https://www.crunchbase.com/organization/ownera
           - item:
             name: Paramount Software Solutions Inc. (member)
             homepage_url: https://paramountsoft.net/
-            project: null
             logo: paramount_software_solutions_inc.svg
             twitter: https://twitter.com/Paramount_GA
             crunchbase: https://www.crunchbase.com/organization/paramount-software-solutions-inc
           - item:
             name: Polygon Labs Services (Switzerland) AG (member)
             homepage_url: https://polygon.technology/
-            project: null
             logo: polygon_labs_services_switzerland_ag.svg
             crunchbase: https://www.crunchbase.com/organization/polygontechnology
           - item:
             name: Print2Block (member)
             homepage_url: https://docchain.io/
-            project: null
             logo: print2block.svg
             crunchbase: https://www.crunchbase.com/organization/print2block
           - item:
             name: R3 LLC (member)
             homepage_url: https://r3.com/
-            project: null
             logo: r3_llc.svg
             twitter: https://twitter.com/inside_r3
             crunchbase: https://www.crunchbase.com/organization/r3-cev
           - item:
             name: Rayls Foundation (member)
             homepage_url: https://rayls.com/
-            project: null
             logo: rayls_foundation.svg
             organization:
               name: Rayls Foundation
           - item:
             name: Ripple Labs Inc. (member)
             homepage_url: https://ripple.com/
-            project: null
             logo: ripple_labs_inc.svg
             twitter: https://twitter.com/Ripple
             crunchbase: https://www.crunchbase.com/organization/ripple-labs
           - item:
             name: SDAX Exchange Pte Ltd (member)
             homepage_url: https://sdax.co/
-            project: null
             logo: sdax_exchange_pte_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/sdax
           - item:
             name: SEIYAJ TECH (member)
             homepage_url: https://seiyaj.com/
-            project: null
             logo: seiyaj_tech.svg
             crunchbase: https://www.crunchbase.com/organization/seiyaj-tech
           - item:
             name: Senofi (member)
             homepage_url: https://senofi.ca/
-            project: null
             logo: senofi.svg
             twitter: https://twitter.com/SenofiCA
             crunchbase: https://www.crunchbase.com/organization/senofi
           - item:
             name: SmartCirqls Infotech Private Limited (member)
             homepage_url: https://qila.io/
-            project: null
             logo: smartcirqls_infotech_private_limited.svg
             organization:
               name: SmartCirqls Infotech Private Limited
@@ -1831,75 +1767,64 @@ landscape:
           - item:
             name: SmartContract Inc. (member)
             homepage_url: https://chainlinklabs.com/
-            project: null
             logo: smartcontract_inc.svg
             crunchbase: https://www.crunchbase.com/organization/chainlink-labs
           - item:
             name: SORAMITSU CO., LTD. (member)
             homepage_url: https://soramitsu.co.jp/
-            project: null
             logo: soramitsu_co_ltd.svg
             twitter: https://twitter.com/soramitsu_co
             crunchbase: https://www.crunchbase.com/organization/soramitsu
           - item:
             name: Stellar Development Foundation (member)
             homepage_url: https://stellar.org/
-            project: null
             logo: stellar_development_foundation.svg
             twitter: https://twitter.com/StellarOrg
             crunchbase: https://www.crunchbase.com/organization/stellar
           - item:
             name: Tata Consultancy Services Limited (member)
             homepage_url: https://tcs.com/
-            project: null
             logo: tata_consultancy_services_limited.svg
             twitter: https://twitter.com/TCS
             crunchbase: https://www.crunchbase.com/organization/tata-consultancy-services
           - item:
             name: Validation Cloud (member)
             homepage_url: https://validationcloud.io/
-            project: null
             logo: validation_cloud.svg
             crunchbase: https://www.crunchbase.com/organization/validation-cloud
           - item:
             name: Visa Inc. (member)
             homepage_url: https://visa.com/
-            project: null
             logo: visa_inc.svg
             twitter: https://twitter.com/Visa
             crunchbase: https://www.crunchbase.com/organization/visa
           - item:
             name: Walmart Inc. (member)
             homepage_url: https://walmart.com/
-            project: null
             logo: walmart_inc.svg
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
           - item:
             name: Wanchain (member)
             homepage_url: https://wanchain.org/
-            project: null
             logo: wanchain.svg
             twitter: https://twitter.com/wanchain_org
             crunchbase: https://www.crunchbase.com/organization/wanchain
           - item:
             name: Wipro Limited (member)
             homepage_url: https://wipro.com/
-            project: null
             logo: wipro_limited.svg
             twitter: https://twitter.com/Wipro
             crunchbase: https://www.crunchbase.com/organization/wipro
           - item:
             name: Zeeve Inc (member)
             homepage_url: https://zeeve.io/
-            project: null
             logo: zeeve_inc.svg
             twitter: https://twitter.com/0xZeeve
             crunchbase: https://www.crunchbase.com/organization/zeeve
           - item:
             name: Zoniqx Inc. (member)
             homepage_url: https://zoniqx.com/
-            project: null
             logo: zoniqx_inc.svg
             twitter: https://twitter.com/RealtoApps
             crunchbase: https://www.crunchbase.com/organization/zoniqx
@@ -1909,49 +1834,42 @@ landscape:
           - item:
             name: AAIS (American Association of Insurance Services) (member)
             homepage_url: https://aaisonline.com/
-            project: null
             logo: aais_american_association_of_insurance_services.svg
             twitter: https://twitter.com/AAISConnect
             crunchbase: https://www.crunchbase.com/organization/american-association-of-insurance-services
           - item:
             name: Alastria Blockchain Ecosystem (member)
             homepage_url: https://alastria.io/
-            project: null
             logo: alastria_blockchain_ecosystem.svg
             twitter: https://twitter.com/Alastria_
             crunchbase: https://www.crunchbase.com/organization/alastria
           - item:
             name: Banco Central do Brasil (member)
             homepage_url: https://bcb.gov.br/
-            project: null
             logo: banco_central_do_brasil.svg
             twitter: https://twitter.com/BancoCentralBR
             crunchbase: https://www.crunchbase.com/organization/banco-central-do-brasil
           - item:
             name: Bank of England (member)
             homepage_url: https://bankofengland.co.uk/
-            project: null
             logo: bank_of_england.svg
             twitter: https://twitter.com/bankofengland
             crunchbase: https://www.crunchbase.com/organization/bank-of-england
           - item:
             name: Banque de France (member)
             homepage_url: https://banque-france.fr/
-            project: null
             logo: banque_de_france.svg
             twitter: https://twitter.com/banquedefrance
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
           - item:
             name: Blockchain Research Institute (Tapscott Group) (member)
             homepage_url: https://tapscott.com/
-            project: null
             logo: blockchain_research_institute_tapscott_group.svg
             twitter: https://twitter.com/dtapscott
             crunchbase: https://www.crunchbase.com/organization/blockchain-research-institute
           - item:
             name: BNDES (member)
             homepage_url: https://bndes.gov.br/
-            project: null
             logo: bndes.svg
             organization:
               name: BNDES
@@ -1959,48 +1877,41 @@ landscape:
           - item:
             name: Budapest University of Technology and Economics (member)
             homepage_url: https://mit.bme.hu/
-            project: null
             logo: budapest_university_of_technology_and_economics.svg
             twitter: https://twitter.com/BME_hu
             crunchbase: https://www.crunchbase.com/organization/budapest-university-of-technology-and-economics
           - item:
             name: Central Bank of Nigeria (member)
             homepage_url: https://cbn.gov.ng/
-            project: null
             logo: central_bank_of_nigeria.svg
             twitter: https://twitter.com/cenbank
             crunchbase: https://www.crunchbase.com/organization/central-bank-of-nigeria
           - item:
             name: Chamber of Digital Commerce (member)
             homepage_url: https://digitalchamber.org/
-            project: null
             logo: chamber_of_digital_commerce.svg
             twitter: https://twitter.com/DigitalChamber
             crunchbase: https://www.crunchbase.com/organization/chamber-of-digital-commerce
           - item:
             name: China Academy of Information and Communications Technology (CAICT) (member)
             homepage_url: https://caict.ac.cn/
-            project: null
             logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: CPQD (member)
             homepage_url: https://cpqd.com.br/
-            project: null
             logo: cpqd.svg
             twitter: https://twitter.com/cpqd
             crunchbase: https://www.crunchbase.com/organization/cpqd
           - item:
             name: Decentralized Identity Foundation (member)
             homepage_url: https://identity.foundation/
-            project: null
             logo: decentralized_identity_foundation.svg
             twitter: https://twitter.com/DecentralizedID
             crunchbase: https://www.crunchbase.com/organization/decentralized-identity-foundation
           - item:
             name: Digi Yatra Foundation (member)
             homepage_url: https://www.digiyatrafoundation.com/
-            project: null
             logo: digi_yatra_foundation.svg
             organization:
               name: Digi Yatra Foundation
@@ -2008,21 +1919,18 @@ landscape:
           - item:
             name: Digital Currency Forum (member)
             homepage_url: https://decurret-dcp.com/
-            project: null
             logo: digital_currency_forum.svg
             organization:
               name: Digital Currency Forum
           - item:
             name: Digital Euro Association (DEA) (member)
             homepage_url: https://digital-euro-association.de/
-            project: null
             logo: digital_euro_association_dea.svg
             twitter: https://twitter.com/DigiEuro
             crunchbase: https://www.crunchbase.com/organization/digital-euro-association
           - item:
             name: Digital Identity Laboratory of Canada (member)
             homepage_url: https://idlab.org/
-            project: null
             logo: digital_identity_laboratory_of_canada.svg
             twitter: https://twitter.com/idlaborg
             organization:
@@ -2031,68 +1939,58 @@ landscape:
           - item:
             name: Digital Pound Foundation (member)
             homepage_url: https://digitalpoundfoundation.com/
-            project: null
             logo: digital_pound_foundation.svg
             twitter: https://twitter.com/digitalpoundfdn
             crunchbase: https://www.crunchbase.com/organization/digital-pound-foundation
           - item:
             name: Enterprise Ethereum Alliance (member)
             homepage_url: https://entethalliance.org/
-            project: null
             logo: enterprise_ethereum_alliance.svg
             twitter: https://twitter.com/EntEthAlliance
             crunchbase: https://www.crunchbase.com/organization/enterprise-ethereum-alliance
           - item:
             name: ETC Cooperative (The Ethereum Classic Cooperative) (member)
             homepage_url: https://etccooperative.org/
-            project: null
             logo: etc_cooperative_the_ethereum_classic_cooperative.svg
             twitter: https://twitter.com/ETCCooperative
             crunchbase: https://www.crunchbase.com/organization/etc-cooperative
           - item:
             name: Ethereum Foundation (member)
             homepage_url: https://ethereum.org/
-            project: null
             logo: ethereum_foundation.svg
             twitter: https://twitter.com/ethereum
             crunchbase: https://www.crunchbase.com/organization/ethereum
           - item:
             name: European Blockchain Association e.V. (member)
             homepage_url: https://europeanblockchainassociation.org/
-            project: null
             logo: european_blockchain_association_e_v.svg
             twitter: https://twitter.com/EUBLASORG
             crunchbase: https://www.crunchbase.com/organization/european-blockchain-association
           - item:
             name: Federal Reserve Bank of Boston (member)
             homepage_url: https://bostonfed.org/
-            project: null
             logo: federal_reserve_bank_of_boston.svg
             crunchbase: https://www.crunchbase.com/organization/federal-reserve-bank-of-boston
           - item:
             name: Global Blockchain Business Council (member)
             homepage_url: https://gbbcouncil.org/
-            project: null
             logo: global_blockchain_business_council.svg
             twitter: https://twitter.com/GBBCouncil
             crunchbase: https://www.crunchbase.com/organization/global-blockchain-business-council
           - item:
             name: GS1 US (member)
             homepage_url: https://gs1us.org/
-            project: null
             logo: gs1_us.svg
             twitter: https://twitter.com/GS1_US
             crunchbase: https://www.crunchbase.com/organization/gs1-us
           - item:
             name: Hong Kong Monetary Authority (member)
             homepage_url: https://hkma.gov.hk/
-            project: null
             logo: hong_kong_monetary_authority.svg
             crunchbase: https://www.crunchbase.com/organization/hkma
           - item:
             name: Howest (member)
             homepage_url: https://howest.be/
-            project: null
             logo: howest.svg
             twitter: https://twitter.com/Howest_Intl
             organization:
@@ -2101,109 +1999,93 @@ landscape:
           - item:
             name: Initiative for CryptoCurrencies and Contracts (IC3) (member)
             homepage_url: https://initc3.org/
-            project: null
             logo: initiative_for_cryptocurrencies_and_contracts_ic3.svg
             twitter: https://twitter.com/initc3org
             crunchbase: https://www.crunchbase.com/organization/initiative-for-cryptocurrencies-and-contracts
           - item:
             name: Inter-American Development Bank (dba LACChain) (member)
             homepage_url: https://lacchain.net/
-            project: null
             logo: inter_american_development_bank_dba_lacchain.svg
             twitter: https://twitter.com/LACChain
             crunchbase: https://www.crunchbase.com/organization/inter-american-development-bank
           - item:
             name: International Association for Trusted Blockchain Applications (INATBA) (member)
             homepage_url: https://inatba.org/
-            project: null
             logo: international_association_for_trusted_blockchain_applications_inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba
           - item:
             name: Kerala Blockchain Academy (member)
             homepage_url: https://kba.ai/
-            project: null
             logo: kerala_blockchain_academy.svg
             twitter: https://twitter.com/kbaiiitmk
             crunchbase: https://www.crunchbase.com/organization/kerala-blockchain-academy
           - item:
             name: MIT Connection Science (member)
             homepage_url: https://mit.edu/
-            project: null
             logo: mit_connection_science.svg
             twitter: https://twitter.com/MIT
             crunchbase: https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit
           - item:
             name: Mobility Open Blockchain Initiative (MOBI) (member)
             homepage_url: https://dlt.mobi/
-            project: null
             logo: mobility_open_blockchain_initiative_mobi.svg
             twitter: https://twitter.com/dltMOBI
             crunchbase: https://www.crunchbase.com/organization/mobi-c10d
           - item:
             name: Monetary Authority of Singapore (member)
             homepage_url: https://mas.gov.sg/
-            project: null
             logo: monetary_authority_of_singapore.svg
             crunchbase: https://www.crunchbase.com/organization/monetary-authority-of-singapore
           - item:
             name: National Payments Corporation of India (member)
             homepage_url: https://npci.org.in/
-            project: null
             logo: national_payments_corporation_of_india.svg
             crunchbase: https://www.crunchbase.com/organization/national-payments-corporation-of-india
           - item:
             name: Norges Bank (member)
             homepage_url: https://norges-bank.no/
-            project: null
             logo: norges_bank.svg
             crunchbase: https://www.crunchbase.com/organization/norges-bank
           - item:
             name: Province of British Columbia - Ministry of Citizens Services (member)
             homepage_url: https://gov.bc.ca/
-            project: null
             logo: province_of_british_columbia_ministry_of_citizens_services.svg
             twitter: https://twitter.com/BCGovNews
             crunchbase: https://www.crunchbase.com/organization/government-of-british-columbia
           - item:
             name: Saintgits College of Engineering (member)
             homepage_url: https://saintgits.org/
-            project: null
             logo: saintgits_college_of_engineering.svg
             twitter: https://twitter.com/SaintgitsGroup
             crunchbase: https://www.crunchbase.com/organization/saintgits-college-of-engineering
           - item:
             name: SERPRO (member)
             homepage_url: https://serpro.gov.br/
-            project: null
             logo: serpro.svg
             twitter: https://twitter.com/SERPRO
             crunchbase: https://www.crunchbase.com/organization/serpro-2
           - item:
             name: Smart Dubai Government Est. (member)
             homepage_url: https://dubai.ae/
-            project: null
             logo: smart_dubai_government_est.svg
             twitter: https://twitter.com/SmartDubai
             crunchbase: https://www.crunchbase.com/organization/smartdubai
           - item:
             name: Sovrin Foundation (member)
             homepage_url: https://sovrin.org/
-            project: null
             logo: sovrin_foundation.svg
             twitter: https://twitter.com/SovrinID
             crunchbase: https://www.crunchbase.com/organization/sovrin-foundation
           - item:
             name: Tecnalia Corporation (member)
             homepage_url: https://tecnalia.com/
-            project: null
             logo: tecnalia_corporation.svg
             twitter: https://twitter.com/tecnalia
             crunchbase: https://www.crunchbase.com/organization/tecnalia
           - item:
             name: The Digital Dollar Project (member)
             homepage_url: https://digitaldollarproject.org/
-            project: null
             logo: the_digital_dollar_project.svg
             twitter: https://twitter.com/Digital_Dollar_
             organization:
@@ -2212,21 +2094,18 @@ landscape:
           - item:
             name: The National FinTech Center at Morgan State University (member)
             homepage_url: https://fintech.morgan.edu/
-            project: null
             logo: the_national_fintech_center_at_morgan_state_university.svg
             twitter: https://twitter.com/MorganStateU
             crunchbase: https://www.crunchbase.com/organization/morgan-state-university
           - item:
             name: United Nations (International Computing Centre) (member)
             homepage_url: https://unicc.org/
-            project: null
             logo: united_nations_international_computing_centre.svg
             twitter: https://twitter.com/unicc_ict
             crunchbase: https://www.crunchbase.com/organization/united-nations
           - item:
             name: Wall Street Blockchain Alliance (member)
             homepage_url: https://wsba.co/
-            project: null
             logo: wall_street_blockchain_alliance.svg
             twitter: https://twitter.com/WallStreetBTC
             crunchbase: https://www.crunchbase.com/organization/the-wall-street-bitcoin-alliance

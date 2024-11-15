@@ -1,5 +1,1382 @@
 landscape:
   - category:
+    name: Computing Infrastructure
+    subcategories:
+      - subcategory:
+        name: Cloud, On-premises, Orchestration
+        items:
+          - item:
+            name: Amazon Web Services
+            homepage_url: https://aws.amazon.com
+            project: non-hyperledger-member-services
+            logo: amazon-web-services.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+          - item:
+            name: Equinix
+            homepage_url: https://www.equinix.com/
+            project: non-hyperledger-member-services
+            logo: equinix-logo-vertical.svg
+            crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: Google
+            homepage_url: https://www.google.com
+            project: non-hyperledger-member-services
+            logo: google.svg
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: IBM
+            homepage_url: https://www.ibm.com
+            project: hyperledger-member-services
+            logo: ibm.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: Kubernetes
+            homepage_url: https://kubernetes.io
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/kubernetes/kubernetes
+            logo: kubernetes.svg
+            crunchbase: https://www.crunchbase.com/organization/kubernetes
+          - item:
+            name: Microsoft
+            homepage_url: https://www.microsoft.com
+            project: non-hyperledger-member-services
+            logo: microsoft.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Oracle
+            homepage_url: https://www.oracle.com
+            project: hyperledger-member-services
+            logo: oracle.svg
+            crunchbase: https://www.crunchbase.com/organization/oracle
+          - item:
+            name: RackN
+            homepage_url: https://www.rackn.com
+            project: non-hyperledger-member-services
+            logo: rackn-v3.svg
+            crunchbase: https://www.crunchbase.com/organization/rackn-inc
+          - item:
+            name: Ridge
+            homepage_url: https://www.ridge.co/
+            project: non-hyperledger-member-services
+            logo: ridge-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/tectonic-c189
+          - item:
+            name: SUSE Rancher
+            homepage_url: https://www.suse.com/
+            project: non-hyperledger-member-services
+            repo_url: https://github.com/rancher/rancher
+            logo: rancher-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+          - item:
+            name: VMware
+            homepage_url: https://www.vmware.com
+            project: non-hyperledger-member-products
+            logo: vmware.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+  - category:
+    name: Distributed Ledgers
+    subcategories:
+      - subcategory:
+        name: Permissioned
+        items:
+          - item:
+            name: ConsenSys Quorum
+            homepage_url: https://consensys.net/quorum/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/ConsenSys/quorum
+            logo: consensys-quorum.svg
+            crunchbase: https://www.crunchbase.com/organization/quorum-abb7
+          - item:
+            name: MultiChain
+            homepage_url: https://www.multichain.com
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/MultiChain/multichain
+            logo: multichain-logo-vector-2.svg
+            crunchbase: https://www.crunchbase.com/organization/multichain
+          - item:
+            name: R3 Corda
+            homepage_url: https://www.r3.com
+            project: hyperledger-member-products
+            repo_url: https://github.com/corda/corda
+            logo: corda.svg
+            crunchbase: https://www.crunchbase.com/organization/r3-cev
+      - subcategory:
+        name: Hybrid
+        items:
+          - item:
+            name: Dragonchain protocol
+            homepage_url: https://dragonchain.com
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/dragonchain/dragonchain
+            logo: dragonchain.svg
+            crunchbase: https://www.crunchbase.com/organization/dragonchain-87e5
+          - item:
+            name: Kadena
+            homepage_url: https://www.kadena.io
+            project: non-hyperledger-member-products
+            logo: kadena.svg
+            crunchbase: https://www.crunchbase.com/organization/kadena-llc
+      - subcategory:
+        name: Permissionless
+        items:
+          - item:
+            name: Algorand
+            homepage_url: https://www.algorand.com/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/algorand/go-algorand
+            logo: algorand.svg
+            crunchbase: https://www.crunchbase.com/organization/algorand
+          - item:
+            name: Bitcoin
+            homepage_url: https://bitcoin.org/en/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/bitcoin/bitcoin
+            logo: bitcoin.svg
+            crunchbase: https://www.crunchbase.com/organization/bitcoin
+          - item:
+            name: Cardano
+            homepage_url: https://cardano.org/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/cardano-foundation/developer-portal
+            logo: cardano-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/cardano-foundation
+          - item:
+            name: dfinity
+            homepage_url: https://dfinity.org/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/dfinity/ic
+            logo: dfinity-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/dfinity
+          - item:
+            name: EOSIO
+            homepage_url: https://eos.io
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/EOSIO/eos
+            logo: eosio.svg
+            crunchbase: https://www.crunchbase.com/organization/block-one
+          - item:
+            name: Ethereum
+            homepage_url: https://ethereum.org/en
+            project: hyperledger-member-products
+            repo_url: https://github.com/ethereum/go-ethereum
+            logo: ethereum.svg
+            crunchbase: https://www.crunchbase.com/organization/ethereum
+          - item:
+            name: Hedera Hashgraph
+            homepage_url: https://hedera.com
+            project: hyperledger-member-products
+            logo: hedera-hashgraph.svg
+            crunchbase: https://www.crunchbase.com/organization/hashgraph
+          - item:
+            name: IOTA
+            homepage_url: https://www.iota.org
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/iotaledger/tips
+            logo: Iota.svg
+            crunchbase: https://www.crunchbase.com/organization/iota-foundation
+          - item:
+            name: Solana
+            homepage_url: https://solana.com/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/solana-labs/solana
+            logo: solana-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/solana-io
+          - item:
+            name: Stellar
+            homepage_url: https://www.stellar.org/
+            project: hyperledger-member-products
+            repo_url: https://github.com/stellar/stellar-protocol
+            logo: stellar.svg
+            crunchbase: https://www.crunchbase.com/organization/stellar
+          - item:
+            name: Zilliqa
+            homepage_url: https://www.zilliqa.com/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/Zilliqa/Zilliqa
+            logo: zilliqa.svg
+            crunchbase: https://www.crunchbase.com/organization/zilliqa
+  - category:
+    name: Technology Intersections
+    subcategories:
+      - subcategory:
+        name: Blockchain databases
+        items:
+          - item:
+            name: Amazon QLDB
+            homepage_url: https://aws.amazon.com/qldb/
+            project: non-hyperledger-member-products
+            logo: amazon-web-services.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+          - item:
+            name: BigchainDB
+            homepage_url: https://www.bigchaindb.com
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/bigchaindb/bigchaindb
+            logo: bigchaindb.svg
+            crunchbase: https://www.crunchbase.com/organization/bigchaindb
+          - item:
+            name: Fluree
+            homepage_url: https://flur.ee
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/fluree/db
+            logo: fluree.svg
+            crunchbase: https://www.crunchbase.com/organization/fluree-pbc
+          - item:
+            name: Modex
+            homepage_url: https://modex.tech
+            project: non-hyperledger-member-products
+            logo: modex-purple.svg
+            crunchbase: https://www.crunchbase.com/organization/modex-2
+          - item:
+            name: ProvenDB
+            homepage_url: https://www.provendb.com
+            project: non-hyperledger-member-products
+            logo: provendb.svg
+            crunchbase: https://www.crunchbase.com/organization/provendb
+      - subcategory:
+        name: Distributed storage/file systems
+        items:
+          - item:
+            name: Filebase
+            homepage_url: https://filebase.com/
+            project: non-hyperledger-member-products
+            logo: filebase-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/filebase-484f
+          - item:
+            name: Iagon
+            homepage_url: https://www.iagon.com/index.html
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/Iagonorg/IagonCloudApp
+            logo: iagon-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/iagon
+          - item:
+            name: IPFS
+            homepage_url: https://ipfs.tech/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/ipfs/ipfs
+            logo: ipfs.svg
+            crunchbase: https://www.crunchbase.com/organization/ipfs
+          - item:
+            name: Storj
+            homepage_url: https://www.storj.io/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/storj/storj
+            logo: storj-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/storj
+          - item:
+            name: Taekion
+            homepage_url: https://taekion.com
+            project: non-hyperledger-member-products
+            logo: taekion-silver-outline.svg
+            crunchbase: https://www.crunchbase.com/organization/taekion
+      - subcategory:
+        name: Artificial Intelligence
+        items:
+          - item:
+            name: Attestiv
+            homepage_url: https://attestiv.com/
+            project: non-hyperledger-member-products
+            logo: attestiv.svg
+            crunchbase: https://www.crunchbase.com/organization/attestiv
+          - item:
+            name: Fetch.AI
+            homepage_url: https://fetch.ai
+            project: non-hyperledger-member-products
+            logo: fetchai.svg
+            crunchbase: https://www.crunchbase.com/organization/fetch-ai
+      - subcategory:
+        name: Internet of Things
+        items:
+          - item:
+            name: Helium
+            homepage_url: https://www.helium.com/
+            project: non-hyperledger-member-products
+            logo: helium.svg
+            crunchbase: https://www.crunchbase.com/organization/helium-systems-inc
+          - item:
+            name: IoTex
+            homepage_url: https://iotex.io/
+            project: non-hyperledger-member-products
+            logo: iotex-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/iotex
+      - subcategory:
+        name: Cybersecurity
+        items:
+          - item:
+            name: ALTR
+            homepage_url: https://www.altr.com/
+            project: non-hyperledger-member-products
+            logo: altr.svg
+            crunchbase: https://www.crunchbase.com/organization/altr-6b82
+          - item:
+            name: Chainkit
+            homepage_url: https://chainkit.com
+            project: non-hyperledger-member-products
+            logo: chainkit.svg
+            crunchbase: https://www.crunchbase.com/organization/pencildata-inc
+          - item:
+            name: Cryptowerk
+            homepage_url: https://cryptowerk.com
+            project: non-hyperledger-member-products
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/cryptowerk
+  - category:
+    name: Interoperability
+    subcategories:
+      - subcategory:
+        name: Network of ledgers projects
+        items:
+          - item:
+            name: Aion
+            homepage_url: https://aion.theoan.com/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/aionnetwork/aion
+            logo: aion.svg
+            crunchbase: https://www.crunchbase.com/organization/the-aion-network
+          - item:
+            name: Cosmos
+            homepage_url: https://cosmos.network
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/cosmos/cosmos
+            logo: cosmos.svg
+            crunchbase: https://www.crunchbase.com/organization/cosmos-network
+          - item:
+            name: Polkadot
+            homepage_url: https://polkadot.network
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/paritytech/polkadot
+            logo: polkadot.svg
+            crunchbase: https://www.crunchbase.com/organization/polkadot
+          - item:
+            name: Polygon
+            homepage_url: https://polygon.technology/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/0xPolygon/polygon-edge
+            logo: polygon.svg
+            crunchbase: https://www.crunchbase.com/organization/polygontechnology
+      - subcategory:
+        name: Point-to-point and overlayer approaches
+        items:
+          - item:
+            name: Canton
+            homepage_url: https://www.canton.network/
+            project: hyperledger-member-products
+            logo: digital-asset.svg
+            crunchbase: https://www.crunchbase.com/organization/digital-asset-2
+          - item:
+            name: Chainlink
+            homepage_url: https://chain.link/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/smartcontractkit/chainlink
+            logo: chainlink.svg
+            crunchbase: https://www.crunchbase.com/organization/chainlink
+          - item:
+            name: Interledger
+            homepage_url: https://interledger.org/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/interledger/rfcs
+            logo: interledger-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/interledger
+          - item:
+            name: Quant Network/Overledger
+            homepage_url: https://www.quant.network
+            project: non-hyperledger-member-products
+            logo: quant-network.svg
+            crunchbase: https://www.crunchbase.com/organization/quant-network
+  - category:
+    name: Smart Contracts/Tokenization
+    subcategories:
+      - subcategory:
+        name: Smart contract languages/execution environments
+        items:
+          - item:
+            name: Chaincode
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/fabric
+            repo_url: https://github.com/hyperledger/fabric-chaincode-go
+            logo: hyperledger-fabric.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+          - item:
+            name: Daml
+            homepage_url: https://www.digitalasset.com/developers
+            project: hyperledger-member-products
+            repo_url: https://github.com/digital-asset/daml
+            logo: daml.svg
+            crunchbase: https://www.crunchbase.com/organization/digital-asset-2
+          - item:
+            name: Pact
+            homepage_url: https://www.kadena.io
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/kadena-io/pact
+            logo: kadena.svg
+            crunchbase: https://www.crunchbase.com/organization/kadena-llc
+          - item:
+            name: Scilla
+            homepage_url: https://scilla-lang.org/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/Zilliqa/scilla
+            logo: zilliqa.svg
+            crunchbase: https://www.crunchbase.com/organization/zilliqa
+          - item:
+            name: Script
+            homepage_url: https://bitcoin.org/en
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/bitcoin-core/btcdeb
+            logo: bitcoin.svg
+            crunchbase: https://www.crunchbase.com/organization/bitcoin
+          - item:
+            name: Smart Filter
+            homepage_url: https://www.multichain.com
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/MultiChain/smart-filter-examples
+            logo: multichain-logo-vector-2.svg
+            crunchbase: https://www.crunchbase.com/organization/multichain
+          - item:
+            name: Solidity
+            homepage_url: https://ethereum.org/en/developers/docs/smart-contracts/languages/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/ethereum/solidity
+            logo: solidity.svg
+            crunchbase: https://www.crunchbase.com/organization/ethereum
+          - item:
+            name: Vyper
+            homepage_url: https://ethereum.org/en/developers/docs/smart-contracts/languages/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/vyperlang/vyper
+            logo: vyper-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/ethereum
+          - item:
+            name: WebAssembly
+            homepage_url: https://webassembly.org/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/WebAssembly/binaryen
+            logo: wasm-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/webassembly
+      - subcategory:
+        name: Legal contracts
+        items:
+          - item:
+            name: Accord Project
+            homepage_url: https://accordproject.org/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/accordproject/cicero
+            logo: accord.svg
+            crunchbase: https://www.crunchbase.com/organization/accord-project
+          - item:
+            name: Chronicled
+            homepage_url: https://www.chronicled.com
+            project: non-hyperledger-member-products
+            logo: chronicled.svg
+            crunchbase: https://www.crunchbase.com/organization/chronicled
+          - item:
+            name: Clause
+            homepage_url: https://clause.io
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/clauseHQ/clause-model-library
+            logo: clauseio.svg
+            crunchbase: https://www.crunchbase.com/organization/clause
+          - item:
+            name: Monax
+            homepage_url: https://monax.io
+            project: non-hyperledger-member-products
+            logo: monax.svg
+            crunchbase: https://www.crunchbase.com/organization/eris-industries
+          - item:
+            name: OpenLaw
+            homepage_url: https://www.openlaw.io
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/openlawteam/openlaw-core
+            logo: openlaw.svg
+            crunchbase: https://www.crunchbase.com/organization/openlaw
+      - subcategory:
+        name: Digital token frameworks
+        items:
+          - item:
+            name: ERC
+            homepage_url: https://ethereum.org/en
+            project: hyperledger-member-products
+            repo_url: https://github.com/ethereum/EIPs
+            logo: ethereum.svg
+            crunchbase: https://www.crunchbase.com/organization/ethereum
+      - subcategory:
+        name: Digital wallets
+        items:
+          - item:
+            name: Block.io
+            homepage_url: https://block.io/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/BlockIo/block_io-php
+            logo: blockio.svg
+            crunchbase: https://www.crunchbase.com/organization/block-io-inc-
+          - item:
+            name: Chainweaver
+            homepage_url: https://www.kadena.io
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/kadena-io/chainweaver
+            logo: kadena.svg
+            crunchbase: https://www.crunchbase.com/organization/kadena-llc
+          - item:
+            name: DFNS
+            homepage_url: https://www.dfns.co/
+            project: non-hyperledger-member-products
+            logo: dfns.svg
+            crunchbase: https://www.crunchbase.com/organization/xkey
+          - item:
+            name: MetaMask
+            homepage_url: https://metamask.io
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/MetaMask/metamask-docs
+            logo: metamask.svg
+            crunchbase: https://www.crunchbase.com/organization/metamask
+  - category:
+    name: Application Tooling/Integrations
+    subcategories:
+      - subcategory:
+        name: Development tools/platforms
+        items:
+          - item:
+            name: Application Service for Blockchain (Blockchain System Development Service)
+            homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+          - item:
+            name: Azure Blockchain Workbench
+            homepage_url: https://azure.microsoft.com/en-us/features/blockchain-workbench/
+            project: non-hyperledger-member-products
+            logo: microsoft.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Truffle Suite
+            homepage_url: https://www.trufflesuite.com
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/trufflesuite/truffle
+            logo: truffle-suite.svg
+            crunchbase: https://www.crunchbase.com/organization/truffle-suite
+          - item:
+            name: Web3 Labs/Chainlens
+            description: >-
+              Chainlens by Web3 Labs, is the go-to appchain and blockchain explorer for EVM-compatible networks, designed to demystify blockchain assets and
+              smart contracts. With a focus on ease of use, Chainlens offers full NFT and token support (ERC-20, ERC-721, ERC-1155), advanced search, filter,
+              and sort features, customisation tailored to your brand, robust API for streamlined reporting. Used by hundreds of companies and protocols
+              globally, Chainlens has accelerated blockchain adoption and made it easier to manage digital assets.
+            homepage_url: https://chainlens.com/
+            project: hyperledger-member-products
+            logo: chainlens.svg
+            crunchbase: https://www.crunchbase.com/organization/web3-labs
+      - subcategory:
+        name: Analytics/Monitoring tools
+        items:
+          - item:
+            name: Elliptic
+            homepage_url: https://www.elliptic.co/
+            project: non-hyperledger-member-products
+            logo: elliptic-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/elliptic
+          - item:
+            name: Metrika
+            homepage_url: https://www.metrika.co/
+            project: non-hyperledger-member-products
+            logo: metrika-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/metrika-3908
+          - item:
+            name: Quant Network/seeQ
+            homepage_url: https://www.quant.network
+            project: non-hyperledger-member-products
+            logo: quant-network.svg
+            crunchbase: https://www.crunchbase.com/organization/quant-network
+      - subcategory:
+        name: Application integrations
+        items:
+          - item:
+            name: Chronicle
+            homepage_url: https://docs.chronicle.works/
+            project: non-hyperledger-member-products
+            repo_url: https://github.com/chronicleworks/chronicle
+            logo: chronicle-dark.svg
+            crunchbase: https://www.crunchbase.com/organization/paravela
+          - item:
+            name: Finboot Track&Trace/Blockstamp
+            homepage_url: https://www.finboot.com/
+            project: non-hyperledger-member-products
+            logo: finboot.svg
+            crunchbase: https://www.crunchbase.com/organization/finboot
+          - item:
+            name: Paravela Provenance Platform
+            homepage_url: https://www.paravela.com/
+            project: non-hyperledger-member-products
+            logo: paravela.svg
+            crunchbase: https://www.crunchbase.com/organization/paravela
+          - item:
+            name: Ping Identity/Shocard
+            homepage_url: https://www.pingidentity.com/en/platform/capabilities/personal-identity.html
+            project: non-hyperledger-member-products
+            logo: ping-identity.svg
+            crunchbase: https://www.crunchbase.com/organization/shocard-inc
+          - item:
+            name: Salesforce Blockchain
+            homepage_url: https://www.salesforce.com
+            project: non-hyperledger-member-products
+            logo: salesforce.svg
+            crunchbase: https://www.crunchbase.com/organization/salesforce
+          - item:
+            name: SAP ICH for Life Sciences
+            homepage_url: https://www.sap.com/index.html
+            project: non-hyperledger-member-products
+            logo: sap.svg
+            crunchbase: https://www.crunchbase.com/organization/sap
+          - item:
+            name: Vottun Credentials
+            homepage_url: https://vottun.com
+            project: non-hyperledger-member-products
+            logo: votton.svg
+            crunchbase: https://www.crunchbase.com/organization/vottun
+  - category:
+    name: Multiparty Applications
+    subcategories:
+      - subcategory:
+        name: Industry-specific applications and decentralized marketplaces
+        items:
+          - item:
+            name: AgriLedger
+            homepage_url: https://www.agriledger.io/
+            project: non-hyperledger-member-products
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/agriledger
+          - item:
+            name: BondbloX
+            homepage_url: https://www.bondblox.com/
+            project: hyperledger-member-products
+            logo: bondblox.svg
+            crunchbase: https://www.crunchbase.com/organization/bondevalue
+          - item:
+            name: Databroker
+            homepage_url: https://www.databroker.global
+            project: non-hyperledger-member-products
+            logo: databroker.svg
+            crunchbase: https://www.crunchbase.com/organization/databroker-dao
+          - item:
+            name: Epidaurus Health
+            homepage_url: https://www.epidaurus.health/
+            project: non-hyperledger-member-products
+            logo: epidaurus-RGB.svg
+            crunchbase: https://www.crunchbase.com/organization/epidaurus-health
+          - item:
+            name: GrainChain
+            homepage_url: https://www.grainchain.io
+            project: non-hyperledger-member-products
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/grainchain
+          - item:
+            name: IBM Food Trust
+            homepage_url: https://www.ibm.com/products/supply-chain-intelligence-suite/food-trust
+            project: hyperledger-member-products
+            logo: ibm.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: MediLedger
+            homepage_url: https://www.mediledger.com
+            project: network
+            logo: mediledger.svg
+            crunchbase: https://www.crunchbase.com/organization/mediledger
+          - item:
+            name: Paravela Solutions
+            homepage_url: https://www.paravela.com/
+            project: non-hyperledger-member-products
+            logo: paravela.svg
+            crunchbase: https://www.crunchbase.com/organization/paravela
+          - item:
+            name: PharmaLedger
+            homepage_url: https://pharmaledger.eu/
+            project: network
+            logo: pharmaledger.svg
+            crunchbase: https://www.crunchbase.com/organization/pharmaledger
+          - item:
+            name: Public Mint
+            homepage_url: https://publicmint.com/
+            project: non-hyperledger-member-products
+            logo: publicmint.svg
+            crunchbase: https://www.crunchbase.com/organization/public-mint
+          - item:
+            name: WAX Marketplace
+            homepage_url: https://marketplace.wax.io
+            project: non-hyperledger-member-products
+            logo: wax.svg
+            crunchbase: https://www.crunchbase.com/organization/wax-f984
+  - category:
+    name: Platforms
+    subcategories:
+      - subcategory:
+        name: Management/Operations
+        items:
+          - item:
+            name: Amazon Managed Blockchain
+            homepage_url: https://aws.amazon.com/managed-blockchain/
+            project: non-hyperledger-member-products
+            logo: amazon-web-services.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+          - item:
+            name: BlockApps STRATO
+            homepage_url: https://blockapps.net
+            project: non-hyperledger-member-products
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/blockapps
+          - item:
+            name: Blockdaemon
+            homepage_url: https://blockdaemon.com/
+            project: non-hyperledger-member-products
+            logo: blockdaemon.svg
+            crunchbase: https://www.crunchbase.com/organization/blockdaemon
+          - item:
+            name: Chainstack
+            homepage_url: https://chainstack.com
+            project: non-hyperledger-member-products
+            logo: chainstack.svg
+            crunchbase: https://www.crunchbase.com/organization/chainstack
+          - item:
+            name: Dragonchain
+            homepage_url: https://dragonchain.com
+            project: non-hyperledger-member-products
+            logo: dragonchain.svg
+            crunchbase: https://www.crunchbase.com/organization/dragonchain-87e5
+          - item:
+            name: Finboot MARCO
+            homepage_url: https://www.finboot.com
+            project: non-hyperledger-member-products
+            logo: finboot.svg
+            crunchbase: https://www.crunchbase.com/organization/finboot
+          - item:
+            name: First Genesis Xenese
+            homepage_url: https://firstgenesis.com
+            project: non-hyperledger-member-products
+            logo: dlt-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/first-genesis
+          - item:
+            name: Hitachi Blockchain Service for Hyperledger Fabric
+            homepage_url: https://www.hitachi.co.jp/blockchain/service/hyperledger
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+          - item:
+            name: IBM Blockchain Platform
+            homepage_url: https://www.ibm.com/products/blockchain-platform-hyperledger-fabric
+            project: hyperledger-member-products
+            logo: ibm.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: IntellectEU Catalyst Blockchain Platform
+            homepage_url: https://catalyst.intellecteu.com
+            project: hyperledger-member-products
+            logo: intellecteu.svg
+            crunchbase: https://www.crunchbase.com/organization/intellecteu
+          - item:
+            name: Kaleido
+            homepage_url: https://kaleido.io/
+            project: hyperledger-member-products
+            logo: kaleido.svg
+            crunchbase: https://www.crunchbase.com/organization/kaleido
+          - item:
+            name: Oracle Blockchain Platform
+            homepage_url: https://www.oracle.com/blockchain
+            project: hyperledger-member-products
+            logo: oracle.svg
+            crunchbase: https://www.crunchbase.com/organization/oracle
+          - item:
+            name: SettleMint
+            homepage_url: https://www.settlemint.com
+            project: non-hyperledger-member-products
+            logo: settlemint.svg
+            crunchbase: https://www.crunchbase.com/organization/settlemint-nv
+          - item:
+            name: SIMBA Chain
+            homepage_url: https://simbachain.com/
+            project: non-hyperledger-member-products
+            logo: simba_chain.svg
+            crunchbase: https://www.crunchbase.com/organization/simba-chain
+          - item:
+            name: VMware Blockchain
+            homepage_url: https://www.vmware.com/products/blockchain.html
+            project: non-hyperledger-member-products
+            logo: vmware.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
+  - category:
+    name: Standards
+    subcategories:
+      - subcategory:
+        name: Standards
+        items:
+          - item:
+            name: BSI PAS 19668
+            homepage_url: https://www.bsigroup.com/
+            project: organization
+            logo: bsi-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/bsi
+          - item:
+            name: EEA
+            homepage_url: https://entethalliance.org/
+            project: organization
+            logo: eea-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/enterprise-ethereum-alliance
+          - item:
+            name: GS1
+            homepage_url: https://www.gs1.org/
+            project: organization
+            logo: GS1-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/gs1
+          - item:
+            name: INATBA
+            homepage_url: https://inatba.org/
+            project: organization
+            logo: inatba.svg
+            crunchbase: https://www.crunchbase.com/organization/inatba
+          - item:
+            name: TTF
+            homepage_url: https://interwork.org
+            project: organization
+            logo: iwa.svg
+            crunchbase: https://www.crunchbase.com/organization/interwork-alliance-e317
+          - item:
+            name: W3C
+            homepage_url: https://www.w3.org/
+            project: organization
+            logo: W3C-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/w3c-e64a
+  - category:
+    name: Services
+    subcategories:
+      - subcategory:
+        name: Consulting/Professional Services
+        items:
+          - item:
+            name: Accenture
+            homepage_url: https://www.accenture.com/
+            project: hyperledger-member-services
+            logo: accenture.svg
+            crunchbase: https://www.crunchbase.com/organization/accenture
+          - item:
+            name: Application Service for Blockchain (Consulting Service)
+            homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+          - item:
+            name: Atos
+            homepage_url: https://atos.net/en
+            project: non-hyperledger-member-services
+            logo: atos.svg
+            crunchbase: https://www.crunchbase.com/organization/atos
+          - item:
+            name: Capgemini
+            homepage_url: https://www.capgemini.com
+            project: non-hyperledger-member-services
+            logo: capgemini.svg
+            crunchbase: https://www.crunchbase.com/organization/cap-gemini
+          - item:
+            name: Chainyard
+            homepage_url: https://chainyard.com/
+            project: hyperledger-member-services
+            logo: chainyard.svg
+            crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
+          - item:
+            name: Deloitte
+            homepage_url: https://www2.deloitte.com
+            project: hyperledger-member-services
+            logo: deloitte.svg
+            crunchbase: https://www.crunchbase.com/organization/deloitte
+          - item:
+            name: Ernst & Young
+            homepage_url: https://www.ey.com/en_gl
+            project: non-hyperledger-member-services
+            logo: ey.svg
+            crunchbase: https://www.crunchbase.com/organization/ernst-young
+          - item:
+            name: Fujitsu
+            homepage_url: https://www.fujitsu.com/global
+            project: hyperledger-member-services
+            logo: fujitsu.svg
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+          - item:
+            name: GFT
+            homepage_url: https://www.gft.com
+            project: non-hyperledger-member-services
+            logo: gft.svg
+            crunchbase: https://www.crunchbase.com/organization/gft-com
+          - item:
+            name: Infosys
+            homepage_url: https://www.infosys.com
+            project: hyperledger-member-services
+            logo: infosys-limited.svg
+            crunchbase: https://www.crunchbase.com/organization/infosys
+          - item:
+            name: Innominds
+            homepage_url: https://www.innominds.com
+            project: non-hyperledger-member-services
+            logo: Innomindsnew.svg
+            crunchbase: https://www.crunchbase.com/organization/innominds-software-pvt-ltd
+          - item:
+            name: IntellectEU
+            homepage_url: https://intellecteu.com/
+            project: hyperledger-member-services
+            logo: intellecteu.svg
+            crunchbase: https://www.crunchbase.com/organization/intellecteu
+          - item:
+            name: ioBuilders
+            description: >-
+              ioBuilders is a blockchain consultancy firm specializing in enterprise solutions. They focus on the tokenization of real-world assets, custom
+              payment workflows, and providing guidance on enterprise blockchain services.
+            homepage_url: https://io.builders/
+            project: hyperledger-member-services
+            logo: io_builders_blockchain_technologies__ventures.svg
+            crunchbase: https://www.crunchbase.com/organization/iobuilders
+          - item:
+            name: NTT DATA
+            homepage_url: https://nttdata.com/
+            project: hyperledger-member-services
+            logo: ntt_data.svg
+            crunchbase: https://www.crunchbase.com/organization/ntt-data
+          - item:
+            name: Rethink Ledgers
+            homepage_url: https://www.rtledgers.com
+            project: non-hyperledger-member-services
+            logo: rethinkledgers.svg
+            crunchbase: https://www.crunchbase.com/organization/rethink-ledgers
+          - item:
+            name: UST
+            homepage_url: https://www.ust.com
+            project: non-hyperledger-member-services
+            logo: ust.svg
+            crunchbase: https://www.crunchbase.com/organization/ust
+          - item:
+            name: Web3 Labs
+            description: >-
+              Web3 Labs offers enterprise support for Hyperledger Besu, a crucial aspect when organisations or consortia set up permissioned blockchain
+              networks. As ConsenSys' recommended supplier for Hyperledger Besu, Web3 Labs ensures high-quality, SLA-backed production support for organisations
+              currently operating or intending to establish permissioned blockchain networks, ensuring stability and reliability in their infrastructure.
+            homepage_url: https://www.web3labs.com
+            project: hyperledger-member-services
+            logo: web3-labs-primary.svg
+            crunchbase: https://www.crunchbase.com/organization/web3-labs
+  - category:
+    name: LF Decentralized Trust Projects
+    subcategories:
+      - subcategory:
+        name: Distributed Ledgers
+        items:
+          - item:
+            name: Hiero
+            second_path:
+              - Distributed Ledgers
+            description: >-
+              Hiero is the open source DLT codebase used to build the Hedera network; including the hashgraph consensus algorithm and all core services, tooling
+              and libraries. Hiero supports the development of a wide range of decentralized applications and core platform features tailored for the Hedera
+              network, including wallets, exchanges, explorers, bridges, SDKs, private ledgers, and advanced cryptographic solutions.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/hiero
+            project: incubating
+            repo_url: https://github.com/hiero-ledger/hiero
+            additional_repos:
+              - repo_url: https://github.com/hiero-ledger/awesome-contributions
+              - repo_url: https://github.com/hiero-ledger/governance
+              - repo_url: https://github.com/hiero-ledger/hiero-gradle-conventions
+              - repo_url: https://github.com/hiero-ledger/hiero-sdk-cpp
+              - repo_url: https://github.com/hiero-ledger/hiero-sdk-tck
+              - repo_url: https://github.com/hiero-ledger/hiero-website
+              - repo_url: https://github.com/hiero-ledger/tsc
+            logo: hiero_stroke.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              chat: https://discord.com/channels/905194001349627914/1283487103006543952
+          - item:
+            name: Hyperledger Besu
+            second_path:
+              - Distributed Ledgers / Hybrid
+            description: >-
+              Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases, with an
+              extractable EVM implementation. It can also be run on test networks such as Sepolia and Görli. Hyperledger Besu includes several consensus
+              algorithms including Proof of Stake, Proof of Work, and Proof of Authority (IBFT 2.0, QBFT, and Clique). Its comprehensive permissioning schemes
+              are designed specifically for use in a consortium environment.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/besu
+            project: graduated
+            repo_url: https://github.com/hyperledger/besu
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/besu-docs
+              - repo_url: https://github.com/hyperledger/besu-errorprone-checks
+              - repo_url: https://github.com/besu-eth/governance
+              - repo_url: https://github.com/hyperledger/besu-native
+              - repo_url: https://github.com/hyperledger/homebrew-besu
+            logo: hyperledger-besu.svg
+            twitter: https://twitter.com/hyperledgerbesu
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/besu/overview
+              chat: https://discord.com/channels/905194001349627914/938504958909747250
+              documentation: https://besu.hyperledger.org/en/stable/
+          - item:
+            name: Hyperledger Fabric
+            second_path:
+              - Distributed Ledgers / Permissioned
+            description: >-
+              Hyperledger Fabric is intended as a foundation for developing applications or solutions with a modular architecture. Hyperledger Fabric allows
+              components, such as consensus and membership services, to be plug-and-play.  Its modular and versatile design satisfies a broad range of industry
+              use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/fabric
+            project: graduated
+            repo_url: https://github.com/hyperledger/fabric
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/fabric-amcl
+              - repo_url: https://github.com/hyperledger/fabric-ca
+              - repo_url: https://github.com/hyperledger/fabric-chaincode-go
+              - repo_url: https://github.com/hyperledger/fabric-chaincode-java
+              - repo_url: https://github.com/hyperledger/fabric-chaincode-node
+              - repo_url: https://github.com/hyperledger/fabric-cli
+              - repo_url: https://github.com/hyperledger/fabric-config
+              - repo_url: https://github.com/hyperledger/fabric-contract-api-go
+              - repo_url: https://github.com/hyperledger/fabric-docs-i18n
+              - repo_url: https://github.com/hyperledger/fabric-gateway
+              - repo_url: https://github.com/hyperledger/fabric-gateway-java
+              - repo_url: https://github.com/hyperledger/fabric-lib-go
+              - repo_url: https://github.com/hyperledger/fabric-private-chaincode
+              - repo_url: https://github.com/hyperledger/fabric-protos
+              - repo_url: https://github.com/hyperledger/fabric-protos-go
+              - repo_url: https://github.com/hyperledger/fabric-rfcs
+              - repo_url: https://github.com/hyperledger/fabric-samples
+              - repo_url: https://github.com/hyperledger/fabric-sdk-go
+              - repo_url: https://github.com/hyperledger/fabric-sdk-java
+              - repo_url: https://github.com/hyperledger/fabric-sdk-node
+              - repo_url: https://github.com/hyperledger/fabric-sdk-py
+              - repo_url: https://github.com/hyperledger/fabric-test
+            logo: hyperledger-fabric.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/fabric/overview
+              chat: https://discord.com/channels/905194001349627914/905205541326975046
+              documentation: https://hyperledger-fabric.readthedocs.io/en/latest/
+          - item:
+            name: Hyperledger Indy
+            second_path:
+              - Distributed Ledgers / Permissioned
+            description: >-
+              Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed
+              ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other
+              blockchains or can be used standalone powering the decentralization of identity.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/hyperledger-indy
+            project: graduated
+            repo_url: https://github.com/hyperledger/indy-node
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/indy-did-method
+              - repo_url: https://github.com/hyperledger/indy-docs
+              - repo_url: https://github.com/hyperledger/indy-hipe
+              - repo_url: https://github.com/hyperledger/indy-node-container
+              - repo_url: https://github.com/hyperledger/indy-node-monitor
+              - repo_url: https://github.com/hyperledger/indy-plenum
+              - repo_url: https://github.com/hyperledger/indy-sdk
+              - repo_url: https://github.com/hyperledger/indy-sdk-react-native
+              - repo_url: https://github.com/hyperledger/indy-shared-gha
+              - repo_url: https://github.com/hyperledger/indy-shared-rs
+              - repo_url: https://github.com/hyperledger/indy-test-automation
+              - repo_url: https://github.com/hyperledger/indy-vdr
+            logo: hyperledger-indy.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/indy/overview
+              chat: https://discord.com/channels/905194001349627914/905205711850594336
+              documentation: https://indy.readthedocs.io/en/latest/
+          - item:
+            name: Hyperledger Iroha
+            second_path:
+              - Distributed Ledgers / Permissioned
+            description: >-
+              Hyperledger Iroha is designed to be simple and easy to incorporate into infrastructural or IoT projects requiring distributed ledger technology.
+              Hyperledger Iroha features a simple construction, modular, domain-driven C++ design, emphasis on client application development and a new, crash
+              fault tolerant consensus algorithm, called YAC.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/iroha
+            project: graduated
+            repo_url: https://github.com/hyperledger-iroha/iroha
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-iroha/const-str
+              - repo_url: https://github.com/hyperledger-iroha/const-vec
+              - repo_url: https://github.com/hyperledger-iroha/governance
+              - repo_url: https://github.com/hyperledger-iroha/iroha-2-docs
+              - repo_url: https://github.com/hyperledger-iroha/iroha-2-examples
+              - repo_url: https://github.com/hyperledger-iroha/iroha-config-base
+              - repo_url: https://github.com/hyperledger-iroha/iroha-crypto
+              - repo_url: https://github.com/hyperledger-iroha/iroha-deploy
+              - repo_url: https://github.com/hyperledger-iroha/iroha-ed25519
+              - repo_url: https://github.com/hyperledger-iroha/iroha-ffi
+              - repo_url: https://github.com/hyperledger-iroha/iroha-ios
+              - repo_url: https://github.com/hyperledger-iroha/iroha-java
+              - repo_url: https://github.com/hyperledger-iroha/iroha-javascript
+              - repo_url: https://github.com/hyperledger-iroha/iroha-news
+              - repo_url: https://github.com/hyperledger-iroha/iroha-python
+              - repo_url: https://github.com/hyperledger-iroha/iroha-rfcs
+              - repo_url: https://github.com/hyperledger-iroha/iroha-wasm-codec
+              - repo_url: https://github.com/hyperledger-iroha/iroha-wasm-test-runner
+            logo: hyperledger-iroha.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/iroha/overview
+              chat: https://discord.com/channels/905194001349627914/905205848547155968
+              documentation: https://iroha.readthedocs.io/en/main/
+      - subcategory:
+        name: Libraries
+        items:
+          - item:
+            name: Hyperledger AnonCreds
+            description: >-
+              Hyperledger AnonCreds is a type of verifiable credential that supports important privacy-protecting capabilities based on zero-knowledge proof
+              cryptography.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/anoncreds
+            project: incubating
+            repo_url: https://github.com/hyperledger/anoncreds-rs
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/anoncreds-spec
+              - repo_url: https://github.com/hyperledger/anoncreds-methods-registry
+            logo: hyperledger-anon-creds.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/anoncreds/overview
+          - item:
+            name: Hyperledger Aries
+            second_path:
+              - Technology Intersections / Cybersecurity
+            description: >-
+              Hyperledger Aries is your complete toolkit for decentralized identity solutions and digital trust. Issue, store and present verifiable credentials
+              with maximum privacy preservation, and establish confidential, ongoing communication channels for rich interactions. It supports multiple
+              protocols, credential types, ledgers and registries. It has frameworks in multiple development languages, and interoperability tools and profiles
+              to help everything work together seamlessly.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/aries
+            project: graduated
+            repo_url: https://github.com/hyperledger/aries
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-labs/aries-agent-controller
+              - repo_url: https://github.com/hyperledger/aries
+              - repo_url: https://github.com/hyperledger/aries-acapy-docs
+              - repo_url: https://github.com/hyperledger/aries-bbs-go
+              - repo_url: https://github.com/hyperledger/aries-bbssignatures-rs
+              - repo_url: https://github.com/hyperledger/aries-builder-images
+              - repo_url: https://github.com/hyperledger/aries-endorser-service
+              - repo_url: https://github.com/hyperledger/aries-framework-kotlin
+              - repo_url: https://github.com/hyperledger/aries-framework-swift
+              - repo_url: https://github.com/hyperledger/aries-rfcs
+              - repo_url: https://github.com/hyperledger/aries-socketdock
+              - repo_url: https://github.com/hyperledger/aries-uniffi-wrappers
+              - repo_url: https://github.com/hyperledger/aries-vcx
+            logo: hyperledger-aries.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/aries/overview
+              chat: https://discord.com/channels/905194001349627914/905206466410057728
+              introduction_course: https://www.edx.org/course/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa
+              developer_course: https://www.edx.org/course/becoming-a-hyperledger-aries-developer
+          - item:
+            name: Hyperledger Identus
+            description: >-
+              Hyperledger Identus provides components to develop decentralized identity solutions that adhere to widely recognized self-sovereign identity
+              (SSI)  standards. It offers complete DID and verifiable credential functionality and simplifies the complexities of adopting a decentralized
+              identity  solution into existing and new workflows.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/identus
+            project: incubating
+            repo_url: https://github.com/hyperledger/identus
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-identus/governance
+              - repo_url: https://github.com/hyperledger/identus
+              - repo_url: https://github.com/hyperledger/identus-apollo
+              - repo_url: https://github.com/hyperledger/identus-cloud-agent
+              - repo_url: https://github.com/hyperledger/identus-docs
+              - repo_url: https://github.com/hyperledger/identus-edge-agent-sdk-kmp
+              - repo_url: https://github.com/hyperledger/identus-edge-agent-sdk-swift
+              - repo_url: https://github.com/hyperledger/identus-edge-agent-sdk-ts
+              - repo_url: https://github.com/hyperledger/identus-infrastructure
+              - repo_url: https://github.com/hyperledger/identus-keycloak-plugins
+              - repo_url: https://github.com/hyperledger/identus-mediator
+              - repo_url: https://github.com/hyperledger/identus-vdr
+            logo: hyperledger-identus.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/identus/overview
+              chat: https://discord.com/channels/905194001349627914/1226983777687965707
+          - item:
+            name: Hyperledger Web3J
+            description: >-
+              Web3j is a highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on
+              the Ethereum network. This allows you to work with the Ethereum blockchain, without the additional overhead of having to write your own
+              integration code for the platform.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/web3j
+            project: incubating
+            repo_url: https://github.com/hyperledger-web3j/web3j
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-web3j/governance
+              - repo_url: https://github.com/hyperledger-web3j/web3j-build-tools
+              - repo_url: https://github.com/hyperledger-web3j/web3j-cli
+              - repo_url: https://github.com/hyperledger-web3j/web3j-docs
+              - repo_url: https://github.com/hyperledger-web3j/web3j-evm
+              - repo_url: https://github.com/hyperledger-web3j/web3j-gradle-plugin
+              - repo_url: https://github.com/hyperledger-web3j/web3j-installer
+              - repo_url: https://github.com/hyperledger-web3j/web3j-maven-plugin
+              - repo_url: https://github.com/hyperledger-web3j/web3j-openapi
+              - repo_url: https://github.com/hyperledger-web3j/web3j-openapi-gradle-plugin
+              - repo_url: https://github.com/hyperledger-web3j/web3j-sokt
+              - repo_url: https://github.com/hyperledger-web3j/web3j-solidity-gradle-plugin
+              - repo_url: https://github.com/hyperledger-web3j/web3j-unit
+            logo: hyperledger-web3j.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+      - subcategory:
+        name: Tools
+        items:
+          - item:
+            name: Hyperledger Bevel
+            second_path:
+              - Platforms / Management/Operations
+            description: >-
+              Hyperledger Bevel is an accelerator by which developers can consistently deploy production-ready distributed networks across public and private
+              cloud providers.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/bevel
+            project: incubating
+            repo_url: https://github.com/hyperledger-bevel/bevel
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-bevel/bevel-operator-fabric
+              - repo_url: https://github.com/hyperledger-bevel/bevel-samples
+              - repo_url: https://github.com/hyperledger-bevel/governance
+            logo: hyperledger-bevel.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/BEV/overview
+              chat: https://discord.com/channels/905194001349627914/941475087389950002
+              documentation: https://hyperledger-bevel.readthedocs.io/en/latest/
+          - item:
+            name: Hyperledger Cacti
+            second_path:
+              - Interoperability / Point-to-point and overlayer approaches
+            description: Hyperledger Cacti is a blockchain integration tool designed to allow users to securely integrate different blockchains.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/cacti
+            project: graduated
+            repo_url: https://github.com/hyperledger-cacti/cacti
+            logo: hyperledger-cacti.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/cactus/overview
+              chat: https://discord.com/channels/905194001349627914/908379366650703943
+          - item:
+            name: Hyperledger Caliper
+            second_path:
+              - Application Tooling/Integrations / Analytics/Monitoring tools
+            description: >-
+              Hyperledger Caliper is a blockchain benchmark tool, it allows users to measure the performance of a blockchain implementation with a set of
+              predefined use cases. Hyperledger Caliper will produce reports containing a number of performance indicators to serve as a reference when using
+              the following blockchain solutions: Hyperledger Besu, Ethereum, Hyperledger Fabric, FISCO BCOS, Hyperledger Iroha, and Hyperledger Sawtooth.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/caliper
+            project: incubating
+            repo_url: https://github.com/hyperledger-caliper/caliper
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-caliper/caliper-benchmarks
+              - repo_url: https://github.com/hyperledger-caliper/governance
+            logo: hyperledger-caliper.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/caliper/overview
+              chat: https://discord.com/channels/905194001349627914/941417677778473031
+          - item:
+            name: Hyperledger Cello
+            second_path:
+              - Application Tooling/Integrations / Development tools/platforms
+            description: >-
+              Hyperledger Cello aims to serve as the operational dashboard for Blockchain, which reduces the effort required for creating, managing and using
+              blockchains. Besides, it can also be used to facilitate creating Blockchain as a Service. Cello provides an operational console  for managing
+              blockchain’s efficiently and running on top of various infrastructures, e.g., baremetal, virtual machine, and various container platforms.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/cello
+            project: incubating
+            repo_url: https://github.com/hyperledger/cello
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-cello/cello-analytics
+              - repo_url: https://github.com/hyperledger-cello/governance
+            logo: hyperledger-cello.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/cello/overview
+              chat: https://discord.com/channels/905194001349627914/941475454378991646
+          - item:
+            name: Hyperledger Firefly
+            second_path:
+              - Application Tooling/Integrations / Development tools/platforms
+            description: >-
+              Hyperledger FireFly is the first open source Supernode, a complete stack for enterprises to build and scale secure Web3 applications. The FireFly
+              API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular chains and
+              protocols.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/firefly
+            project: graduated
+            repo_url: https://github.com/hyperledger/firefly
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-firefly/governance
+              - repo_url: https://github.com/hyperledger/firefly-cli
+              - repo_url: https://github.com/hyperledger/firefly-common
+              - repo_url: https://github.com/hyperledger/firefly-cordaconnect
+              - repo_url: https://github.com/hyperledger/firefly-dataexchange-https
+              - repo_url: https://github.com/hyperledger/firefly-ethconnect
+              - repo_url: https://github.com/hyperledger/firefly-evmconnect
+              - repo_url: https://github.com/hyperledger/firefly-fabconnect
+              - repo_url: https://github.com/hyperledger/firefly-fir
+              - repo_url: https://github.com/hyperledger/firefly-helm-charts
+              - repo_url: https://github.com/hyperledger/firefly-perf-cli
+              - repo_url: https://github.com/hyperledger/firefly-samples
+              - repo_url: https://github.com/hyperledger/firefly-sandbox
+              - repo_url: https://github.com/hyperledger/firefly-sdk-nodejs
+              - repo_url: https://github.com/hyperledger/firefly-signer
+              - repo_url: https://github.com/hyperledger/firefly-tezosconnect
+              - repo_url: https://github.com/hyperledger/firefly-tokens-erc1155
+              - repo_url: https://github.com/hyperledger/firefly-tokens-erc20-erc721
+              - repo_url: https://github.com/hyperledger/firefly-transaction-manager
+              - repo_url: https://github.com/hyperledger/firefly-ui
+            logo: hyperledger-firefly.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/fir/overview
+              chat: https://discord.com/channels/905194001349627914/928377875827154984
+          - item:
+            name: Hyperledger Solang
+            description: >-
+              Hyperledger Solang is a Solidity compiler written in rust which uses llvm as the compiler backend. Solang can compile Solidity for Solana and
+              Substrate.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/solang
+            project: incubating
+            repo_url: https://github.com/hyperledger-solang/solang
+            additional_repos:
+              - repo_url: https://github.com/hyperledger-labs/solang-playground
+              - repo_url: https://github.com/hyperledger-solang/governance
+              - repo_url: https://github.com/hyperledger-solang/homebrew-solang
+              - repo_url: https://github.com/hyperledger-solang/solang-aqd
+              - repo_url: https://github.com/hyperledger-solang/solang-llvm
+              - repo_url: https://github.com/hyperledger-solang/solang-substrate-ci
+            logo: hyperledger-solang.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/SOL/overview
+              chat: https://discord.com/channels/905194001349627914/905834552965103638
+          - item:
+            name: Lockness
+            description: >-
+              Lockness aims to establish a new open source ecosystem focused on key management and digital signature protocols, including technologies like
+              Multi-Party Computation (MPC), Threshold Signature Schemes (TSS), Hardware Security Modules (HSM) and other state-of-the-art protocols in public
+              key cryptography and cryptographic modules.
+            homepage_url: https://www.lfdecentralizedtrust.org/projects/lockness
+            project: incubating
+            repo_url: https://github.com/LFDT-Lockness/governance
+            additional_repos:
+              - repo_url: https://github.com/LFDT-Lockness/cggmp21
+              - repo_url: https://github.com/LFDT-Lockness/fast-paillier
+              - repo_url: https://github.com/LFDT-Lockness/generic-ec
+              - repo_url: https://github.com/LFDT-Lockness/givre
+              - repo_url: https://github.com/LFDT-Lockness/hd-wallet
+              - repo_url: https://github.com/LFDT-Lockness/paillier-zk
+              - repo_url: https://github.com/LFDT-Lockness/rand_hash
+              - repo_url: https://github.com/LFDT-Lockness/round-based
+              - repo_url: https://github.com/LFDT-Lockness/stark-curve
+              - repo_url: https://github.com/LFDT-Lockness/udigest
+            logo: lockness_stroke.svg
+            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
+            extra:
+              chat: https://discord.com/channels/905194001349627914/1255573353683746856
+  - category:
     name: LF Decentralized Trust Members
     subcategories:
       - subcategory:
@@ -732,3 +2109,144 @@ landscape:
             logo: wall_street_blockchain_alliance.svg
             twitter: https://twitter.com/WallStreetBTC
             crunchbase: https://www.crunchbase.com/organization/the-wall-street-bitcoin-alliance
+  - category:
+    name: LF Decentralized Trust CSPs
+    subcategories:
+      - subcategory:
+        name: Hyperledger Fabric CSPs
+        items:
+          - item:
+            name: Accenture (HCSP)
+            description: Accenture, a technology independent HF-CSP and trusted advisor, can help on your path to digital transformation.
+            homepage_url: https://www.accenture.com/us-en/insights/blockchain-index
+            logo: accenture-horizontal-color.svg
+            twitter: https://twitter.com/Accenture
+            crunchbase: https://www.crunchbase.com/organization/accenture
+          - item:
+            name: BONbLOC Inc (HCSP)
+            description: >-
+              BONbLOC builds SaaS solutions that address many Private, Commercial and Public Sector supply chain or operations management challenges using
+              Blockchain, Data Science and IOT technologies.  We love what we do and are grateful to our customers, who trust us to lead them on a path to
+              collaborative situations that touch daily lives using modern technologies.
+            homepage_url: https://bonbloc.com/
+            logo: bonbloc_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/bonbloc
+          - item:
+            name: Chainyard (HCSP)
+            description: >-
+              Chainyard, a leader in blockchain consulting, is a dynamic team of blockchain enthusiasts with the expertise, process, and technology required to
+              develop world-class business and software solutions. With a focus on enterprise use cases, Chainyard is helping companies navigate blockchain by
+              working with them to identify value, prioritize opportunities, develop solutions, and operate production blockchain networks.
+            homepage_url: https://chainyard.com/
+            logo: chainyard-horizontal-color.svg
+            crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
+          - item:
+            name: CPQD (HCSP)
+            description: >-
+              Consulting services for innovation in business networks -- design thinking and design sprint techniques to co-create an application. Application
+              and DLTs implementation for (1) traceability of things (IoT), (2) digital identity and (3) contract automation.
+            homepage_url: https://www.cpqd.com.br/blockchain/
+            logo: cpqd-horizontal-color.svg
+            crunchbase: https://www.crunchbase.com/organization/cpqd
+          - item:
+            name: Espeo Software (HCSP)
+            description: >-
+              Espeo Software is a digital consultancy that specializes in the development of enterprise blockchain projects. We’re focused on building
+              Hyperledger Fabric solutions. We’re your full-service partner for transforming your blockchain concept into a complete decentralized product. As
+              blockchain consultants, we’ll walk you through the process of complex blockchain development. With over a decade of experience, our expert team
+              will turn your concept into a leading product.
+            homepage_url: https://espeo.eu/
+            logo: espeo_software.svg
+            crunchbase: https://www.crunchbase.com/organization/espeo-software
+          - item:
+            name: Fujitsu (HCSP)
+            description: We specialize in discruption and innovation using blockchain.
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
+          - item:
+            name: GoLedger (HCSP)
+            description: >-
+              GoLedger is a renowned company specializing in developing on-demand private and permissioned Blockchains using the Hyperledger Fabric platform.
+              Our certified team is known for its high level technical skills, ensuring the creation of custom Blockchain networks tailored for several
+              segments, like financial, oil & gas or supply chain. We excel in developing chaincodes for secure, cost-efficient transactions, providing reliable
+              and robust solutions for business.
+            homepage_url: https://goledger.io/chaincode/
+            logo: goledger.svg
+            crunchbase: https://www.crunchbase.com/organization/goledger
+          - item:
+            name: Hitachi, Ltd. (HCSP)
+            description: >-
+              Hitachi has a wealth of understanding and know-how covering a wide variety of different industries. By using blockchains and other technologies
+              and know-how that we have developed up till now, Hitachi will contribute to the building of new customer businesses.
+            homepage_url: https://www.hitachi.co.jp/blockchain
+            logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+          - item:
+            name: IBM (HCSP)
+            description: >-
+              IBM has several blockchain products and services that will help accelerate a client’s blockchain success. The IBM Blockchain Platform adds
+              enterprise grade production requirements to Hyperledger Fabric helping clients to build, govern, operate and grow their enterprise blockchain
+              solutions throughout their solutions lifecycle.  This platform is available as SaaS on the IBM Cloud or as Software for multicloud (3 party public
+              clouds) or on-premise infrastructures of your choice.
+            homepage_url: https://www.ibm.com/blockchain
+            logo: ibm-horizontal-color.svg
+            twitter: https://twitter.com/ibmblockchain
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: Information Data Systems (HCSP)
+            description: >-
+              We at IDS, build fit for purpose enterprise blockchain applications with various degrees of decentralization. We have a proprietary Blockchain
+              Transformation Framework to design, develop and deliver blockchain solutions with outcome driven tactical short term and strategic long term value
+              proposition. We have one of our flagship application "Trustflow - coherent supply chain management" and couple of blockchain solutions are powered
+              by Hyperledger Fabric.
+            homepage_url: https://idssoft.com/
+            logo: information_data_systems.svg
+            twitter: https://twitter.com/IDSSOFT
+            crunchbase: https://www.crunchbase.com/organization/information-data-systems-de20
+          - item:
+            name: Infosys (HCSP)
+            description: >-
+              Infosys is a leading provider of blockchain services with a proven track record of success. We offer a full-stack solution and a rick asset
+              portfolio,  which enables us to rapidly deliver end-to-end solutions that meet the unique needs of our clients. Our expertise in value definition
+              and long-term sustainability frameworks, as well as our deep understanding of web3 technologies, make us a valuable partner for clients who are
+              looking to harness the power of blockchain to transform their businesses.
+            homepage_url: https://www.infosys.com/services/blockchain.html
+            logo: infosys_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/infosys
+          - item:
+            name: IntellectEU (HCSP)
+            description: >-
+              IntellectEU is a founding member of the Hyperledger Foundation and has built several production-grade solutions built on Hyperledger Fabric
+              centered around areas such as tokenization and KYC.  Building on our experience with Hyperledger Fabric, we have created the Catalyst Blockchain
+              Platform to simplify the deployment, maintenance, and management of Fabric networks for enterprises.
+            homepage_url: https://intellecteu.com/
+            logo: intellecteu.svg
+            crunchbase: https://www.crunchbase.com/organization/intellecteu
+          - item:
+            name: Kaleido (HCSP)
+            description: >-
+              Kaleido is an enterprise-grade, web3 platform making blockchain and digital assets radically simple for organizations to adopt. Kaleido makes it
+              easy to launch multi-region, multi-cloud blockchain networks on protocols including Hyperledger Fabric, Hyperledger Besu, Ethereum, Polygon Edge,
+              Quorum, and Corda, all backed by Hyperledger FireFly. Kaleido has been powering enterprise blockchain since its inception and is the driving force
+              behind Hyperledger FireFly. We serve on the Governing Board and Technical Oversight Committee for Hyperledger Foundation, and our team contains
+              founding members of Hyperledger Fabric, plus long time committers and maintainers.
+            homepage_url: https://kaleido.io/
+            logo: kaleido.svg
+            crunchbase: https://www.crunchbase.com/organization/kaleido
+          - item:
+            name: KrypC Corp (HCSP)
+            description: >-
+              KrypC is a Blockchain technology venture, backed by seasoned professionals, focused on accelerating adoption of blockchain technology We research,
+              develop and go to market with blockchain-based products; for large enterprises and blockchain start-up ventures to adopt and realize business
+              value. KrypC is a Hyperledger Certified Service Provider (HCSP) with over 150 person years of experience. Since 2016 KrypC has been deploying and
+              managing many HLF programs in production across multiple domains.
+            homepage_url: https://krypc.com/
+            logo: KrypC-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/krypc
+          - item:
+            name: Wipro Limited (HCSP)
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/wipro
