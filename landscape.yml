@@ -1500,12 +1500,6 @@ landscape:
             twitter: https://twitter.com/Corsha_APIs
             crunchbase: https://www.crunchbase.com/organization/corsha
           - item:
-            name: CVS Health (member)
-            homepage_url: https://cvshealth.com/
-            logo: cvs_health.svg
-            twitter: https://twitter.com/CVSHealth
-            crunchbase: https://www.crunchbase.com/organization/cvs-caremark
-          - item:
             name: DABCo Ltd (member)
             homepage_url: https://pairpoint.io/
             logo: dabco_ltd.svg
