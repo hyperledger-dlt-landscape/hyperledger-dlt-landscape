@@ -1384,243 +1384,463 @@ landscape:
         items:
           - item:
             name: Accenture Global Solutions Limited (member)
+            description: >-
+              Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting,
+              digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial
+              services, health and public service, as well as products and resources.
             homepage_url: https://accenture.com/
             logo: accenture_global_solutions_limited.svg
             twitter: https://twitter.com/Accenture
             crunchbase: https://www.crunchbase.com/organization/accenture
+            extra:
+              linkedin_url: https://www.linkedin.com/company/accenture
           - item:
             name: Depository Trust and Clearing Corporation (DTCC) (member)
+            description: >-
+              Depository Trust company (DTCC), founded in 1973 and headquartered in New York, New York, is an American post-trade financial services company
+              providing clearing and settlement services to the financial markets.
             homepage_url: https://dtcc.com/
             logo: depository_trust_and_clearing_corporation_dtcc.svg
             twitter: https://twitter.com/The_DTCC
             crunchbase: https://www.crunchbase.com/organization/dtcc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dtcc
           - item:
             name: Hedera Hashgraph LLC (member)
+            description: 53 employees
             homepage_url: https://hedera.com/
             logo: hedera_hashgraph_llc.svg
             twitter: https://twitter.com/hedera
             crunchbase: https://www.crunchbase.com/organization/hashgraph
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hashgraph
           - item:
             name: Hitachi, Ltd. (member)
+            description: >-
+              Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and
+              equipment, construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other
+              products, and financial services in Japan and internationally. The company is headquartered in Tokyo, Japan.
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
             twitter: https://twitter.com/HitachiGlobal
             crunchbase: https://www.crunchbase.com/organization/hitachi
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
       - subcategory:
         name: General
         items:
           - item:
             name: Absa Bank Limited (member)
+            description: >-
+              ABGL is the majority shareholder of 11 banks located in Botswana, Ghana, Kenya, Mauritius, Mozambique, Seychelles, South Africa, Tanzania, Uganda
+              and Zambia.
             homepage_url: https://absa.africa/
             logo: absa_bank_limited.svg
             twitter: https://twitter.com/Absa
             crunchbase: https://www.crunchbase.com/organization/absa-bank
+            extra:
+              linkedin_url: https://www.linkedin.com/company/absa
           - item:
             name: Adhara Limited (member)
+            description: Liquidity management and international payments for decentralised financial networks
             homepage_url: https://adhara.io/
             logo: adhara_limited.svg
             twitter: https://twitter.com/adhara_io
             crunchbase: https://www.crunchbase.com/organization/adhara
+            extra:
+              linkedin_url: https://www.linkedin.com/company/adhara-io
           - item:
             name: American Express (member)
+            description: >-
+              American Express Company is a multinational financial services corporation headquartered in New York City, New York. Founded in 1850, the company
+              is best known for its credit card, charge card, and traveler's check businesses. They also provide global services such as business level credit
+              cards, travel discounts and loyalty rewards including cash back on purchases.
             homepage_url: https://americanexpress.com/
             logo: american_express.svg
             twitter: https://twitter.com/AmericanExpress
             crunchbase: https://www.crunchbase.com/organization/americanexpress
+            extra:
+              linkedin_url: https://www.linkedin.com/company/american-express
           - item:
             name: Applied Blockchain (member)
+            description: We Develop Applications with Enhanced Trust and Privacy
             homepage_url: https://appliedblockchain.com/
             logo: applied_blockchain.svg
             twitter: https://twitter.com/AppBlockchain
             crunchbase: https://www.crunchbase.com/organization/applied-blockchain
+            extra:
+              linkedin_url: https://www.linkedin.com/company/applied-blockchain
           - item:
             name: AyanWorks Technology Solutions Pvt. Ltd. (member)
+            description: >-
+              #Sovrin #Steward in India. Team of passionate software craftsmen, building promising Blockchain Solutions using #Hyperledger #Fabric, #Indy,
+              #Sovrin, #Corda
             homepage_url: https://ayanworks.com/
             logo: ayanworks_technology_solutions_pvt_ltd.svg
             twitter: https://twitter.com/ayanworkstech
             crunchbase: https://www.crunchbase.com/organization/ayanworks
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ayanworks
           - item:
             name: Blockchain Game Partners Inc.(“Gala”) (member)
+            description: >-
+              Gala is a pioneering entertainment company in the Web3 space, empowering creators and fans across Games, Music, Film, and VOX. Founded by industry
+              veterans Eric Schiermeyer and Michael McCarthy, Gala collaborates with global talent to innovate and deli...
             homepage_url: https://gala.com/
             logo: blockchain_game_partners_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gala-games
+            extra:
+              linkedin_url: https://www.linkedin.com/company/gogala
           - item:
             name: BONbLOC Inc (member)
+            description: BONbLOC is a blockchain software company that focuses on corporate and government solutions.
             homepage_url: https://bonbloc.com/
             logo: bonbloc_inc.svg
             twitter: https://twitter.com/BonblocT
             crunchbase: https://www.crunchbase.com/organization/bonbloc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bonbloc
           - item:
             name: CasperLabs LLC (member)
+            description: Blockchain for the builders - upgradable smart contracts & predictable gas fees.     Tweets by the official Casper Association
             homepage_url: https://casperlabs.io/
             logo: casperlabs_llc.svg
             twitter: https://twitter.com/Casper_Network
             crunchbase: https://www.crunchbase.com/organization/casperlabs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/casperlabs
           - item:
             name: Chainyard (member)
+            description: >-
+              Our blockchain services and consulting team of experts brings extensive experience in blockchain consulting, architecting, designing, building,
+              testing, securing, and operating complex distributed systems to help adopters of blockchain technology succeed.
             homepage_url: https://chainyard.com/
             logo: chainyard.svg
             twitter: https://twitter.com/chainyard
+            extra:
+              linkedin_url: https://www.linkedin.com/company/chainyard
             organization:
               name: Chainyard
               linkedin: https://www.linkedin.com/company/chainyard
           - item:
             name: Cheesecake Labs (member)
+            description: >-
+              Cheesecake Labs is a software design and engineering company specializing in mobile and web development, offering Full Stack Web & Mobile
+              Development, UX/UI Design, and Strategy & Consulting with a focus on collaborative product development.
             homepage_url: https://cheesecakelabs.com/
             logo: cheesecake_labs.svg
             crunchbase: https://www.crunchbase.com/organization/cheesecake-labs-2
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cheesecake-labs
           - item:
             name: China Systems Holdings Limited (member)
+            description: >-
+              Founded in 1981, China Systems is a finance software provider including systems development, installation, and integration. China Systems is
+              headquartered in Nanjing City, Jiangsu, China.
             homepage_url: https://chinasystems.com/
             logo: china_systems_holdings_limited.svg
             twitter: https://twitter.com/china_systems
             crunchbase: https://www.crunchbase.com/organization/china-systems
+            extra:
+              linkedin_url: https://www.linkedin.com/company/china-systems
           - item:
             name: Circulor Ltd. (member)
+            description: >-
+              Founded in 2018, headquartered in London, England, Circulor provides Traceability-as-a-Service to verify responsible sourcing, underpin effective
+              recycling and attribute CO2 footprint and other impact metrics to the flow of materials. This directly supports manufacturers in addressing the UN
+              Sustainability Goals by reaching parts of their supply chains that most currently have little real visibility into.
             homepage_url: https://circulor.com/
             logo: circulor_ltd.svg
             twitter: https://twitter.com/Circulor1
             crunchbase: https://www.crunchbase.com/organization/circulor
+            extra:
+              linkedin_url: https://www.linkedin.com/company/circulor
           - item:
             name: Citi (member)
+            description: >-
+              Citi, the leading global financial services company, has approximately 200 million customer accounts and does business in more than 140 countries.
+              Through its two operating units, Citicorp and Citi Holdings, Citi provides consumers, corporations, governments and institutions with a broad
+              range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, and
+              wealth management.
+
+
+              --- Merged Data:
+
+
+              Credit Cards, Banking, Mortgage, Personal Loans | Citi.com Citi's mission is to serve as a trusted partner to our clients by responsibly providing
+              financial services that enable growth and economic progress. Our core activities are safeguarding assets,...
             homepage_url: https://citi.com/
             logo: citi.svg
             twitter: https://twitter.com/citi
             crunchbase: https://www.crunchbase.com/organization/citigroup
+            extra:
+              linkedin_url: https://www.linkedin.com/company/citi
           - item:
             name: Consensys AG (member)
+            description: >-
+              ConsenSys is a blockchain app production studio. We build decentralized applications for the emerging Ethereum ecosystem. We are working on
+              projects in several niches of that space, some of which are decentralized applications (dApps) and some are utilities for the ecosystem.
+
+              Specialties: Cryptocurrency, Blockchain, Web 3.0
+
+              Website: http://ConsenSys.net
+
+              Industry: Computer Software
+
+              Type: Privately Held
+
+              Headquarters: 49 Wyckoff Ave Brooklyn, NY United States
+
+              Company Size: 51-200 employees 
+
+              Founded: 2014
             homepage_url: https://consensys.io/
             logo: consensys_ag.svg
             twitter: https://twitter.com/ConsenSys
             crunchbase: https://www.crunchbase.com/organization/consensus-systems
+            extra:
+              linkedin_url: https://www.linkedin.com/company/consensus-systems-consensys-
           - item:
             name: Corsha (member)
+            description: >-
+              Corsha is a leading cybersecurity company that is defining the landscape of API security. Secure your APIs through Multi-Factor Authentication
+              (MFA).
             homepage_url: https://corsha.com/
             logo: corsha.svg
             twitter: https://twitter.com/Corsha_APIs
             crunchbase: https://www.crunchbase.com/organization/corsha
+            extra:
+              linkedin_url: https://www.linkedin.com/company/corsha
           - item:
             name: DABCo Ltd (member)
+            description: >-
+              Pairpoint, as a digital asset broker, simplifies the Economy of Things, enabling secure data sharing, autonomous transactions, and trusted
+              communications.
             homepage_url: https://pairpoint.io/
             logo: dabco_ltd.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/pairpoint
             organization:
               name: DABCo Ltd
               linkedin: https://www.linkedin.com/company/pairpoint
           - item:
             name: Data Storage Research, LLC d/b/a DSR Corporation (member)
+            description: Professional enterprise software development and consulting company. Cloud, Enterprise, Mobile, Embedded, Analytics and more.
             homepage_url: https://dsr-corporation.com/
             logo: data_storage_research_llc_d_b_a_dsr_corporation.svg
             twitter: https://twitter.com/DSR_corporation
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dsr-corporation
           - item:
             name: Deutsche Telekom AG (member)
+            description: >-
+              Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a
+              portfolio of services in the areas of telecommunications and information technology.
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
             twitter: https://twitter.com/deutschetelekom
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
+            extra:
+              linkedin_url: https://www.linkedin.com/company/telekom
           - item:
             name: Dfns (member)
+            description: >-
+              Dfns is the leading Web3 wallet infrastructure provider, offering secure access to digital assets through their WaaS platform with pre-built
+              integrations and decentralized key management.
             homepage_url: https://dfns.co/
             logo: dfns.svg
             crunchbase: https://www.crunchbase.com/organization/xkey
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dfnshq
           - item:
             name: Dhiway Networks Private Limited (member)
+            description: A verifiable data exchange platform delivering authenticity across institutional boundaries.
             homepage_url: https://dhiway.com/
             logo: dhiway_networks_private_limited.svg
             twitter: https://twitter.com/dhiwaynetworks
             crunchbase: https://www.crunchbase.com/organization/dhiway
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dhiway
           - item:
             name: Digital Asset (Switzerland) GmbH (member)
+            description: We deliver the leading software for building regulatory-grade interoperable digital assets.
             homepage_url: https://digitalasset.com/
             logo: digital_asset_switzerland_gmbh.svg
             twitter: https://twitter.com/Damldriven
             crunchbase: https://www.crunchbase.com/organization/digital-asset-2
+            extra:
+              linkedin_url: https://www.linkedin.com/company/digitalassetcom
           - item:
             name: Energy Web Foundation (member)
+            description: >-
+              Global nonprofit Energy Web (EW) is accelerating a low-carbon, customer-centric electricity system by unleashing the potential of #blockchain
+              tech.
             homepage_url: https://energyweb.org/
             logo: energy_web_foundation.svg
             twitter: https://twitter.com/energywebx
             crunchbase: https://www.crunchbase.com/organization/energy-web-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/energy-web-foundation
           - item:
             name: Espeo Software (member)
+            description: >-
+              At Espeo, we specialize in developing and implementing innovative fintech solutions. We leverage our deep expertise in areas such as blockchain,
+              online payments, and digital banking to help our clients stay at the forefront of their industries. Think of Espeo Software as a boutique one-stop
+              shop for financial technology.
+
+
+              We take pride in our in-house consulting team, which has guided numerous clients through the process of designing effective solutions, selecting
+              the most suitable technologies, and implementing private blockchain strategies. As one of only two Hyperledger Certified Service Providers in
+              Europe—and one of 17 globally—we are at the cutting edge of fintech innovation.
+
+
+              Our consulting network extends even further, incorporating industry experts in finance and banking who complement our in-house capabilities.
             homepage_url: https://espeo.eu/
             logo: espeo_software.svg
             twitter: https://twitter.com/espeo_software
             crunchbase: https://www.crunchbase.com/organization/espeo-software
+            extra:
+              linkedin_url: https://www.linkedin.com/company/espeo-software
           - item:
             name: Exponential Science Foundation (member)
+            description: >-
+              DLT Science Foundation promotes collaboration among academia, industry, developers, and government to advance the understanding and application of
+              distributed ledger technology in business and society.
             homepage_url: https://dltscience.org/
             logo: exponential_science_foundation.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dltscience
             organization:
               name: Exponential Science Foundation
               linkedin: https://www.linkedin.com/company/dltscience
           - item:
             name: Filecoin Foundation (member)
+            description: Accelerating the Filecoin ecosystem, designed to store humanity’s most important information The Filecoin Foundation (FF) is an independent...
             homepage_url: https://fil.org/
             logo: filecoin_foundation.svg
             twitter: https://twitter.com/FilFoundation
             crunchbase: https://www.crunchbase.com/organization/filecoin-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/filecoin-foundation
           - item:
             name: Fujitsu Limited (member)
+            description: >-
+              Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
+              services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT
+              to shape the future of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the
+              fiscal year ended March 31, 2014. Fujitsu is the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top
+              five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents
+              worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom research.
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
             twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
           - item:
             name: GoLedger (member)
+            description: 'Changing the world. One block at a time. #GoLedger'
             homepage_url: https://goledger.io/
             logo: goledger.svg
             twitter: https://twitter.com/go_ledger
             crunchbase: https://www.crunchbase.com/organization/goledger
+            extra:
+              linkedin_url: https://www.linkedin.com/company/goledger
           - item:
             name: Hashgraph Foundry Inc. (DBA Hashgraph) (member)
+            description: >-
+              Hashgraph is a distributed ledger technology company that offers a secure and efficient platform for building decentralized applications. Their
+              innovative consensus algorithm provides fast and fair transactions, making them a leader in the blockchain i...
             homepage_url: https://hashgraph.com/
             logo: hashgraph_foundry_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hashgraph
             organization:
               name: Hashgraph Foundry Inc. (DBA Hashgraph)
               linkedin: https://www.linkedin.com/company/hashgraph
           - item:
             name: Huawei Technologies Co., Ltd (member)
+            description: >-
+              Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in
+              Shenzhen, China.
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co.svg
             twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
           - item:
             name: Indicio (member)
+            description: A self-sovereign identity focused, professional services firm, using distributed ledger technology to deliver decentralized identity results.
             homepage_url: https://indicio.tech/
             logo: indicio.svg
             twitter: https://twitter.com/IndicioID
             crunchbase: https://www.crunchbase.com/organization/indicio-tech
+            extra:
+              linkedin_url: https://www.linkedin.com/company/indiciotech
           - item:
             name: Information Data Systems (member)
+            description: >-
+              IDS is a multinational company, providing services to clients in various industries since 1996. IDS has development centers in Detroit and
+              Hyderabad. IDS solutions include supply chain products using Blockchain technology, AWS and Azure Cloud services, Telemedicine App for Doctors,
+              No-touch Facial Recognition system for Employee time management and others.
             homepage_url: https://idssoft.com/
             logo: information_data_systems.svg
             twitter: https://twitter.com/IDSSOFT
             crunchbase: https://www.crunchbase.com/organization/information-data-systems-de20
+            extra:
+              linkedin_url: https://www.linkedin.com/company/information-data-systems
           - item:
             name: Infosys Limited (member)
+            description: >-
+              Infosys is a global leader in consulting, technology, outsourcing and next-generation services. They enable clients, in more than 50 countries, to
+              stay a step ahead of emerging business trends and outperform the competition. They help them transform and thrive in a changing world by
+              co-creating breakthrough solutions that combine strategic insights and execution excellence.
             homepage_url: https://infosys.com/
             logo: infosys_limited.svg
             twitter: https://twitter.com/Infosys
             crunchbase: https://www.crunchbase.com/organization/infosys
+            extra:
+              linkedin_url: https://www.linkedin.com/company/infosys
           - item:
             name: Instnt Inc. (member)
+            description: Instnt is the first fully managed customer onboarding service for businesses with up to $100M annually in fraud loss liability insurance.
             homepage_url: https://instnt.org/
             logo: instnt_inc.svg
             twitter: https://twitter.com/Instnt_org
             crunchbase: https://www.crunchbase.com/organization/instnt
+            extra:
+              linkedin_url: https://www.linkedin.com/company/instnt-inc
           - item:
             name: IntellectEU (member)
+            description: >-
+              - International technology company  - SWIFT Integration Partner  - Founding member of Linux Foundation’s Hyperledger  - IBM Partner for Blockchain
+              implementations  - Expertise: financial integration; middleware; DLT development  - 10+ years of financia...
             homepage_url: https://intellecteu.com/
             logo: intellecteu.svg
             twitter: https://twitter.com/IntellectEU
             crunchbase: https://www.crunchbase.com/organization/intellecteu
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intellecteu
           - item:
             name: International Business Machines Corporation (member)
+            description: >-
+              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures
+              and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in
+              Armonk, New York.
+
+
+              --- Merged Data:
+
+
+              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
             twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ibm
           - item:
             name: Intersect (member)
             homepage_url: https://intersectmbo.org/
@@ -1629,100 +1849,310 @@ landscape:
               name: Intersect
           - item:
             name: IO Builders Blockchain Technologies & Ventures (member)
+            description: Blockchain products for the real word
             homepage_url: https://io.builders/
             logo: io_builders_blockchain_technologies_ventures.svg
             twitter: https://twitter.com/iobuilders
             crunchbase: https://www.crunchbase.com/organization/iobuilders
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iobuilders
           - item:
             name: IOG Singapore Pte. Ltd (member)
+            description: >-
+              Overview
+
+              Input Output HK is a research and development company and industry leader in the fields of cryptography and distributed systems. Since the company
+              was founded in 2014 it has pioneered new territory in blockchain research, advancing industry knowledge with the work produced by its global team
+              of cryptographers and researchers. A growing network of academic partnerships supports its research and the Blockchain Technology Laboratory at
+              the University of Edinburgh serves as the global headquarters for its university collaborations. 
+
+
+              With its twin pillars of research and development, Input Output aims to shorten the time between academic research and its application in
+              industry, while  supporting the education of students who will contribute to the future of the area. All the work Input Output produces is open
+              source and patent-free.
+
+
+              The company is incorporated in Hong Kong and has a global presence, with now about 70 workers based around the world, including in Japan; the US,
+              the UK, Russia; Latvia; Ukraine and Argentina.
+
+
+              Website http://iohk.io 
+
+              Industry Computer Software 
+
+              Company size 51-200 employees 
+
+              Type Privately Held 
+
+              Founded 2014 
+
+              Specialties Blockchain, Cryptocurrency, Research, Development, Consultancy, and Education
             homepage_url: https://iohk.io/
             logo: iog_singapore_pte.svg
             twitter: https://twitter.com/InputOutputHK
             crunchbase: https://www.crunchbase.com/organization/input-output
+            extra:
+              linkedin_url: https://www.linkedin.com/company/input-output-global
           - item:
             name: Japan Securities Clearing Corporation (JSCC) (member)
+            description: >-
+              Japan Exchange Group (JPX) is a group of exchanges that includes the Tokyo Stock Exchange, Osaka Exchange, and Tokyo Commodity Exchange. They
+              provide a safe and convenient trading environment for market users through comprehensive services.
+
+
+              --- Merged Data:
+
+
+              日本取引所グループ（JPX） is an exchange group that operates the Tokyo Stock Exchange, Osaka Exchange, and Tokyo Commodity Exchange, among others. It
+              provides comprehensive services to offer a safe and convenient trading environment for market participants.
             homepage_url: https://www.jpx.co.jp/jscc/en/
             logo: japan_securities_clearing_corporation_jscc.svg
             crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
           - item:
             name: Kaleido (member)
+            description: WE MAKE IT INTERESTING.
             homepage_url: https://kaleido.io/
             logo: kaleido.svg
             twitter: https://twitter.com/Kaleido_io
             crunchbase: https://www.crunchbase.com/organization/kaleido
+            extra:
+              linkedin_url: https://www.linkedin.com/company/kaleido-io
           - item:
             name: Krypc Corporation (member)
+            description: KrypC is a FinTech solution and service provider focusing on bringing innovative solutions in the field of Blockchain & Digital Currency.
             homepage_url: https://krypc.com/
             logo: krypc_corporation.svg
             twitter: https://twitter.com/krypctalk
             crunchbase: https://www.crunchbase.com/organization/krypc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/krypc
           - item:
             name: Launchnodes (member)
+            description: >-
+              Launchnodes is a leading provider of investment-grade Ethereum staking services, offering non-custodial solutions for solo staking. They
+              specialize in Beacon and Validator nodes on major cloud platforms like AWS, Azure, and GCP, catering to hedge funds...
             homepage_url: https://launchnodes.com/
             logo: launchnodes.svg
             crunchbase: https://www.crunchbase.com/organization/launchnodes
+            extra:
+              linkedin_url: https://www.linkedin.com/company/launchnodes
           - item:
             name: LayerZero Labs Ltd. (member)
+            description: >-
+              LayerZero Labs (layerzero.network) is a company focused on building an omnichain interoperability protocol called LayerZero. Their protocol
+              enables the realization of cross-chain applications through low-level communication primitives. They specialize ...
             homepage_url: https://layerzero.network/
             logo: layerzero_labs_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/layerzero-labs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/layerzerolabs
           - item:
             name: MasterCard Incorporated (member)
+            description: >-
+              Mastercard (NYSE: MA),  is a technology company in the global payments industry. MasterCard operates the world's fastest payments processing
+              network, connecting consumers, financial institutions, merchants, governments and businesses in more than 210 countries and territories.
+              Mastercard products and solutions make everyday commerce activities such as shopping, traveling, running a business and managing finances easier,
+              more secure and more efficient for everyone.
             homepage_url: https://mastercard.us/
             logo: mastercard_incorporated.svg
             twitter: https://twitter.com/Mastercard
             crunchbase: https://www.crunchbase.com/organization/mastercard
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mastercard
           - item:
             name: MediConCen Limited (member)
+            description: MediConCen mobilize medical experts all over the world to serve the insured population..
             homepage_url: https://mediconcen.com/
             logo: mediconcen_limited.svg
             twitter: https://twitter.com/mediconcen
             crunchbase: https://www.crunchbase.com/organization/mediconcen
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mediconcen
           - item:
             name: Milligan Partners (member)
+            description: >-
+              Milligan Partners specializes in transportation and technology consulting services. Our extensive experience in tolling and information technology
+              comes from serving as both agency staff, industry consultants, and technology professionals. Milligan Partners' services include support for
+              roadside toll operations, customer service centers, IT infrastructure, and the associated planning and operations for the related disciplines.
+
+
+              Specialties
+
+
+              Customer Service, Revenue Management, Managed Lanes, Open Road Tolling, Construction Management, Procurement Support and Coordination, Concepts of
+              Operations, System Requirements, System Implementations, Independent Verification and Validation, Policy/Business Rules
+
+
+
+
+              Website
+
+
+              http://www.milliganpartners.com
+
+
+
+
+              Industry
+
+
+              Information Technology and Services
+
+
+
+
+              Type
+
+
+              Privately Held
+
+
+
+
+              Headquarters
+
+
+              4144 North Central Expressway Suite 600 Dallas, TX 75204 United States
+
+
+
+
+              Company Size
+
+
+              1-10 employees
+
+
+
+
+              Founded
+
+
+              2012
+
+
+
+
+              Dallas
+
+
+              4144 North Central Expressway
+
+
+              Suite 600
+
+
+              Dallas, Texas 75204
+
+
+              Phone: (888) 885-1302
+
+
+              Fax: (888) 335-9061
+
+
+
+
+              Houston
+
+
+              5100 Westheimer Road
+
+
+              Suite 200
+
+
+              Houston, Texas 77056
+
+
+              Phone: (888) 885-1302
+
+
+              Fax: (888) 335-9061
             homepage_url: https://milliganpartners.com/
             logo: milligan_partners.svg
             twitter: https://twitter.com/MilliganPartnrs
             crunchbase: https://www.crunchbase.com/organization/milligan-partners
+            extra:
+              linkedin_url: https://www.linkedin.com/company/milliganpartners
           - item:
             name: NTT DATA Group Corporation (member)
+            description: >-
+              Founded in 1988 and headquartered in Tokyo, Japan, NTT DATA offers consulting, application, infrastructure, and business process outsourcing
+              services.
             homepage_url: https://nttdata.com/
             logo: ntt_data_group_corporation.svg
             twitter: https://twitter.com/NTTDATA
             crunchbase: https://www.crunchbase.com/organization/ntt-data
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ntt-data-americas
           - item:
             name: Oracle America Inc. (member)
+            description: >-
+              Headquartered in Austin, Texas, Oracle Corporation is an American multinational computer technology corporation. The company sells database
+              software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems.
+
+
+              --- Merged Data:
+
+
+              Oracle Corporation
             homepage_url: https://oracle.com/
             logo: oracle_america_inc.svg
             twitter: https://twitter.com/Oracle
             crunchbase: https://www.crunchbase.com/organization/oracle
+            extra:
+              linkedin_url: https://www.linkedin.com/company/oracle
           - item:
             name: Ownera (member)
+            description: >-
+              Ownera digitizes private markets with FinP2P, a global network for institutions to share assets and conduct transactions, bringing real-time
+              settlement and liquidity to the market.
             homepage_url: https://ownera.io/
             logo: ownera.svg
             crunchbase: https://www.crunchbase.com/organization/ownera
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ownera
           - item:
             name: Paramount Software Solutions Inc. (member)
+            description: Paramount Soft has 250+ employees and is currently working on uses cases for Hyperledger Fabric for automotive and food supply chain integrity
             homepage_url: https://paramountsoft.net/
             logo: paramount_software_solutions_inc.svg
             twitter: https://twitter.com/Paramount_GA
             crunchbase: https://www.crunchbase.com/organization/paramount-software-solutions-inc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/paramount-software-solutions
           - item:
             name: Polygon Labs Services (Switzerland) AG (member)
+            description: >-
+              Polygon is a blockchain technology company that provides a scalable solution for building and scaling decentralized applications and projects on
+              Ethereum, the world's largest blockchain ecosystem.
             homepage_url: https://polygon.technology/
             logo: polygon_labs_services_switzerland_ag.svg
             crunchbase: https://www.crunchbase.com/organization/polygontechnology
+            extra:
+              linkedin_url: https://www.linkedin.com/company/polygonlabs
           - item:
             name: Print2Block (member)
+            description: >-
+              DocChain.io by Print2Block is a Blockchain secured Document Issuing System that has secured 58 Million+ documents for Enterprises and Governments,
+              providing instant document authenticity verification through Blockchain QR codes.
             homepage_url: https://docchain.io/
             logo: print2block.svg
             crunchbase: https://www.crunchbase.com/organization/print2block
+            extra:
+              linkedin_url: https://www.linkedin.com/company/docchain
           - item:
             name: R3 LLC (member)
+            description: >-
+              R3 is a financial markets crypto, exchanges and venture practice. We look to leverage our decades of experience and deep networks within the
+              financial services community in order to empower innovators, promote industry collaboration, and transform the modern financial markets ecosystem.
             homepage_url: https://r3.com/
             logo: r3_llc.svg
             twitter: https://twitter.com/inside_r3
             crunchbase: https://www.crunchbase.com/organization/r3-cev
+            extra:
+              linkedin_url: https://www.linkedin.com/company/r3cev-llc
           - item:
             name: Rayls Foundation (member)
             homepage_url: https://rayls.com/
@@ -1731,378 +2161,928 @@ landscape:
               name: Rayls Foundation
           - item:
             name: Ripple Labs Inc. (member)
+            description: >-
+              Ripple is a real-time gross settlement system (RTGS), currency exchange and remittance network by Ripple. Also called the Ripple Transaction
+              Protocol (RTXP) or Ripple protocol, it is built upon a distributed open source Internet protocol, consensus ledger and native currency called XRP
+              (ripples). Released in 2012, Ripple purports to enable "secure, instant and nearly free global financial transactions of any size with no
+              chargebacks." It supports tokens representing fiat currency, cryptocurrency, commodity or any other unit of value such as frequent flier miles or
+              mobile minutes. At its core, Ripple is based around a shared, public database or ledger, which uses a consensus process that allows for payments,
+              exchanges and remittance in a distributed process.
             homepage_url: https://ripple.com/
             logo: ripple_labs_inc.svg
             twitter: https://twitter.com/Ripple
             crunchbase: https://www.crunchbase.com/organization/ripple-labs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ripple-labs
           - item:
             name: SDAX Exchange Pte Ltd (member)
+            description: >-
+              SDAX is a MAS regulated investment platform serving institutional, accredited, and retail investors. They provide access to uniquely curated
+              assets in real estate, ESG, and impactful investment opportunities. SDAX partners with companies and institutio...
             homepage_url: https://sdax.co/
             logo: sdax_exchange_pte_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/sdax
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sdax
           - item:
             name: SEIYAJ TECH (member)
+            description: >-
+              SEIYAJ TECH is a leading company in the field of digital solutions and green energy technology. We pride ourselves on our business to government
+              (B2G) model, collaborating closely with government entities to develop cutting-edge solutions. Our expertis...
             homepage_url: https://seiyaj.com/
             logo: seiyaj_tech.svg
             crunchbase: https://www.crunchbase.com/organization/seiyaj-tech
+            extra:
+              linkedin_url: https://www.linkedin.com/company/seiyaj
           - item:
             name: Senofi (member)
+            description: Senofi Inc. is a software development company focused on building value added business networks.
             homepage_url: https://senofi.ca/
             logo: senofi.svg
             twitter: https://twitter.com/SenofiCA
             crunchbase: https://www.crunchbase.com/organization/senofi
+            extra:
+              linkedin_url: https://www.linkedin.com/company/senofi
           - item:
             name: SmartCirqls Infotech Private Limited (member)
+            description: >-
+              Qila.io is a Blockchain as a Service platform enabling enterprises to integrate blockchain technology, tokenize real-world assets, and implement
+              Smart Contracts. It offers certified virtual asset tokenization and secure storage for authenticated data.
             homepage_url: https://qila.io/
             logo: smartcirqls_infotech_private_limited.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/qila-io
             organization:
               name: SmartCirqls Infotech Private Limited
               linkedin: https://www.linkedin.com/company/qila-io
           - item:
             name: SmartContract Inc. (member)
+            description: >-
+              Chainlink Labs is a pioneer in blockchain oracle solutions, connecting smart contracts to off-chain data sources for applications in banking,
+              DeFi, global trade, and gaming. They are leading the industry with secure and reliable solutions for a decentr...
             homepage_url: https://chainlinklabs.com/
             logo: smartcontract_inc.svg
             crunchbase: https://www.crunchbase.com/organization/chainlink-labs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/chainlink-labs
           - item:
             name: SORAMITSU CO., LTD. (member)
+            description: >-
+              Soramitsu is a blockchain technology company based in Japan. We envision a world where everyone can easily interact with each other using
+              blockchain technology. To create this world, we are focusing on developing a digital identity platform for blockch...
             homepage_url: https://soramitsu.co.jp/
             logo: soramitsu_co_ltd.svg
             twitter: https://twitter.com/soramitsu_co
             crunchbase: https://www.crunchbase.com/organization/soramitsu
+            extra:
+              linkedin_url: https://www.linkedin.com/company/soramitsu
           - item:
             name: Stellar Development Foundation (member)
+            description: >-
+              About us
+
+
+              Our mission is open source financial access for all. 
+
+
+              The Stellar Development Foundation is a nonprofit organization based in San Francisco. We��_��_re building a common financial platform, designed
+              to be open and accessible to everyone.
+
+
+              Just as the internet allowed anyone to send an email or create a blog, Stellar now allows people to easily send, save, and receive money, without
+              large fees or hassle.
+
+
+              Recent updateSee all See all recent updates
+
+              Stellar
+
+              stellar.org
+
+              1 Like 7d
+
+              Company details
+
+              Website
+
+              https://www.stellar.org/
+
+              Year founded
+
+              2014
+
+
+              Company type
+
+              Nonprofit
+
+
+              Company size
             homepage_url: https://stellar.org/
             logo: stellar_development_foundation.svg
             twitter: https://twitter.com/StellarOrg
             crunchbase: https://www.crunchbase.com/organization/stellar
+            extra:
+              linkedin_url: https://www.linkedin.com/company/stellar-development-foundation
           - item:
             name: Tata Consultancy Services Limited (member)
+            description: >-
+              Tata Consultancy Services Limited provides information technology (IT) and IT enabled services worldwide. It offers CHROMA, a cloud-based talent
+              management platform for enterprises to drive next generation employee experiences across the requisition-to-retire employee lifecycle; ignio, a
+              cognitive automation system for IT operations in enterprises; iON, an assessment solution; TAP, an accounts payable platform; and TCS MasterCraft,
+              a digital platform to automate and manage IT processes. The company also provides customer intelligence and insight solutions to deliver
+              personalized retail, banking, and communications experiences; Intelligent Urban Exchange, an enterprise software to accelerate smart city
+              transportation, water, and energy programs for cities; OPTUMERA, a digital merchandising suite; and TCS BaNCS, a financial platform. In addition,
+              it offers advanced drug development platforms; ERP on cloud platform provides cloud-based solution for enterprise operations; HOBS, a
+              pre-integrated end-to-end platform for telecom business and operations support systems; and TCS Cloud Plus solutions. Further, the company offers
+              consulting and enterprise solutions, application development and maintenance, assurance, engineering and industrial, IT infrastructure, business
+              process, and asset leveraged solutions, as well as consulting and systems integration, technology operations, and digital re-imagination services;
+              and artificial intelligence, Big Data, cloud, cyber security, and Internet of Things technologies. It serves banking and financial services,
+              communications, media and technology, insurance, manufacturing, retail, consumer goods and distribution, energy, resources and utilities, life
+              sciences and healthcare, public services, and travel and hospitality industries. The company was founded in 1968 and is headquartered in Mumbai,
+              India. Tata Consultancy Services Limited is a subsidiary of Tata Sons Limited.
             homepage_url: https://tcs.com/
             logo: tata_consultancy_services_limited.svg
             twitter: https://twitter.com/TCS
             crunchbase: https://www.crunchbase.com/organization/tata-consultancy-services
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tata-consultancy-services
           - item:
             name: Validation Cloud (member)
+            description: >-
+              Validation Cloud is an enterprise grade Web3 infrastructure company that provides node, staking, and data as a service to connect organizations to
+              Web3 through a fast, scalable, and intelligent platform.
             homepage_url: https://validationcloud.io/
             logo: validation_cloud.svg
             crunchbase: https://www.crunchbase.com/organization/validation-cloud
+            extra:
+              linkedin_url: https://www.linkedin.com/company/validationcloud
           - item:
             name: Visa Inc. (member)
+            description: Visa Inc. is an American multinational financial services corporation headquartered in Foster City, California, United States.
             homepage_url: https://visa.com/
             logo: visa_inc.svg
             twitter: https://twitter.com/Visa
             crunchbase: https://www.crunchbase.com/organization/visa
+            extra:
+              linkedin_url: https://www.linkedin.com/company/visa
           - item:
             name: Walmart Inc. (member)
+            description: >-
+              WalMart is a multinational retailing corporation offering a range of products through their retail stores, websites, and through their mobile
+              devices. Each week, over 260 million customers and members visit their stores under 59 banners in 28 countries and eCommerce websites in 11
+              countries. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
             twitter: https://twitter.com/Walmart
             crunchbase: https://www.crunchbase.com/organization/walmart-labs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sam's-club
           - item:
             name: Wanchain (member)
+            description: >-
+              About us
+
+              Wanchain is a unique public blockchain with inter-chain transactions and privacy protection.  Wanchain has its own protocol for inter-chain
+              transactions, which is based on locked account and threshold signature. With it, wanchain can support multi-assets trading.
+
+
+              Recent updateSee all See all recent updates
+
+              Image accompanying recent update
+
+              Wanchain 2.0 & WanLabs Meetup Beijing – Wanchain Foundation – Medium
+
+
+              medium.com
+
+
+              19 Likes
+
+              Company details
+
+              Website
+
+              https://www.wanchain.org
+
+              Headquarters
+
+              Singapore, Singapore
+
+
+              Year founded
+
+              2017
+
+
+              Company type
+
+              Nonprofit
+
+
+              Company size
+
+              11-50 employees
+
+              Specialties
+
+              blockchain, Cryptocurrencies, cross-chain, decentralization, wanchain, ethereum, and bitcoin
             homepage_url: https://wanchain.org/
             logo: wanchain.svg
             twitter: https://twitter.com/wanchain_org
             crunchbase: https://www.crunchbase.com/organization/wanchain
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wanchain
           - item:
             name: Wipro Limited (member)
+            description: >-
+              Wipro is a global information technology, consulting and business process services that utilizes cognitive computing, hyper-automation, robotics,
+              cloud, analytics and emerging technologies. Wipro is headquartered in Karnataka, India.
             homepage_url: https://wipro.com/
             logo: wipro_limited.svg
             twitter: https://twitter.com/Wipro
             crunchbase: https://www.crunchbase.com/organization/wipro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/appirio
           - item:
             name: Zeeve Inc (member)
+            description: Most Secure Decentralized Infrastructure Protocol.  Bringing next generation TEE based secure and privacy driven P2P infrastructure.
             homepage_url: https://zeeve.io/
             logo: zeeve_inc.svg
             twitter: https://twitter.com/0xZeeve
             crunchbase: https://www.crunchbase.com/organization/zeeve
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zeevedeeptech
           - item:
             name: Zoniqx Inc. (member)
+            description: Zoniqx is an AI and blockchain platform that provides financial solutions and technology services for asset tokenization as a service.
             homepage_url: https://zoniqx.com/
             logo: zoniqx_inc.svg
             twitter: https://twitter.com/RealtoApps
             crunchbase: https://www.crunchbase.com/organization/zoniqx
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tassets
       - subcategory:
         name: Associate
         items:
           - item:
             name: AAIS (American Association of Insurance Services) (member)
+            description: >-
+              About us
+
+              The American Association of Insurance Services (AAIS) is a member-owned, non-profit national insurance advisory organization that provides
+              specialized services to property/casualty insurers.
+
+
+              More than 700 P/C insurers of all sizes throughout the U.S. use policy forms and/or rating information provided under more than 34 AAIS programs
+              of personal, commercial, agricultural, and inland marine insurers.
+
+
+              Long-known for its industry-leading inland marine and commercial output programs, AAIS in recent years has set new standards for innovation in
+              agricultural property and liability coverage, and led the way in introducing the first advisory organization plan for rating homeowners policies
+              by peril.
+
+
+              In addition, AAIS is one of two licensed statistical agents operating nationally that collects P/C statistical information for meeting regulatory
+              requirements and for developing loss costs for use in rating policies.
+
+
+              In 2013, AAIS made a substantial new departure by launching its "Underwriting Platform,"​ a cloud-based application for underwriting and rating
+              policies and capturing information during the quote process. "UP"​ has been developed to support AAIS's industry-leading Commercial Output Program
+              and key classes of its Inland Marine Guide. In coming months and years, it will be deployed to support all AAIS programs.
+
+
+              AAIS was created in the mid-1970s as the successor organization to a former inland marine rating bureau and continues to operate under a
+              commitment to preserve competition in bureau services for P/C carriers.
+
+
+              AAIS is currently led by Edmund J. Kelly, president and CEO, who came to AAIS in 2012 after years of experience in organizations that provided
+              professional liability and property catastrophe insurance.
+
+
+              Recent updateSee all See all recent updates
+
+              Image accompanying recent update
+
+              Come to the InterContinental Buckhead Atlanta on 8/28…and Focus on the Future of Personal Lines with AAIS. During informative, intimate, and
+              interactive sessions, we’ll explore and discuss the major issues facing today’s personal lines #insurance carrier. http://bit.ly/2ItlbFu
+
+
+              7 Likes
+
+              Company details
+
+              Website
+
+              http://www.AAISonline.com
+
+              Headquarters
+
+              Lisle, IL
+
+
+              Year founded
+
+              1936
+
+
+              Company type
+
+              Nonprofit
+
+
+              Company size
+
+              51-200 employees
+
+              Specialties
+
+              P/C insurance policy forms, loss cost rating information, manual rules, statistical reporting, product compliance, and data analysis
             homepage_url: https://aaisonline.com/
             logo: aais_american_association_of_insurance_services.svg
             twitter: https://twitter.com/AAISConnect
             crunchbase: https://www.crunchbase.com/organization/american-association-of-insurance-services
+            extra:
+              linkedin_url: https://www.linkedin.com/company/aais-american-association-of-insurance-services
           - item:
             name: Alastria Blockchain Ecosystem (member)
+            description: >-
+              ALASTRIA CONSTRUYE FUTURO Anticipamos necesidades de nuestra sociedad trabajando colaborativamente a partir de tres pilares Qué es Alastria​
+              Alastria es una asociación sin ánimo de…
             homepage_url: https://alastria.io/
             logo: alastria_blockchain_ecosystem.svg
             twitter: https://twitter.com/Alastria_
             crunchbase: https://www.crunchbase.com/organization/alastria
+            extra:
+              linkedin_url: https://www.linkedin.com/company/alastria
           - item:
             name: Banco Central do Brasil (member)
+            description: The Central Bank of Brazil is Brazil's central bank.
             homepage_url: https://bcb.gov.br/
             logo: banco_central_do_brasil.svg
             twitter: https://twitter.com/BancoCentralBR
             crunchbase: https://www.crunchbase.com/organization/banco-central-do-brasil
+            extra:
+              linkedin_url: https://www.linkedin.com/company/banco-central-do-brasil
           - item:
             name: Bank of England (member)
+            description: >-
+              The Bank of England, formerly the Governor and Company of the Bank of England, is the central bank of the United Kingdom and the model on which
+              most modern central banks have been based. Established in 1694, it is the second oldest central bank in the world and the world's 8th oldest bank.
+              It was established to act as the English Government's banker, and is still the banker for HM Government. The Bank was privately owned by
+              stockholders from its foundation in 1694 until nationalized in 1946. In 1998, it became an independent public organization, wholly owned by the
+              Treasury Solicitor on behalf of the government, with independence in setting monetary policy. The Bank is one of eight banks authorized to issue
+              banknotes in the United Kingdom, but has a monopoly on the issue of banknotes in England and Wales and regulates the issue of banknotes by
+              commercial banks in Scotland and Northern Ireland. They are headquartered in London, England.
             homepage_url: https://bankofengland.co.uk/
             logo: bank_of_england.svg
             twitter: https://twitter.com/bankofengland
             crunchbase: https://www.crunchbase.com/organization/bank-of-england
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bank-of-england
           - item:
             name: Banque de France (member)
+            description: The Bank of France, headquartered in Paris, is the central bank of France.
             homepage_url: https://banque-france.fr/
             logo: banque_de_france.svg
             twitter: https://twitter.com/banquedefrance
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
+            extra:
+              linkedin_url: https://www.linkedin.com/company/banque-de-france
           - item:
             name: Blockchain Research Institute (Tapscott Group) (member)
+            description: >-
+              Media theorist, best selling author (most recently of Blockchain Revolution), co-founder of the Blockchain Research Institute, musician, ranked
+              4th in world (Thinkers50)
             homepage_url: https://tapscott.com/
             logo: blockchain_research_institute_tapscott_group.svg
             twitter: https://twitter.com/dtapscott
             crunchbase: https://www.crunchbase.com/organization/blockchain-research-institute
           - item:
             name: BNDES (member)
+            description: >-
+              BNDES serves as Brazil's primary long-term investment financier, providing financial support for a wide range of projects that enhance
+              sustainability and improve the quality of life for Brazilian citizens.
             homepage_url: https://bndes.gov.br/
             logo: bndes.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bndes
             organization:
               name: BNDES
               linkedin: https://www.linkedin.com/company/bndes
           - item:
             name: Budapest University of Technology and Economics (member)
+            description: >-
+              The Budapest University of Technology and Economics, official abbreviation BME, is the most significant University of Technology in Hungary and is
+              considered the world's oldest Institute of Technology which has university rank and structure.
             homepage_url: https://mit.bme.hu/
             logo: budapest_university_of_technology_and_economics.svg
             twitter: https://twitter.com/BME_hu
             crunchbase: https://www.crunchbase.com/organization/budapest-university-of-technology-and-economics
+            extra:
+              linkedin_url: https://www.linkedin.com/company/budapest-university-of-technology-and-economics
           - item:
             name: Central Bank of Nigeria (member)
+            description: >-
+              The Central Bank of Nigeria is the central bank and apex monetary authority of Nigeria established by the CBN Act of 1958 and commenced operations
+              on July 1, 1959.
             homepage_url: https://cbn.gov.ng/
             logo: central_bank_of_nigeria.svg
             twitter: https://twitter.com/cenbank
             crunchbase: https://www.crunchbase.com/organization/central-bank-of-nigeria
           - item:
             name: Chamber of Digital Commerce (member)
+            description: >-
+              The Chamber of Digital Commerce is an American advocacy group that promotes the emerging industry behind blockchain technology, bitcoin, digital
+              currency and digital assets.
             homepage_url: https://digitalchamber.org/
             logo: chamber_of_digital_commerce.svg
             twitter: https://twitter.com/DigitalChamber
             crunchbase: https://www.crunchbase.com/organization/chamber-of-digital-commerce
+            extra:
+              linkedin_url: https://www.linkedin.com/company/chamber-of-digital-commerce
           - item:
             name: China Academy of Information and Communications Technology (CAICT) (member)
+            description: >-
+              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research
+              institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized
+              think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting
+              prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
+
+
+              · Decision-Making Support
+
+              · Test beds
+
+              · Test and Certification
+
+              · Consultancy
+
+              · Regulation services
+
+
+              Business Departments
+
+
+              Policy and Economics Research Institute
+
+              Technology and Standards Research Institute
+
+              Industry and Planning Research Institute
+
+              Cloud Computing & Big Data Research Institute
+
+              Informatization and Industrialization Integration Research Institute
+
+              Security Research Institute
+
+              CTTL System Laboratory
+
+              CTTL Terminal labs
+
+              TL Certification Institute
+
+              ICT Project Quota & Quality Supervision Center
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: CPQD (member)
+            description: >-
+              A technology organization present in every step of the journey towards innovation: from the idea to its implementation. We passionately encourage
+              the creation of national technology. Ready to innovate, ready to transform the world.
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
             twitter: https://twitter.com/cpqd
             crunchbase: https://www.crunchbase.com/organization/cpqd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cpqd
           - item:
             name: Decentralized Identity Foundation (member)
+            description: Building an open source decentralized identity ecosystem for people, organizations, and devices that enables a new class of apps and services.
             homepage_url: https://identity.foundation/
             logo: decentralized_identity_foundation.svg
             twitter: https://twitter.com/DecentralizedID
             crunchbase: https://www.crunchbase.com/organization/decentralized-identity-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/decentralized-identity-foundation
           - item:
             name: Digi Yatra Foundation (member)
+            description: >-
+              DigiYatra Foundation reimagines airport experiences with seamless, health risk-free journeys using advanced facial recognition technology and
+              prioritizing privacy by avoiding centralized storage of passenger credentials.
             homepage_url: https://www.digiyatrafoundation.com/
             logo: digi_yatra_foundation.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/digiyatrafoundation
             organization:
               name: Digi Yatra Foundation
               linkedin: https://www.linkedin.com/company/digiyatrafoundation
           - item:
             name: Digital Currency Forum (member)
+            description: Decurret DCP digitizes currencies and values for societal prosperity, focusing on DX platform development and industry events like FIN/SUM2024.
             homepage_url: https://decurret-dcp.com/
             logo: digital_currency_forum.svg
             organization:
               name: Digital Currency Forum
           - item:
             name: Digital Euro Association (DEA) (member)
+            description: >-
+              All about the digital Euro. Educate yourself on digital money and become part of the mission to enhance our monetary system. | Digital Euro
+              Association
             homepage_url: https://digital-euro-association.de/
             logo: digital_euro_association_dea.svg
             twitter: https://twitter.com/DigiEuro
             crunchbase: https://www.crunchbase.com/organization/digital-euro-association
+            extra:
+              linkedin_url: https://www.linkedin.com/company/digital-euro-association
           - item:
             name: Digital Identity Laboratory of Canada (member)
+            description: Pour que la confiance règne en identité numérique
             homepage_url: https://idlab.org/
             logo: digital_identity_laboratory_of_canada.svg
             twitter: https://twitter.com/idlaborg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/idlab-org
             organization:
               name: Digital Identity Laboratory of Canada
               linkedin: https://www.linkedin.com/company/idlab-org
           - item:
             name: Digital Pound Foundation (member)
+            description: An independent organisation working with a variety of stakeholders and participants towards the implementation of a well-designed Digital Pound.
             homepage_url: https://digitalpoundfoundation.com/
             logo: digital_pound_foundation.svg
             twitter: https://twitter.com/digitalpoundfdn
             crunchbase: https://www.crunchbase.com/organization/digital-pound-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/digitalpoundfoundation
           - item:
             name: Enterprise Ethereum Alliance (member)
+            description: >-
+              The Enterprise Ethereum Alliance connects Fortune 500 enterprises, startups, academics, and technology vendors with Ethereum subject matter
+              experts. Together, we will learn from and build upon the only smart contract supporting blockchain currently run...
             homepage_url: https://entethalliance.org/
             logo: enterprise_ethereum_alliance.svg
             twitter: https://twitter.com/EntEthAlliance
             crunchbase: https://www.crunchbase.com/organization/enterprise-ethereum-alliance
+            extra:
+              linkedin_url: https://www.linkedin.com/company/enterpriseethereumalliance
           - item:
             name: ETC Cooperative (The Ethereum Classic Cooperative) (member)
+            description: >-
+              Overview
+
+              The ETC Cooperative (the “ECC”) was created to financially support the growth and development of Ethereum Classic by funding three key aspects of
+              the ETC ecosystem: development, marketing, and community.
+
+
+              Aid development by filling in gaps where projects are out of scope for our development teams and providing funding to projects that community
+              members want to create.
+
+
+              Improve marketing by communicating ETC’s message and helping newcomers understand the strengths of ETC’s open and decentralized nature.
+
+
+              Foster community by making sure the various resources the community uses are well stewarded; this includes websites, social media, forums, and
+              documentation.
+
+
+              Websitehttps://etccooperative.org/IndustryComputer SoftwareCompany size2-10 employees2 on LinkedIn 
+
+              Includes members with current employer listed as The Ethereum Classic Cooperative, including part-time roles.
+
+              Type Privately Held
+
+              Founded 2017
+
+              Locations (1)
+
+              Primary
+
+              636 6th Ave, New York, US
             homepage_url: https://etccooperative.org/
             logo: etc_cooperative_the_ethereum_classic_cooperative.svg
             twitter: https://twitter.com/ETCCooperative
             crunchbase: https://www.crunchbase.com/organization/etc-cooperative
+            extra:
+              linkedin_url: https://www.linkedin.com/company/etc-cooperative
           - item:
             name: Ethereum Foundation (member)
+            description: >-
+              Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and
+              build applications accessible anywhere in the world.
+
+
+              --- Merged Data:
+
+
+              Ethereum is a decentralized, open source blockchain platform and programming language that enables developers to build and publish next-generation
+              distributed applications. It allows for the codification, decentralization, security, and trading of vari...
             homepage_url: https://ethereum.org/
             logo: ethereum_foundation.svg
             twitter: https://twitter.com/ethereum
             crunchbase: https://www.crunchbase.com/organization/ethereum
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ethereum
           - item:
             name: European Blockchain Association e.V. (member)
+            description: Empowering The European Blockchain Ecosystem
             homepage_url: https://europeanblockchainassociation.org/
             logo: european_blockchain_association_e_v.svg
             twitter: https://twitter.com/EUBLASORG
             crunchbase: https://www.crunchbase.com/organization/european-blockchain-association
+            extra:
+              linkedin_url: https://www.linkedin.com/company/european-blockchain-association-e-v
           - item:
             name: Federal Reserve Bank of Boston (member)
+            description: >-
+              The Federal Reserve Bank of Boston is part of the nation's central bank, serving the First District in the New England region, which includes
+              Vermont, New Hampshire, Rhode Island, Maine, Massachusetts and Connecticut.
             homepage_url: https://bostonfed.org/
             logo: federal_reserve_bank_of_boston.svg
             crunchbase: https://www.crunchbase.com/organization/federal-reserve-bank-of-boston
+            extra:
+              linkedin_url: https://www.linkedin.com/company/federal-reserve-bank-of-boston
           - item:
             name: Global Blockchain Business Council (member)
+            description: The Global Blockchain Business Council (GBBC) is the leading industry association for the blockchain technology ecosystem.
             homepage_url: https://gbbcouncil.org/
             logo: global_blockchain_business_council.svg
             twitter: https://twitter.com/GBBCouncil
             crunchbase: https://www.crunchbase.com/organization/global-blockchain-business-council
+            extra:
+              linkedin_url: https://www.linkedin.com/company/global-blockchain-business-council
           - item:
             name: GS1 US (member)
+            description: >-
+              GS1 US, a member of GS1, is an information standards organization that brings industry communities together to solve supply chain problems through
+              the adoption and implementation of GS1 Standards. GS1 Standards are the most widely used supply chain standards system in the world. The barcode
+              (an example of a GS1 Standard) is scanned more than 6 billion times a day globally. The GS1 System of Standards provides for accurate
+              identification and communication of information regarding products, assets, services and location
             homepage_url: https://gs1us.org/
             logo: gs1_us.svg
             twitter: https://twitter.com/GS1_US
             crunchbase: https://www.crunchbase.com/organization/gs1-us
+            extra:
+              linkedin_url: https://www.linkedin.com/company/gs1-us
           - item:
             name: Hong Kong Monetary Authority (member)
+            description: >-
+              Hong Kong Monetary Authority serves as the central banking institution of Hong Kong, overseeing monetary policy and financial stability in the
+              region.
             homepage_url: https://hkma.gov.hk/
             logo: hong_kong_monetary_authority.svg
             crunchbase: https://www.crunchbase.com/organization/hkma
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hong-kong-monetary-authority
           - item:
             name: Howest (member)
+            description: Howest
             homepage_url: https://howest.be/
             logo: howest.svg
             twitter: https://twitter.com/Howest_Intl
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hogeschool-west-vlaanderen
             organization:
               name: Howest
               linkedin: https://www.linkedin.com/company/hogeschool-west-vlaanderen
           - item:
             name: Initiative for CryptoCurrencies and Contracts (IC3) (member)
+            description: >-
+              IC3 (Initiative for cryptocurrency and Contract) is an initiative of faculty members at Cornell University, Cornell Tech, UC Berkeley, UIUC and
+              the Technion. IC3 is collaborating with domain experts in finance and banking, entrepreneurs, regulators, an...
             homepage_url: https://initc3.org/
             logo: initiative_for_cryptocurrencies_and_contracts_ic3.svg
             twitter: https://twitter.com/initc3org
             crunchbase: https://www.crunchbase.com/organization/initiative-for-cryptocurrencies-and-contracts
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-initiative-for-cryptocurrencies-contracts-ic3
           - item:
             name: Inter-American Development Bank (dba LACChain) (member)
+            description: >-
+              The IDB is the main source of multilateral financing for economic, social and institutional development projects and trade and regional
+              integration programs in Latin America and the Caribbean. It is the oldest and largest regional development bank.
             homepage_url: https://lacchain.net/
             logo: inter_american_development_bank_dba_lacchain.svg
             twitter: https://twitter.com/LACChain
             crunchbase: https://www.crunchbase.com/organization/inter-american-development-bank
+            extra:
+              linkedin_url: https://www.linkedin.com/company/inter-american-development-bank
           - item:
             name: International Association for Trusted Blockchain Applications (INATBA) (member)
+            description: INATBA offers DLT users a global forum to interact with regulators and policy makers and bring blockchain technology to the next stage.
             homepage_url: https://inatba.org/
             logo: international_association_for_trusted_blockchain_applications_inatba.svg
             twitter: https://twitter.com/INATBA_org
             crunchbase: https://www.crunchbase.com/organization/inatba
+            extra:
+              linkedin_url: https://www.linkedin.com/company/inatba
           - item:
             name: Kerala Blockchain Academy (member)
+            description: >-
+              Kerala Blockchain Academy(KBA), is an initiative of Government of Kerala under Indian Institute of Information and Technology and Management –
+              Kerala with many International collaborations to explore the disruptive potential of the Blockchain Technolog...
             homepage_url: https://kba.ai/
             logo: kerala_blockchain_academy.svg
             twitter: https://twitter.com/kbaiiitmk
             crunchbase: https://www.crunchbase.com/organization/kerala-blockchain-academy
+            extra:
+              linkedin_url: https://www.linkedin.com/company/keralablockchainacademy
           - item:
             name: MIT Connection Science (member)
+            description: >-
+              The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts. Founded in 1861 in response to the
+              increasing industrialization of the United States, MIT adopted a European polytechnic university model and stressed laboratory instruction in
+              applied science and engineering. Researchers worked on computers, radar, and inertial guidance during World War II and the Cold War. Post-war
+              defense research contributed to the rapid expansion of the faculty and campus under James Killian. The current 168-acre (68.0 ha) campus opened in
+              1916 and extends over 1 mile (1.6 km) along the northern bank of the Charles River basin. The Institute is traditionally known for its research
+              and education in the physical sciences and engineering, and more recently in biology, economics, linguistics, and management as well. It is often
+              cited as among the world's top universities. The "Engineers" sponsor 31 sports, most teams of which compete in the NCAA Division III's New England
+              Women's and Men's Athletic Conference; the Division I rowing programs compete as part of the EARC and EAWRC.
             homepage_url: https://mit.edu/
             logo: mit_connection_science.svg
             twitter: https://twitter.com/MIT
             crunchbase: https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mit-lincoln-laboratory
           - item:
             name: Mobility Open Blockchain Initiative (MOBI) (member)
+            description: 'Mobility Open Blockchain Initiative // Promoting standards and accelerating #blockchain & #distributedledger technology adoption for #mobility'
             homepage_url: https://dlt.mobi/
             logo: mobility_open_blockchain_initiative_mobi.svg
             twitter: https://twitter.com/dltMOBI
             crunchbase: https://www.crunchbase.com/organization/mobi-c10d
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dltmobi
           - item:
             name: Monetary Authority of Singapore (member)
+            description: >-
+              As Singapore's central bank, the Monetary Authority of Singapore (MAS) promotes sustained, non-inflationary economic growth through appropriate
+              monetary policy formulation and close macroeconomic surveillance of emerging trends and potential vulnerabilities. It manages Singapore's exchange
+              rate, foreign reserves and liquidity in the banking sector. MAS is also an integrated supervisor overseeing all financial institutions in
+              Singapore -- banks, insurers, capital market intermediaries, financial advisors, and the stock exchange. With its mandate to foster a sound and
+              progressive financial services sector in Singapore, MAS also helps shape Singapore's financial industry by promoting a strong corporate governance
+              framework and close adherence to international accounting standards. In addition, it spearheads retail investor education. MAS ensures that
+              Singapore's financial industry remains vibrant, dynamic and competitive by working closely with other government agencies and financial
+              institutions to develop and promote Singapore as a regional and international financial centre.
             homepage_url: https://mas.gov.sg/
             logo: monetary_authority_of_singapore.svg
             crunchbase: https://www.crunchbase.com/organization/monetary-authority-of-singapore
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mas
           - item:
             name: National Payments Corporation of India (member)
+            description: National Payments Corporation of India
             homepage_url: https://npci.org.in/
             logo: national_payments_corporation_of_india.svg
             crunchbase: https://www.crunchbase.com/organization/national-payments-corporation-of-india
+            extra:
+              linkedin_url: https://www.linkedin.com/company/npci
           - item:
             name: Norges Bank (member)
+            description: >-
+              Norges Bank is the central bank of Norway and is responsible for ensuring price stability and financial stability. The bank also manages the
+              Government Pension Fund of Norway. Norges Bank does not offer banking services to individuals or businesses.
             homepage_url: https://norges-bank.no/
             logo: norges_bank.svg
             crunchbase: https://www.crunchbase.com/organization/norges-bank
+            extra:
+              linkedin_url: https://www.linkedin.com/company/norges-bank
           - item:
             name: Province of British Columbia - Ministry of Citizens Services (member)
+            description: British Columbia is the westernmost province in Canada, located between the Pacific Ocean and the Rocky Mountains.
             homepage_url: https://gov.bc.ca/
             logo: province_of_british_columbia_ministry_of_citizens_services.svg
             twitter: https://twitter.com/BCGovNews
             crunchbase: https://www.crunchbase.com/organization/government-of-british-columbia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bcgov
           - item:
             name: Saintgits College of Engineering (member)
+            description: Saintgits College of Engineering is a self-financing autonomous technical institution located at Kottayam district of Kerala.
             homepage_url: https://saintgits.org/
             logo: saintgits_college_of_engineering.svg
             twitter: https://twitter.com/SaintgitsGroup
             crunchbase: https://www.crunchbase.com/organization/saintgits-college-of-engineering
+            extra:
+              linkedin_url: https://www.linkedin.com/company/saintgits
           - item:
             name: SERPRO (member)
+            description: >-
+              Servio Federal de Processamento de Dados (SERPRO) is a public company under the Ministry of Finance of Brazil. It was created in 1964 by Law No.
+              4516, aiming to modernize and quicken strategic sectors of the Brazilian Public Administration. The company, whose business is the provision of
+              services in Information Technology & Communications for the public sector, is considered one of the largest sector organizations in Latin America.
             homepage_url: https://serpro.gov.br/
             logo: serpro.svg
             twitter: https://twitter.com/SERPRO
             crunchbase: https://www.crunchbase.com/organization/serpro-2
+            extra:
+              linkedin_url: https://www.linkedin.com/company/serpro
           - item:
             name: Smart Dubai Government Est. (member)
+            description: "DR. SOHAIL MUNIR\tSmart Dubai Gov. Est.\t\n��_��_. ��__��_��_��__��_��_ ��_��_��_��_��_��_��__��_��_\nAdvisor Emerging Technologies and Digital Transformation\t\n��_��_��__��_��_��_��_��_��_��_��_��__ ��_��_��_��ȕ�_��_��_��_��__��_��_��_��_ ��_��_��_��_��_��_��_��_��_��_��__��_��_ ��_��_��_��_��_��ȕ�__��_��_��_��_ ��_��_��_�����_��_��_��_��__\nSmart Dubai Government Est.\t\n��_��_��__��__��_��_ ��__��_��_��_��_��_����_ ��_��_��_��_��__ ��_��_��_�����_��_��__��_��_\n\n\n\n\nD: 04 5599641\t\n04 5599641 :��_����_��_��_��_��_��_��_\n\nM: 055-9804444\t\n055-9804444 :��_����_��__��_��_��_��_\n\nP.O.Box: 90300, Dubai, UAE\t\n��_��_��_��_��_��_��_��_��_��_ ��_��_��_���_��_��__��_��_ : 90300  ��_��_��_��_��__ ��_��_ ��_��_.��__.��_��_.\n\nsohail.munir@dsg.gov.ae\t\nsohail.munir@dsg.gov.ae\n\nhttp://www.dubai.ae"
             homepage_url: https://dubai.ae/
             logo: smart_dubai_government_est.svg
             twitter: https://twitter.com/SmartDubai
             crunchbase: https://www.crunchbase.com/organization/smartdubai
+            extra:
+              linkedin_url: https://www.linkedin.com/company/digital-dubai
           - item:
             name: Sovrin Foundation (member)
+            description: >-
+              The Sovrin Foundation is a private-sector, international non-profit that was established to govern the world’s first self-sovereign identity (SSI)
+              network.
             homepage_url: https://sovrin.org/
             logo: sovrin_foundation.svg
             twitter: https://twitter.com/SovrinID
             crunchbase: https://www.crunchbase.com/organization/sovrin-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sovrin-foundation
           - item:
             name: Tecnalia Corporation (member)
+            description: >-
+              Headquartered in Madrid, Spain, Tecnalia is a group of companies uniting efforts for the betterment of applied research and technological
+              development. Since it's development in 2011, Tecnalia is the first privately funded applied research and technological development center in Spain
+              and one of the leading centers in Europe.
             homepage_url: https://tecnalia.com/
             logo: tecnalia_corporation.svg
             twitter: https://twitter.com/tecnalia
             crunchbase: https://www.crunchbase.com/organization/tecnalia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tecnalia-research-&-innovation
           - item:
             name: The Digital Dollar Project (member)
+            description: |-
+              Digital Dollar Project
+                LEADING THE DISCUSSION ON A U.S. CENTRAL BANK DIGITAL CURRENCY
+                The Digital Dollar Project is a partnership between Accenture (NYSE: ACN) and the Digital Dollar Foundation to advance exploration of
             homepage_url: https://digitaldollarproject.org/
             logo: the_digital_dollar_project.svg
             twitter: https://twitter.com/Digital_Dollar_
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-digital-dollar-project
             organization:
               name: The Digital Dollar Project
               linkedin: https://www.linkedin.com/company/the-digital-dollar-project
           - item:
             name: The National FinTech Center at Morgan State University (member)
+            description: Morgan State University is a public historically black research university in Baltimore, Maryland.
             homepage_url: https://fintech.morgan.edu/
             logo: the_national_fintech_center_at_morgan_state_university.svg
             twitter: https://twitter.com/MorganStateU
             crunchbase: https://www.crunchbase.com/organization/morgan-state-university
+            extra:
+              linkedin_url: https://www.linkedin.com/company/morgan-state-university
           - item:
             name: United Nations (International Computing Centre) (member)
+            description: >-
+              The International Computing Centre (ICC) has nearly 50 years of experience providing Information and Communications Technology (ICT) services to
+              United Nations programmes, funds and entities. Its mission is to provide ICT services to the United Nations family, maximise the sharing of
+              infrastructure, systems and skills and generate economies of scale to benefit its over 60 Clients, including over 40 Partner Organizations (those
+              with membership or representation in ICC’s Management Committee), as well as other United Nations or related not-for-profit entities.
+
+               
+
+              The organization has a strategic view of ICT support for United Nations goals and results, with expertise and complex knowledge about their ICT
+              environments. As a United Nations entity, ICC is uniquely positioned to understand and meet the needs of its Clients.
+
+               
+
+              ICC provides trusted shared services and digital business solutions to United Nations entities, offering cost savings, business efficiencies, and
+              volume discounts based on the scale of its engagements. ICC operates on a full cost recovery basis, with surplus funds being refunded at the end
+              of projects or initiatives. Clients can focus on core business activities by leveraging ICC’s services, built upon industry best practices,
+              standards and documented business processes subject to a Continuous Process Improvement cycle.
+
+
+              New York address:
+
+              1st Ave. at 42nd St
+
+              New York, NY 10017
+
+
+              International Address:
+
+              Chemin Du Pavillion, 2
+
+              Grand Saconnex
+
+              Geneva, Switzerland 1218
             homepage_url: https://unicc.org/
             logo: united_nations_international_computing_centre.svg
             twitter: https://twitter.com/unicc_ict
             crunchbase: https://www.crunchbase.com/organization/united-nations
+            extra:
+              linkedin_url: https://www.linkedin.com/company/unicc
           - item:
             name: Wall Street Blockchain Alliance (member)
+            description: The homepage of the Wall Street Blockchain Alliance
             homepage_url: https://wsba.co/
             logo: wall_street_blockchain_alliance.svg
             twitter: https://twitter.com/WallStreetBTC
             crunchbase: https://www.crunchbase.com/organization/the-wall-street-bitcoin-alliance
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wallstreetblockchainalliance
   - category:
     name: LF Decentralized Trust CSPs
     subcategories:
