@@ -1383,18 +1383,6 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Accenture Global Solutions Limited (member)
-            description: >-
-              Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting,
-              digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial
-              services, health and public service, as well as products and resources.
-            homepage_url: https://accenture.com/
-            logo: accenture_global_solutions_limited.svg
-            twitter: https://twitter.com/Accenture
-            crunchbase: https://www.crunchbase.com/organization/accenture
-            extra:
-              linkedin_url: https://www.linkedin.com/company/accenture
-          - item:
             name: Depository Trust and Clearing Corporation (DTCC) (member)
             description: >-
               Depository Trust company (DTCC), founded in 1973 and headquartered in New York, New York, is an American post-trade financial services company
@@ -1429,17 +1417,6 @@ landscape:
       - subcategory:
         name: General
         items:
-          - item:
-            name: Absa Bank Limited (member)
-            description: >-
-              ABGL is the majority shareholder of 11 banks located in Botswana, Ghana, Kenya, Mauritius, Mozambique, Seychelles, South Africa, Tanzania, Uganda
-              and Zambia.
-            homepage_url: https://absa.africa/
-            logo: absa_bank_limited.svg
-            twitter: https://twitter.com/Absa
-            crunchbase: https://www.crunchbase.com/organization/absa-bank
-            extra:
-              linkedin_url: https://www.linkedin.com/company/absa
           - item:
             name: Adhara Limited (member)
             description: Liquidity management and international payments for decentralised financial networks
@@ -1509,6 +1486,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/casperlabs
             extra:
               linkedin_url: https://www.linkedin.com/company/casperlabs
+          - item:
+            name: Chainlink Labs (member)
+            description: >-
+              Chainlink Labs is a pioneer in blockchain oracle solutions, connecting smart contracts to off-chain data sources for applications in banking,
+              DeFi, global trade, and gaming. They are leading the industry with secure and reliable solutions for a decentr...
+            homepage_url: https://chainlinklabs.com/
+            logo: chainlink_labs.svg
+            crunchbase: https://www.crunchbase.com/organization/chainlink-labs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/chainlink-labs
           - item:
             name: Chainyard (member)
             description: >-
@@ -2216,16 +2203,6 @@ landscape:
               name: SmartCirqls Infotech Private Limited
               linkedin: https://www.linkedin.com/company/qila-io
           - item:
-            name: SmartContract Inc. (member)
-            description: >-
-              Chainlink Labs is a pioneer in blockchain oracle solutions, connecting smart contracts to off-chain data sources for applications in banking,
-              DeFi, global trade, and gaming. They are leading the industry with secure and reliable solutions for a decentr...
-            homepage_url: https://chainlinklabs.com/
-            logo: smartcontract_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/chainlink-labs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/chainlink-labs
-          - item:
             name: SORAMITSU CO., LTD. (member)
             description: >-
               Soramitsu is a blockchain technology company based in Japan. We envision a world where everyone can easily interact with each other using
@@ -2515,6 +2492,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/alastria
             extra:
               linkedin_url: https://www.linkedin.com/company/alastria
+          - item:
+            name: Apiary (member)
+            description: >-
+              STPI - Software Technology Parks of India is an autonomous society established by the Government of India to promote the development and export of
+              software and software services, while also facilitating entrepreneurship and creating infrastructure for ...
+            homepage_url: https://apiary.stpi.in/
+            logo: apiary.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/stpiindia
+            organization:
+              name: Apiary
+              linkedin: https://www.linkedin.com/company/stpiindia
           - item:
             name: Banco Central do Brasil (member)
             description: The Central Bank of Brazil is Brazil's central bank.
