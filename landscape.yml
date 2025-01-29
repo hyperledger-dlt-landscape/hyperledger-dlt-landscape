@@ -3106,15 +3106,6 @@ landscape:
             logo: bonbloc_inc.svg
             crunchbase: https://www.crunchbase.com/organization/bonbloc
           - item:
-            name: Chainyard (HCSP)
-            description: >-
-              Chainyard, a leader in blockchain consulting, is a dynamic team of blockchain enthusiasts with the expertise, process, and technology required to
-              develop world-class business and software solutions. With a focus on enterprise use cases, Chainyard is helping companies navigate blockchain by
-              working with them to identify value, prioritize opportunities, develop solutions, and operate production blockchain networks.
-            homepage_url: https://chainyard.com/
-            logo: chainyard-horizontal-color.svg
-            crunchbase: https://www.crunchbase.com/organization/chainyard-an-it-people-company
-          - item:
             name: CPQD (HCSP)
             description: >-
               Consulting services for innovation in business networks -- design thinking and design sprint techniques to co-create an application. Application
