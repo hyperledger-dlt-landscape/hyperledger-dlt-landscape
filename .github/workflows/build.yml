@@ -2,8 +2,8 @@ name: Build Landscape from LFX
 
 on:
   workflow_dispatch:
-#  schedule:
-#  - cron: "0 4 * * *"
+  schedule:
+  - cron: "0 4 * * *"
 
 jobs:
   build:
