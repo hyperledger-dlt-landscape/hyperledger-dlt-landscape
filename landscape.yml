@@ -1497,19 +1497,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/chainlink-labs
           - item:
-            name: Chainyard (member)
-            description: >-
-              Our blockchain services and consulting team of experts brings extensive experience in blockchain consulting, architecting, designing, building,
-              testing, securing, and operating complex distributed systems to help adopters of blockchain technology succeed.
-            homepage_url: https://chainyard.com/
-            logo: chainyard.svg
-            twitter: https://twitter.com/chainyard
-            extra:
-              linkedin_url: https://www.linkedin.com/company/chainyard
-            organization:
-              name: Chainyard
-              linkedin: https://www.linkedin.com/company/chainyard
-          - item:
             name: Cheesecake Labs (member)
             description: >-
               Cheesecake Labs is a software design and engineering company specializing in mobile and web development, offering Full Stack Web & Mobile
@@ -1599,6 +1586,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
             extra:
               linkedin_url: https://www.linkedin.com/company/dsr-corporation
+          - item:
+            name: Dedge Security SL (member)
+            homepage_url: https://dedgesecurity.com/
+            logo: dedge_security_sl.svg
+            organization:
+              name: Dedge Security SL
           - item:
             name: Deutsche Telekom AG (member)
             description: >-
@@ -2089,6 +2082,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/paramount-software-solutions-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/paramount-software-solutions
+          - item:
+            name: Partior Pte Ltd (member)
+            description: >-
+              Partior is reshaping global money movement with a unified ledger, optimizing liquidity access, and enabling new capabilities through secure and
+              scalable solutions.
+            homepage_url: https://partior.com/
+            logo: partior_pte_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/partior
+            extra:
+              linkedin_url: https://www.linkedin.com/company/partior
           - item:
             name: Polygon Labs Services (Switzerland) AG (member)
             description: >-
@@ -2627,6 +2630,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/decentralized-identity-foundation
           - item:
+            name: DeCurret DCP Inc (member)
+            description: |-
+              ディーカレットDCP is a company that aims to digitize all currencies and values, contributing to the creation of a prosperous society.
+
+              --- Merged Data:
+
+              Decurret DCP digitizes currencies and values for societal prosperity, focusing on DX platform development and industry events like FIN/SUM2024.
+            homepage_url: https://www.decurret-dcp.com/en/
+            logo: decurret_dcp_inc.svg
+            organization:
+              name: DeCurret DCP Inc
+          - item:
             name: Digi Yatra Foundation (member)
             description: >-
               DigiYatra Foundation reimagines airport experiences with seamless, health risk-free journeys using advanced facial recognition technology and
@@ -2638,13 +2653,6 @@ landscape:
             organization:
               name: Digi Yatra Foundation
               linkedin: https://www.linkedin.com/company/digiyatrafoundation
-          - item:
-            name: Digital Currency Forum (member)
-            description: Decurret DCP digitizes currencies and values for societal prosperity, focusing on DX platform development and industry events like FIN/SUM2024.
-            homepage_url: https://decurret-dcp.com/
-            logo: digital_currency_forum.svg
-            organization:
-              name: Digital Currency Forum
           - item:
             name: Digital Euro Association (DEA) (member)
             description: >-
