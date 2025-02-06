@@ -1418,6 +1418,18 @@ landscape:
         name: General
         items:
           - item:
+            name: Accenture Global Solutions Limited (member)
+            description: >-
+              Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting,
+              digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial
+              services, health and public service, as well as products and resources.
+            homepage_url: https://accenture.com/
+            logo: accenture_global_solutions_limited.svg
+            twitter: https://twitter.com/Accenture
+            crunchbase: https://www.crunchbase.com/organization/accenture
+            extra:
+              linkedin_url: https://www.linkedin.com/company/accenture
+          - item:
             name: Adhara Limited (member)
             description: Liquidity management and international payments for decentralised financial networks
             homepage_url: https://adhara.io/
@@ -1590,8 +1602,7 @@ landscape:
             name: Dedge Security SL (member)
             homepage_url: https://dedgesecurity.com/
             logo: dedge_security_sl.svg
-            organization:
-              name: Dedge Security SL
+            crunchbase: https://www.crunchbase.com/organization/dedge-security
           - item:
             name: Deutsche Telekom AG (member)
             description: >-
