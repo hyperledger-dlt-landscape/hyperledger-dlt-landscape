@@ -1567,17 +1567,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/consensus-systems-consensys-
           - item:
-            name: Corsha (member)
-            description: >-
-              Corsha is a leading cybersecurity company that is defining the landscape of API security. Secure your APIs through Multi-Factor Authentication
-              (MFA).
-            homepage_url: https://corsha.com/
-            logo: corsha.svg
-            twitter: https://twitter.com/Corsha_APIs
-            crunchbase: https://www.crunchbase.com/organization/corsha
-            extra:
-              linkedin_url: https://www.linkedin.com/company/corsha
-          - item:
             name: DABCo Ltd (member)
             description: >-
               Pairpoint, as a digital asset broker, simplifies the Economy of Things, enabling secure data sharing, autonomous transactions, and trusted
