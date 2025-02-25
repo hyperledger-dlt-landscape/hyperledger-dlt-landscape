@@ -1699,6 +1699,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
           - item:
+            name: Futurewei Technologies, Inc. (member)
+            description: >-
+              FutureWei, based in Plano, Texas, is the North American subsidiary of Huawei Technologies Co. Ltd., a leading global vendor of telecommunications
+              systems and network solutions based in Shenzhen, China. Huawei posted US$5.58 billion in sales in 2004 and has products deployed in over 90
+              countries. With a strong focus on network infrastructure, FutureWei Technologies, Inc. designs, markets and supports a wide range of advanced
+              telecommunication products for service providers and enterprise network solutions.
+            homepage_url: https://futurewei.com/
+            logo: futurewei_technologies_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
+            extra:
+              linkedin_url: https://www.linkedin.com/company/futureweitechnologiesinc
+          - item:
             name: GoLedger (member)
             description: 'Changing the world. One block at a time. #GoLedger'
             homepage_url: https://goledger.io/
