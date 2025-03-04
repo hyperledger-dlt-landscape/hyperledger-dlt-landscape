@@ -2464,9 +2464,11 @@ landscape:
             homepage_url: https://aaisonline.com/
             logo: aais_american_association_of_insurance_services.svg
             twitter: https://twitter.com/AAISConnect
-            crunchbase: https://www.crunchbase.com/organization/american-association-of-insurance-services
             extra:
               linkedin_url: https://www.linkedin.com/company/aais-american-association-of-insurance-services
+            organization:
+              name: AAIS (American Association of Insurance Services)
+              linkedin: https://www.linkedin.com/company/aais-american-association-of-insurance-services
           - item:
             name: Alastria Blockchain Ecosystem (member)
             description: >-
