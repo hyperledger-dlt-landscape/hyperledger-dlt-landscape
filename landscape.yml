@@ -1490,15 +1490,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bonbloc
           - item:
-            name: CasperLabs LLC (member)
-            description: Blockchain for the builders - upgradable smart contracts & predictable gas fees.     Tweets by the official Casper Association
-            homepage_url: https://casperlabs.io/
-            logo: casperlabs_llc.svg
-            twitter: https://twitter.com/Casper_Network
-            crunchbase: https://www.crunchbase.com/organization/casperlabs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/casperlabs
-          - item:
             name: Chainlink Labs (member)
             description: >-
               Chainlink Labs is a pioneer in blockchain oracle solutions, connecting smart contracts to off-chain data sources for applications in banking,
@@ -2124,6 +2115,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/print2block
             extra:
               linkedin_url: https://www.linkedin.com/company/docchain
+          - item:
+            name: ProveAI, LLC (member)
+            description: Blockchain for the builders - upgradable smart contracts & predictable gas fees.     Tweets by the official Casper Association
+            homepage_url: https://proveai.com/
+            logo: proveai_llc.svg
+            twitter: https://twitter.com/Casper_Network
+            extra:
+              linkedin_url: https://www.linkedin.com/company/casperlabs
+            organization:
+              name: ProveAI, LLC
+              linkedin: https://www.linkedin.com/company/casperlabs
           - item:
             name: R3 LLC (member)
             description: >-
