@@ -534,8 +534,8 @@ landscape:
         name: Development tools/platforms
         items:
           - item:
-            name: Application Service for Blockchain (Blockchain System Development Service)
-            homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
+            name: Hitachi Blockchain Service for Hyperledger Fabric
+            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
@@ -753,7 +753,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/first-genesis
           - item:
             name: Hitachi Blockchain Service for Hyperledger Fabric
-            homepage_url: https://www.hitachi.co.jp/blockchain/service/hyperledger
+            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
@@ -855,8 +855,8 @@ landscape:
             logo: accenture.svg
             crunchbase: https://www.crunchbase.com/organization/accenture
           - item:
-            name: Application Service for Blockchain (Consulting Service)
-            homepage_url: https://www.hitachi.com/products/it/appsvdiv/service/app-service-blockchain/
+            name: Hitachi Blockchain Service for Hyperledger Fabric
+            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
@@ -3128,7 +3128,7 @@ landscape:
             description: >-
               Hitachi has a wealth of understanding and know-how covering a wide variety of different industries. By using blockchains and other technologies
               and know-how that we have developed up till now, Hitachi will contribute to the building of new customer businesses.
-            homepage_url: https://www.hitachi.co.jp/blockchain
+            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
