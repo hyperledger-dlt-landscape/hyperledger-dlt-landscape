@@ -534,18 +534,18 @@ landscape:
         name: Development tools/platforms
         items:
           - item:
+            name: Azure Blockchain Workbench
+            homepage_url: https://azure.microsoft.com/en-us/features/blockchain-workbench/
+            project: non-hyperledger-member-products
+            logo: microsoft.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
             name: Hitachi Blockchain Service for Hyperledger Fabric
             homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
-          - item:
-            name: Azure Blockchain Workbench
-            homepage_url: https://azure.microsoft.com/en-us/features/blockchain-workbench/
-            project: non-hyperledger-member-products
-            logo: microsoft.svg
-            crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Truffle Suite
             homepage_url: https://www.trufflesuite.com
@@ -855,13 +855,6 @@ landscape:
             logo: accenture.svg
             crunchbase: https://www.crunchbase.com/organization/accenture
           - item:
-            name: Hitachi Blockchain Service for Hyperledger Fabric
-            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
-            project: hyperledger-member-products
-            logo: hitachi-stacked-color.svg
-            twitter: https://twitter.com/Hitachi
-            crunchbase: https://www.crunchbase.com/organization/hitachi
-          - item:
             name: Atos
             homepage_url: https://atos.net/en
             project: non-hyperledger-member-services
@@ -903,6 +896,13 @@ landscape:
             project: non-hyperledger-member-services
             logo: gft.svg
             crunchbase: https://www.crunchbase.com/organization/gft-com
+          - item:
+            name: Hitachi Blockchain Service for Hyperledger Fabric
+            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
+            project: hyperledger-member-products
+            logo: hitachi-stacked-color.svg
+            twitter: https://twitter.com/Hitachi
+            crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
             name: Infosys
             homepage_url: https://www.infosys.com
