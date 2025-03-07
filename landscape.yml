@@ -1702,6 +1702,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/futureweitechnologiesinc
           - item:
+            name: Global Legal Entity Identifier Foundation (member)
+            description: >-
+              GLEIF is a non-profit organization tasked to support LEI rollout. The LEI uniquely identifies legal entities participating in financial
+              transactions. #OpenData
+            homepage_url: https://gleif.org/
+            logo: global_legal_entity_identifier_foundation.svg
+            twitter: https://twitter.com/GLEIF
+            crunchbase: https://www.crunchbase.com/organization/global-legal-entity-identifier-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/global-legal-entity-identifier-foundation-gleif-
+          - item:
             name: GoLedger (member)
             description: 'Changing the world. One block at a time. #GoLedger'
             homepage_url: https://goledger.io/
