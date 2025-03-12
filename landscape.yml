@@ -1471,6 +1471,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ayanworks
           - item:
+            name: Block Majority (member)
+            homepage_url: https://blockmajority.io/
+            logo: block_majority.svg
+            crunchbase: https://www.crunchbase.com/organization/block-majority
+            extra:
+              linkedin_url: https://www.linkedin.com/company/block-majority
+          - item:
             name: Blockchain Game Partners Inc.(“Gala”) (member)
             description: >-
               Gala is a pioneering entertainment company in the Web3 space, empowering creators and fans across Games, Music, Film, and VOX. Founded by industry
@@ -1815,6 +1822,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ibm
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
+          - item:
+            name: Interop Labs (member)
+            homepage_url: https://interoplabs.io/
+            logo: interop_labs.svg
+            crunchbase: https://www.crunchbase.com/organization/interop-labs
           - item:
             name: Intersect (member)
             homepage_url: https://intersectmbo.org/
@@ -3019,6 +3031,17 @@ landscape:
             organization:
               name: The Digital Dollar Project
               linkedin: https://www.linkedin.com/company/the-digital-dollar-project
+          - item:
+            name: The MITRE Corporation (member)
+            description: >-
+              Founded in 1958 and headquartered in McLean, Virginia, The MITRE Corporation is a not-for-profit company providing engineering and technical
+              guidance for the federal government.
+            homepage_url: https://mitre.org/
+            logo: the_mitre_corporation.svg
+            twitter: https://twitter.com/MITREcorp
+            crunchbase: https://www.crunchbase.com/organization/mitre
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mitre
           - item:
             name: The National FinTech Center at Morgan State University (member)
             description: Morgan State University is a public historically black research university in Baltimore, Maryland.
