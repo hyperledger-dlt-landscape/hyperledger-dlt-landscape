@@ -2393,15 +2393,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/appirio
           - item:
-            name: Zeeve Inc (member)
-            description: Most Secure Decentralized Infrastructure Protocol.  Bringing next generation TEE based secure and privacy driven P2P infrastructure.
-            homepage_url: https://zeeve.io/
-            logo: zeeve_inc.svg
-            twitter: https://twitter.com/0xZeeve
-            crunchbase: https://www.crunchbase.com/organization/zeeve
-            extra:
-              linkedin_url: https://www.linkedin.com/company/zeevedeeptech
-          - item:
             name: Zoniqx Inc. (member)
             description: Zoniqx is an AI and blockchain platform that provides financial solutions and technology services for asset tokenization as a service.
             homepage_url: https://zoniqx.com/
