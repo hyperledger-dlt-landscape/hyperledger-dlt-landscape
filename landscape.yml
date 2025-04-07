@@ -1497,6 +1497,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bonbloc
           - item:
+            name: BrBPO (member)
+            description: >-
+              Somos uma empresa brasileira de capital nacional, alavancada por investidores de grande porte que acreditam no potencial do mercado brasileiro
+              para o relacionamento de qualidade entre instituições e seus clientes. Ao reunir os melhores técnicos e execu...
+            homepage_url: https://brbpo.com.br/
+            logo: brbpo.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/brbpo
+            organization:
+              name: BrBPO
+              linkedin: https://www.linkedin.com/company/brbpo
+          - item:
             name: Chainlink Labs (member)
             description: >-
               Chainlink Labs is a pioneer in blockchain oracle solutions, connecting smart contracts to off-chain data sources for applications in banking,
@@ -2676,7 +2688,7 @@ landscape:
             description: >-
               DigiYatra Foundation reimagines airport experiences with seamless, health risk-free journeys using advanced facial recognition technology and
               prioritizing privacy by avoiding centralized storage of passenger credentials.
-            homepage_url: https://www.digiyatrafoundation.com/
+            homepage_url: https://digiyatrafoundation.com/
             logo: digi_yatra_foundation.svg
             extra:
               linkedin_url: https://www.linkedin.com/company/digiyatrafoundation
