@@ -1472,6 +1472,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/ayanworks
           - item:
             name: Block Majority (member)
+            description: Building & scaling enterprise grade decentralised blockchain solutions
             homepage_url: https://blockmajority.io/
             logo: block_majority.svg
             crunchbase: https://www.crunchbase.com/organization/block-majority
