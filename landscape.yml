@@ -541,7 +541,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: Hitachi Blockchain Service for Hyperledger Fabric
-            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
+            description: >-
+              We provide managed services that leverage blockchain technology to support the growth of our customers' businesses. 
+              We provide optimal services tailored to the growth phase of our customers' businesses, 
+              such as "creating new value," "building a system to provide value," "providing value in a stable manner," and "strengthening the system to respond to business growth."
+            homepage_url: https://www.hitachi.com/blockchain/
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
@@ -753,7 +757,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/first-genesis
           - item:
             name: Hitachi Blockchain Service for Hyperledger Fabric
-            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
+            description: >-
+              We provide managed services that leverage blockchain technology to support the growth of our customers' businesses. 
+              We provide optimal services tailored to the growth phase of our customers' businesses, 
+              such as "creating new value," "building a system to provide value," "providing value in a stable manner," and "strengthening the system to respond to business growth."
+            homepage_url: https://www.hitachi.com/blockchain/
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
@@ -898,7 +906,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/gft-com
           - item:
             name: Hitachi Blockchain Service for Hyperledger Fabric
-            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
+            description: >-
+              We provide managed services that leverage blockchain technology to support the growth of our customers' businesses. 
+              We provide optimal services tailored to the growth phase of our customers' businesses, 
+              such as "creating new value," "building a system to provide value," "providing value in a stable manner," and "strengthening the system to respond to business growth."
+            homepage_url: https://www.hitachi.com/blockchain/
             project: hyperledger-member-products
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
@@ -1408,7 +1420,7 @@ landscape:
               Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and
               equipment, construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other
               products, and financial services in Japan and internationally. The company is headquartered in Tokyo, Japan.
-            homepage_url: https://hitachi.com/
+            homepage_url: https://www.hitachi.com/
             logo: hitachi_ltd.svg
             twitter: https://twitter.com/HitachiGlobal
             crunchbase: https://www.crunchbase.com/organization/hitachi
@@ -3166,7 +3178,7 @@ landscape:
             description: >-
               Hitachi has a wealth of understanding and know-how covering a wide variety of different industries. By using blockchains and other technologies
               and know-how that we have developed up till now, Hitachi will contribute to the building of new customer businesses.
-            homepage_url: https://www.hitachi.com/products/it/blockchain/index.html
+            homepage_url: https://www.hitachi.com/blockchain/
             logo: hitachi-stacked-color.svg
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
