@@ -1929,6 +1929,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kaleido-io
           - item:
+            name: Key State Capital (member)
+            homepage_url: https://keystate.capital/
+            logo: key_state_capital.svg
+            organization:
+              name: Key State Capital
+          - item:
             name: Krypc Corporation (member)
             description: KrypC is a FinTech solution and service provider focusing on bringing innovative solutions in the field of Blockchain & Digital Currency.
             homepage_url: https://krypc.com/
