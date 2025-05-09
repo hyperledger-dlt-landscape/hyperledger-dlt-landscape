@@ -2242,6 +2242,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/senofi
           - item:
+            name: Silence Laboratories (member)
+            description: A team of security engineers, cryptographers, designers, and business builders focused on Decentralised Authentication
+            homepage_url: https://silencelaboratories.com/
+            logo: silence_laboratories.svg
+            twitter: https://twitter.com/silentauth
+            extra:
+              linkedin_url: https://www.linkedin.com/company/silencelaboratories
+            organization:
+              name: Silence Laboratories
+              linkedin: https://www.linkedin.com/company/silencelaboratories
+          - item:
             name: SmartCirqls Infotech Private Limited (member)
             description: >-
               Qila.io is a Blockchain as a Service platform enabling enterprises to integrate blockchain technology, tokenize real-world assets, and implement
