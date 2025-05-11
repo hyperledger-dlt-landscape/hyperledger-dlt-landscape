@@ -1734,6 +1734,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/futureweitechnologiesinc
           - item:
+            name: gateway (member)
+            description: >-
+              Gateway GatewayFM is the first truly decentralized blockchain infra/node provider. Our globally distributed, multichain infrastructure is built to
+              help you scale your web3 projects seamlessly so you don't have to worry about getting, configuring or mai...
+            homepage_url: https://gateway.fm/
+            logo: gateway.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/gateway-fm
+            organization:
+              name: gateway
+              linkedin: https://www.linkedin.com/company/gateway-fm
+          - item:
             name: Global Legal Entity Identifier Foundation (member)
             description: >-
               GLEIF is a non-profit organization tasked to support LEI rollout. The LEI uniquely identifies legal entities participating in financial
@@ -2241,6 +2253,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/senofi
             extra:
               linkedin_url: https://www.linkedin.com/company/senofi
+          - item:
+            name: Silence Laboratories (member)
+            description: A team of security engineers, cryptographers, designers, and business builders focused on Decentralised Authentication
+            homepage_url: https://silencelaboratories.com/
+            logo: silence_laboratories.svg
+            twitter: https://twitter.com/silentauth
+            extra:
+              linkedin_url: https://www.linkedin.com/company/silencelaboratories
+            organization:
+              name: Silence Laboratories
+              linkedin: https://www.linkedin.com/company/silencelaboratories
           - item:
             name: SmartCirqls Infotech Private Limited (member)
             description: >-
