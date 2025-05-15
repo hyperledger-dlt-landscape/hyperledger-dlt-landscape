@@ -3276,9 +3276,11 @@ landscape:
           - item:
             name: Tata Consultancy Services 
             description: >-
-              Quartz, from TCS, provides foundational technology, tools and business components that harness next-gen technologies including DLT, AI/ML for organizations across industries, including Financial Services, Capital Markets, Banking, Energy & Utilities and eGovernance. 
-              
-              Quartz enables interoperability with multiple DLT platforms including Hyperledger Fabric and Besu, and a judicious use of AI to drive automation and productivity, to ensure that organizations stay competitive in their businesses.
+              Quartz, from TCS, provides foundational technology, tools and business components that harness next-gen technologies including DLT, AI/ML for
+              organizations across industries, including Financial Services, Capital Markets, Banking, Energy & Utilities and eGovernance. 
+
+              Quartz enables interoperability with multiple DLT platforms including Hyperledger Fabric and Besu, and a judicious use of AI to drive automation
+              and productivity, to ensure that organizations stay competitive in their businesses.
             homepage_url: https://tcs.com/what-we-do/products-platforms/quartz
             logo: tata_consultancy_services_limited.svg
             crunchbase: https://www.crunchbase.com/organization/tata-consultancy-services
