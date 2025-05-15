@@ -3289,3 +3289,6 @@ landscape:
             homepage_url: https://wipro.com/
             logo: wipro_limited.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
+      - subcategory:
+        name: Besu CSPs
+        items: []
