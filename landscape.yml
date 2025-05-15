@@ -3203,7 +3203,7 @@ landscape:
             logo: goledger.svg
             crunchbase: https://www.crunchbase.com/organization/goledger
           - item:
-            name: Hitachi, Ltd. 
+            name: Hitachi, Ltd.
             description: >-
               Hitachi has a wealth of understanding and know-how covering a wide variety of different industries. By using blockchains and other technologies
               and know-how that we have developed up till now, Hitachi will contribute to the building of new customer businesses.
@@ -3212,7 +3212,7 @@ landscape:
             twitter: https://twitter.com/Hitachi
             crunchbase: https://www.crunchbase.com/organization/hitachi
           - item:
-            name: IBM 
+            name: IBM
             description: >-
               IBM has several blockchain products and services that will help accelerate a client’s blockchain success. The IBM Blockchain Platform adds
               enterprise grade production requirements to Hyperledger Fabric helping clients to build, govern, operate and grow their enterprise blockchain
@@ -3223,7 +3223,7 @@ landscape:
             twitter: https://twitter.com/ibmblockchain
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
-            name: Information Data Systems 
+            name: Information Data Systems
             description: >-
               We at IDS, build fit for purpose enterprise blockchain applications with various degrees of decentralization. We have a proprietary Blockchain
               Transformation Framework to design, develop and deliver blockchain solutions with outcome driven tactical short term and strategic long term value
@@ -3234,7 +3234,7 @@ landscape:
             twitter: https://twitter.com/IDSSOFT
             crunchbase: https://www.crunchbase.com/organization/information-data-systems-de20
           - item:
-            name: Infosys 
+            name: Infosys
             description: >-
               Infosys is a leading provider of blockchain services with a proven track record of success. We offer a full-stack solution and a rick asset
               portfolio,  which enables us to rapidly deliver end-to-end solutions that meet the unique needs of our clients. Our expertise in value definition
@@ -3244,7 +3244,7 @@ landscape:
             logo: infosys_limited.svg
             crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
-            name: IntellectEU 
+            name: IntellectEU
             description: >-
               IntellectEU is a founding member of the Hyperledger Foundation and has built several production-grade solutions built on Hyperledger Fabric
               centered around areas such as tokenization and KYC.  Building on our experience with Hyperledger Fabric, we have created the Catalyst Blockchain
@@ -3253,7 +3253,7 @@ landscape:
             logo: intellecteu.svg
             crunchbase: https://www.crunchbase.com/organization/intellecteu
           - item:
-            name: Kaleido 
+            name: Kaleido
             description: >-
               Kaleido is an enterprise-grade, web3 platform making blockchain and digital assets radically simple for organizations to adopt. Kaleido makes it
               easy to launch multi-region, multi-cloud blockchain networks on protocols including Hyperledger Fabric, Hyperledger Besu, Ethereum, Polygon Edge,
@@ -3264,7 +3264,7 @@ landscape:
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
-            name: KrypC Corp 
+            name: KrypC Corp
             description: >-
               KrypC is a Blockchain technology venture, backed by seasoned professionals, focused on accelerating adoption of blockchain technology We research,
               develop and go to market with blockchain-based products; for large enterprises and blockchain start-up ventures to adopt and realize business
@@ -3274,7 +3274,7 @@ landscape:
             logo: KrypC-logo.svg
             crunchbase: https://www.crunchbase.com/organization/krypc
           - item:
-            name: Tata Consultancy Services 
+            name: Tata Consultancy Services
             description: >-
               Quartz, from TCS, provides foundational technology, tools and business components that harness next-gen technologies including DLT, AI/ML for
               organizations across industries, including Financial Services, Capital Markets, Banking, Energy & Utilities and eGovernance. 
@@ -3285,7 +3285,7 @@ landscape:
             logo: tata_consultancy_services_limited.svg
             crunchbase: https://www.crunchbase.com/organization/tata-consultancy-services
           - item:
-            name: Wipro Limited 
+            name: Wipro Limited
             homepage_url: https://wipro.com/
             logo: wipro_limited.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
