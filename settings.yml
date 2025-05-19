@@ -2250,3 +2250,18 @@ landscape:
             homepage_url: https://wipro.com/
             logo: wipro_limited.svg
             crunchbase: https://www.crunchbase.com/organization/wipro
+      - subcategory:
+        name: Besu CSPs
+        items:
+          - item: 
+            name: CPQD
+            description: CPQD provides cutting-edge decentralized digital identity and verifiable credentials solutions powered by Besu infrastructure. Our services include smart contract development, governance model design for decentralized applications, and custom solutions for Drex, Brazil’s CBDC.
+            homepage_url: https://www.cpqd.com.br/blockchain/
+            logo: cpqd-horizontal-color.svg
+            crunchbase: https://www.crunchbase.com/organization/cpqd
+          - item: 
+            name: Kerala Blockchain Academy (KBA)
+            description: Kerala Blockchain Academy (KBA) offers a wide range of services, including blockchain development, digital credentialing solutions, research-driven innovation, protocol development, and various advanced public and private (Hyperledger Fabric, Besu, etc.) blockchain-based solutions. Alongside blockchain, we deliver enterprise software development and AI-powered applications. KBA also provides consulting and IT training, empowering organizations to adopt and scale innovative technologies.
+            homepage_url: https://kba.ai/
+            logo: kerala_blockchain_academy.svg
+            crunchbase: https://www.crunchbase.com/organization/kerala-blockchain-academy
