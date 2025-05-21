@@ -3302,7 +3302,7 @@ landscape:
       - subcategory:
         name: Besu CSPs
         items:
-        - item:
+          - item:
             name: Consensys
             homepage_url: https://consensys.io/
             logo: consensys_ag.svg
