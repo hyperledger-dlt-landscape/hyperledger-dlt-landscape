@@ -3264,6 +3264,16 @@ landscape:
             logo: kaleido.svg
             crunchbase: https://www.crunchbase.com/organization/kaleido
           - item:
+            name: Kerala Blockchain Academy (KBA)
+            description: >-
+              Kerala Blockchain Academy (KBA) offers a wide range of services, including blockchain development, digital credentialing solutions,
+              research-driven innovation, protocol development, and various advanced public and private (Hyperledger Fabric, Besu, etc.) blockchain-based
+              solutions. Alongside blockchain, we deliver enterprise software development and AI-powered applications. KBA also provides consulting and IT
+              training, empowering organizations to adopt and scale innovative technologies.
+            homepage_url: https://kba.ai/
+            logo: kerala_blockchain_academy.svg
+            crunchbase: https://www.crunchbase.com/organization/kerala-blockchain-academy
+          - item:
             name: KrypC Corp
             description: >-
               KrypC is a Blockchain technology venture, backed by seasoned professionals, focused on accelerating adoption of blockchain technology We research,
@@ -3292,6 +3302,11 @@ landscape:
       - subcategory:
         name: Besu CSPs
         items:
+        - item:
+            name: Consensys
+            homepage_url: https://consensys.io/
+            logo: consensys_ag.svg
+            crunchbase: https://www.crunchbase.com/organization/consensus-systems
           - item:
             name: CPQD
             description: >-
