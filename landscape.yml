@@ -1740,11 +1740,9 @@ landscape:
               help you scale your web3 projects seamlessly so you don't have to worry about getting, configuring or mai...
             homepage_url: https://gateway.fm/
             logo: gateway.svg
+            crunchbase: https://www.crunchbase.com/organization/gateway-fm
             extra:
               linkedin_url: https://www.linkedin.com/company/gateway-fm
-            organization:
-              name: gateway
-              linkedin: https://www.linkedin.com/company/gateway-fm
           - item:
             name: Global Legal Entity Identifier Foundation (member)
             description: >-
@@ -2259,11 +2257,9 @@ landscape:
             homepage_url: https://silencelaboratories.com/
             logo: silence_laboratories.svg
             twitter: https://twitter.com/silentauth
+            crunchbase: https://www.crunchbase.com/organization/silence-laboratories
             extra:
               linkedin_url: https://www.linkedin.com/company/silencelaboratories
-            organization:
-              name: Silence Laboratories
-              linkedin: https://www.linkedin.com/company/silencelaboratories
           - item:
             name: SmartCirqls Infotech Private Limited (member)
             description: >-
