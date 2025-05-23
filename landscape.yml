@@ -3312,6 +3312,11 @@ landscape:
             logo: cpqd-horizontal-color.svg
             crunchbase: https://www.crunchbase.com/organization/cpqd
           - item:
+            name: Data Storage Research
+            homepage_url: https://dsr-corporation.com/
+            logo: data_storage_research_llc_dba_dsr_corporation.svg
+            crunchbase: https://crunchbase.com/organization/dsr-corporation
+          - item:
             name: Kerala Blockchain Academy (KBA)
             description: >-
               Kerala Blockchain Academy (KBA) offers a wide range of services, including blockchain development, digital credentialing solutions,
