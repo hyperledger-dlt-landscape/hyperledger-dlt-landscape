@@ -1289,25 +1289,6 @@ landscape:
               wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/caliper/overview
               chat: https://discord.com/channels/905194001349627914/941417677778473031
           - item:
-            name: Hyperledger Cello
-            second_path:
-              - Application Tooling/Integrations / Development tools/platforms
-            description: >-
-              Hyperledger Cello aims to serve as the operational dashboard for Blockchain, which reduces the effort required for creating, managing and using
-              blockchains. Besides, it can also be used to facilitate creating Blockchain as a Service. Cello provides an operational console  for managing
-              blockchain’s efficiently and running on top of various infrastructures, e.g., baremetal, virtual machine, and various container platforms.
-            homepage_url: https://www.lfdecentralizedtrust.org/projects/cello
-            project: incubating
-            repo_url: https://github.com/hyperledger/cello
-            additional_repos:
-              - repo_url: https://github.com/hyperledger-cello/cello-analytics
-              - repo_url: https://github.com/hyperledger-cello/governance
-            logo: hyperledger-cello.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            extra:
-              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/cello/overview
-              chat: https://discord.com/channels/905194001349627914/941475454378991646
-          - item:
             name: Hyperledger Firefly
             second_path:
               - Application Tooling/Integrations / Development tools/platforms
