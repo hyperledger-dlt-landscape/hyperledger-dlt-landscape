@@ -1149,39 +1149,6 @@ landscape:
             extra:
               wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/anoncreds/overview
           - item:
-            name: Hyperledger Aries
-            second_path:
-              - Technology Intersections / Cybersecurity
-            description: >-
-              Hyperledger Aries is your complete toolkit for decentralized identity solutions and digital trust. Issue, store and present verifiable credentials
-              with maximum privacy preservation, and establish confidential, ongoing communication channels for rich interactions. It supports multiple
-              protocols, credential types, ledgers and registries. It has frameworks in multiple development languages, and interoperability tools and profiles
-              to help everything work together seamlessly.
-            homepage_url: https://www.lfdecentralizedtrust.org/projects/aries
-            project: graduated
-            repo_url: https://github.com/hyperledger/aries
-            additional_repos:
-              - repo_url: https://github.com/hyperledger-labs/aries-agent-controller
-              - repo_url: https://github.com/hyperledger/aries
-              - repo_url: https://github.com/hyperledger/aries-acapy-docs
-              - repo_url: https://github.com/hyperledger/aries-bbs-go
-              - repo_url: https://github.com/hyperledger/aries-bbssignatures-rs
-              - repo_url: https://github.com/hyperledger/aries-builder-images
-              - repo_url: https://github.com/hyperledger/aries-endorser-service
-              - repo_url: https://github.com/hyperledger/aries-framework-kotlin
-              - repo_url: https://github.com/hyperledger/aries-framework-swift
-              - repo_url: https://github.com/hyperledger/aries-rfcs
-              - repo_url: https://github.com/hyperledger/aries-socketdock
-              - repo_url: https://github.com/hyperledger/aries-uniffi-wrappers
-              - repo_url: https://github.com/hyperledger/aries-vcx
-            logo: hyperledger-aries.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-            extra:
-              wiki: https://lf-hyperledger.atlassian.net/wiki/spaces/aries/overview
-              chat: https://discord.com/channels/905194001349627914/905206466410057728
-              introduction_course: https://www.edx.org/course/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa
-              developer_course: https://www.edx.org/course/becoming-a-hyperledger-aries-developer
-          - item:
             name: Hyperledger Identus
             description: >-
               Hyperledger Identus provides components to develop decentralized identity solutions that adhere to widely recognized self-sovereign identity
