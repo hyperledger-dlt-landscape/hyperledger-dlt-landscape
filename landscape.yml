@@ -2313,6 +2313,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/validationcloud
           - item:
+            name: Valor Capital Group (member)
+            description: >-
+              Valor Capital Group is a pioneering cross-border venture fund that connects the US and LatAm technology markets. With a focus on Brazil and US
+              Brazil cross-border opportunities, Valor operates in New York, Menlo Park, Rio de Janeiro, and São Paulo. The...
+            homepage_url: https://valorcapitalgroup.com/
+            logo: valor_capital_group.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/valorcapitalgroup
+            organization:
+              name: Valor Capital Group
+              linkedin: https://www.linkedin.com/company/valorcapitalgroup
+          - item:
             name: Walmart Inc. (member)
             description: >-
               WalMart is a multinational retailing corporation offering a range of products through their retail stores, websites, and through their mobile
@@ -2808,6 +2820,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/global-blockchain-business-council
             extra:
               linkedin_url: https://www.linkedin.com/company/global-blockchain-business-council
+          - item:
+            name: Global Finance & Technology Network (GFTN) (member)
+            homepage_url: https://gftn.co/
+            logo: global_finance_technology_network_gftn.svg
+            organization:
+              name: Global Finance & Technology Network (GFTN)
           - item:
             name: GS1 US (member)
             description: >-
