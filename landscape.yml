@@ -3298,6 +3298,16 @@ landscape:
             logo: data_storage_research_llc_dba_dsr_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
           - item:
+            name: Infosys
+            homepage_url: https://infosys.com/
+            logo: infosys-limited.svg
+            crunchbase: https://www.crunchbase.com/organization/infosys
+          - item:
+            name: Kaleido
+            homepage_url: https://kaleido.io/
+            logo: kaleido.svg
+            crunchbase: https://www.crunchbase.com/organization/kaleido
+          - item:
             name: Kerala Blockchain Academy (KBA)
             description: >-
               Kerala Blockchain Academy (KBA) offers a wide range of services, including blockchain development, digital credentialing solutions,
