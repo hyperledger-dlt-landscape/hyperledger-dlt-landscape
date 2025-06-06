@@ -3202,16 +3202,6 @@ landscape:
             twitter: https://twitter.com/IDSSOFT
             crunchbase: https://www.crunchbase.com/organization/information-data-systems-de20
           - item:
-            name: Infosys
-            description: >-
-              Infosys is a leading provider of blockchain services with a proven track record of success. We offer a full-stack solution and a rick asset
-              portfolio,  which enables us to rapidly deliver end-to-end solutions that meet the unique needs of our clients. Our expertise in value definition
-              and long-term sustainability frameworks, as well as our deep understanding of web3 technologies, make us a valuable partner for clients who are
-              looking to harness the power of blockchain to transform their businesses.
-            homepage_url: https://www.infosys.com/services/blockchain.html
-            logo: infosys_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/infosys
-          - item:
             name: IntellectEU
             description: >-
               IntellectEU is a founding member of the Hyperledger Foundation and has built several production-grade solutions built on Hyperledger Fabric
@@ -3297,11 +3287,6 @@ landscape:
             homepage_url: https://dsr-corporation.com/
             logo: data_storage_research_llc_dba_dsr_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
-          - item:
-            name: Infosys
-            homepage_url: https://infosys.com/
-            logo: infosys-limited.svg
-            crunchbase: https://www.crunchbase.com/organization/infosys
           - item:
             name: Kaleido
             homepage_url: https://kaleido.io/
