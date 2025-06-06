@@ -1374,6 +1374,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hitachi
             extra:
               linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+          - item:
+            name: Shielded Technologies (member)
+            homepage_url: https://shielded.io/
+            logo: shielded_technologies.svg
+            organization:
+              name: Shielded Technologies
       - subcategory:
         name: General
         items:
@@ -3132,8 +3138,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bonbloc
           - item:
             name: BRBPO Tecnologia e Servicços S.A.
-            description: >-
-              Government, Brazil Public Sector, and Financial Services. Service Digitalization. 
+            description: 'Government, Brazil Public Sector, and Financial Services. Service Digitalization. '
             homepage_url: https://brbpo.com.br/
             logo: brbpo.svg
           - item:
@@ -3273,7 +3278,9 @@ landscape:
           - item:
             name: Cheesecake Labs
             description: >-
-              Cheesecake Labs specializes in LF Decentralized Trust technologies, delivering enterprise blockchain solutions that bridge isolated networks into collaborative ecosystems. As a General Member, we focus on breaking down traditional blockchain barriers through innovative interoperability approaches.
+              Cheesecake Labs specializes in LF Decentralized Trust technologies, delivering enterprise blockchain solutions that bridge isolated networks into
+              collaborative ecosystems. As a General Member, we focus on breaking down traditional blockchain barriers through innovative interoperability
+              approaches.
             homepage_url: https://cheesecakelabs.com/blog/cheesecake-labs-lf-decentralized-trust-development-services-expertise-in-besu-and-hyperledger-fabric/
             logo: cheesecake_labs.svg
             crunchbase: https://www.crunchbase.com/organization/cheesecake-labs-2
@@ -3293,7 +3300,10 @@ landscape:
           - item:
             name: Data Storage Research
             description: >-
-              DSR Corporation is a proud member of LFDT, with deep expertise and over eight years of hands-on experience in developing with Hyperledger and LFDT technologies. Our team has worked extensively with Hyperledger Fabric, Besu, Indy, Aries, Hiero, and AnonCreds across a wide range of real-world applications, products and service projects. Our engineers are among the core contributors and maintainers of several flagship LFDT projects, including Hyperledger Indy, Aries, AnonCreds, Indy on Besu, etc.
+              DSR Corporation is a proud member of LFDT, with deep expertise and over eight years of hands-on experience in developing with Hyperledger and LFDT
+              technologies. Our team has worked extensively with Hyperledger Fabric, Besu, Indy, Aries, Hiero, and AnonCreds across a wide range of real-world
+              applications, products and service projects. Our engineers are among the core contributors and maintainers of several flagship LFDT projects,
+              including Hyperledger Indy, Aries, AnonCreds, Indy on Besu, etc.
             homepage_url: https://dsr-corporation.com/
             logo: data_storage_research_llc_dba_dsr_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
