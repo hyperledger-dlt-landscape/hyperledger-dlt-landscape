@@ -1374,6 +1374,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hitachi
             extra:
               linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+          - item:
+            name: Shielded Technologies (member)
+            homepage_url: https://shielded.io/
+            logo: shielded_technologies.svg
+            organization:
+              name: Shielded Technologies
       - subcategory:
         name: General
         items:
@@ -1544,11 +1550,8 @@ landscape:
               communications.
             homepage_url: https://pairpoint.io/
             logo: dabco_ltd.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/pairpoint
             organization:
               name: DABCo Ltd
-              linkedin: https://www.linkedin.com/company/pairpoint
           - item:
             name: Data Storage Research, LLC d/b/a DSR Corporation (member)
             description: Professional enterprise software development and consulting company. Cloud, Enterprise, Mobile, Embedded, Analytics and more.
@@ -1640,11 +1643,8 @@ landscape:
               distributed ledger technology in business and society.
             homepage_url: https://dltscience.org/
             logo: exponential_science_foundation.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/dltscience
             organization:
               name: Exponential Science Foundation
-              linkedin: https://www.linkedin.com/company/dltscience
           - item:
             name: Filecoin Foundation (member)
             description: Accelerating the Filecoin ecosystem, designed to store humanity’s most important information The Filecoin Foundation (FF) is an independent...
@@ -1755,18 +1755,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/information-data-systems-de20
             extra:
               linkedin_url: https://www.linkedin.com/company/information-data-systems
-          - item:
-            name: Infosys Limited (member)
-            description: >-
-              Infosys is a global leader in consulting, technology, outsourcing and next-generation services. They enable clients, in more than 50 countries, to
-              stay a step ahead of emerging business trends and outperform the competition. They help them transform and thrive in a changing world by
-              co-creating breakthrough solutions that combine strategic insights and execution excellence.
-            homepage_url: https://infosys.com/
-            logo: infosys_limited.svg
-            twitter: https://twitter.com/Infosys
-            crunchbase: https://www.crunchbase.com/organization/infosys
-            extra:
-              linkedin_url: https://www.linkedin.com/company/infosys
           - item:
             name: Instnt Inc. (member)
             description: Instnt is the first fully managed customer onboarding service for businesses with up to $100M annually in fraud loss liability insurance.
@@ -2115,8 +2103,6 @@ landscape:
             homepage_url: https://polygon.technology/
             logo: polygon_labs_services_switzerland_ag.svg
             crunchbase: https://www.crunchbase.com/organization/polygontechnology
-            extra:
-              linkedin_url: https://www.linkedin.com/company/polygonlabs
           - item:
             name: Print2Block (member)
             description: >-
@@ -2188,8 +2174,6 @@ landscape:
             homepage_url: https://seiyaj.com/
             logo: seiyaj_tech.svg
             crunchbase: https://www.crunchbase.com/organization/seiyaj-tech
-            extra:
-              linkedin_url: https://www.linkedin.com/company/seiyaj
           - item:
             name: Senofi (member)
             description: Senofi Inc. is a software development company focused on building value added business networks.
@@ -2410,7 +2394,7 @@ landscape:
             twitter: https://twitter.com/RealtoApps
             crunchbase: https://www.crunchbase.com/organization/zoniqx
             extra:
-              linkedin_url: https://www.linkedin.com/company/tassets
+              linkedin_url: https://www.linkedin.com/company/realtoapps
       - subcategory:
         name: Associate
         items:
@@ -2688,11 +2672,8 @@ landscape:
               prioritizing privacy by avoiding centralized storage of passenger credentials.
             homepage_url: https://digiyatrafoundation.com/
             logo: digi_yatra_foundation.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/digiyatrafoundation
             organization:
               name: Digi Yatra Foundation
-              linkedin: https://www.linkedin.com/company/digiyatrafoundation
           - item:
             name: Digital Euro Association (DEA) (member)
             description: >-
@@ -2869,8 +2850,6 @@ landscape:
             logo: initiative_for_cryptocurrencies_and_contracts_ic3.svg
             twitter: https://twitter.com/initc3org
             crunchbase: https://www.crunchbase.com/organization/initiative-for-cryptocurrencies-and-contracts
-            extra:
-              linkedin_url: https://www.linkedin.com/company/the-initiative-for-cryptocurrencies-contracts-ic3
           - item:
             name: Inter-American Development Bank (dba LACChain) (member)
             description: >-
@@ -2926,8 +2905,6 @@ landscape:
             logo: mobility_open_blockchain_initiative_mobi.svg
             twitter: https://twitter.com/dltMOBI
             crunchbase: https://www.crunchbase.com/organization/mobi-c10d
-            extra:
-              linkedin_url: https://www.linkedin.com/company/dltmobi
           - item:
             name: Monetary Authority of Singapore (member)
             description: >-
@@ -3132,8 +3109,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bonbloc
           - item:
             name: BRBPO Tecnologia e Servicços S.A.
-            description: >-
-              Government, Brazil Public Sector, and Financial Services. Service Digitalization. 
+            description: 'Government, Brazil Public Sector, and Financial Services. Service Digitalization. '
             homepage_url: https://brbpo.com.br/
             logo: brbpo.svg
           - item:
@@ -3263,7 +3239,9 @@ landscape:
           - item:
             name: Cheesecake Labs
             description: >-
-              Cheesecake Labs specializes in LF Decentralized Trust technologies, delivering enterprise blockchain solutions that bridge isolated networks into collaborative ecosystems. As a General Member, we focus on breaking down traditional blockchain barriers through innovative interoperability approaches.
+              Cheesecake Labs specializes in LF Decentralized Trust technologies, delivering enterprise blockchain solutions that bridge isolated networks into
+              collaborative ecosystems. As a General Member, we focus on breaking down traditional blockchain barriers through innovative interoperability
+              approaches.
             homepage_url: https://cheesecakelabs.com/blog/cheesecake-labs-lf-decentralized-trust-development-services-expertise-in-besu-and-hyperledger-fabric/
             logo: cheesecake_labs.svg
             crunchbase: https://www.crunchbase.com/organization/cheesecake-labs-2
@@ -3283,7 +3261,10 @@ landscape:
           - item:
             name: Data Storage Research
             description: >-
-              DSR Corporation is a proud member of LFDT, with deep expertise and over eight years of hands-on experience in developing with Hyperledger and LFDT technologies. Our team has worked extensively with Hyperledger Fabric, Besu, Indy, Aries, Hiero, and AnonCreds across a wide range of real-world applications, products and service projects. Our engineers are among the core contributors and maintainers of several flagship LFDT projects, including Hyperledger Indy, Aries, AnonCreds, Indy on Besu, etc.
+              DSR Corporation is a proud member of LFDT, with deep expertise and over eight years of hands-on experience in developing with Hyperledger and LFDT
+              technologies. Our team has worked extensively with Hyperledger Fabric, Besu, Indy, Aries, Hiero, and AnonCreds across a wide range of real-world
+              applications, products and service projects. Our engineers are among the core contributors and maintainers of several flagship LFDT projects,
+              including Hyperledger Indy, Aries, AnonCreds, Indy on Besu, etc.
             homepage_url: https://dsr-corporation.com/
             logo: data_storage_research_llc_dba_dsr_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/dsr-corporation
