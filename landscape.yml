@@ -3107,14 +3107,6 @@ landscape:
             homepage_url: https://brbpo.com.br/
             logo: brbpo.svg
           - item:
-            name: CPQD
-            description: >-
-              Consulting services for innovation in business networks -- design thinking and design sprint techniques to co-create an application. Application
-              and DLTs implementation for (1) traceability of things (IoT), (2) digital identity and (3) contract automation.
-            homepage_url: https://www.cpqd.com.br/blockchain/
-            logo: cpqd-horizontal-color.svg
-            crunchbase: https://www.crunchbase.com/organization/cpqd
-          - item:
             name: Espeo Software
             description: >-
               Espeo Software is a digital consultancy that specializes in the development of enterprise blockchain projects. We’re focused on building
