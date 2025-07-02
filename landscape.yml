@@ -1374,6 +1374,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hitachi
             extra:
               linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+          - item:
+            name: Shielded Technologies (member)
+            homepage_url: https://shielded.io/
+            logo: shielded_technologies.svg
+            organization:
+              name: Shielded Technologies
       - subcategory:
         name: General
         items:
@@ -1630,6 +1636,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/espeo-software
             extra:
               linkedin_url: https://www.linkedin.com/company/espeo-software
+          - item:
+            name: Etherealize (member)
+            homepage_url: https://etherealize.com/
+            logo: etherealize.svg
+            organization:
+              name: Etherealize
           - item:
             name: Exponential Science Foundation (member)
             description: >-
@@ -2280,16 +2292,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tata-consultancy-services
             extra:
               linkedin_url: https://www.linkedin.com/company/tata-consultancy-services
-          - item:
-            name: Validation Cloud (member)
-            description: >-
-              Validation Cloud is an enterprise grade Web3 infrastructure company that provides node, staking, and data as a service to connect organizations to
-              Web3 through a fast, scalable, and intelligent platform.
-            homepage_url: https://validationcloud.io/
-            logo: validation_cloud.svg
-            crunchbase: https://www.crunchbase.com/organization/validation-cloud
-            extra:
-              linkedin_url: https://www.linkedin.com/company/validationcloud
           - item:
             name: Valor Capital Group (member)
             description: >-
