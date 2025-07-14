@@ -3164,15 +3164,6 @@ landscape:
             twitter: https://twitter.com/IDSSOFT
             crunchbase: https://www.crunchbase.com/organization/information-data-systems-de20
           - item:
-            name: IntellectEU
-            description: >-
-              IntellectEU is a founding member of the Hyperledger Foundation and has built several production-grade solutions built on Hyperledger Fabric
-              centered around areas such as tokenization and KYC.  Building on our experience with Hyperledger Fabric, we have created the Catalyst Blockchain
-              Platform to simplify the deployment, maintenance, and management of Fabric networks for enterprises.
-            homepage_url: https://intellecteu.com/
-            logo: intellecteu.svg
-            crunchbase: https://www.crunchbase.com/organization/intellecteu
-          - item:
             name: Kaleido
             description: >-
               Kaleido is an enterprise-grade, web3 platform making blockchain and digital assets radically simple for organizations to adopt. Kaleido makes it
