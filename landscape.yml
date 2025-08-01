@@ -1374,11 +1374,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hitachi
             extra:
               linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
-          - item:
-            name: Shielded Technologies (member)
-            homepage_url: https://shielded.io/
-            logo: shielded_technologies.svg
-            crunchbase: https://www.crunchbase.com/organization/shielded-technologies
       - subcategory:
         name: General
         items:
