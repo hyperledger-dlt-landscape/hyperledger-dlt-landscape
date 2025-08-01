@@ -1354,10 +1354,10 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dtcc
           - item:
-            name: Hedera Foundation (member)
+            name: Hedera Hashgraph LLC (member)
             description: 53 employees
-            homepage_url: https://hedera.foundation/
-            logo: hedera_foundation.svg
+            homepage_url: https://hedera.com/
+            logo: hedera_hashgraph_llc.svg
             twitter: https://twitter.com/hedera
             crunchbase: https://www.crunchbase.com/organization/hashgraph
             extra:
@@ -1374,6 +1374,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hitachi
             extra:
               linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+          - item:
+            name: Shielded Technologies (member)
+            homepage_url: https://shielded.io/
+            logo: shielded_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/shielded-technologies
       - subcategory:
         name: General
         items:
