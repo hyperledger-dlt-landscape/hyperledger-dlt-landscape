@@ -1374,6 +1374,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hitachi
             extra:
               linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+          - item:
+            name: Shielded Technologies (member)
+            homepage_url: https://shielded.io/
+            logo: shielded_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/shielded-technologies
       - subcategory:
         name: General
         items:
@@ -2282,11 +2287,9 @@ landscape:
               Brazil cross-border opportunities, Valor operates in New York, Menlo Park, Rio de Janeiro, and São Paulo. The...
             homepage_url: https://valorcapitalgroup.com/
             logo: valor_capital_group.svg
+            crunchbase: https://www.crunchbase.com/organization/valor-capital
             extra:
               linkedin_url: https://www.linkedin.com/company/valorcapitalgroup
-            organization:
-              name: Valor Capital Group
-              linkedin: https://www.linkedin.com/company/valorcapitalgroup
           - item:
             name: Walmart Inc. (member)
             description: >-
@@ -2784,8 +2787,7 @@ landscape:
             name: Global Finance & Technology Network (GFTN) (member)
             homepage_url: https://gftn.co/
             logo: global_finance_technology_network_gftn.svg
-            organization:
-              name: Global Finance & Technology Network (GFTN)
+            crunchbase: https://www.crunchbase.com/organization/global-finance-technology-network
           - item:
             name: GS1 US (member)
             description: >-
