@@ -985,7 +985,7 @@ landscape:
               and libraries. Hiero supports the development of a wide range of decentralized applications and core platform features tailored for the Hedera
               network, including wallets, exchanges, explorers, bridges, SDKs, private ledgers, and advanced cryptographic solutions.
             homepage_url: https://www.lfdecentralizedtrust.org/projects/hiero
-            project: incubating
+            project: graduated
             repo_url: https://github.com/hiero-ledger/hiero
             additional_repos:
               - repo_url: https://github.com/hiero-ledger/awesome-contributions
