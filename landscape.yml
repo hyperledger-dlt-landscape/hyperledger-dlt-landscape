@@ -1717,18 +1717,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/goledger
           - item:
-            name: Hashgraph Foundry Inc. (DBA Hashgraph) (member)
-            description: >-
-              Hashgraph is a distributed ledger technology company that offers a secure and efficient platform for building decentralized applications. Their
-              innovative consensus algorithm provides fast and fair transactions, making them a leader in the blockchain i...
-            homepage_url: https://hashgraph.com/
-            logo: hashgraph_foundry_inc.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/hashgraph
-            organization:
-              name: Hashgraph Foundry Inc. (DBA Hashgraph)
-              linkedin: https://www.linkedin.com/company/hashgraph
-          - item:
             name: Indicio (member)
             description: A self-sovereign identity focused, professional services firm, using distributed ledger technology to deliver decentralized identity results.
             homepage_url: https://indicio.tech/
@@ -2198,6 +2186,15 @@ landscape:
             organization:
               name: SmartCirqls Infotech Private Limited
               linkedin: https://www.linkedin.com/company/qila-io
+          - item:
+            name: SOOHO.IO (member)
+            description: >-
+              SOOHO.IO is a Korean startup offering automated smart contract security services, DeFi, and blockchain solutions to create a safe and
+              user-friendly blockchain ecosystem.
+            homepage_url: https://sooho.io/
+            logo: sooho.svg
+            organization:
+              name: SOOHO.IO
           - item:
             name: SORAMITSU CO., LTD. (member)
             description: >-
@@ -2862,6 +2859,13 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/kerala-blockchain-academy
             extra:
               linkedin_url: https://www.linkedin.com/company/keralablockchainacademy
+          - item:
+            name: KERI Foundation (member)
+            description: KERI Foundation leads the autonomous identity revolution with visionary guidance and innovative security solutions.
+            homepage_url: https://keri.foundation/
+            logo: keri_foundation.svg
+            organization:
+              name: KERI Foundation
           - item:
             name: MIT Connection Science (member)
             description: >-
