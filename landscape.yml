@@ -2739,14 +2739,7 @@ landscape:
             description: >-
               Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and
               build applications accessible anywhere in the world.
-
-
-              --- Merged Data:
-
-
-              Ethereum is a decentralized, open source blockchain platform and programming language that enables developers to build and publish next-generation
-              distributed applications. It allows for the codification, decentralization, security, and trading of vari...
-            homepage_url: https://ethereum.org/
+            homepage_url: https://ethereum.foundation/
             logo: ethereum_foundation.svg
             twitter: https://twitter.com/ethereum
             crunchbase: https://www.crunchbase.com/organization/ethereum
