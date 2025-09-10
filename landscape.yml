@@ -1717,6 +1717,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/goledger
           - item:
+            name: Hashgraph Foundry Inc. (DBA Hashgraph) (member)
+            description: >-
+              Hashgraph is a distributed ledger technology company that offers a secure and efficient platform for building decentralized applications. Their
+              innovative consensus algorithm provides fast and fair transactions, making them a leader in the blockchain i...
+            homepage_url: https://hashgraph.com/
+            logo: hashgraph_foundry_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hashgraph
+            organization:
+              name: Hashgraph Foundry Inc. (DBA Hashgraph)
+              linkedin: https://www.linkedin.com/company/hashgraph
+          - item:
             name: Indicio (member)
             description: A self-sovereign identity focused, professional services firm, using distributed ledger technology to deliver decentralized identity results.
             homepage_url: https://indicio.tech/
@@ -1740,7 +1752,7 @@ landscape:
           - item:
             name: Instnt Inc. (member)
             description: Instnt is the first fully managed customer onboarding service for businesses with up to $100M annually in fraud loss liability insurance.
-            homepage_url: https://instnt.org/
+            homepage_url: https://instnt.ai/
             logo: instnt_inc.svg
             twitter: https://twitter.com/Instnt_org
             crunchbase: https://www.crunchbase.com/organization/instnt
@@ -2739,14 +2751,7 @@ landscape:
             description: >-
               Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and
               build applications accessible anywhere in the world.
-
-
-              --- Merged Data:
-
-
-              Ethereum is a decentralized, open source blockchain platform and programming language that enables developers to build and publish next-generation
-              distributed applications. It allows for the codification, decentralization, security, and trading of vari...
-            homepage_url: https://ethereum.org/
+            homepage_url: https://ethereum.foundation/
             logo: ethereum_foundation.svg
             twitter: https://twitter.com/ethereum
             crunchbase: https://www.crunchbase.com/organization/ethereum
