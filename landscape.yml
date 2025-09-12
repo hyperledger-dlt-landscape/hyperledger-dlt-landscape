@@ -2205,8 +2205,7 @@ landscape:
               user-friendly blockchain ecosystem.
             homepage_url: https://sooho.io/
             logo: sooho.svg
-            organization:
-              name: SOOHO.IO
+            crunchbase: https://www.crunchbase.com/organization/sooho
           - item:
             name: SORAMITSU CO., LTD. (member)
             description: >-
