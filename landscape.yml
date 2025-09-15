@@ -2484,7 +2484,7 @@ landscape:
             name: Apiary (member)
             description: >-
               STPI - Software Technology Parks of India is an autonomous society established by the Government of India to promote the development and export of
-              software and software services, while also facilitating entrepreneurship and creating infrastructure for ...
+              software and software services, while also facilitating the growth of the IT and ITES industries through ...
             homepage_url: https://apiary.stpi.in/
             logo: apiary.svg
             extra:
@@ -2526,6 +2526,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
             extra:
               linkedin_url: https://www.linkedin.com/company/banque-de-france
+          - item:
+            name: Blockchain For Energy (member)
+            description: >-
+              Blockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain
+              technology to enhance efficiency, reduce costs, and streamline processes within the industry.
+            homepage_url: https://blockchainforenergy.net/
+            logo: blockchain_for_energy.svg
+            organization:
+              name: Blockchain For Energy
           - item:
             name: Blockchain Research Institute (Tapscott Group) (member)
             description: >-
