@@ -2533,8 +2533,7 @@ landscape:
               technology to enhance efficiency, reduce costs, and streamline processes within the industry.
             homepage_url: https://blockchainforenergy.net/
             logo: blockchain_for_energy.svg
-            organization:
-              name: Blockchain For Energy
+            crunchbase: https://www.crunchbase.com/organization/blockchain-for-energy
           - item:
             name: Blockchain Research Institute (Tapscott Group) (member)
             description: >-
@@ -2664,6 +2663,14 @@ landscape:
             logo: decurret_dcp_inc.svg
             organization:
               name: DeCurret DCP Inc
+          - item:
+            name: Deutsche Bundesbank (member)
+            description: >-
+              The Deutsche Bundesbank is the central bank of the Federal Republic of Germany, focusing on monetary policy within the Eurosystem. It supports the
+              transition to a low carbon economy and offers a unique perspective on money through its Money Museum. Add...
+            homepage_url: https://bundesbank.de/
+            logo: deutsche_bundesbank.svg
+            crunchbase: https://www.crunchbase.com/organization/deutsche-bundesbank
           - item:
             name: Digi Yatra Foundation (member)
             description: >-
