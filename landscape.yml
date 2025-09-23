@@ -3271,3 +3271,10 @@ landscape:
             homepage_url: https://kba.ai/
             logo: kerala_blockchain_academy.svg
             crunchbase: https://www.crunchbase.com/organization/kerala-blockchain-academy
+          - item:
+            name: SOOHO.IO
+            description: >-
+              SOOHO.IO delivers enterprise blockchain security through Reagent, an AI-powered platform protecting $2.4B+ in digital assets. As Korea's leading blockchain fintech backed by ConsenSys Ventures, we secure critical infrastructure including CBDC systems for central banks. Our expertise spans Hyperledger Besu, and multi-chain environments, offering 24/7 automated security monitoring and threat response for LF Decentralized Trust deployments.
+            homepage_url: https://www.sooho.io/
+            logo: sooho.svg
+            crunchbase: https://www.crunchbase.com/organization/sooho
