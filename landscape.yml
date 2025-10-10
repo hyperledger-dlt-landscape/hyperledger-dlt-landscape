@@ -1642,6 +1642,17 @@ landscape:
             organization:
               name: Etherealize
           - item:
+            name: Ethereum Foundation (member)
+            description: >-
+              Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and
+              build applications accessible anywhere in the world.
+            homepage_url: https://ethereum.foundation/
+            logo: ethereum_foundation.svg
+            twitter: https://twitter.com/ethereum
+            crunchbase: https://www.crunchbase.com/organization/ethereum
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ethereum
+          - item:
             name: Exponential Science Foundation (member)
             description: >-
               DLT Science Foundation promotes collaboration among academia, industry, developers, and government to advance the understanding and application of
@@ -2744,17 +2755,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/etc-cooperative
             extra:
               linkedin_url: https://www.linkedin.com/company/etc-cooperative
-          - item:
-            name: Ethereum Foundation (member)
-            description: >-
-              Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and
-              build applications accessible anywhere in the world.
-            homepage_url: https://ethereum.foundation/
-            logo: ethereum_foundation.svg
-            twitter: https://twitter.com/ethereum
-            crunchbase: https://www.crunchbase.com/organization/ethereum
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ethereum
           - item:
             name: European Blockchain Association e.V. (member)
             description: Empowering The European Blockchain Ecosystem
