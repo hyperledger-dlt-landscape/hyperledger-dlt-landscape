@@ -1605,6 +1605,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalassetcom
           - item:
+            name: Edge & Node (member)
+            description: >-
+              Edge & Node provides expert support and infrastructure solutions for enterprise-scale blockchain businesses, focusing on the development and
+              deployment of protocols and decentralized applications within the DeFi and web3 ecosystem.
+            homepage_url: https://edgeandnode.com/
+            logo: edge_node.svg
+            crunchbase: https://www.crunchbase.com/organization/edge-node
+          - item:
             name: Energy Web Foundation (member)
             description: >-
               Global nonprofit Energy Web (EW) is accelerating a low-carbon, customer-centric electricity system by unleashing the potential of #blockchain
@@ -2918,6 +2926,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/npci
           - item:
+            name: Networks For Humanity (member)
+            description: >-
+              Networks for Humanity (NFH) is a global non-profit initiative with a bold vision to provide open, interoperable and decentralized digital
+              infrastructure that enables broader access and participation in the digital economy.
+            homepage_url: https://networksforhumanity.org/
+            logo: networks_for_humanity.svg
+            organization:
+              name: Networks For Humanity
+          - item:
             name: Norges Bank (member)
             description: >-
               Norges Bank is the central bank of Norway and is responsible for ensuring price stability and financial stability. The bank also manages the
@@ -2989,6 +3006,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tecnalia
             extra:
               linkedin_url: https://www.linkedin.com/company/tecnalia-research-&-innovation
+          - item:
+            name: The Bank of Korea (member)
+            description: >-
+              Bank of Korea (BOK) is the central bank of South Korea, established in 1950 with a focus on price stability. It plays a crucial role in issuing
+              currency, implementing monetary policy, managing foreign exchange reserves, and overseeing payment systems a...
+            homepage_url: https://bok.or.kr/
+            logo: the_bank_of_korea.svg
+            crunchbase: https://www.crunchbase.com/organization/bank-of-korea
           - item:
             name: The Digital Dollar Project (member)
             description: |-
