@@ -1716,6 +1716,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/gateway-fm
           - item:
+            name: Glide Identity (member)
+            description: Glide Identity provides SIM-based cryptographic authentication and verification systems using telecom network APIs.
+            homepage_url: https://glideidentity.com/
+            logo: glide_identity.svg
+            crunchbase: https://www.crunchbase.com/organization/glide-identity
+          - item:
             name: Global Legal Entity Identifier Foundation (member)
             description: >-
               GLEIF is a non-profit organization tasked to support LEI rollout. The LEI uniquely identifies legal entities participating in financial
