@@ -2064,6 +2064,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ntt-data-americas
           - item:
+            name: OpenZeppelin (member)
+            description: >-
+              OpenZeppelin specializes in providing security solutions for blockchain applications, focusing on smart contract audits and creating a secure
+              environment for developers in the Web3 ecosystem.
+            homepage_url: https://openzeppelin.com/
+            logo: openzeppelin.svg
+            crunchbase: https://www.crunchbase.com/organization/openzeppelin
+          - item:
             name: Oracle America Inc. (member)
             description: >-
               Headquartered in Austin, Texas, Oracle Corporation is an American multinational computer technology corporation. The company sells database
