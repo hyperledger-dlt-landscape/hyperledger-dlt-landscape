@@ -1754,15 +1754,6 @@ landscape:
               name: Hashgraph Foundry Inc. (DBA Hashgraph)
               linkedin: https://www.linkedin.com/company/hashgraph
           - item:
-            name: Indicio (member)
-            description: A self-sovereign identity focused, professional services firm, using distributed ledger technology to deliver decentralized identity results.
-            homepage_url: https://indicio.tech/
-            logo: indicio.svg
-            twitter: https://twitter.com/IndicioID
-            crunchbase: https://www.crunchbase.com/organization/indicio-tech
-            extra:
-              linkedin_url: https://www.linkedin.com/company/indiciotech
-          - item:
             name: Information Data Systems (member)
             description: >-
               IDS is a multinational company, providing services to clients in various industries since 1996. IDS has development centers in Detroit and
@@ -2089,16 +2080,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/oracle
           - item:
-            name: Ownera (member)
-            description: >-
-              Ownera digitizes private markets with FinP2P, a global network for institutions to share assets and conduct transactions, bringing real-time
-              settlement and liquidity to the market.
-            homepage_url: https://ownera.io/
-            logo: ownera.svg
-            crunchbase: https://www.crunchbase.com/organization/ownera
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ownera
-          - item:
             name: Paramount Software Solutions Inc. (member)
             description: Paramount Soft has 250+ employees and is currently working on uses cases for Hyperledger Fabric for automotive and food supply chain integrity
             homepage_url: https://paramountsoft.net/
@@ -2163,21 +2144,6 @@ landscape:
             logo: rayls_foundation.svg
             organization:
               name: Rayls Foundation
-          - item:
-            name: Ripple Labs Inc. (member)
-            description: >-
-              Ripple is a real-time gross settlement system (RTGS), currency exchange and remittance network by Ripple. Also called the Ripple Transaction
-              Protocol (RTXP) or Ripple protocol, it is built upon a distributed open source Internet protocol, consensus ledger and native currency called XRP
-              (ripples). Released in 2012, Ripple purports to enable "secure, instant and nearly free global financial transactions of any size with no
-              chargebacks." It supports tokens representing fiat currency, cryptocurrency, commodity or any other unit of value such as frequent flier miles or
-              mobile minutes. At its core, Ripple is based around a shared, public database or ledger, which uses a consensus process that allows for payments,
-              exchanges and remittance in a distributed process.
-            homepage_url: https://ripple.com/
-            logo: ripple_labs_inc.svg
-            twitter: https://twitter.com/Ripple
-            crunchbase: https://www.crunchbase.com/organization/ripple-labs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ripple-labs
           - item:
             name: SDAX Exchange Pte Ltd (member)
             description: >-
