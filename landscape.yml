@@ -1670,6 +1670,12 @@ landscape:
             organization:
               name: Exponential Science Foundation
           - item:
+            name: Fairsquarelab (member)
+            description: Fairsquarelab focuses on transforming traditional finance by integrating innovative solutions that facilitate the transition to Web3 technologies.
+            homepage_url: https://fairsquarelab.com/
+            logo: fairsquarelab.svg
+            crunchbase: https://www.crunchbase.com/organization/fairsquare-labs
+          - item:
             name: Filecoin Foundation (member)
             description: Accelerating the Filecoin ecosystem, designed to store humanity’s most important information The Filecoin Foundation (FF) is an independent...
             homepage_url: https://fil.org/
