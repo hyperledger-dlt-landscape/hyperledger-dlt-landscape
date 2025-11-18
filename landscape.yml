@@ -1766,8 +1766,7 @@ landscape:
               web3 applications and multi-chain blockchain architectures.
             homepage_url: https://hashlock.com/
             logo: hashlock.svg
-            organization:
-              name: Hashlock
+            crunchbase: https://www.crunchbase.com/organization/hashlock
           - item:
             name: Information Data Systems (member)
             description: >-
