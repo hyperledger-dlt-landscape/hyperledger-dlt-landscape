@@ -2872,6 +2872,15 @@ landscape:
             organization:
               name: KERI Foundation
           - item:
+            name: LNet (member)
+            description: >-
+              LNet operates a public permissioned blockchain network that is resistant to quantum computing, designed to enhance efficiency and security while
+              serving over 9.5 million users through a decentralized ecosystem that fosters collaboration among governmen...
+            homepage_url: https://lnet.global/
+            logo: lnet.svg
+            organization:
+              name: LNet
+          - item:
             name: MIT Connection Science (member)
             description: >-
               The Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts. Founded in 1861 in response to the
