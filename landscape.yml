@@ -1663,12 +1663,13 @@ landscape:
           - item:
             name: Exponential Science Foundation (member)
             description: >-
-              DLT Science Foundation promotes collaboration among academia, industry, developers, and government to advance the understanding and application of
-              distributed ledger technology in business and society.
-            homepage_url: https://dltscience.org/
+              Exponential Science is a foundation led by visionary founders Dr. Paolo Tasca and Nikhil Vadgama, who have advanced emerging technologies through
+              education, research, and innovation. Recognising the power of the convergence of technologies such as blockchain, AI, and IoT to tackle complex
+              multidisciplinary challenges, they founded the ExponentialScience as a natural evolution of their long-standing work, aiming to strive towards a
+              more inclusive and innovative future for all.
+            homepage_url: https://exp.science/
             logo: exponential_science_foundation.svg
-            organization:
-              name: Exponential Science Foundation
+            crunchbase: https://www.crunchbase.com/organization/exponential-science
           - item:
             name: Fairsquarelab (member)
             description: Fairsquarelab focuses on transforming traditional finance by integrating innovative solutions that facilitate the transition to Web3 technologies.
