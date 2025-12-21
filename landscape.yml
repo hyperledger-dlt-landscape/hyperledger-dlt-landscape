@@ -3271,7 +3271,9 @@ landscape:
           - item:
             name: FairSquareLab
             description: >-
-              FairSquareLab leads Korea's digital asset transformation, serving government bodies, major financial institutions, and conglomerates. We are the sole local technology provider with a track record of executing large-scale, enterprise-grade blockchain projects independently. We deliver secure, high-performance Besu infrastructure for the financial sector.
+              FairSquareLab leads Korea's digital asset transformation, serving government bodies, major financial institutions, and conglomerates. We are the
+              sole local technology provider with a track record of executing large-scale, enterprise-grade blockchain projects independently. We deliver
+              secure, high-performance Besu infrastructure for the financial sector.
             homepage_url: https://fairsquarelab.com/
             logo: fairsquarelab.svg
             crunchbase: https://www.crunchbase.com/organization/fairsquare-labs
