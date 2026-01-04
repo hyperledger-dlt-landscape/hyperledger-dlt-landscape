@@ -1363,17 +1363,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hashgraph
           - item:
-            name: Hitachi, Ltd. (member)
+            name: PointsVille, Inc. (member)
             description: >-
-              Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and
-              equipment, construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other
-              products, and financial services in Japan and internationally. The company is headquartered in Tokyo, Japan.
-            homepage_url: https://hitachi.com/
-            logo: hitachi_ltd.svg
-            twitter: https://twitter.com/HitachiGlobal
-            crunchbase: https://www.crunchbase.com/organization/hitachi
-            extra:
-              linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+              PointsVille offers a comprehensive loyalty platform that integrates rewards management, digital wallet services, incentivized learning, and
+              augmented reality features, aimed at enhancing market efficiency and transforming real-world assets into alterna...
+            homepage_url: https://pointsville.com/
+            logo: pointsville_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/pointsville
           - item:
             name: Shielded Technologies (member)
             homepage_url: https://shielded.io/
@@ -1395,15 +1391,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/accenture
           - item:
-            name: Adhara Limited (member)
-            description: Liquidity management and international payments for decentralised financial networks
-            homepage_url: https://adhara.io/
-            logo: adhara_limited.svg
-            twitter: https://twitter.com/adhara_io
-            crunchbase: https://www.crunchbase.com/organization/adhara
-            extra:
-              linkedin_url: https://www.linkedin.com/company/adhara-io
-          - item:
             name: American Express (member)
             description: >-
               American Express Company is a multinational financial services corporation headquartered in New York City, New York. Founded in 1850, the company
@@ -1424,17 +1411,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/applied-blockchain
             extra:
               linkedin_url: https://www.linkedin.com/company/applied-blockchain
-          - item:
-            name: AyanWorks Technology Solutions Pvt. Ltd. (member)
-            description: >-
-              #Sovrin #Steward in India. Team of passionate software craftsmen, building promising Blockchain Solutions using #Hyperledger #Fabric, #Indy,
-              #Sovrin, #Corda
-            homepage_url: https://ayanworks.com/
-            logo: ayanworks_technology_solutions_pvt_ltd.svg
-            twitter: https://twitter.com/ayanworkstech
-            crunchbase: https://www.crunchbase.com/organization/ayanworks
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ayanworks
           - item:
             name: Block Majority (member)
             description: Building & scaling enterprise grade decentralised blockchain solutions
@@ -1506,18 +1482,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/china-systems
           - item:
-            name: Circulor Ltd. (member)
-            description: >-
-              Founded in 2018, headquartered in London, England, Circulor provides Traceability-as-a-Service to verify responsible sourcing, underpin effective
-              recycling and attribute CO2 footprint and other impact metrics to the flow of materials. This directly supports manufacturers in addressing the UN
-              Sustainability Goals by reaching parts of their supply chains that most currently have little real visibility into.
-            homepage_url: https://circulor.com/
-            logo: circulor_ltd.svg
-            twitter: https://twitter.com/Circulor1
-            crunchbase: https://www.crunchbase.com/organization/circulor
-            extra:
-              linkedin_url: https://www.linkedin.com/company/circulor
-          - item:
             name: Consensys AG (member)
             description: >-
               ConsenSys is a blockchain app production studio. We build decentralized applications for the emerging Ethereum ecosystem. We are working on
@@ -1565,17 +1529,6 @@ landscape:
             homepage_url: https://dedgesecurity.com/
             logo: dedge_security_sl.svg
             crunchbase: https://www.crunchbase.com/organization/dedge-security
-          - item:
-            name: Deutsche Telekom AG (member)
-            description: >-
-              Founded in 1995, Deutsche Telekom AG is a Germany-based integrated telecommunications provider, offering its customers around the world a
-              portfolio of services in the areas of telecommunications and information technology.
-            homepage_url: https://telekom.com/
-            logo: deutsche_telekom_ag.svg
-            twitter: https://twitter.com/deutschetelekom
-            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
-            extra:
-              linkedin_url: https://www.linkedin.com/company/telekom
           - item:
             name: Dfns (member)
             description: >-
@@ -1677,15 +1630,6 @@ landscape:
             logo: fairsquarelab.svg
             crunchbase: https://www.crunchbase.com/organization/fairsquare-labs
           - item:
-            name: Filecoin Foundation (member)
-            description: Accelerating the Filecoin ecosystem, designed to store humanity’s most important information The Filecoin Foundation (FF) is an independent...
-            homepage_url: https://fil.org/
-            logo: filecoin_foundation.svg
-            twitter: https://twitter.com/FilFoundation
-            crunchbase: https://www.crunchbase.com/organization/filecoin-foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/filecoin-foundation
-          - item:
             name: Fujitsu Limited (member)
             description: >-
               Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
@@ -1768,6 +1712,26 @@ landscape:
             homepage_url: https://hashlock.com/
             logo: hashlock.svg
             crunchbase: https://www.crunchbase.com/organization/hashlock
+          - item:
+            name: Hitachi, Ltd. (member)
+            description: >-
+              Founded in 1910, Hitachi provides information and telecommunication systems, social infrastructure and industrial systems, electronic systems and
+              equipment, construction machinery, high functional materials and components, automotive systems, smart life and eco-friendly systems, other
+              products, and financial services in Japan and internationally. The company is headquartered in Tokyo, Japan.
+            homepage_url: https://hitachi.com/
+            logo: hitachi_ltd.svg
+            twitter: https://twitter.com/HitachiGlobal
+            crunchbase: https://www.crunchbase.com/organization/hitachi
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hitachi-data-systems
+          - item:
+            name: Horizen (member)
+            description: >-
+              Horizen is a proof verification network enabling cost-effective settlement for blockchain stacks. It offers Layer 2 adoption and a
+              zero-knowledge-enabled network of blockchains, emphasizing security and interoperability.
+            homepage_url: https://horizen.io/
+            logo: horizen.svg
+            crunchbase: https://www.crunchbase.com/organization/horizen
           - item:
             name: Information Data Systems (member)
             description: >-
@@ -1944,113 +1908,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mediconcen
           - item:
-            name: Milligan Partners (member)
-            description: >-
-              Milligan Partners specializes in transportation and technology consulting services. Our extensive experience in tolling and information technology
-              comes from serving as both agency staff, industry consultants, and technology professionals. Milligan Partners' services include support for
-              roadside toll operations, customer service centers, IT infrastructure, and the associated planning and operations for the related disciplines.
-
-
-              Specialties
-
-
-              Customer Service, Revenue Management, Managed Lanes, Open Road Tolling, Construction Management, Procurement Support and Coordination, Concepts of
-              Operations, System Requirements, System Implementations, Independent Verification and Validation, Policy/Business Rules
-
-
-
-
-              Website
-
-
-              http://www.milliganpartners.com
-
-
-
-
-              Industry
-
-
-              Information Technology and Services
-
-
-
-
-              Type
-
-
-              Privately Held
-
-
-
-
-              Headquarters
-
-
-              4144 North Central Expressway Suite 600 Dallas, TX 75204 United States
-
-
-
-
-              Company Size
-
-
-              1-10 employees
-
-
-
-
-              Founded
-
-
-              2012
-
-
-
-
-              Dallas
-
-
-              4144 North Central Expressway
-
-
-              Suite 600
-
-
-              Dallas, Texas 75204
-
-
-              Phone: (888) 885-1302
-
-
-              Fax: (888) 335-9061
-
-
-
-
-              Houston
-
-
-              5100 Westheimer Road
-
-
-              Suite 200
-
-
-              Houston, Texas 77056
-
-
-              Phone: (888) 885-1302
-
-
-              Fax: (888) 335-9061
-            homepage_url: https://milliganpartners.com/
-            logo: milligan_partners.svg
-            twitter: https://twitter.com/MilliganPartnrs
-            crunchbase: https://www.crunchbase.com/organization/milligan-partners
-            extra:
-              linkedin_url: https://www.linkedin.com/company/milliganpartners
-          - item:
             name: Nethermind (member)
             description: >-
               Nethermind is a blockchain research and software engineering company specializing in Ethereum and StarkNet. They empower developers and
@@ -2095,15 +1952,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/oracle
           - item:
-            name: Paramount Software Solutions Inc. (member)
-            description: Paramount Soft has 250+ employees and is currently working on uses cases for Hyperledger Fabric for automotive and food supply chain integrity
-            homepage_url: https://paramountsoft.net/
-            logo: paramount_software_solutions_inc.svg
-            twitter: https://twitter.com/Paramount_GA
-            crunchbase: https://www.crunchbase.com/organization/paramount-software-solutions-inc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/paramount-software-solutions
-          - item:
             name: Partior Pte Ltd (member)
             description: >-
               Partior is reshaping global money movement with a unified ledger, optimizing liquidity access, and enabling new capabilities through secure and
@@ -2143,17 +1991,6 @@ landscape:
               name: ProveAI, LLC
               linkedin: https://www.linkedin.com/company/casperlabs
           - item:
-            name: R3 LLC (member)
-            description: >-
-              R3 is a financial markets crypto, exchanges and venture practice. We look to leverage our decades of experience and deep networks within the
-              financial services community in order to empower innovators, promote industry collaboration, and transform the modern financial markets ecosystem.
-            homepage_url: https://r3.com/
-            logo: r3_llc.svg
-            twitter: https://twitter.com/inside_r3
-            crunchbase: https://www.crunchbase.com/organization/r3-cev
-            extra:
-              linkedin_url: https://www.linkedin.com/company/r3cev-llc
-          - item:
             name: Rayls Foundation (member)
             homepage_url: https://rayls.com/
             logo: rayls_foundation.svg
@@ -2177,15 +2014,6 @@ landscape:
             homepage_url: https://seiyaj.com/
             logo: seiyaj_tech.svg
             crunchbase: https://www.crunchbase.com/organization/seiyaj-tech
-          - item:
-            name: Senofi (member)
-            description: Senofi Inc. is a software development company focused on building value added business networks.
-            homepage_url: https://senofi.ca/
-            logo: senofi.svg
-            twitter: https://twitter.com/SenofiCA
-            crunchbase: https://www.crunchbase.com/organization/senofi
-            extra:
-              linkedin_url: https://www.linkedin.com/company/senofi
           - item:
             name: Silence Laboratories (member)
             description: A team of security engineers, cryptographers, designers, and business builders focused on Decentralised Authentication
@@ -2362,17 +2190,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/wanchain
             extra:
               linkedin_url: https://www.linkedin.com/company/wanchain
-          - item:
-            name: Wipro Limited (member)
-            description: >-
-              Wipro is a global information technology, consulting and business process services that utilizes cognitive computing, hyper-automation, robotics,
-              cloud, analytics and emerging technologies. Wipro is headquartered in Karnataka, India.
-            homepage_url: https://wipro.com/
-            logo: wipro_limited.svg
-            twitter: https://twitter.com/Wipro
-            crunchbase: https://www.crunchbase.com/organization/wipro
-            extra:
-              linkedin_url: https://www.linkedin.com/company/appirio
           - item:
             name: Zoniqx Inc. (member)
             description: Zoniqx is an AI and blockchain platform that provides financial solutions and technology services for asset tokenization as a service.
