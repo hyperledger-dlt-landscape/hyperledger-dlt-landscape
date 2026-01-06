@@ -3025,16 +3025,6 @@ landscape:
             logo: kerala_blockchain_academy.svg
             crunchbase: https://www.crunchbase.com/organization/kerala-blockchain-academy
           - item:
-            name: KrypC Corp
-            description: >-
-              KrypC is a Blockchain technology venture, backed by seasoned professionals, focused on accelerating adoption of blockchain technology We research,
-              develop and go to market with blockchain-based products; for large enterprises and blockchain start-up ventures to adopt and realize business
-              value. KrypC is a Hyperledger Certified Service Provider (HCSP) with over 150 person years of experience. Since 2016 KrypC has been deploying and
-              managing many HLF programs in production across multiple domains.
-            homepage_url: https://krypc.com/
-            logo: KrypC-logo.svg
-            crunchbase: https://www.crunchbase.com/organization/krypc
-          - item:
             name: Tata Consultancy Services
             description: >-
               Quartz, from TCS, provides foundational technology, tools and business components that harness next-gen technologies including DLT, AI/ML for
@@ -3045,11 +3035,6 @@ landscape:
             homepage_url: https://tcs.com/what-we-do/products-platforms/quartz
             logo: tata_consultancy_services_limited.svg
             crunchbase: https://www.crunchbase.com/organization/tata-consultancy-services
-          - item:
-            name: Wipro Limited
-            homepage_url: https://wipro.com/
-            logo: wipro_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/wipro
       - subcategory:
         name: Besu CSPs
         items:
