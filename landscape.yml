@@ -1870,15 +1870,6 @@ landscape:
             organization:
               name: Key State Capital
           - item:
-            name: Krypc Corporation (member)
-            description: KrypC is a FinTech solution and service provider focusing on bringing innovative solutions in the field of Blockchain & Digital Currency.
-            homepage_url: https://krypc.com/
-            logo: krypc_corporation.svg
-            twitter: https://twitter.com/krypctalk
-            crunchbase: https://www.crunchbase.com/organization/krypc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/krypc
-          - item:
             name: Launchnodes (member)
             description: >-
               Launchnodes is a leading provider of investment-grade Ethereum staking services, offering non-custodial solutions for solo staking. They
