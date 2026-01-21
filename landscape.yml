@@ -1363,6 +1363,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hashgraph
           - item:
+            name: PointsVille, Inc. (member)
+            description: >-
+              PointsVille offers a comprehensive loyalty platform that integrates rewards management, digital wallet services, incentivized learning, and
+              augmented reality features, aimed at enhancing market efficiency and transforming real-world assets into alterna...
+            homepage_url: https://pointsville.com/
+            logo: pointsville_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/pointsville
+          - item:
             name: Shielded Technologies (member)
             homepage_url: https://shielded.io/
             logo: shielded_technologies.svg
@@ -2326,6 +2334,13 @@ landscape:
           - item:
             name: Blockchain For Energy (member)
             description: >-
+              Blockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain
+              technology to enhance efficiency, reduce costs, and streamline processes within the industry.
+
+
+              --- Merged Data:
+
+
               Blockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain
               technology to enhance efficiency, reduce costs, and streamline processes within the industry.
             homepage_url: https://blockchainforenergy.net/
