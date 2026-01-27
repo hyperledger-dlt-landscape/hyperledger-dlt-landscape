@@ -1363,6 +1363,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hashgraph
           - item:
+            name: OpenAssets (member)
+            description: >-
+              OpenAssets is focused on establishing open standards for the next generation of capital markets, serving as a trusted partner for institutions in
+              developing infrastructure for real-world asset tokenization and digital currencies to enhance capital mobi...
+            homepage_url: https://openassets.to/
+            logo: openassets.svg
+            crunchbase: https://www.crunchbase.com/organization/pointsville
+          - item:
             name: Shielded Technologies (member)
             homepage_url: https://shielded.io/
             logo: shielded_technologies.svg
@@ -2326,6 +2334,13 @@ landscape:
           - item:
             name: Blockchain For Energy (member)
             description: >-
+              Blockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain
+              technology to enhance efficiency, reduce costs, and streamline processes within the industry.
+
+
+              --- Merged Data:
+
+
               Blockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain
               technology to enhance efficiency, reduce costs, and streamline processes within the industry.
             homepage_url: https://blockchainforenergy.net/
