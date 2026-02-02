@@ -1890,6 +1890,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/layerzerolabs
           - item:
+            name: Matter Labs (member)
+            description: >-
+              Our team of world-class engineers, researchers, and technical experts are redefining the limits of blockchain scalability with cutting-edge ZK
+              cryptography. We believe that ZK is the most viable technology to enable the mainstream adoption of public blockchains.
+            homepage_url: https://matterlabs.dev/
+            logo: matter_labs.svg
+            crunchbase: https://www.crunchbase.com/organization/matter-labs
+          - item:
             name: MediConCen Limited (member)
             description: MediConCen mobilize medical experts all over the world to serve the insured population..
             homepage_url: https://mediconcen.com/
