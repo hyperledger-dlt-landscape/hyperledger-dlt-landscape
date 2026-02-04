@@ -1420,16 +1420,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/block-majority
           - item:
-            name: Blockchain Game Partners Inc.(“Gala”) (member)
-            description: >-
-              Gala is a pioneering entertainment company in the Web3 space, empowering creators and fans across Games, Music, Film, and VOX. Founded by industry
-              veterans Eric Schiermeyer and Michael McCarthy, Gala collaborates with global talent to innovate and deli...
-            homepage_url: https://gala.com/
-            logo: blockchain_game_partners_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/gala-games
-            extra:
-              linkedin_url: https://www.linkedin.com/company/gogala
-          - item:
             name: BONbLOC Inc (member)
             description: BONbLOC is a blockchain software company that focuses on corporate and government solutions.
             homepage_url: https://bonbloc.com/
@@ -2542,6 +2532,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/enterprise-ethereum-alliance
             extra:
               linkedin_url: https://www.linkedin.com/company/enterpriseethereumalliance
+          - item:
+            name: ERC-3643 Association (member)
+            description: >-
+              The ERC3643 Association is a non-profit organization dedicated to promoting the ERC-3643 standard for tokenizing real-world assets (RWAs) with
+              built-in, on-chain compliance. Founded by industry leaders including Tokeny, Apex Group, and Archax, it ensures regulatory compliance for security
+              tokens via identity verification (KYC/AML).
+            homepage_url: https://erc3643.org/
+            logo: erc_3643_association.svg
+            organization:
+              name: ERC-3643 Association
           - item:
             name: ETC Cooperative (The Ethereum Classic Cooperative) (member)
             description: >-
