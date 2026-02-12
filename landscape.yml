@@ -1723,6 +1723,15 @@ landscape:
             logo: horizen.svg
             crunchbase: https://www.crunchbase.com/organization/horizen
           - item:
+            name: Identity Digital Inc. (member)
+            description: >-
+              Identity Digital specializes in creating authentic digital identities by managing the world's largest and most relevant portfolio of domain
+              extensions, enabling businesses, governments, nonprofits, and individuals to effectively share their unique stor...
+            homepage_url: https://identity.digital/
+            logo: identity_digital_inc.svg
+            organization:
+              name: Identity Digital Inc.
+          - item:
             name: Information Data Systems (member)
             description: >-
               IDS is a multinational company, providing services to clients in various industries since 1996. IDS has development centers in Detroit and
