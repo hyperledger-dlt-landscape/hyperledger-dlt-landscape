@@ -1726,11 +1726,10 @@ landscape:
             name: Identity Digital Inc. (member)
             description: >-
               Identity Digital specializes in creating authentic digital identities by managing the world's largest and most relevant portfolio of domain
-              extensions, enabling businesses, governments, nonprofits, and individuals to effectively share their unique stor...
+              extensions, enabling businesses, governments, nonprofits, and individuals to effectively share their unique story.
             homepage_url: https://identity.digital/
             logo: identity_digital_inc.svg
-            organization:
-              name: Identity Digital Inc.
+            crunchbase: https://www.crunchbase.com/organization/identity-digital
           - item:
             name: Information Data Systems (member)
             description: >-
