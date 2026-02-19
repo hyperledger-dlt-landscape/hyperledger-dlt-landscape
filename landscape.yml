@@ -1967,12 +1967,12 @@ landscape:
             logo: polygon_labs_services_switzerland_ag.svg
             crunchbase: https://www.crunchbase.com/organization/polygontechnology
           - item:
-            name: Print2Block (member)
+            name: Print2Block Inc. (member)
             description: >-
               DocChain.io by Print2Block is a Blockchain secured Document Issuing System that has secured 58 Million+ documents for Enterprises and Governments,
               providing instant document authenticity verification through Blockchain QR codes.
             homepage_url: https://docchain.io/
-            logo: print2block.svg
+            logo: print2block_inc.svg
             crunchbase: https://www.crunchbase.com/organization/print2block
             extra:
               linkedin_url: https://www.linkedin.com/company/docchain
