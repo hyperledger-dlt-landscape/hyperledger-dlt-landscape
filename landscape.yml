@@ -1391,6 +1391,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/accenture
           - item:
+            name: Affinidi Pte Ltd (member)
+            description: Affinidi provides building blocks for an open and interoperable Self-Sovereign Identity ecosystem
+            homepage_url: https://affinidi.com/
+            logo: affinidi_pte_ltd.svg
+            twitter: https://twitter.com/affinidi
+            crunchbase: https://www.crunchbase.com/organization/affinidi
+            extra:
+              linkedin_url: https://www.linkedin.com/company/affinidi
+          - item:
             name: American Express (member)
             description: >-
               American Express Company is a multinational financial services corporation headquartered in New York City, New York. Founded in 1850, the company
@@ -1411,14 +1420,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/applied-blockchain
             extra:
               linkedin_url: https://www.linkedin.com/company/applied-blockchain
-          - item:
-            name: Block Majority (member)
-            description: Building & scaling enterprise grade decentralised blockchain solutions
-            homepage_url: https://blockmajority.io/
-            logo: block_majority.svg
-            crunchbase: https://www.crunchbase.com/organization/block-majority
-            extra:
-              linkedin_url: https://www.linkedin.com/company/block-majority
           - item:
             name: BONbLOC Inc (member)
             description: BONbLOC is a blockchain software company that focuses on corporate and government solutions.
@@ -1780,11 +1781,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ibm
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
-          - item:
-            name: Interop Labs (member)
-            homepage_url: https://interoplabs.io/
-            logo: interop_labs.svg
-            crunchbase: https://www.crunchbase.com/organization/interop-labs
           - item:
             name: Intersect (member)
             homepage_url: https://intersectmbo.org/
