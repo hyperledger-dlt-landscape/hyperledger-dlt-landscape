@@ -1412,15 +1412,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/american-express
           - item:
-            name: Applied Blockchain (member)
-            description: We Develop Applications with Enhanced Trust and Privacy
-            homepage_url: https://appliedblockchain.com/
-            logo: applied_blockchain.svg
-            twitter: https://twitter.com/AppBlockchain
-            crunchbase: https://www.crunchbase.com/organization/applied-blockchain
-            extra:
-              linkedin_url: https://www.linkedin.com/company/applied-blockchain
-          - item:
             name: BONbLOC Inc (member)
             description: BONbLOC is a blockchain software company that focuses on corporate and government solutions.
             homepage_url: https://bonbloc.com/
