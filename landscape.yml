@@ -1579,6 +1579,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/espeo-software
           - item:
+            name: Espresso Systems (member)
+            description: >-
+              Espresso Systems is a company dedicated to providing tools for building a private and scalable crypto future. They offer the Espresso Sequencer,
+              powered by the HotShot consensus protocol, to enable high throughput and fast pre-confirmations for rollups...
+            homepage_url: https://espressosys.com/
+            logo: espresso_systems.svg
+            organization:
+              name: Espresso Systems
+          - item:
             name: Etherealize (member)
             homepage_url: https://etherealize.com/
             logo: etherealize.svg
@@ -1611,6 +1620,15 @@ landscape:
             homepage_url: https://fairsquarelab.com/
             logo: fairsquarelab.svg
             crunchbase: https://www.crunchbase.com/organization/fairsquare-labs
+          - item:
+            name: First Person Cooperative (member)
+            description: >-
+              the FIRST PERSON NETWORK provides a decentralized global infrastructure for social verification, enabling members to connect directly and
+              privately without intermediaries, surveillance, or advertising.
+            homepage_url: https://firstperson.network/
+            logo: first_person_cooperative.svg
+            organization:
+              name: First Person Cooperative
           - item:
             name: Fujitsu Limited (member)
             description: >-
