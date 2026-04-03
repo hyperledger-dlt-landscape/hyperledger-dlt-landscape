@@ -1582,11 +1582,10 @@ landscape:
             name: Espresso Systems (member)
             description: >-
               Espresso Systems is a company dedicated to providing tools for building a private and scalable crypto future. They offer the Espresso Sequencer,
-              powered by the HotShot consensus protocol, to enable high throughput and fast pre-confirmations for rollups...
+              powered by the HotShot consensus protocol, to enable high throughput and fast pre-confirmations for rollups.
             homepage_url: https://espressosys.com/
             logo: espresso_systems.svg
-            organization:
-              name: Espresso Systems
+            crunchbase: https://www.crunchbase.com/organization/espresso-systems
           - item:
             name: Etherealize (member)
             homepage_url: https://etherealize.com/
