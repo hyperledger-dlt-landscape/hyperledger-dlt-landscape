@@ -1446,15 +1446,7 @@ landscape:
             name: Consensys AG (member)
             homepage_url: https://consensys.io/
             logo: consensys_ag.svg
-            description: |-
-              ConsenSys is a blockchain app production studio. We build decentralized applications for the emerging Ethereum ecosystem. We are working on projects in several niches of that space, some of which are decentralized applications (dApps) and some are utilities for the ecosystem.
-              Specialties: Cryptocurrency, Blockchain, Web 3.0
-              Website: http://ConsenSys.net
-              Industry: Computer Software
-              Type: Privately Held
-              Headquarters: 49 Wyckoff Ave Brooklyn, NY United States
-              Company Size: 51-200 employees 
-              Founded: 2014
+            description: "ConsenSys is a blockchain app production studio. We build decentralized applications for the emerging Ethereum ecosystem. We are working on projects in several niches of that space, some of which are decentralized applications (dApps) and some are utilities for the ecosystem.\nSpecialties: Cryptocurrency, Blockchain, Web 3.0\nWebsite: http://ConsenSys.net\nIndustry: Computer Software\nType: Privately Held\nHeadquarters: 49 Wyckoff Ave Brooklyn, NY United States\nCompany Size: 51-200 employees \nFounded: 2014"
             crunchbase: https://www.crunchbase.com/organization/consensus-systems
             twitter: https://twitter.com/ConsenSys
             extra:
@@ -1523,12 +1515,7 @@ landscape:
             name: Espeo Software (member)
             homepage_url: https://espeo.eu/
             logo: espeo_software.svg
-            description: |-
-              At Espeo, we specialize in developing and implementing innovative fintech solutions. We leverage our deep expertise in areas such as blockchain, online payments, and digital banking to help our clients stay at the forefront of their industries. Think of Espeo Software as a boutique one-stop shop for financial technology.
-
-              We take pride in our in-house consulting team, which has guided numerous clients through the process of designing effective solutions, selecting the most suitable technologies, and implementing private blockchain strategies. As one of only two Hyperledger Certified Service Providers in Europe—and one of 17 globally—we are at the cutting edge of fintech innovation.
-
-              Our consulting network extends even further, incorporating industry experts in finance and banking who complement our in-house capabilities.
+            description: "At Espeo, we specialize in developing and implementing innovative fintech solutions. We leverage our deep expertise in areas such as blockchain, online payments, and digital banking to help our clients stay at the forefront of their industries. Think of Espeo Software as a boutique one-stop shop for financial technology.\n\nWe take pride in our in-house consulting team, which has guided numerous clients through the process of designing effective solutions, selecting the most suitable technologies, and implementing private blockchain strategies. As one of only two Hyperledger Certified Service Providers in Europe—and one of 17 globally—we are at the cutting edge of fintech innovation.\n\nOur consulting network extends even further, incorporating industry experts in finance and banking who complement our in-house capabilities."
             crunchbase: https://www.crunchbase.com/organization/espeo-software
             twitter: https://twitter.com/espeo_software
             extra:
@@ -1683,12 +1670,7 @@ landscape:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
-            description: |-
-              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.
-
-              --- Merged Data:
-
-              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+            description: "Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.\n\n--- Merged Data:\n\nIBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services."
             crunchbase: https://www.crunchbase.com/organization/ibm
             twitter: https://twitter.com/IBM
             extra:
@@ -1710,20 +1692,7 @@ landscape:
             name: IOG Singapore Pte. Ltd (member)
             homepage_url: https://iohk.io/
             logo: iog_singapore_pte.svg
-            description: |-
-              Overview
-              Input Output HK is a research and development company and industry leader in the fields of cryptography and distributed systems. Since the company was founded in 2014 it has pioneered new territory in blockchain research, advancing industry knowledge with the work produced by its global team of cryptographers and researchers. A growing network of academic partnerships supports its research and the Blockchain Technology Laboratory at the University of Edinburgh serves as the global headquarters for its university collaborations. 
-
-              With its twin pillars of research and development, Input Output aims to shorten the time between academic research and its application in industry, while  supporting the education of students who will contribute to the future of the area. All the work Input Output produces is open source and patent-free.
-
-              The company is incorporated in Hong Kong and has a global presence, with now about 70 workers based around the world, including in Japan; the US, the UK, Russia; Latvia; Ukraine and Argentina.
-
-              Website http://iohk.io 
-              Industry Computer Software 
-              Company size 51-200 employees 
-              Type Privately Held 
-              Founded 2014 
-              Specialties Blockchain, Cryptocurrency, Research, Development, Consultancy, and Education
+            description: "Overview\nInput Output HK is a research and development company and industry leader in the fields of cryptography and distributed systems. Since the company was founded in 2014 it has pioneered new territory in blockchain research, advancing industry knowledge with the work produced by its global team of cryptographers and researchers. A growing network of academic partnerships supports its research and the Blockchain Technology Laboratory at the University of Edinburgh serves as the global headquarters for its university collaborations. \n\nWith its twin pillars of research and development, Input Output aims to shorten the time between academic research and its application in industry, while  supporting the education of students who will contribute to the future of the area. All the work Input Output produces is open source and patent-free.\n\nThe company is incorporated in Hong Kong and has a global presence, with now about 70 workers based around the world, including in Japan; the US, the UK, Russia; Latvia; Ukraine and Argentina.\n\nWebsite http://iohk.io \nIndustry Computer Software \nCompany size 51-200 employees \nType Privately Held \nFounded 2014 \nSpecialties Blockchain, Cryptocurrency, Research, Development, Consultancy, and Education"
             crunchbase: https://www.crunchbase.com/organization/input-output
             twitter: https://twitter.com/InputOutputHK
             extra:
@@ -1732,12 +1701,7 @@ landscape:
             name: Japan Securities Clearing Corporation (JSCC) (member)
             homepage_url: https://www.jpx.co.jp/jscc/en/
             logo: japan_securities_clearing_corporation_jscc.svg
-            description: |-
-              Japan Exchange Group (JPX) is a group of exchanges that includes the Tokyo Stock Exchange, Osaka Exchange, and Tokyo Commodity Exchange. They provide a safe and convenient trading environment for market users through comprehensive services.
-
-              --- Merged Data:
-
-              日本取引所グループ（JPX） is an exchange group that operates the Tokyo Stock Exchange, Osaka Exchange, and Tokyo Commodity Exchange, among others. It provides comprehensive services to offer a safe and convenient trading environment for market participants.
+            description: "Japan Exchange Group (JPX) is a group of exchanges that includes the Tokyo Stock Exchange, Osaka Exchange, and Tokyo Commodity Exchange. They provide a safe and convenient trading environment for market users through comprehensive services.\n\n--- Merged Data:\n\n日本取引所グループ（JPX） is an exchange group that operates the Tokyo Stock Exchange, Osaka Exchange, and Tokyo Commodity Exchange, among others. It provides comprehensive services to offer a safe and convenient trading environment for market participants."
             crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
           - item:
             name: Kaleido (member)
@@ -1808,12 +1772,7 @@ landscape:
             name: Oracle America Inc. (member)
             homepage_url: https://oracle.com/
             logo: oracle_america_inc.svg
-            description: |-
-              Headquartered in Austin, Texas, Oracle Corporation is an American multinational computer technology corporation. The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems.
-
-              --- Merged Data:
-
-              Oracle Corporation
+            description: "Headquartered in Austin, Texas, Oracle Corporation is an American multinational computer technology corporation. The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems.\n\n--- Merged Data:\n\nOracle Corporation"
             crunchbase: https://www.crunchbase.com/organization/oracle
             twitter: https://twitter.com/Oracle
             extra:
@@ -1894,29 +1853,7 @@ landscape:
             name: Stellar Development Foundation (member)
             homepage_url: https://stellar.org/
             logo: stellar_development_foundation.svg
-            description: |-
-              About us
-
-              Our mission is open source financial access for all. 
-
-              The Stellar Development Foundation is a nonprofit organization based in San Francisco. We��_��_re building a common financial platform, designed to be open and accessible to everyone.
-
-              Just as the internet allowed anyone to send an email or create a blog, Stellar now allows people to easily send, save, and receive money, without large fees or hassle.
-
-              Recent updateSee all See all recent updates
-              Stellar
-              stellar.org
-              1 Like 7d
-              Company details
-              Website
-              https://www.stellar.org/
-              Year founded
-              2014
-
-              Company type
-              Nonprofit
-
-              Company size
+            description: "About us\n\nOur mission is open source financial access for all. \n\nThe Stellar Development Foundation is a nonprofit organization based in San Francisco. We��_��_re building a common financial platform, designed to be open and accessible to everyone.\n\nJust as the internet allowed anyone to send an email or create a blog, Stellar now allows people to easily send, save, and receive money, without large fees or hassle.\n\nRecent updateSee all See all recent updates\nStellar\nstellar.org\n1 Like 7d\nCompany details\nWebsite\nhttps://www.stellar.org/\nYear founded\n2014\n\nCompany type\nNonprofit\n\nCompany size"
             crunchbase: https://www.crunchbase.com/organization/stellar
             twitter: https://twitter.com/StellarOrg
             extra:
@@ -1951,33 +1888,7 @@ landscape:
             name: Wanchain (member)
             homepage_url: https://wanchain.org/
             logo: wanchain.svg
-            description: |-
-              About us
-              Wanchain is a unique public blockchain with inter-chain transactions and privacy protection.  Wanchain has its own protocol for inter-chain transactions, which is based on locked account and threshold signature. With it, wanchain can support multi-assets trading.
-
-              Recent updateSee all See all recent updates
-              Image accompanying recent update
-              Wanchain 2.0 & WanLabs Meetup Beijing – Wanchain Foundation – Medium
-
-              medium.com
-
-              19 Likes
-              Company details
-              Website
-              https://www.wanchain.org
-              Headquarters
-              Singapore, Singapore
-
-              Year founded
-              2017
-
-              Company type
-              Nonprofit
-
-              Company size
-              11-50 employees
-              Specialties
-              blockchain, Cryptocurrencies, cross-chain, decentralization, wanchain, ethereum, and bitcoin
+            description: "About us\nWanchain is a unique public blockchain with inter-chain transactions and privacy protection.  Wanchain has its own protocol for inter-chain transactions, which is based on locked account and threshold signature. With it, wanchain can support multi-assets trading.\n\nRecent updateSee all See all recent updates\nImage accompanying recent update\nWanchain 2.0 & WanLabs Meetup Beijing – Wanchain Foundation – Medium\n\nmedium.com\n\n19 Likes\nCompany details\nWebsite\nhttps://www.wanchain.org\nHeadquarters\nSingapore, Singapore\n\nYear founded\n2017\n\nCompany type\nNonprofit\n\nCompany size\n11-50 employees\nSpecialties\nblockchain, Cryptocurrencies, cross-chain, decentralization, wanchain, ethereum, and bitcoin"
             crunchbase: https://www.crunchbase.com/organization/wanchain
             twitter: https://twitter.com/wanchain_org
             extra:
@@ -1998,43 +1909,7 @@ landscape:
             name: AAIS (American Association of Insurance Services) (member)
             homepage_url: https://aaisonline.com/
             logo: aais_american_association_of_insurance_services.svg
-            description: |-
-              About us
-              The American Association of Insurance Services (AAIS) is a member-owned, non-profit national insurance advisory organization that provides specialized services to property/casualty insurers.
-
-              More than 700 P/C insurers of all sizes throughout the U.S. use policy forms and/or rating information provided under more than 34 AAIS programs of personal, commercial, agricultural, and inland marine insurers.
-
-              Long-known for its industry-leading inland marine and commercial output programs, AAIS in recent years has set new standards for innovation in agricultural property and liability coverage, and led the way in introducing the first advisory organization plan for rating homeowners policies by peril.
-
-              In addition, AAIS is one of two licensed statistical agents operating nationally that collects P/C statistical information for meeting regulatory requirements and for developing loss costs for use in rating policies.
-
-              In 2013, AAIS made a substantial new departure by launching its "Underwriting Platform,"​ a cloud-based application for underwriting and rating policies and capturing information during the quote process. "UP"​ has been developed to support AAIS's industry-leading Commercial Output Program and key classes of its Inland Marine Guide. In coming months and years, it will be deployed to support all AAIS programs.
-
-              AAIS was created in the mid-1970s as the successor organization to a former inland marine rating bureau and continues to operate under a commitment to preserve competition in bureau services for P/C carriers.
-
-              AAIS is currently led by Edmund J. Kelly, president and CEO, who came to AAIS in 2012 after years of experience in organizations that provided professional liability and property catastrophe insurance.
-
-              Recent updateSee all See all recent updates
-              Image accompanying recent update
-              Come to the InterContinental Buckhead Atlanta on 8/28…and Focus on the Future of Personal Lines with AAIS. During informative, intimate, and interactive sessions, we’ll explore and discuss the major issues facing today’s personal lines #insurance carrier. http://bit.ly/2ItlbFu
-
-              7 Likes
-              Company details
-              Website
-              http://www.AAISonline.com
-              Headquarters
-              Lisle, IL
-
-              Year founded
-              1936
-
-              Company type
-              Nonprofit
-
-              Company size
-              51-200 employees
-              Specialties
-              P/C insurance policy forms, loss cost rating information, manual rules, statistical reporting, product compliance, and data analysis
+            description: "About us\nThe American Association of Insurance Services (AAIS) is a member-owned, non-profit national insurance advisory organization that provides specialized services to property/casualty insurers.\n\nMore than 700 P/C insurers of all sizes throughout the U.S. use policy forms and/or rating information provided under more than 34 AAIS programs of personal, commercial, agricultural, and inland marine insurers.\n\nLong-known for its industry-leading inland marine and commercial output programs, AAIS in recent years has set new standards for innovation in agricultural property and liability coverage, and led the way in introducing the first advisory organization plan for rating homeowners policies by peril.\n\nIn addition, AAIS is one of two licensed statistical agents operating nationally that collects P/C statistical information for meeting regulatory requirements and for developing loss costs for use in rating policies.\n\nIn 2013, AAIS made a substantial new departure by launching its \"Underwriting Platform,\"​ a cloud-based application for underwriting and rating policies and capturing information during the quote process. \"UP\"​ has been developed to support AAIS's industry-leading Commercial Output Program and key classes of its Inland Marine Guide. In coming months and years, it will be deployed to support all AAIS programs.\n\nAAIS was created in the mid-1970s as the successor organization to a former inland marine rating bureau and continues to operate under a commitment to preserve competition in bureau services for P/C carriers.\n\nAAIS is currently led by Edmund J. Kelly, president and CEO, who came to AAIS in 2012 after years of experience in organizations that provided professional liability and property catastrophe insurance.\n\nRecent updateSee all See all recent updates\nImage accompanying recent update\nCome to the InterContinental Buckhead Atlanta on 8/28…and Focus on the Future of Personal Lines with AAIS. During informative, intimate, and interactive sessions, we’ll explore and discuss the major issues facing today’s personal lines #insurance carrier. http://bit.ly/2ItlbFu\n\n7 Likes\nCompany details\nWebsite\nhttp://www.AAISonline.com\nHeadquarters\nLisle, IL\n\nYear founded\n1936\n\nCompany type\nNonprofit\n\nCompany size\n51-200 employees\nSpecialties\nP/C insurance policy forms, loss cost rating information, manual rules, statistical reporting, product compliance, and data analysis"
             twitter: https://twitter.com/AAISConnect
             extra:
               linkedin_url: https://www.linkedin.com/company/aais-american-association-of-insurance-services
@@ -2085,12 +1960,7 @@ landscape:
             name: Blockchain For Energy (member)
             homepage_url: https://blockchainforenergy.net/
             logo: blockchain_for_energy.svg
-            description: |-
-              Blockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain technology to enhance efficiency, reduce costs, and streamline processes within the industry.
-
-              --- Merged Data:
-
-              Blockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain technology to enhance efficiency, reduce costs, and streamline processes within the industry.
+            description: "Blockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain technology to enhance efficiency, reduce costs, and streamline processes within the industry.\n\n--- Merged Data:\n\nBlockchain For Energy is focused on transforming the energy sector by developing collaborative frameworks and guidelines that utilize blockchain technology to enhance efficiency, reduce costs, and streamline processes within the industry."
             crunchbase: https://www.crunchbase.com/organization/blockchain-for-energy
           - item:
             name: Blockchain Research Institute (Tapscott Group) (member)
@@ -2135,27 +2005,7 @@ landscape:
             name: China Academy of Information and Communications Technology (CAICT) (member)
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
-            description: |-
-              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
-
-              · Decision-Making Support
-              · Test beds
-              · Test and Certification
-              · Consultancy
-              · Regulation services
-
-              Business Departments
-
-              Policy and Economics Research Institute
-              Technology and Standards Research Institute
-              Industry and Planning Research Institute
-              Cloud Computing & Big Data Research Institute
-              Informatization and Industrialization Integration Research Institute
-              Security Research Institute
-              CTTL System Laboratory
-              CTTL Terminal labs
-              TL Certification Institute
-              ICT Project Quota & Quality Supervision Center
+            description: "Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...\n\n· Decision-Making Support\n· Test beds\n· Test and Certification\n· Consultancy\n· Regulation services\n\nBusiness Departments\n\nPolicy and Economics Research Institute\nTechnology and Standards Research Institute\nIndustry and Planning Research Institute\nCloud Computing & Big Data Research Institute\nInformatization and Industrialization Integration Research Institute\nSecurity Research Institute\nCTTL System Laboratory\nCTTL Terminal labs\nTL Certification Institute\nICT Project Quota & Quality Supervision Center"
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: CPQD (member)
@@ -2179,12 +2029,7 @@ landscape:
             name: DeCurret DCP Inc (member)
             homepage_url: https://www.decurret-dcp.com/en/
             logo: decurret_dcp_inc.svg
-            description: |-
-              ディーカレットDCP is a company that aims to digitize all currencies and values, contributing to the creation of a prosperous society.
-
-              --- Merged Data:
-
-              Decurret DCP digitizes currencies and values for societal prosperity, focusing on DX platform development and industry events like FIN/SUM2024.
+            description: "ディーカレットDCP is a company that aims to digitize all currencies and values, contributing to the creation of a prosperous society.\n\n--- Merged Data:\n\nDecurret DCP digitizes currencies and values for societal prosperity, focusing on DX platform development and industry events like FIN/SUM2024."
           - item:
             name: Deutsche Bundesbank (member)
             homepage_url: https://bundesbank.de/
@@ -2240,23 +2085,7 @@ landscape:
             name: ETC Cooperative (The Ethereum Classic Cooperative) (member)
             homepage_url: https://etccooperative.org/
             logo: etc_cooperative_the_ethereum_classic_cooperative.svg
-            description: |-
-              Overview
-              The ETC Cooperative (the “ECC”) was created to financially support the growth and development of Ethereum Classic by funding three key aspects of the ETC ecosystem: development, marketing, and community.
-
-              Aid development by filling in gaps where projects are out of scope for our development teams and providing funding to projects that community members want to create.
-
-              Improve marketing by communicating ETC’s message and helping newcomers understand the strengths of ETC’s open and decentralized nature.
-
-              Foster community by making sure the various resources the community uses are well stewarded; this includes websites, social media, forums, and documentation.
-
-              Websitehttps://etccooperative.org/IndustryComputer SoftwareCompany size2-10 employees2 on LinkedIn 
-              Includes members with current employer listed as The Ethereum Classic Cooperative, including part-time roles.
-              Type Privately Held
-              Founded 2017
-              Locations (1)
-              Primary
-              636 6th Ave, New York, US
+            description: "Overview\nThe ETC Cooperative (the “ECC”) was created to financially support the growth and development of Ethereum Classic by funding three key aspects of the ETC ecosystem: development, marketing, and community.\n\nAid development by filling in gaps where projects are out of scope for our development teams and providing funding to projects that community members want to create.\n\nImprove marketing by communicating ETC’s message and helping newcomers understand the strengths of ETC’s open and decentralized nature.\n\nFoster community by making sure the various resources the community uses are well stewarded; this includes websites, social media, forums, and documentation.\n\nWebsitehttps://etccooperative.org/IndustryComputer SoftwareCompany size2-10 employees2 on LinkedIn \nIncludes members with current employer listed as The Ethereum Classic Cooperative, including part-time roles.\nType Privately Held\nFounded 2017\nLocations (1)\nPrimary\n636 6th Ave, New York, US"
             crunchbase: https://www.crunchbase.com/organization/etc-cooperative
             twitter: https://twitter.com/ETCCooperative
             extra:
@@ -2437,30 +2266,7 @@ landscape:
             name: Smart Dubai Government Est. (member)
             homepage_url: https://dubai.ae/
             logo: smart_dubai_government_est.svg
-            description: |-
-              DR. SOHAIL MUNIR	Smart Dubai Gov. Est.	
-              ��_��_. ��__��_��_��__��_��_ ��_��_��_��_��_��_��__��_��_
-              Advisor Emerging Technologies and Digital Transformation	
-              ��_��_��__��_��_��_��_��_��_��_��_��__ ��_��_��_��ȕ�_��_��_��_��__��_��_��_��_ ��_��_��_��_��_��_��_��_��_��_��__��_��_ ��_��_��_��_��_��ȕ�__��_��_��_��_ ��_��_��_�����_��_��_��_��__
-              Smart Dubai Government Est.	
-              ��_��_��__��__��_��_ ��__��_��_��_��_��_����_ ��_��_��_��_��__ ��_��_��_�����_��_��__��_��_
-
-
-
-
-              D: 04 5599641	
-              04 5599641 :��_����_��_��_��_��_��_��_
-
-              M: 055-9804444	
-              055-9804444 :��_����_��__��_��_��_��_
-
-              P.O.Box: 90300, Dubai, UAE	
-              ��_��_��_��_��_��_��_��_��_��_ ��_��_��_���_��_��__��_��_ : 90300  ��_��_��_��_��__ ��_��_ ��_��_.��__.��_��_.
-
-              sohail.munir@dsg.gov.ae	
-              sohail.munir@dsg.gov.ae
-
-              http://www.dubai.ae
+            description: "DR. SOHAIL MUNIR\tSmart Dubai Gov. Est.\t\n��_��_. ��__��_��_��__��_��_ ��_��_��_��_��_��_��__��_��_\nAdvisor Emerging Technologies and Digital Transformation\t\n��_��_��__��_��_��_��_��_��_��_��_��__ ��_��_��_��ȕ�_��_��_��_��__��_��_��_��_ ��_��_��_��_��_��_��_��_��_��_��__��_��_ ��_��_��_��_��_��ȕ�__��_��_��_��_ ��_��_��_�����_��_��_��_��__\nSmart Dubai Government Est.\t\n��_��_��__��__��_��_ ��__��_��_��_��_��_����_ ��_��_��_��_��__ ��_��_��_�����_��_��__��_��_\n\n\n\n\nD: 04 5599641\t\n04 5599641 :��_����_��_��_��_��_��_��_\n\nM: 055-9804444\t\n055-9804444 :��_����_��__��_��_��_��_\n\nP.O.Box: 90300, Dubai, UAE\t\n��_��_��_��_��_��_��_��_��_��_ ��_��_��_��\x95�_��_��__��_��_ : 90300  ��_��_��_��_��__ ��_��_ ��_��_.��__.��_��_.\n\nsohail.munir@dsg.gov.ae\t\nsohail.munir@dsg.gov.ae\n\nhttp://www.dubai.ae"
             crunchbase: https://www.crunchbase.com/organization/smartdubai
             twitter: https://twitter.com/SmartDubai
             extra:
@@ -2493,10 +2299,7 @@ landscape:
             name: The Digital Dollar Project (member)
             homepage_url: https://digitaldollarproject.org/
             logo: the_digital_dollar_project.svg
-            description: |-
-              Digital Dollar Project
-                LEADING THE DISCUSSION ON A U.S. CENTRAL BANK DIGITAL CURRENCY
-                The Digital Dollar Project is a partnership between Accenture (NYSE: ACN) and the Digital Dollar Foundation to advance exploration of
+            description: "Digital Dollar Project\n  LEADING THE DISCUSSION ON A U.S. CENTRAL BANK DIGITAL CURRENCY\n  The Digital Dollar Project is a partnership between Accenture (NYSE: ACN) and the Digital Dollar Foundation to advance exploration of"
             twitter: https://twitter.com/Digital_Dollar_
             extra:
               linkedin_url: https://www.linkedin.com/company/the-digital-dollar-project
@@ -2522,25 +2325,7 @@ landscape:
             name: United Nations (International Computing Centre) (member)
             homepage_url: https://unicc.org/
             logo: united_nations_international_computing_centre.svg
-            description: |-
-              The International Computing Centre (ICC) has nearly 50 years of experience providing Information and Communications Technology (ICT) services to United Nations programmes, funds and entities. Its mission is to provide ICT services to the United Nations family, maximise the sharing of infrastructure, systems and skills and generate economies of scale to benefit its over 60 Clients, including over 40 Partner Organizations (those with membership or representation in ICC’s Management Committee), as well as other United Nations or related not-for-profit entities.
-
-               
-
-              The organization has a strategic view of ICT support for United Nations goals and results, with expertise and complex knowledge about their ICT environments. As a United Nations entity, ICC is uniquely positioned to understand and meet the needs of its Clients.
-
-               
-
-              ICC provides trusted shared services and digital business solutions to United Nations entities, offering cost savings, business efficiencies, and volume discounts based on the scale of its engagements. ICC operates on a full cost recovery basis, with surplus funds being refunded at the end of projects or initiatives. Clients can focus on core business activities by leveraging ICC’s services, built upon industry best practices, standards and documented business processes subject to a Continuous Process Improvement cycle.
-
-              New York address:
-              1st Ave. at 42nd St
-              New York, NY 10017
-
-              International Address:
-              Chemin Du Pavillion, 2
-              Grand Saconnex
-              Geneva, Switzerland 1218
+            description: "The International Computing Centre (ICC) has nearly 50 years of experience providing Information and Communications Technology (ICT) services to United Nations programmes, funds and entities. Its mission is to provide ICT services to the United Nations family, maximise the sharing of infrastructure, systems and skills and generate economies of scale to benefit its over 60 Clients, including over 40 Partner Organizations (those with membership or representation in ICC’s Management Committee), as well as other United Nations or related not-for-profit entities.\n\n \n\nThe organization has a strategic view of ICT support for United Nations goals and results, with expertise and complex knowledge about their ICT environments. As a United Nations entity, ICC is uniquely positioned to understand and meet the needs of its Clients.\n\n \n\nICC provides trusted shared services and digital business solutions to United Nations entities, offering cost savings, business efficiencies, and volume discounts based on the scale of its engagements. ICC operates on a full cost recovery basis, with surplus funds being refunded at the end of projects or initiatives. Clients can focus on core business activities by leveraging ICC’s services, built upon industry best practices, standards and documented business processes subject to a Continuous Process Improvement cycle.\n\nNew York address:\n1st Ave. at 42nd St\nNew York, NY 10017\n\nInternational Address:\nChemin Du Pavillion, 2\nGrand Saconnex\nGeneva, Switzerland 1218"
             crunchbase: https://www.crunchbase.com/organization/united-nations
             twitter: https://twitter.com/unicc_ict
             extra:
@@ -2578,7 +2363,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bonbloc
           - item:
             name: BRBPO Tecnologia e Servicços S.A.
-            description: 'Government, Brazil Public Sector, and Financial Services. Service Digitalization. '
+            description: Government, Brazil Public Sector, and Financial Services. Service Digitalization.
             homepage_url: https://brbpo.com.br/
             logo: brbpo.svg
           - item:
