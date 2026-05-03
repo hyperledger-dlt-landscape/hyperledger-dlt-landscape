@@ -2039,6 +2039,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/aais-american-association-of-insurance-services
           - item:
+            name: Advanced AI Society (member)
+            homepage_url: https://advancedaisociety.org/
+            logo: advanced_ai_society.svg
+            description: Advanced AI Society is a neutral organization of leading AI innovators that develops and promotes solutions focused on enhancing privacy, verification, and transparency within the AI ecosystem, specifically through decentralized GPU markets, consent on...
+          - item:
             name: Alastria Blockchain Ecosystem (member)
             homepage_url: https://alastria.io/
             logo: alastria_blockchain_ecosystem.svg
