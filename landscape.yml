@@ -1944,6 +1944,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/valorcapitalgroup
           - item:
+            name: Vana Inc (member)
+            homepage_url: https://vana.org/
+            logo: vana_inc.svg
+            description: The Open Network For User Owned Data
+            crunchbase: https://www.crunchbase.com/organization/toca-4c9d
+          - item:
             name: Walmart Inc. (member)
             homepage_url: https://walmart.com/
             logo: walmart_inc.svg
