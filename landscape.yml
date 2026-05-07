@@ -1364,6 +1364,7 @@ landscape:
             name: Linea Consortium (member)
             homepage_url: https://consortium.linea.build/
             logo: linea_consortium.svg
+            description: The Linea Consortium (LC) represents the voice of Ethereum in the form of a council of key Ethereum stewards guiding the Linea Protocol and maintaining its foundational commitment to Ethereum-first alignment.
             crunchbase: https://www.crunchbase.com/organization/linea-586e
           - item:
             name: OpenAssets (member)
@@ -1943,6 +1944,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/valor-capital
             extra:
               linkedin_url: https://www.linkedin.com/company/valorcapitalgroup
+          - item:
+            name: Vana Inc (member)
+            homepage_url: https://vana.org/
+            logo: vana_inc.svg
+            description: The Open Network For User Owned Data
+            crunchbase: https://www.crunchbase.com/organization/toca-4c9d
           - item:
             name: Walmart Inc. (member)
             homepage_url: https://walmart.com/
