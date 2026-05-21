@@ -1493,15 +1493,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dfnshq
           - item:
-            name: Dhiway Networks Private Limited (member)
-            homepage_url: https://dhiway.com/
-            logo: dhiway_networks_private_limited.svg
-            description: A verifiable data exchange platform delivering authenticity across institutional boundaries.
-            crunchbase: https://www.crunchbase.com/organization/dhiway
-            twitter: https://twitter.com/dhiwaynetworks
-            extra:
-              linkedin_url: https://www.linkedin.com/company/dhiway
-          - item:
             name: Digital Asset (Switzerland) GmbH (member)
             homepage_url: https://digitalasset.com/
             logo: digital_asset_switzerland_gmbh.svg
