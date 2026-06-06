@@ -1989,6 +1989,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/wanchain
           - item:
+            name: Zeeve Inc (member)
+            homepage_url: https://zeeve.io/
+            logo: zeeve_inc.svg
+            description: Most Secure Decentralized Infrastructure Protocol.  Bringing next generation TEE based secure and privacy driven P2P infrastructure.
+            crunchbase: https://www.crunchbase.com/organization/zeeve
+            twitter: https://twitter.com/0xZeeve
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zeevedeeptech
+          - item:
             name: Zoniqx Inc. (member)
             homepage_url: https://zoniqx.com/
             logo: zoniqx_inc.svg
