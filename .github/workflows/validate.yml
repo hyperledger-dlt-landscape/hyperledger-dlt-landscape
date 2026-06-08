@@ -1,6 +1,7 @@
 name: Validate Landscape
 
 on:
+  workflow_dispatch:
   merge_group:
   pull_request:
     branches:
