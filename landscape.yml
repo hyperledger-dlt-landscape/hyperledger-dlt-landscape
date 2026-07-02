@@ -1550,9 +1550,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ethereum
           - item:
-            name: Exponential Science Foundation (member)
+            name: Exponential Science (member)
             homepage_url: https://exp.science/
-            logo: exponential_science_foundation.svg
+            logo: exponential_science.svg
             description: Exponential Science is a foundation led by visionary founders Dr. Paolo Tasca and Nikhil Vadgama, who have advanced emerging technologies through education, research, and innovation. Recognising the power of the convergence of technologies such as blockchain, AI, and IoT to tackle complex multidisciplinary challenges, they founded the ExponentialScience as a natural evolution of their long-standing work, aiming to strive towards a more inclusive and innovative future for all.
             crunchbase: https://www.crunchbase.com/organization/exponential-science
           - item:
@@ -1651,6 +1651,7 @@ landscape:
             homepage_url: https://hypernative.io/
             logo: hypernative_inc.svg
             description: Hypernative is an early stage startup that provides proactive security and risk prevention solutions for blockchain, crypto, and Web3 software development. They detect attacks in progress, prevent losses in real time, and offer actionable insights to m...
+            crunchbase: https://www.crunchbase.com/organization/hypernative
           - item:
             name: Identity Digital Inc. (member)
             homepage_url: https://identity.digital/
