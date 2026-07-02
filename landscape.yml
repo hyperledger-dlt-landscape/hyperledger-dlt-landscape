@@ -1647,6 +1647,11 @@ landscape:
             description: Horizen is a proof verification network enabling cost-effective settlement for blockchain stacks. It offers Layer 2 adoption and a zero-knowledge-enabled network of blockchains, emphasizing security and interoperability.
             crunchbase: https://www.crunchbase.com/organization/horizen
           - item:
+            name: Hypernative Inc (member)
+            homepage_url: https://hypernative.io/
+            logo: hypernative_inc.svg
+            description: Hypernative is an early stage startup that provides proactive security and risk prevention solutions for blockchain, crypto, and Web3 software development. They detect attacks in progress, prevent losses in real time, and offer actionable insights to m...
+          - item:
             name: Identity Digital Inc. (member)
             homepage_url: https://identity.digital/
             logo: identity_digital_inc.svg
