@@ -2081,6 +2081,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/stpiindia
           - item:
+            name: Applied Technology Lab (member)
+            homepage_url: https://seas.harvard.edu/
+            logo: applied_technology_lab.svg
+            description: Harvard University is an Ivy League research university that provides a comprehensive higher education experience, focusing on excellence in teaching, learning, and research while developing leaders across various disciplines who aim to make a global i...
+          - item:
             name: Banco Central do Brasil (member)
             homepage_url: https://bcb.gov.br/
             logo: banco_central_do_brasil.svg
