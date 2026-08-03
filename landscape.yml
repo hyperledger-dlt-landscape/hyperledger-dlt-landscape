@@ -1466,6 +1466,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/consensus-systems-consensys-
           - item:
+            name: Cosmos Labs US Inc. (member)
+            homepage_url: https://cosmos.network/
+            logo: cosmos_labs_us_inc.svg
+            description: 'Cosmos: The Internet of Blockchains develops an expansive ecosystem of interoperable and sovereign blockchain applications and services designed to facilitate a decentralized future through the concept of the Interchain.'
+            crunchbase: https://www.crunchbase.com/organization/cosmos-network
+          - item:
             name: DABCo Ltd (member)
             homepage_url: https://pairpoint.io/
             logo: dabco_ltd.svg
