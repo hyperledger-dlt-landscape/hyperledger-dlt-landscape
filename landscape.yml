@@ -2307,6 +2307,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/european-blockchain-association-e-v
           - item:
+            name: EUROPEUM (member)
+            homepage_url: https://europeum.eu/
+            logo: europeum.svg
+            description: Europeum is built by a consortium of member states to operate and scale trusted digital infrastructures, enabling secure, transparent, and interoperable services across Europe.
+          - item:
             name: Federal Reserve Bank of Boston (member)
             homepage_url: https://bostonfed.org/
             logo: federal_reserve_bank_of_boston.svg
