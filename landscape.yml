@@ -2206,8 +2206,7 @@ landscape:
             name: Decentralized Identity Foundation (member)
             homepage_url: https://identity.foundation/
             logo: decentralized_identity_foundation.svg
-            description: Building an open source decentralized identity ecosystem for people, organizations, and devices that enables a new class of apps and services.
-            crunchbase: https://www.crunchbase.com/organization/decentralized-identity-foundation
+            description: The Decentralized Identity Foundation (DIF) was established to create an IP-protected environment for decentralized identity-related specifications and open-source code development. We promote the use of DIDs, VCs, and related decentralized identity technologies. DIF maintains more than 270 GitHub repositories that have been contributed or developed by members and working groups. DIF functions as a proto-standards body for rapid development and publication of technical specifications and reference implementations for decentralized identity. DIF operates as a Joint Development Project of the Linux Foundation, which provides the governance and fiscal frameworks trusted by organizations worldwide. Many of DIF’s initial standards have gone on to become recognized standards in larger standards bodies.
             twitter: https://twitter.com/DecentralizedID
             extra:
               linkedin_url: https://www.linkedin.com/company/decentralized-identity-foundation
@@ -2306,6 +2305,11 @@ landscape:
             twitter: https://twitter.com/EUBLASORG
             extra:
               linkedin_url: https://www.linkedin.com/company/european-blockchain-association-e-v
+          - item:
+            name: EUROPEUM (member)
+            homepage_url: https://europeum.eu/
+            logo: europeum.svg
+            description: Europeum is built by a consortium of member states to operate and scale trusted digital infrastructures, enabling secure, transparent, and interoperable services across Europe.
           - item:
             name: Federal Reserve Bank of Boston (member)
             homepage_url: https://bostonfed.org/
