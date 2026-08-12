@@ -1691,6 +1691,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/intellecteu
           - item:
+            name: Interchain Siftung (member)
+            homepage_url: https://interchain.io/
+            logo: interchain_siftung.svg
+            description: The Interchain Foundation is a key player in the blockchain space, focusing on building and stewarding the Cosmos ecosystem. They fund and advance the creation of an interoperable, sustainable, and community-owned decentralized ecosystem.
+            crunchbase: https://www.crunchbase.com/organization/interchain-foundation
+          - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
