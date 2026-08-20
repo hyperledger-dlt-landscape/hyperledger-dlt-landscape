@@ -2027,50 +2027,6 @@ landscape:
         name: Associate
         items:
           - item:
-            name: AAIS (American Association of Insurance Services) (member)
-            homepage_url: https://aaisonline.com/
-            logo: aais_american_association_of_insurance_services.svg
-            description: |-
-              About us
-              The American Association of Insurance Services (AAIS) is a member-owned, non-profit national insurance advisory organization that provides specialized services to property/casualty insurers.
-
-              More than 700 P/C insurers of all sizes throughout the U.S. use policy forms and/or rating information provided under more than 34 AAIS programs of personal, commercial, agricultural, and inland marine insurers.
-
-              Long-known for its industry-leading inland marine and commercial output programs, AAIS in recent years has set new standards for innovation in agricultural property and liability coverage, and led the way in introducing the first advisory organization plan for rating homeowners policies by peril.
-
-              In addition, AAIS is one of two licensed statistical agents operating nationally that collects P/C statistical information for meeting regulatory requirements and for developing loss costs for use in rating policies.
-
-              In 2013, AAIS made a substantial new departure by launching its "Underwriting Platform,"​ a cloud-based application for underwriting and rating policies and capturing information during the quote process. "UP"​ has been developed to support AAIS's industry-leading Commercial Output Program and key classes of its Inland Marine Guide. In coming months and years, it will be deployed to support all AAIS programs.
-
-              AAIS was created in the mid-1970s as the successor organization to a former inland marine rating bureau and continues to operate under a commitment to preserve competition in bureau services for P/C carriers.
-
-              AAIS is currently led by Edmund J. Kelly, president and CEO, who came to AAIS in 2012 after years of experience in organizations that provided professional liability and property catastrophe insurance.
-
-              Recent updateSee all See all recent updates
-              Image accompanying recent update
-              Come to the InterContinental Buckhead Atlanta on 8/28…and Focus on the Future of Personal Lines with AAIS. During informative, intimate, and interactive sessions, we’ll explore and discuss the major issues facing today’s personal lines #insurance carrier. http://bit.ly/2ItlbFu
-
-              7 Likes
-              Company details
-              Website
-              http://www.AAISonline.com
-              Headquarters
-              Lisle, IL
-
-              Year founded
-              1936
-
-              Company type
-              Nonprofit
-
-              Company size
-              51-200 employees
-              Specialties
-              P/C insurance policy forms, loss cost rating information, manual rules, statistical reporting, product compliance, and data analysis
-            twitter: https://twitter.com/AAISConnect
-            extra:
-              linkedin_url: https://www.linkedin.com/company/aais-american-association-of-insurance-services
-          - item:
             name: Advanced AI Society (member)
             homepage_url: https://advancedaisociety.org/
             logo: advanced_ai_society.svg
@@ -2242,14 +2198,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/digital-euro-association
           - item:
-            name: Digital Identity Laboratory of Canada (member)
-            homepage_url: https://idlab.org/
-            logo: digital_identity_laboratory_of_canada.svg
-            description: Pour que la confiance règne en identité numérique
-            twitter: https://twitter.com/idlaborg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/idlab-org
-          - item:
             name: Digital Pound Foundation (member)
             homepage_url: https://digitalpoundfoundation.com/
             logo: digital_pound_foundation.svg
@@ -2277,31 +2225,6 @@ landscape:
             homepage_url: https://erc3643.org/
             logo: erc_3643_association.svg
             description: The ERC3643 Association is a non-profit organization dedicated to promoting the ERC-3643 standard for tokenizing real-world assets (RWAs) with built-in, on-chain compliance. Founded by industry leaders including Tokeny, Apex Group, and Archax, it ensures regulatory compliance for security tokens via identity verification (KYC/AML).
-          - item:
-            name: ETC Cooperative (The Ethereum Classic Cooperative) (member)
-            homepage_url: https://etccooperative.org/
-            logo: etc_cooperative_the_ethereum_classic_cooperative.svg
-            description: |-
-              Overview
-              The ETC Cooperative (the “ECC”) was created to financially support the growth and development of Ethereum Classic by funding three key aspects of the ETC ecosystem: development, marketing, and community.
-
-              Aid development by filling in gaps where projects are out of scope for our development teams and providing funding to projects that community members want to create.
-
-              Improve marketing by communicating ETC’s message and helping newcomers understand the strengths of ETC’s open and decentralized nature.
-
-              Foster community by making sure the various resources the community uses are well stewarded; this includes websites, social media, forums, and documentation.
-
-              Websitehttps://etccooperative.org/IndustryComputer SoftwareCompany size2-10 employees2 on LinkedIn 
-              Includes members with current employer listed as The Ethereum Classic Cooperative, including part-time roles.
-              Type Privately Held
-              Founded 2017
-              Locations (1)
-              Primary
-              636 6th Ave, New York, US
-            crunchbase: https://www.crunchbase.com/organization/etc-cooperative
-            twitter: https://twitter.com/ETCCooperative
-            extra:
-              linkedin_url: https://www.linkedin.com/company/etc-cooperative
           - item:
             name: European Blockchain Association e.V. (member)
             homepage_url: https://europeanblockchainassociation.org/
@@ -2370,15 +2293,6 @@ landscape:
             description: IC3 (Initiative for cryptocurrency and Contract) is an initiative of faculty members at Cornell University, Cornell Tech, UC Berkeley, UIUC and the Technion. IC3 is collaborating with domain experts in finance and banking, entrepreneurs, regulators, an...
             crunchbase: https://www.crunchbase.com/organization/initiative-for-cryptocurrencies-and-contracts
             twitter: https://twitter.com/initc3org
-          - item:
-            name: Inter-American Development Bank (dba LACChain) (member)
-            homepage_url: https://lacchain.net/
-            logo: inter_american_development_bank_dba_lacchain.svg
-            description: The IDB is the main source of multilateral financing for economic, social and institutional development projects and trade and regional integration programs in Latin America and the Caribbean. It is the oldest and largest regional development bank.
-            crunchbase: https://www.crunchbase.com/organization/inter-american-development-bank
-            twitter: https://twitter.com/LACChain
-            extra:
-              linkedin_url: https://www.linkedin.com/company/inter-american-development-bank
           - item:
             name: International Association for Trusted Blockchain Applications (INATBA) (member)
             homepage_url: https://inatba.org/
@@ -2479,47 +2393,6 @@ landscape:
             twitter: https://twitter.com/SERPRO
             extra:
               linkedin_url: https://www.linkedin.com/company/serpro
-          - item:
-            name: Smart Dubai Government Est. (member)
-            homepage_url: https://dubai.ae/
-            logo: smart_dubai_government_est.svg
-            description: |-
-              DR. SOHAIL MUNIR	Smart Dubai Gov. Est.	
-              ��_��_. ��__��_��_��__��_��_ ��_��_��_��_��_��_��__��_��_
-              Advisor Emerging Technologies and Digital Transformation	
-              ��_��_��__��_��_��_��_��_��_��_��_��__ ��_��_��_��ȕ�_��_��_��_��__��_��_��_��_ ��_��_��_��_��_��_��_��_��_��_��__��_��_ ��_��_��_��_��_��ȕ�__��_��_��_��_ ��_��_��_�����_��_��_��_��__
-              Smart Dubai Government Est.	
-              ��_��_��__��__��_��_ ��__��_��_��_��_��_����_ ��_��_��_��_��__ ��_��_��_�����_��_��__��_��_
-
-
-
-
-              D: 04 5599641	
-              04 5599641 :��_����_��_��_��_��_��_��_
-
-              M: 055-9804444	
-              055-9804444 :��_����_��__��_��_��_��_
-
-              P.O.Box: 90300, Dubai, UAE	
-              ��_��_��_��_��_��_��_��_��_��_ ��_��_��_���_��_��__��_��_ : 90300  ��_��_��_��_��__ ��_��_ ��_��_.��__.��_��_.
-
-              sohail.munir@dsg.gov.ae	
-              sohail.munir@dsg.gov.ae
-
-              http://www.dubai.ae
-            crunchbase: https://www.crunchbase.com/organization/smartdubai
-            twitter: https://twitter.com/SmartDubai
-            extra:
-              linkedin_url: https://www.linkedin.com/company/digital-dubai
-          - item:
-            name: Sovrin Foundation (member)
-            homepage_url: https://sovrin.org/
-            logo: sovrin_foundation.svg
-            description: The Sovrin Foundation is a private-sector, international non-profit that was established to govern the world’s first self-sovereign identity (SSI) network.
-            crunchbase: https://www.crunchbase.com/organization/sovrin-foundation
-            twitter: https://twitter.com/SovrinID
-            extra:
-              linkedin_url: https://www.linkedin.com/company/sovrin-foundation
           - item:
             name: Tecnalia Corporation (member)
             homepage_url: https://tecnalia.com/
