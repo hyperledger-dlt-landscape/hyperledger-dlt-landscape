@@ -1939,6 +1939,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/stellar-development-foundation
           - item:
+            name: Sui (member)
+            homepage_url: https://sui.io/
+            logo: sui.svg
+            description: 'Sui: Revolutionizing digital asset ownership with Web3 benefits and Web2 ease, offering speed, low fees, and security for individuals and creators.'
+            crunchbase: https://www.crunchbase.com/organization/sui-foundation
+          - item:
             name: Tata Consultancy Services Limited (member)
             homepage_url: https://tcs.com/
             logo: tata_consultancy_services_limited.svg
