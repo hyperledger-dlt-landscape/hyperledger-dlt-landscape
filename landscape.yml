@@ -1424,6 +1424,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/brbpo
           - item:
+            name: Brickken (member)
+            homepage_url: https://brickken.com/
+            logo: brickken.svg
+            description: Brickken simplifies digital asset tokenization, enabling companies to create, sell, and manage tokens easily, democratizing access to the token economy.
+          - item:
+            name: CertiK (member)
+            homepage_url: https://certik.com/
+            logo: certik.svg
+            description: CertiK is a leading blockchain security company offering smart contract audits, KYC, monitoring, and penetration testing services. Founded in 2018, they secure the web3 world, working with top projects like Aave and Binance Smart Chain.
+          - item:
             name: Chainlink Labs (member)
             homepage_url: https://chainlinklabs.com/
             logo: chainlink_labs.svg
