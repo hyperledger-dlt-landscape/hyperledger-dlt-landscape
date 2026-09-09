@@ -1428,11 +1428,13 @@ landscape:
             homepage_url: https://brickken.com/
             logo: brickken.svg
             description: Brickken simplifies digital asset tokenization, enabling companies to create, sell, and manage tokens easily, democratizing access to the token economy.
+            crunchbase: https://www.crunchbase.com/organization/brickken
           - item:
             name: CertiK (member)
             homepage_url: https://certik.com/
             logo: certik.svg
             description: CertiK is a leading blockchain security company offering smart contract audits, KYC, monitoring, and penetration testing services. Founded in 2018, they secure the web3 world, working with top projects like Aave and Binance Smart Chain.
+            crunchbase: https://www.crunchbase.com/organization/certik
           - item:
             name: Chainlink Labs (member)
             homepage_url: https://chainlinklabs.com/
@@ -2241,6 +2243,12 @@ landscape:
             homepage_url: https://erc3643.org/
             logo: erc_3643_association.svg
             description: The ERC3643 Association is a non-profit organization dedicated to promoting the ERC-3643 standard for tokenizing real-world assets (RWAs) with built-in, on-chain compliance. Founded by industry leaders including Tokeny, Apex Group, and Archax, it ensures regulatory compliance for security tokens via identity verification (KYC/AML).
+          - item:
+            name: Ethereum Institutional (member)
+            homepage_url: https://ethereuminstitutional.org/
+            logo: ethereum_institutional.svg
+            description: Ethereum Institutional is an independent non-profit organization focused on promoting and facilitating the institutional adoption of Ethereum and its layer 2 solutions, applications, and overall ecosystem.
+            crunchbase: https://www.crunchbase.com/organization/ethereum-institutional
           - item:
             name: European Blockchain Association e.V. (member)
             homepage_url: https://europeanblockchainassociation.org/
