@@ -1568,6 +1568,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ethereum
           - item:
+            name: EthSystems (member)
+            homepage_url: https://ethsystems.org/
+            logo: ethsystems.svg
+            description: EthSystems helps institutions move on-chain with privacy that's performant, secure, usable, and accessible, disclosing only what the rules require.
+            crunchbase: https://www.crunchbase.com/organization/ethsystems
+          - item:
             name: Exponential Science (member)
             homepage_url: https://exp.science/
             logo: exponential_science.svg
