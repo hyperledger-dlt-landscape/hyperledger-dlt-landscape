@@ -2278,6 +2278,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/federal-reserve-bank-of-boston
           - item:
+            name: Fenasbac (member)
+            homepage_url: https://fenasbac.io/
+            logo: fenasbac.svg
+            description: Fenasbac focuses on fostering innovation and collaboration within the financial sector by organizing events and creating content that highlights projects and initiatives aimed at adapting to regulatory changes and promoting sustainable financial practices.
+            crunchbase: https://www.crunchbase.com/organization/fenasbac
+          - item:
             name: Global Blockchain Business Council (member)
             homepage_url: https://gbbcouncil.org/
             logo: global_blockchain_business_council.svg
