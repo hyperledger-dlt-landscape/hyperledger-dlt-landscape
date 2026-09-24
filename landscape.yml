@@ -1498,11 +1498,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dsr-corporation
           - item:
-            name: Dedge Security SL (member)
-            homepage_url: https://dedgesecurity.com/
-            logo: dedge_security_sl.svg
-            crunchbase: https://www.crunchbase.com/organization/dedge-security
-          - item:
             name: Dfns (member)
             homepage_url: https://dfns.co/
             logo: dfns.svg
