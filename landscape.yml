@@ -1671,12 +1671,6 @@ landscape:
             description: Hypernative is an early stage startup that provides proactive security and risk prevention solutions for blockchain, crypto, and Web3 software development. They detect attacks in progress, prevent losses in real time, and offer actionable insights to m...
             crunchbase: https://www.crunchbase.com/organization/hypernative
           - item:
-            name: Identity Digital Inc. (member)
-            homepage_url: https://identity.digital/
-            logo: identity_digital_inc.svg
-            description: Identity Digital specializes in creating authentic digital identities by managing the world's largest and most relevant portfolio of domain extensions, enabling businesses, governments, nonprofits, and individuals to effectively share their unique story.
-            crunchbase: https://www.crunchbase.com/organization/identity-digital
-          - item:
             name: Information Data Systems (member)
             homepage_url: https://idssoft.com/
             logo: information_data_systems.svg
@@ -1782,6 +1776,12 @@ landscape:
             name: Key State Capital (member)
             homepage_url: https://keystate.capital/
             logo: key_state_capital.svg
+          - item:
+            name: Known Systems AI, Inc. (member)
+            homepage_url: https://knownsystems.ai/
+            logo: known_systems_ai_inc.svg
+            description: Identity Digital specializes in creating authentic digital identities by managing the world's largest and most relevant portfolio of domain extensions, enabling businesses, governments, nonprofits, and individuals to effectively share their unique story.
+            crunchbase: https://www.crunchbase.com/organization/identity-digital
           - item:
             name: Launchnodes (member)
             homepage_url: https://launchnodes.com/
