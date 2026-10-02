@@ -1498,6 +1498,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dsr-corporation
           - item:
+            name: DCP Co.,Ltd (member)
+            homepage_url: https://dcjpy.com/
+            logo: dcp_co.svg
+            description: 株式会社DCP operates a tokenized deposit platform that digitizes the roles of various currencies and values, connecting ideas and businesses.
+            crunchbase: https://www.crunchbase.com/organization/decurret-8831
+          - item:
             name: Dfns (member)
             homepage_url: https://dfns.co/
             logo: dfns.svg
@@ -1679,15 +1685,6 @@ landscape:
             twitter: https://twitter.com/IDSSOFT
             extra:
               linkedin_url: https://www.linkedin.com/company/information-data-systems
-          - item:
-            name: Instnt Inc. (member)
-            homepage_url: https://instnt.ai/
-            logo: instnt_inc.svg
-            description: Instnt is the first fully managed customer onboarding service for businesses with up to $100M annually in fraud loss liability insurance.
-            crunchbase: https://www.crunchbase.com/organization/instnt
-            twitter: https://twitter.com/Instnt_org
-            extra:
-              linkedin_url: https://www.linkedin.com/company/instnt-inc
           - item:
             name: IntellectEU (member)
             homepage_url: https://intellecteu.com/
@@ -1958,6 +1955,15 @@ landscape:
             description: 'Sui: Revolutionizing digital asset ownership with Web3 benefits and Web2 ease, offering speed, low fees, and security for individuals and creators.'
             crunchbase: https://www.crunchbase.com/organization/sui-foundation
           - item:
+            name: SWIFT, INC. (member)
+            homepage_url: https://swift.com/
+            logo: swift_inc.svg
+            description: SWIFT is a global member-owned cooperative and the worlds leading provider of secure financial messaging services. The company provides their community with a platform for messaging, standards for communicating and they offer products and services to facilitate access and integration; identification, analysis and financial crime compliance. SWIFT's messaging platform, products and services connect more than 11,000 banking and securities organisations, market infrastructures and corporate customers in more than 200 countries and territories, enabling them to communicate securely and exchange standardised financial messages in a reliable way. As their trusted provider, they facilitate global and local financial flows, support trade and commerce all around the world; they relentlessly pursue operational excellence and continually seek ways to lower costs, reduce risks and eliminate operational inefficiencies. Headquartered in Belgium, SWIFTs international governance and oversight reinforces the neutral, global character of its cooperative structure. SWIFTs global office network ensures an active presence in all the major financial centres.
+            crunchbase: https://www.crunchbase.com/organization/swift
+            twitter: https://twitter.com/swiftcommunity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/swift
+          - item:
             name: Tata Consultancy Services Limited (member)
             homepage_url: https://tcs.com/
             logo: tata_consultancy_services_limited.svg
@@ -2025,6 +2031,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/wanchain
           - item:
+            name: Wells Fargo Bank, N.A. (member)
+            homepage_url: https://wellsfargo.com/
+            logo: wells_fargo_bank_n_a.svg
+            description: Wells Fargo & Company is a diversified, community-based financial services company with $1.9 trillion in assets. Founded in 1852 and headquartered in San Francisco, Wells Fargo provides banking, insurance, investments, mortgage, and consumer and commercial finance through more than 9,000 locations, 13,000 ATMs, the internet (wellsfargo.com) and mobile banking, and has offices in 42 countries and territories to support customers who conduct business in the global economy. Wells Fargo serves one in three households in the United States.
+            crunchbase: https://www.crunchbase.com/organization/wells-fargo-energy-capital
+            twitter: https://twitter.com/WellsFargo
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wellsfargo
+          - item:
             name: Zeeve Inc (member)
             homepage_url: https://zeeve.io/
             logo: zeeve_inc.svg
@@ -2033,15 +2048,6 @@ landscape:
             twitter: https://twitter.com/0xZeeve
             extra:
               linkedin_url: https://www.linkedin.com/company/zeevedeeptech
-          - item:
-            name: Zoniqx Inc. (member)
-            homepage_url: https://zoniqx.com/
-            logo: zoniqx_inc.svg
-            description: Zoniqx is an AI and blockchain platform that provides financial solutions and technology services for asset tokenization as a service.
-            crunchbase: https://www.crunchbase.com/organization/zoniqx
-            twitter: https://twitter.com/RealtoApps
-            extra:
-              linkedin_url: https://www.linkedin.com/company/realtoapps
       - subcategory:
         name: Associate
         items:
