@@ -2198,16 +2198,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/decentralized-identity-foundation
           - item:
-            name: DeCurret DCP Inc (member)
-            homepage_url: https://www.decurret-dcp.com/en/
-            logo: decurret_dcp_inc.svg
-            description: |-
-              ディーカレットDCP is a company that aims to digitize all currencies and values, contributing to the creation of a prosperous society.
-
-              --- Merged Data:
-
-              Decurret DCP digitizes currencies and values for societal prosperity, focusing on DX platform development and industry events like FIN/SUM2024.
-          - item:
             name: Deutsche Bundesbank (member)
             homepage_url: https://bundesbank.de/
             logo: deutsche_bundesbank.svg
