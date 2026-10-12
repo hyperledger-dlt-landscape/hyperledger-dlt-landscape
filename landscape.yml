@@ -1461,9 +1461,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/china-systems
           - item:
-            name: Consensys AG (member)
+            name: Consensys Incorporated (member)
             homepage_url: https://consensys.io/
-            logo: consensys_ag.svg
+            logo: consensys_incorporated.svg
             description: |-
               ConsenSys is a blockchain app production studio. We build decentralized applications for the emerging Ethereum ecosystem. We are working on projects in several niches of that space, some of which are decentralized applications (dApps) and some are utilities for the ecosystem.
               Specialties: Cryptocurrency, Blockchain, Web 3.0
