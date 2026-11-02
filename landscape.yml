@@ -1408,6 +1408,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/american-express
           - item:
+            name: Applied Blockchain (member)
+            homepage_url: https://appliedblockchain.com/
+            logo: applied_blockchain.svg
+            description: We Develop Applications with Enhanced Trust and Privacy
+            crunchbase: https://www.crunchbase.com/organization/applied-blockchain
+            twitter: https://twitter.com/AppBlockchain
+            extra:
+              linkedin_url: https://www.linkedin.com/company/applied-blockchain
+          - item:
             name: BONbLOC Inc (member)
             homepage_url: https://bonbloc.com/
             logo: bonbloc_inc.svg
@@ -1520,12 +1529,6 @@ landscape:
             twitter: https://twitter.com/Damldriven
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalassetcom
-          - item:
-            name: Edge & Node (member)
-            homepage_url: https://edgeandnode.com/
-            logo: edge_node.svg
-            description: Edge & Node provides expert support and infrastructure solutions for enterprise-scale blockchain businesses, focusing on the development and deployment of protocols and decentralized applications within the DeFi and web3 ecosystem.
-            crunchbase: https://www.crunchbase.com/organization/edge-node
           - item:
             name: Energy Web Foundation (member)
             homepage_url: https://energyweb.org/
