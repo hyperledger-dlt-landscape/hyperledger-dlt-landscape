@@ -978,8 +978,6 @@ landscape:
         items:
           - item:
             name: Hiero
-            second_path:
-              - Distributed Ledgers
             description: >-
               Hiero is the open source DLT codebase used to build the Hedera network; including the hashgraph consensus algorithm and all core services, tooling
               and libraries. Hiero supports the development of a wide range of decentralized applications and core platform features tailored for the Hedera
